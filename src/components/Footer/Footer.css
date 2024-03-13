@@ -1,0 +1,28 @@
+.footer {
+  background-color: orange;
+}
+.footer-row {
+  width: 95%;
+  margin-left: 2.5%;
+  display: flex;
+}
+.name {
+  font-weight: bold;
+  border-bottom: 2px solid red;
+  display: inline-block;
+}
+.named {
+  margin-bottom: 1em;
+}
+.footer-column {
+  width: 24%;
+  text-align: center;
+}
+.footer-column a {
+  text-decoration: none;
+  color: white;
+}
+.footer-column a:hover {
+  color: blue;
+  font-weight: bold;
+}
