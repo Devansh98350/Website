@@ -34,7 +34,7 @@ const Footer = () => {
           <p>
             <Link to="/horoscope-2024">Horoscope 2024</Link>
           </p>
-          <p>
+          {/*<p>
             <Link to="/todays-horoscope">Today's Horoscope</Link>
           </p>
           <p>
@@ -54,6 +54,27 @@ const Footer = () => {
           </p>
           <p>
             <Link to="/yearly-horoscope">Yearly Horoscope</Link>
+          </p>*/}
+          <p>
+            <Link to="">Today's Horoscope</Link>
+          </p>
+          <p>
+            <Link to="">Today's Love Horoscope</Link>
+          </p>
+          <p>
+            <Link to="">Yesterday's Horoscope</Link>
+          </p>
+          <p>
+            <Link to="">Tomorrow's Horoscope</Link>
+          </p>
+          <p>
+            <Link to="">Weekly Horoscope</Link>
+          </p>
+          <p>
+            <Link to="">Monthly Horoscope</Link>
+          </p>
+          <p>
+            <Link to="">Yearly Horoscope</Link>
           </p>
           <div className="name">
             <Link to="/shubh-muhurat-2024">Shubh Muhurat 2024</Link>
@@ -101,7 +122,7 @@ const Footer = () => {
         </div>
         <div className="footer-column">
           <div className="name">Important Links</div>
-          <p>
+          {/*<p>
             <Link to="/astromall">Astromall</Link>
           </p>
           <p>
@@ -109,14 +130,23 @@ const Footer = () => {
           </p>
           <p>
             <Link to="/live-astrologers">Live Astrologers</Link>
+        </p>*/}
+          <p>
+            <Link to="">Astromall</Link>
           </p>
           <p>
-            <Link to="/how-to-read-kundali">How to read Kundali</Link>
+            <Link to="">Today Panchang</Link>
           </p>
           <p>
-            <Link to="/free-kundli">Free Kundli</Link>
+            <Link to="">Live Astrologers</Link>
           </p>
           <p>
+            <Link to="/freekundli/how-to-read-kundli">How to read Kundali</Link>
+          </p>
+          <p>
+            <Link to="/freekundli">Free Kundli</Link>
+          </p>
+          {/*<p>
             <Link to="/kundli-matching">Kundli Matching</Link>
           </p>
           <p>
@@ -126,19 +156,33 @@ const Footer = () => {
             <Link to="/talk-to-astrologer">Talk to Astrologer</Link>
           </p>
           <p>
-            <Link to="/astrotalk-reviews">Astrotalk Reviews</Link>
+            <Link to="/astroswarg-reviews">AstroSwarg Reviews</Link>
+         </p>*/}
+          <p>
+            <Link to="">Kundli Matching</Link>
+          </p>
+          <p>
+            <Link to="">Chat with Astrologer</Link>
+          </p>
+          <p>
+            <Link to="">Talk to Astrologer</Link>
+          </p>
+          <p>
+            <Link to="">AstroSwarg Reviews</Link>
           </p>
           <p>
             <Link to="/astrology-yoga">Astrology Yoga</Link>
           </p>
           <p>
-            <Link to="/kaalsarp-doshas">Kaalsarp Doshas</Link>
+            <Link to="/kaal-sarp-dosh-12-types">Kaalsarp Doshas</Link>
           </p>
           <p>
-            <Link to="/child-astrology">Child Astrology</Link>
+            <Link to="/astrological-remedies-to-conceive-a-child">
+              Child Astrology
+            </Link>
           </p>
           <p>
-            <Link to="/ascendant-sign-gemstone">Ascendant Sign Gemstone</Link>
+            <Link to="/gemstones-for-ascendants">Ascendant Sign Gemstone</Link>
           </p>
           <p>
             <Link to="/nakshatras-constellations">
@@ -152,7 +196,7 @@ const Footer = () => {
             <Link to="/mantras">Mantras</Link>
           </p>
           <p>
-            <Link to="/astrological-remedies-for-job-promotion">
+            <Link to="/astrology-remedies/astrological-remedies-for-job-promotion">
               Astrological remedies for job promotion
             </Link>
           </p>
@@ -162,8 +206,11 @@ const Footer = () => {
           <p>
             <Link to="/planetary-transit-2024">Planetary Transit 2024</Link>
           </p>
-          <p>
+          {/*<p>
             <Link to="/collaboration">Collaboration</Link>
+          </p>*/}
+          <p>
+            <Link to="">Collaboration</Link>
           </p>
           <p>
             <Link to="/tarot">Tarot</Link>
@@ -181,22 +228,30 @@ const Footer = () => {
             <Link to="/lunar-eclipse-2024">Lunar Eclipse 2024</Link>
           </p>
           <p>
-            <Link to="/festival-calendar-2024">Festival Calendar 2024</Link>
+            <Link to="/indian-calendar-festivals-2024">
+              Festival Calendar 2024
+            </Link>
           </p>
           <p>
-            <Link to="/vrat-calendar-2024">Vrat Calendar 2024</Link>
+            <Link to="/fasts-calendar-2024">Vrat Calendar 2024</Link>
           </p>
           <p>
             <Link to="/mole-astrology">Mole Astrology</Link>
           </p>
-          <p>
+          {/*<p>
             <Link to="/love-calculator">Love Calculator</Link>
           </p>
           <p>
-            <Link to="/astrotalk-sitemap">Astrotalk Sitemap</Link>
+            <Link to="/AstroSwarg-sitemap">AstroSwarg Sitemap</Link>
+         </p>*/}
+          <p>
+            <Link to="">Love Calculator</Link>
+          </p>
+          <p>
+            <Link to="">AstroSwarg Sitemap</Link>
           </p>
           <div className="name">Registration</div>
-          <p>
+          {/*<p>
             <Link to="/astrologer-login">Astrologer Login</Link>
           </p>
           <p>
@@ -207,6 +262,18 @@ const Footer = () => {
           </p>
           <p>
             <Link to="/astrologer-registration">Pandit Ji Registration</Link>
+         </p>*/}
+          <p>
+            <Link to="">Astrologer Login</Link>
+          </p>
+          <p>
+            <Link to="">Astrologer Registration</Link>
+          </p>
+          <p>
+            <Link to="">Pandit Ji Login</Link>
+          </p>
+          <p>
+            <Link to="">Pandit Ji Registration</Link>
           </p>
         </div>
         <div className="footer-column">
@@ -220,16 +287,22 @@ const Footer = () => {
           <p>
             <Link to="/disclaimer">Disclaimer</Link>
           </p>
-          <p>
+          {/*<p>
             <Link to="/about-us">About Us</Link>
+        </p>*/}
+          <p>
+            <Link to="">About Us</Link>
           </p>
           <p>
             <Link to="/pricing">Pricing Policy</Link>
           </p>
-          <p>
+          {/*<p>
             <Link to="/refund-and-cancellation-policy">
               Refund & Cancellation Policy
             </Link>
+         </p>*/}
+          <p>
+            <Link to="">Refund & Cancellation Policy</Link>
           </p>
         </div>
       </div>

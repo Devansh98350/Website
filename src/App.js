@@ -2,6 +2,9 @@
 import React from "react";
 import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import HomePage from "./components/Homepage/Homepage.js";
+/*Horoscope 2024*/
+import Horoscope2024 from "./components/Footer/Variable/Horoscope/Horoscope2024/Horoscope2024.js";
+/*Shubh Muhurat*/
 import Shubh_Muhrat from "./components/Footer/Variable/Shubh_Muhurat/Shubh_Muhrat.js";
 import Annanprashan from "./components/Footer/Variable/Shubh_Muhurat/Annanprashan.js";
 import Naamkaran from "./components/Footer/Variable/Shubh_Muhurat/Naamkaran.js";
@@ -11,6 +14,9 @@ import Gold_Buying from "./components/Footer/Variable/Shubh_Muhurat/Gold_Buying.
 import Bhoomi_Pujan from "./components/Footer/Variable/Shubh_Muhurat/Bhoomi_Pujan.js";
 import Griha_Pravesh from "./components/Footer/Variable/Shubh_Muhurat/Griha_Pravesh.js";
 import Mundan from "./components/Footer/Variable/Shubh_Muhurat/Mundan.js";
+/*Free Kundli*/
+import FreeKundli from "./components/Footer/Fixed/Others/FreeKundli/FreeKundli.js";
+import KundliReading from "./components/Footer/Fixed/Others/FreeKundli/KundliReading/KundliReading.js";
 /*Nakshatras Constellations*/
 import Nakshatras from "./components/Footer/Fixed/Nakshatras/Nakshatras.js";
 import Ashwini from "./components/Footer/Fixed/Nakshatras/Description/Ashwini.js";
@@ -65,6 +71,49 @@ import Mnn from "./components/Footer/Fixed/Numerology/Other/Mnn.js";
 import Fnn from "./components/Footer/Fixed/Numerology/Other/Fnn.js";
 import Cnn from "./components/Footer/Fixed/Numerology/Other/Cnn.js";
 import Fonn from "./components/Footer/Fixed/Numerology/Other/Fonn.js";
+/*Mantras*/
+import Mantras from "./components/Footer/Fixed/Mantras/Mantras.js";
+import Surya from "./components/Footer/Fixed/Mantras/NavagrahaMantras/Surya.js";
+import Chandra from "./components/Footer/Fixed/Mantras/NavagrahaMantras/Chandra.js";
+import Mangal from "./components/Footer/Fixed/Mantras/NavagrahaMantras/Mangal.js";
+import Budh from "./components/Footer/Fixed/Mantras/NavagrahaMantras/Budh.js";
+import Brihaspati from "./components/Footer/Fixed/Mantras/NavagrahaMantras/Brihaspati.js";
+import Shukra from "./components/Footer/Fixed/Mantras/NavagrahaMantras/Shukra.js";
+import Shani from "./components/Footer/Fixed/Mantras/NavagrahaMantras/Shani.js";
+import Rahu1 from "./components/Footer/Fixed/Mantras/NavagrahaMantras/Rahu1.js";
+import Ketu1 from "./components/Footer/Fixed/Mantras/NavagrahaMantras/Ketu1.js";
+import Success from "./components/Footer/Fixed/Mantras/OtherMantras/Success.js";
+import Chandraghanta from "./components/Footer/Fixed/Mantras/OtherMantras/Chandraghanta.js";
+import Shabar from "./components/Footer/Fixed/Mantras/OtherMantras/Shabar.js";
+import Sai from "./components/Footer/Fixed/Mantras/OtherMantras/Sai.js";
+import Kali from "./components/Footer/Fixed/Mantras/OtherMantras/Kali.js";
+import Batuk from "./components/Footer/Fixed/Mantras/OtherMantras/Batuk.js";
+import Kaal from "./components/Footer/Fixed/Mantras/OtherMantras/Kaal.js";
+import Shakti from "./components/Footer/Fixed/Mantras/OtherMantras/Shakti.js";
+import Parvati from "./components/Footer/Fixed/Mantras/OtherMantras/Parvati.js";
+import Beej from "./components/Footer/Fixed/Mantras/OtherMantras/Beej.js";
+import Om from "./components/Footer/Fixed/Mantras/OtherMantras/Om.js";
+import Durga from "./components/Footer/Fixed/Mantras/OtherMantras/Durga.js";
+import Katyayani from "./components/Footer/Fixed/Mantras/OtherMantras/Katyayani.js";
+import Tulsi from "./components/Footer/Fixed/Mantras/OtherMantras/Tulsi.js";
+import Maham from "./components/Footer/Fixed/Mantras/OtherMantras/Maham.js";
+import Shiva from "./components/Footer/Fixed/Mantras/OtherMantras/Shiva.js";
+import Kuber from "./components/Footer/Fixed/Mantras/OtherMantras/Kuber.js";
+import Rudra from "./components/Footer/Fixed/Mantras/OtherMantras/Rudra.js";
+import Ram from "./components/Footer/Fixed/Mantras/OtherMantras/Ram.js";
+import Santan from "./components/Footer/Fixed/Mantras/OtherMantras/Santan.js";
+import Gayatri from "./components/Footer/Fixed/Mantras/OtherMantras/Gayatri.js";
+import Hanuman from "./components/Footer/Fixed/Mantras/OtherMantras/Hanuman.js";
+import Lakshmi from "./components/Footer/Fixed/Mantras/OtherMantras/Lakshmi.js";
+import Baglamukhi from "./components/Footer/Fixed/Mantras/OtherMantras/Baglamukhi.js";
+import Navagraha from "./components/Footer/Fixed/Mantras/OtherMantras/Navagraha.js";
+import Saraswati from "./components/Footer/Fixed/Mantras/OtherMantras/Saraswati.js";
+import Vastu1 from "./components/Footer/Fixed/Mantras/OtherMantras/Vastu1.js";
+import Pregnancy from "./components/Footer/Fixed/Mantras/OtherMantras/Pregnancy.js";
+import Grihasan from "./components/Footer/Fixed/Mantras/OtherMantras/Grihasan.js";
+import Ganesh from "./components/Footer/Fixed/Mantras/OtherMantras/Ganesh.js";
+import Rashi from "./components/Footer/Fixed/Mantras/OtherMantras/Rashi.js";
+import Krishna from "./components/Footer/Fixed/Mantras/OtherMantras/Krishna.js";
 /*Planetary Transit 2024*/
 import Planet from "./components/Footer/Variable/Planet/Planet.js";
 import Sun from "./components/Footer/Variable/Planet/Sun.js";
@@ -76,6 +125,12 @@ import Saturn from "./components/Footer/Variable/Planet/Saturn.js";
 import Rahu from "./components/Footer/Variable/Planet/Rahu.js";
 import Ketu from "./components/Footer/Variable/Planet/Ketu.js";
 import Moon from "./components/Footer/Variable/Planet/Moon.js";
+/*Footer-Others*/
+import Yoga from "./components/Footer/Fixed/Others/Yoga/Yoga.js";
+import Kaalsharp from "./components/Footer/Fixed/Others/Kaalsharp/Kaalsharp.js";
+import ChildAstro from "./components/Footer/Fixed/Others/ChildAstro/ChildAstro.js";
+import Gfascendant from "./components/Footer/Fixed/Others/Gfascendant/Gfascendant.js";
+import Remedies from "./components/Footer/Fixed/Others/Remedies/Remedies.js";
 /*Tarot*/
 import Tarot from "./components/Footer/Fixed/Tarot/Tarot.js";
 import Fool from "./components/Footer/Fixed/Tarot/Major/Fool.js";
@@ -155,6 +210,8 @@ import Page3 from "./components/Footer/Fixed/Tarot/Minor/Pentacles/Page3.js";
 import Knight3 from "./components/Footer/Fixed/Tarot/Minor/Pentacles/Knight3.js";
 import Queen3 from "./components/Footer/Fixed/Tarot/Minor/Pentacles/Queen3.js";
 import King3 from "./components/Footer/Fixed/Tarot/Minor/Pentacles/King3.js";
+/*Zodiac Signs*/
+import Zodiac from "./components/Footer/Variable/Zodiac_Signs/Zodiac.js";
 /*Vastu Shastra*/
 import Vastu from "./components/Footer/Fixed/Vastu_Shastra/Vastu.js";
 import Home1 from "./components/Footer/Fixed/Vastu_Shastra/Home1.js";
@@ -170,6 +227,13 @@ import Dlife from "./components/Footer/Fixed/Vastu_Shastra/Dlife.js";
 import Pmirror from "./components/Footer/Fixed/Vastu_Shastra/Pmirror.js";
 import Sdirection from "./components/Footer/Fixed/Vastu_Shastra/Sdirection.js";
 import Products from "./components/Footer/Fixed/Vastu_Shastra/Products.js";
+/*Calendar2024*/
+import SolarEclipse from "./components/Footer/Variable/Calendar2024/SolarEclipse.js";
+import LunarEclipse from "./components/Footer/Variable/Calendar2024/LunarEclipse.js";
+import FestivalCalendar from "./components/Footer/Variable/Calendar2024/Festival2024/FestivalCalendar.js";
+import VratCalendar from "./components/Footer/Variable/Calendar2024/VratCalendar.js";
+/*Mole Astrology*/
+import MoleAstro from "./components/Footer/Fixed/Others/MoleAstrology/MoleAstro.js";
 /*Corporate Info*/
 import Rcp from "./components/Footer/Corporate_Info/Rcp.js";
 import Tnc from "./components/Footer/Corporate_Info/tnc.js";
@@ -183,6 +247,9 @@ function App() {
       <Routes>
         {/*<Route path=" " element={<HomePage />} />*/}
         <Route path="/" element={<HomePage />} />
+        {/*Horoscope 2024*/}
+        <Route path="/horoscope-2024" element={<Horoscope2024 />} />
+        {/*Shubh Muhurat*/}
         <Route path="/shubh-muhurat-2024" element={<Shubh_Muhrat />} />
         <Route
           path="/shubh-muhurat-2024/annanprashan-muhurat-2024"
@@ -215,6 +282,12 @@ function App() {
         <Route
           path="/shubh-muhurat-2024/mundan-muhurat-2024"
           element={<Mundan />}
+        />
+        {/*Free Kundli*/}
+        <Route path="/freekundli" element={<FreeKundli />} />
+        <Route
+          path="/freekundli/how-to-read-kundli"
+          element={<KundliReading />}
         />
         {/*Nakshatras Constellations*/}
         <Route path="/nakshatras-constellations" element={<Nakshatras />} />
@@ -387,6 +460,52 @@ function App() {
           path="/numerology-introduction/food-and-numerology"
           element={<Fonn />}
         />
+        {/*Mantras*/}
+        <Route path="/mantras" element={<Mantras />} />
+        <Route path="/mantras/surya-mantra" element={<Surya />} />
+        <Route path="/mantras/chandra-mantra" element={<Chandra />} />
+        <Route path="/mantras/mangal-mantra" element={<Mangal />} />
+        <Route path="/mantras/budh-mantra" element={<Budh />} />
+        <Route path="/mantras/brihaspati-mantra" element={<Brihaspati />} />
+        <Route path="/mantras/shukra-mantra" element={<Shukra />} />
+        <Route path="/mantras/shani-mantra" element={<Shani />} />
+        <Route path="/mantras/rahu-mantra" element={<Rahu1 />} />
+        <Route path="/mantras/ketu-mantra" element={<Ketu1 />} />
+        <Route path="/mantras/success-mantra" element={<Success />} />
+        <Route
+          path="/mantras/devi-chandraghanta-mantra"
+          element={<Chandraghanta />}
+        />
+        <Route path="/mantras/shabar-mantra" element={<Shabar />} />
+        <Route path="/mantras/sai-mantra" element={<Sai />} />
+        <Route path="/mantras/kali-mantra" element={<Kali />} />
+        <Route path="/mantras/batuk-bhairav-mantra" element={<Batuk />} />
+        <Route path="/mantras/kaal-bhairav-mantra" element={<Kaal />} />
+        <Route path="/mantras/shakti-mantra" element={<Shakti />} />
+        <Route path="/mantras/parvati-mantra" element={<Parvati />} />
+        <Route path="/mantras/beej-mantra" element={<Beej />} />
+        <Route path="/mantras/om-mantra" element={<Om />} />
+        <Route path="/mantras/durga-mantra" element={<Durga />} />
+        <Route path="/mantras/katyayani-mantra" element={<Katyayani />} />
+        <Route path="/mantras/tulsi-mantra" element={<Tulsi />} />
+        <Route path="/mantras/maha-mrityunjay-mantra" element={<Maham />} />
+        <Route path="/mantras/shiva-mantra" element={<Shiva />} />
+        <Route path="/mantras/kuber-mantra" element={<Kuber />} />
+        <Route path="/mantras/rudra-mantra" element={<Rudra />} />
+        <Route path="/mantras/ram-mantra" element={<Ram />} />
+        <Route path="/mantras/santan-gopal-mantra" element={<Santan />} />
+        <Route path="/mantras/gayatri-mantra" element={<Gayatri />} />
+        <Route path="/mantras/hanuman-mantra" element={<Hanuman />} />
+        <Route path="/mantras/lakshmi-mantra" element={<Lakshmi />} />
+        <Route path="/mantras/baglamukhi-mantra" element={<Baglamukhi />} />
+        <Route path="/mantras/navagraha-mantra" element={<Navagraha />} />
+        <Route path="/mantras/saraswati-mantra" element={<Saraswati />} />
+        <Route path="/mantras/vastu-mantra" element={<Vastu1 />} />
+        <Route path="/mantras/pregnancy-mantra" element={<Pregnancy />} />
+        <Route path="/mantras/griha-shanti-mantra" element={<Grihasan />} />
+        <Route path="/mantras/ganesh-mantra" element={<Ganesh />} />
+        <Route path="/mantras/rashi-mantra" element={<Rashi />} />
+        <Route path="/mantras/krishna-mantra" element={<Krishna />} />
         {/*Planetary Transit 2024*/}
         <Route path="/planetary-transit-2024" element={<Planet />} />
         <Route path="/sun-transit-2024" element={<Sun />} />
@@ -398,6 +517,20 @@ function App() {
         <Route path="/rahu-transit-2024" element={<Rahu />} />
         <Route path="/ketu-transit-2024" element={<Ketu />} />
         <Route path="/moon-transit-2024" element={<Moon />} />
+        {/*Zodiac Signs*/}
+        <Route path="/zodiac-signs" element={<Zodiac />} />
+        {/*Footer-Others*/}
+        <Route path="/astrology-yoga" element={<Yoga />} />
+        <Route path="/kaal-sarp-dosh-12-types" element={<Kaalsharp />} />
+        <Route
+          path="/astrological-remedies-to-conceive-a-child"
+          element={<ChildAstro />}
+        />
+        <Route path="/gemstones-for-ascendants" element={<Gfascendant />} />
+        <Route
+          path="/astrology-remedies/astrological-remedies-for-job-promotion"
+          element={<Remedies />}
+        />
         {/*Tarot*/}
         <Route path="/tarot" element={<Tarot />} />
         <Route path="/tarot/the-fool" element={<Fool />} />
@@ -514,6 +647,16 @@ function App() {
           element={<Sdirection />}
         />
         <Route path="/vastu-shastra/vastu-products" element={<Products />} />
+        {/*Calendar2024*/}
+        <Route path="/solar-eclipse-2024" element={<SolarEclipse />} />
+        <Route path="/lunar-eclipse-2024" element={<LunarEclipse />} />
+        <Route
+          path="/indian-calendar-festivals-2024"
+          element={<FestivalCalendar />}
+        />
+        <Route path="/fasts-calendar-2024" element={<VratCalendar />} />
+        {/*Mole Astrology*/}
+        <Route path="/mole-astrology" element={<MoleAstro />} />
         {/*Corporate Info*/}
         <Route path="/refund-and-cancellation-policy" element={<Rcp />} />
         <Route path="/terms-and-conditions" element={<Tnc />} />
