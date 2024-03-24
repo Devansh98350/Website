@@ -1,6 +1,14 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+  faLinkedin,
+  faFacebook,
+  faInstagram,
+  faYoutube,
+} from "@fortawesome/free-brands-svg-icons";
 import "./Footer.css";
+
 const Footer = () => {
   return (
     <div className="footer">
@@ -304,15 +312,44 @@ const Footer = () => {
           <p>
             <Link to="">Refund & Cancellation Policy</Link>
           </p>
+          <div className="name">Contact Us</div>
+          <p>
+            <a href="tel:9205704041">+91-9205704041</a>
+          </p>
+          <p>
+            <a
+              href="https://www.instagram.com/astro_swarg/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FontAwesomeIcon icon={faInstagram} className="linkedin-icon" />
+            </a>{" "}
+            <a
+              href="https://www.linkedin.com/company/astro-swarg/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FontAwesomeIcon icon={faLinkedin} className="linkedin-icon" />
+            </a>{" "}
+            <a
+              href="https://www.facebook.com/astroswarg"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FontAwesomeIcon icon={faFacebook} className="linkedin-icon" />
+            </a>{" "}
+            <a
+              href="https://www.youtube.com/@AstroSwarg"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FontAwesomeIcon icon={faYoutube} className="linkedin-icon" />
+            </a>
+          </p>
         </div>
       </div>
-      <div
-        className="footer-row"
-        style={{
-          textAlign: "center",
-        }}
-      >
-        All Rights Reserved @AstroSwarg 2024
+      <div className="footer-row" style={{ textAlign: "center" }}>
+        <div>All Rights Reserved @AstroSwarg 2024</div>
       </div>
     </div>
   );

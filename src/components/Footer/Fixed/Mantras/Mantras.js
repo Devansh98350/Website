@@ -451,7 +451,7 @@ const Mantras = () => {
             <br />
             Read in detail about Surya Mantra{" "}
             <div className="inline-red-text">
-              <Link to="/mantras/surya-mantra"> Visit Here</Link>
+              <Link to=""> Visit Here</Link>
             </div>
             <h4>Chandra Mantra</h4>
             "ॐ ऐं क्लिंग सोमाय नमः" Chant the Chandra beeja mantra 11,000 times
@@ -461,7 +461,7 @@ const Mantras = () => {
             Read in detail about Chandra Mantra{" "}
             <div className="inline-red-text">
               {" "}
-              <Link to="/mantras/chandra-mantra"> Visit Here</Link>
+              <Link to=""> Visit Here</Link>
             </div>
             <h4>Mangal Mantra</h4>
             "ॐ हंग श्रीं भौमाय नमः" Chanting mangal mantra for 10,000 times
@@ -471,7 +471,7 @@ const Mantras = () => {
             Read in detail about Mangal Mantra{" "}
             <div className="inline-red-text">
               {" "}
-              <Link to="/mantras/mangal-mantra"> Visit Here</Link>
+              <Link to=""> Visit Here</Link>
             </div>
             <h4>Budh Mantra</h4>
             "ॐ ऐं श्रृंघ् श्रृंग बुधाय नमः" To get the best results from the
@@ -482,7 +482,7 @@ const Mantras = () => {
             Read in detail about Budh Mantra{" "}
             <div className="inline-red-text">
               {" "}
-              <Link to="/mantras/budh-mantra"> Visit Here</Link>
+              <Link to=""> Visit Here</Link>
             </div>
             <h4>Brihaspati Mantra</h4>
             "ॐ ह्रीं क्लिङ्ग हंग बृहस्पत्ये नमः" Chant the Guru Beej mantra
@@ -492,7 +492,7 @@ const Mantras = () => {
             Read in detail about Guru Mantra{" "}
             <div className="inline-red-text">
               {" "}
-              <Link to="/mantras/brihaspati-mantra"> Visit Here</Link>
+              <Link to=""> Visit Here</Link>
             </div>
             <h4>Shukra Mantra</h4>
             "ॐ ह्रीं श्रृंग शुक्राय नमः" The mantra must be chanted 16,000 times
@@ -502,7 +502,7 @@ const Mantras = () => {
             Read in detail about Shukra Mantra{" "}
             <div className="inline-red-text">
               {" "}
-              <Link to="/mantras/surya-mantra"> Visit Here</Link>
+              <Link to=""> Visit Here</Link>
             </div>
             <h4>Shani Mantra</h4>
             "ॐ ऐं ह्रीं श्रिन्द शनैश्चराय नमः" The Shani Beej mantra must be
@@ -512,7 +512,7 @@ const Mantras = () => {
             Read in detail about Shani Mantra{" "}
             <div className="inline-red-text">
               {" "}
-              <Link to="/mantras/surya-mantra"> Visit Here</Link>
+              <Link to=""> Visit Here</Link>
             </div>
             <h4>Rahu Mantra</h4>
             "ॐ ऐं ह्रीं रहवे नमः" Chant this mantra 18,000 times within a time
@@ -522,7 +522,7 @@ const Mantras = () => {
             Read in detail about Rahu Mantra{" "}
             <div className="inline-red-text">
               {" "}
-              <Link to="/mantras/surya-mantra"> Visit Here</Link>
+              <Link to=""> Visit Here</Link>
             </div>
             <h4>Ketu Mantra</h4>
             "ॐ ह्रीं ऐङ केतवे नमः" Chant the Keu beeja mantra for 17,000 times
@@ -532,7 +532,7 @@ const Mantras = () => {
             Read in detail about Ketu Mantra{" "}
             <div className="inline-red-text">
               {" "}
-              <Link to="/mantras/surya-mantra"> Visit Here</Link>
+              <Link to=""> Visit Here</Link>
             </div>
             <h4>Explore Navagraha Mantras</h4>
             <ol>

@@ -13,9 +13,10 @@
 }
 .named {
   margin-bottom: 1em;
+  text-align: justify;
 }
 .footer-column {
-  width: 24%;
+  width: 44%;
   text-align: center;
 }
 .footer-column a {
@@ -25,4 +26,22 @@
 .footer-column a:hover {
   color: blue;
   font-weight: bold;
+}
+
+.linkedin-icon {
+  width: 35px;
+  height: 35px;
+  margin-right: 5px;
+}
+
+.linkedin-icon:hover {
+  color: blue;
+  width: 38px;
+  height: 38px;
+}
+
+@media screen and (max-width: 768px) {
+  .footer-column {
+    width: 50%; /* Each column takes 50% width on screens larger than 768px */
+  }
 }
