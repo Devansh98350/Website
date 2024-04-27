@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+import { Link } from "react-router-dom";
 import Layout from "../../../../Layout/Layout.js";
 import styled from "styled-components";
 import Horoscope2024FYQ from "./Horoscope2024Fyq.js";
@@ -13,7 +14,7 @@ const StyledDiv = styled.div`
   .heading {
     text-align: center;
     font-size: 30px;
-    margin-bottom: -10px;
+    margin-bottom: 10px;
   }
   .heading1 {
     text-align: center;
@@ -40,6 +41,14 @@ const StyledDiv = styled.div`
     display: inline;
   }
   .inline-text:hover {
+    font-weight: bold;
+  }
+  .inline-text a {
+    color: red;
+    display: inline;
+    text-decoration: none;
+  }
+  .inline-text a:hover {
     font-weight: bold;
   }
 `;
@@ -150,8 +159,12 @@ const Horoscope2024 = () => {
             indulge in hobbies, and nurture your well-being. Adventure is
             calling, dear Aries. Embrace the unknown, face challenges head-on,
             and let your 2024 Horoscope be your trusty sidekick in this
-            exhilarating journey! Click here to read in detail about{" "}
-            <div className="inline-text">Aries Horoscope 2024</div>
+            exhilarating journey! <br /> Click here to read in detail about{" "}
+            <div className="inline-text">
+              <Link to="/horoscope-2024/aries-horoscope-2024">
+                Aries Horoscope 2024
+              </Link>
+            </div>
           </p>
           <h3>Taurus Horoscope 2024</h3>
           <p>
@@ -170,8 +183,13 @@ const Horoscope2024 = () => {
             life. Your Taurus Horoscope 2024 is your compass, guiding you
             through the realms of stability and growth. Embrace the winds of
             change, and let this year be a testament to your enduring strength
-            and newfound possibilities! Click here to read in detail about{" "}
-            <div className="inline-text">Taurus Horoscope 2024</div>
+            and newfound possibilities!
+            <br /> Click here to read in detail about{" "}
+            <div className="inline-text">
+              <Link to="/horoscope-2024/taurus-horoscope-2024">
+                Taurus Horoscope 2024
+              </Link>
+            </div>
           </p>
           <h3>Gemini Horoscope 2024</h3>
           <p>
@@ -190,9 +208,13 @@ const Horoscope2024 = () => {
             those already coupled could experience renewed sparks. Financially,
             keep an eye on the prize. Opportunities for advancement are in the
             cards, but make sure to weigh risks carefully. Trust your instincts,
-            and don't hesitate to seek advice when needed. Click here to read in
-            detail about{" "}
-            <div className="inline-text">Gemini Horoscope 2024</div>
+            and don't hesitate to seek advice when needed.
+            <br /> Click here to read in detail about{" "}
+            <div className="inline-text">
+              <Link to="/horoscope-2024/gemini-horoscope-2024">
+                Gemini Horoscope 2024
+              </Link>
+            </div>
           </p>
           <h3>Cancer Horoscope 2024</h3>
           <p>
@@ -213,8 +235,13 @@ const Horoscope2024 = () => {
             and remember that nurturing yourself is just as important.
             Financially, be mindful of your spending habits, but also don't shy
             away from seeking ways to expand your income. A mix of practicality
-            and innovation will serve you well. Click here to read in detail
-            about <div className="inline-text">Cancer Horoscope 2024</div>
+            and innovation will serve you well.
+            <br /> Click here to read in detail about{" "}
+            <div className="inline-text">
+              <Link to="/horoscope-2024/cancer-horoscope-2024">
+                Cancer Horoscope 2024
+              </Link>
+            </div>
           </p>
           <h3>Leo Horoscope 2024</h3>
           <p>
@@ -232,8 +259,13 @@ const Horoscope2024 = () => {
             unexpected places – keep those eyes wide open! While you're basking
             in the limelight, don't forget to take care of your well-being. The
             stars advise finding moments of solitude to recharge your energies
-            and maintain that signature Leo vitality. Click here to read in
-            detail about <div className="inline-text">Leo Horoscope 2024</div>
+            and maintain that signature Leo vitality.
+            <br /> Click here to read in detail about{" "}
+            <div className="inline-text">
+              <Link to="/horoscope-2024/leo-horoscope-2024">
+                Leo Horoscope 2024
+              </Link>
+            </div>
           </p>
           <h3>Virgo Horoscope 2024</h3>
           <p>
@@ -252,9 +284,13 @@ const Horoscope2024 = () => {
             mind, body, and soul in perfect harmony. Your keen eye for detail
             will also extend to your personal growth. Explore new hobbies, learn
             new skills, and expand your horizons. Embrace the changes that come
-            your way – they're all part of your evolving story. Click here to
-            read in detail about{" "}
-            <div className="inline-text">Virgo Horoscope 2024</div>
+            your way – they're all part of your evolving story.
+            <br /> Click here to read in detail about{" "}
+            <div className="inline-text">
+              <Link to="/horoscope-2024/virgo-horoscope-2024">
+                Virgo Horoscope 2024
+              </Link>
+            </div>
           </p>
           <h3>Libra Horoscope 2024</h3>
           <p>
@@ -275,8 +311,13 @@ const Horoscope2024 = () => {
             your inner scales balanced. 2024 is all about embracing your
             fabulousness, inside and out. So go on, gorgeous Libra, paint the
             year with your signature style and let the world be enchanted by
-            your magnetic energy! Click here to read in detail about{" "}
-            <div className="inline-text">Libra Horoscope 2024</div>
+            your magnetic energy!
+            <br /> Click here to read in detail about{" "}
+            <div className="inline-text">
+              <Link to="/horoscope-2024/libra-horoscope-2024">
+                Libra Horoscope 2024
+              </Link>
+            </div>
           </p>
           <h3>Scorpio Horoscope 2024</h3>
           <p>
@@ -297,9 +338,13 @@ const Horoscope2024 = () => {
             talents you've been neglecting. However, with great power comes
             great responsibility, and that includes taking care of yourself.
             Make self-care a priority. Carve out moments for relaxation and
-            reflection to keep your energy levels balanced. Click here to read
-            in detail about{" "}
-            <div className="inline-text">Scorpio Horoscope 2024</div>
+            reflection to keep your energy levels balanced.
+            <br /> Click here to read in detail about{" "}
+            <div className="inline-text">
+              <Link to="/horoscope-2024/scorpio-horoscope-2024">
+                Scorpio Horoscope 2024
+              </Link>
+            </div>
           </p>
           <h3>Sagittarius Horoscope 2024</h3>
           <p>
@@ -321,9 +366,13 @@ const Horoscope2024 = () => {
             the excitement. Mindfulness and balance will be your allies in
             navigating the whirlwind. So, Sagittarius, gear up for a year that's
             set to be an exhilarating roller coaster of growth, love, and
-            exploration. Your arrow is aimed at the stars – let it fly! Click
-            here to read in detail about{" "}
-            <div className="inline-text">Sagittarius Horoscope 2024</div>
+            exploration. Your arrow is aimed at the stars – let it fly!
+            <br /> Click here to read in detail about{" "}
+            <div className="inline-text">
+              <Link to="/horoscope-2024/sagittarius-horoscope-2024">
+                Sagittarius Horoscope 2024
+              </Link>
+            </div>
           </p>
           <h3>Capricorn Horoscope 2024</h3>
           <p>
@@ -347,8 +396,13 @@ const Horoscope2024 = () => {
             connections with loved ones. Your mountain is waiting – ascend it
             step by patient step. In 2024, you're not just chasing dreams;
             you're building foundations for a future that's as solid as your
-            determination. Click here to read in detail about{" "}
-            <div className="inline-text">Capricorn Horoscope 2024</div>
+            determination.
+            <br /> Click here to read in detail about{" "}
+            <div className="inline-text">
+              <Link to="/horoscope-2024/capricorn-horoscope-2024">
+                Capricorn Horoscope 2024
+              </Link>
+            </div>
           </p>
           <h3>Aquarius Horoscope 2024</h3>
           <p>
@@ -370,8 +424,13 @@ const Horoscope2024 = () => {
             approach will keep you at your vibrant best. So, Aquarius, 2024 is
             your year to make waves, embrace change, and dance to your own
             rhythm. Get ready to color the world with your unique hues and let
-            your star shine the brightest! Click here to read in detail about{" "}
-            <div className="inline-text">Aquarius Horoscope 2024</div>
+            your star shine the brightest!
+            <br /> Click here to read in detail about{" "}
+            <div className="inline-text">
+              <Link to="/horoscope-2024/aquarius-horoscope-2024">
+                Aquarius Horoscope 2024
+              </Link>
+            </div>
           </p>
           <h3>Pisces Horoscope 2024</h3>
           <p>
@@ -395,9 +454,13 @@ const Horoscope2024 = () => {
             excitement, remember to take a breather. Reflect, rejuvenate, and
             give yourself the self-care you deserve. You're a beacon of empathy,
             and taking care of yourself ensures you can continue to light up
-            others' lives. Click here to read in detail about{" "}
-            <div className="inline-text">Pisces Horoscope</div>
-            2024
+            others' lives.
+            <br /> Click here to read in detail about{" "}
+            <div className="inline-text">
+              <Link to="/horoscope-2024/pisces-horoscope-2024">
+                Pisces Horoscope 2024
+              </Link>
+            </div>
           </p>
           <h2>Why read horoscope 2024?</h2>
           <p>

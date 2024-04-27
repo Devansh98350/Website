@@ -36,7 +36,7 @@ const AccordionHeader = styled.div`
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0px 20px;
+  padding: 5px 10px;
   border: 1px solid #ccc;
   border-radius: 5px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -79,7 +79,7 @@ const AccordionButton = styled.button`
   font-weight: bold;
   border: none;
   border-radius: 5px;
-  font-size: 30px;
+  font-size: 23px;
   height: 30px;
   width: 30px;
   cursor: pointer;

@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+import { Link } from "react-router-dom";
 import Layout from "../../../../../Layout/Layout.js";
 import styled from "styled-components";
 import KundliReadingFYQ from "./KundliReadingFyq.js";
@@ -35,6 +36,14 @@ const StyledDiv = styled.div`
     display: inline;
   }
   .inline-text:hover {
+    font-weight: bold;
+  }
+  .inline-text a {
+    color: red;
+    display: inline;
+    text-decoration: none;
+  }
+  .inline-text a:hover {
     font-weight: bold;
   }
 `;
@@ -157,7 +166,11 @@ const KundliReading = () => {
           <p>
             Step 1 is the introductory step. So in step 1 of learning how to
             read your kundli, we will learn about planets and{" "}
-            <div className="inline-text">Click here to read more...</div>
+            <div className="inline-text">
+              <Link to="/freekundli/planets-signs-houses-in-astrology">
+                Click here to read more...
+              </Link>
+            </div>
           </p>
           <p>
             <strong>Step 2 - How to read planets in astrology</strong>
@@ -166,7 +179,11 @@ const KundliReading = () => {
             In part 1 of how to read kundli, we have learned the significance of
             kundli while also learning a thing or two about planets, zodiac
             signs and houses in kundli.{" "}
-            <div className="inline-text">Click here to read more...</div>
+            <div className="inline-text">
+              <Link to="/freekundli/how-to-read-planets-in-astrology">
+                Click here to read more...
+              </Link>
+            </div>
           </p>
           <p>
             <strong>Step 3 - Understanding houses in kundli</strong>
@@ -174,7 +191,11 @@ const KundliReading = () => {
           <p>
             By now, you must have understood the purpose of planets in
             astrology, how to read them, what they mean and everything{" "}
-            <div className="inline-text">Click here to read more...</div>
+            <div className="inline-text">
+              <Link to="/freekundli/how-to-read-houses-in-kundli">
+                Click here to read more...
+              </Link>
+            </div>
           </p>
           <p>
             <strong>Step 4 - Astrology planets and their significance</strong>
@@ -182,7 +203,11 @@ const KundliReading = () => {
           <p>
             In part 3 of how to read kundli, we have studied the significance of
             houses, how to read houses in Kundli and how these{" "}
-            <div className="inline-text">Click here to read more...</div>
+            <div className="inline-text">
+              <Link to="/freekundli/planets-signs-and-their-significance-in-astrology">
+                Click here to read more...
+              </Link>
+            </div>
           </p>
           <KundliReadingFYQ />
         </div>

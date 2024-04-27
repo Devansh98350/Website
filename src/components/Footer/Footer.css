@@ -2,23 +2,29 @@
   background-color: orange;
 }
 .footer-row {
-  width: 95%;
-  margin-left: 2.5%;
+  width: 90%;
+  margin-left: 5%;
   display: flex;
+  flex-wrap: wrap;
 }
 .name {
   font-weight: bold;
+  text-align: left;
   border-bottom: 2px solid red;
   display: inline-block;
+  margin-bottom: 15px;
+}
+.name a {
+  color: black;
 }
 .named {
   margin-bottom: 1em;
   text-align: justify;
 }
 .footer-column {
-  width: 44%;
-  text-align: center;
+  flex: 1;
 }
+
 .footer-column a {
   text-decoration: none;
   color: white;
@@ -41,7 +47,17 @@
 }
 
 @media screen and (max-width: 768px) {
+  .footer-row {
+    width: 90%;
+    margin-left: 5%;
+    display: flex;
+    flex-wrap: wrap;
+  }
   .footer-column {
-    width: 50%; /* Each column takes 50% width on screens larger than 768px */
+    flex-basis: 50%;
+  }
+  .named {
+    width: 95%;
+    margin-left: 2.5%;
   }
 }

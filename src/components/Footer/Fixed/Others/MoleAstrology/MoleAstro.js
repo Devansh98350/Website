@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+import { Link } from "react-router-dom";
 import Layout from "../../../../Layout/Layout.js";
 import styled from "styled-components";
 import MoleAstroFYQ from "./MoleAstroFyq.js";
@@ -30,11 +31,12 @@ const StyledDiv = styled.div`
     background-color: #f2f2f2;
     font-weight: bold;
   }
-  .inline-text {
+  .inline-text a {
     color: red;
     display: inline;
+    text-decoration: none;
   }
-  .inline-text:hover {
+  .inline-text a:hover {
     font-weight: bold;
   }
 `;
@@ -134,24 +136,42 @@ const MoleAstro = () => {
           <p>To know more about the moles on different parts of the body:</p>
           <UnorderedList>
             <ListItem>
-              <div className="inline-text">Mole on the face </div>
-            </ListItem>
-            <ListItem>
-              <div className="inline-text">Mole on the legs </div>
-            </ListItem>
-            <ListItem>
-              <div className="inline-text">Mole on the stomach </div>
-            </ListItem>
-            <ListItem>
               <div className="inline-text">
-                Mole on the back, chest, and ribs
+                <Link to="/mole-astrology/mole-on-the-face">
+                  Mole on the face
+                </Link>
               </div>
             </ListItem>
             <ListItem>
-              <div className="inline-text">Mole on the arms </div>
+              <div className="inline-text">
+                <Link to="/mole-astrology/mole-on-legs">Mole on the legs</Link>
+              </div>
             </ListItem>
             <ListItem>
-              <div className="inline-text">Mole on the genitals </div>
+              <div className="inline-text">
+                <Link to="/mole-astrology/mole-on-stomach">
+                  Mole on the stomach
+                </Link>
+              </div>
+            </ListItem>
+            <ListItem>
+              <div className="inline-text">
+                <Link to="/mole-astrology/mole-on-back-chest-ribs">
+                  Mole on the back, chest, and ribs
+                </Link>
+              </div>
+            </ListItem>
+            <ListItem>
+              <div className="inline-text">
+                <Link to="/mole-astrology/mole-on-arm">Mole on the arms </Link>
+              </div>
+            </ListItem>
+            <ListItem>
+              <div className="inline-text">
+                <Link to="/mole-astrology/mole-on-the-genitals">
+                  Mole on the genitals
+                </Link>
+              </div>
             </ListItem>
           </UnorderedList>
 

@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+import { Link } from "react-router-dom";
 import Layout from "../../../Layout/Layout.js";
 import styled from "styled-components";
 
@@ -32,9 +33,20 @@ const StyledDiv = styled.div`
   .inline-red {
     display: inline;
     color: red;
+    text-decoration: none;
   }
   .inline-red:hover {
     font-weight: bold;
+    text-decoration: none;
+  }
+  .inline-red a {
+    display: inline;
+    color: red;
+    text-decoration: none;
+  }
+  .inline-red a:hover {
+    font-weight: bold;
+    text-decoration: none;
   }
 `;
 const UnorderedList = styled.ul`
@@ -262,7 +274,9 @@ const VratCalendar = () => {
               spiritual growth, inner peace, and divine grace.
               <br />
               <a className="inline-red">
-                Click Here To Read More about Pradosh Vrat 2024
+                <Link to="/fasts-calendar-2024/pradosh-vrat-2024">
+                  Click Here To Read More about Pradosh Vrat 2024
+                </Link>
               </a>
             </ListItem>
             <ListItem>
@@ -276,7 +290,9 @@ const VratCalendar = () => {
               scriptures, and participating in charitable activities to receive
               divine blessings. <br />
               <a className="inline-red">
-                Click Here To Read More about Ekadashi Vrat 2024
+                <Link to="/fasts-calendar-2024/ekadashi-vrat-2024">
+                  Click Here To Read More about Ekadashi Vrat 2024
+                </Link>
               </a>
             </ListItem>
             <ListItem>
@@ -289,7 +305,10 @@ const VratCalendar = () => {
               one's roots. It is believed that observing Amavasya Vrat helps in
               appeasing departed souls and promoting overall well-being. <br />
               <a className="inline-red">
-                Click Here To Read More about Amavasya Vrat 2024
+                <Link to="/fasts-calendar-2024/amavasya-vrat-2024">
+                  {" "}
+                  Click Here To Read More about Amavasya Vrat 2024
+                </Link>
               </a>
             </ListItem>
             <ListItem>
@@ -303,7 +322,10 @@ const VratCalendar = () => {
               community worship, conduct pujas, and perform acts of kindness on
               this day. <br />
               <a className="inline-red">
-                Click Here To Read More about Purnima Vrat 2024
+                <Link to="/fasts-calendar-2024/purnima-vrat-2024">
+                  {" "}
+                  Click Here To Read More about Purnima Vrat 2024
+                </Link>
               </a>{" "}
             </ListItem>
             <ListItem>
@@ -316,7 +338,10 @@ const VratCalendar = () => {
               the vrat involves the sighting of the moon, symbolising the
               successful completion of the vow. <br />
               <a className="inline-red">
-                Click Here To Read More about Sankashti Chaturthi Vrat 2024
+                <Link to="/fasts-calendar-2024/sankashti-vrat-2024">
+                  {" "}
+                  Click Here To Read More about Sankashti Chaturthi Vrat 2024
+                </Link>
               </a>
             </ListItem>
             <ListItem>
@@ -330,7 +355,9 @@ const VratCalendar = () => {
               ancestors in the afterlife and brings blessings to the living.
               <br />
               <a className="inline-red">
-                Click Here To Read More about Shradha Days 2024
+                <Link to="/fasts-calendar-2024/shradha-days-vrat-2024">
+                  Click Here To Read More about Shradha Days 2024
+                </Link>
               </a>
             </ListItem>
             <ListItem>
@@ -345,7 +372,10 @@ const VratCalendar = () => {
               may participate in rituals, visit temples, and offer special
               prayers to Goddess Rohini on this auspicious day. <br />
               <a className="inline-red">
-                Click Here To Read More about Rohini Vrat 2024
+                <Link to="/fasts-calendar-2024/rohini-vrat-2024">
+                  {" "}
+                  Click Here To Read More about Rohini Vrat 2024
+                </Link>
               </a>
             </ListItem>
           </UnorderedList>

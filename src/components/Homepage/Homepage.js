@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import Layout from "../Layout/Layout";
 import HomepageFYQ from "./HomepageFyq";
 import styled from "styled-components";
@@ -14,7 +14,7 @@ const Container = styled.div`
     text-align: center;
     font-size: 30px;
     font-weight: bold;
-    margin-bottom: -20px;
+    margin-bottom: 0px;
   }
   .heading1 {
     text-align: center;
@@ -66,6 +66,9 @@ const Container = styled.div`
 `;
 
 const Homepage = () => {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   return (
     <Layout title="AstroSwarg">
       <Container>

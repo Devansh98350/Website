@@ -12,30 +12,40 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <div className="footer">
-      <div className="footer-row">
+      <div
+        className="footer-row"
+        style={{
+          display: "inline",
+        }}
+      >
         <div
-          className="footer-column"
+          className="name"
+          style={{ textAlign: "left", marginBottom: "3px" }}
+        >
+          About AstroSwarg
+        </div>
+        <div
+          className="named"
           style={{
-            width: "95%",
-            textAlign: "left",
+            textAlign: "justify",
+            width: "90%",
+            marginLeft: "5%",
+            paddingBottom: "10px",
             borderBottom: "2px solid white",
           }}
         >
-          <div className="name">About AstroSwarg</div>
-          <div className="named">
-            Astroswarg is a premier online destination for astrology services
-            and panditji bookings. Connect with experienced astrologers for
-            accurate predictions and solutions to life's uncertainties. Whether
-            it's insights into relationships, career paths, or health matters,
-            Astroswarg offers personalized guidance through calls, chats,
-            queries, and reports. Experience the wisdom of renowned astrologers
-            from India, all in one convenient platform.
-          </div>
+          Astroswarg is a premier online destination for astrology services and
+          panditji bookings. Connect with experienced astrologers for accurate
+          predictions and solutions to life's uncertainties. Whether it's
+          insights into relationships, career paths, or health matters,
+          Astroswarg offers personalized guidance through calls, chats, queries,
+          and reports. Experience the wisdom of renowned astrologers from India,
+          all in one convenient platform.
         </div>
       </div>
       <div
         className="footer-row"
-        style={{ marginTop: "1rem", borderBottom: "2px solid white" }}
+        style={{ marginTop: "0.5rem", borderBottom: "2px solid white" }}
       >
         <div className="footer-column">
           <div className="name">Horoscope</div>
@@ -85,7 +95,12 @@ const Footer = () => {
             <Link to="">Yearly Horoscope</Link>
           </p>
           <div className="name">
-            <Link to="/shubh-muhurat-2024">Shubh Muhurat 2024</Link>
+            <Link
+              to="/shubh-muhurat-2024"
+              style={{ color: "black", marginBottom: "20px" }}
+            >
+              Shubh Muhurat 2024
+            </Link>
           </div>
           <p>
             <Link to="/shubh-muhurat-2024/annanprashan-muhurat-2024">
@@ -129,7 +144,7 @@ const Footer = () => {
           </p>
         </div>
         <div className="footer-column">
-          <div className="name">Important Links</div>
+          <div className="name">Quick Links</div>
           {/*<p>
             <Link to="/astromall">Astromall</Link>
           </p>
@@ -140,13 +155,13 @@ const Footer = () => {
             <Link to="/live-astrologers">Live Astrologers</Link>
         </p>*/}
           <p>
-            <Link to="">Astromall</Link>
+            <Link to="">AstroSwarg Shop</Link>
           </p>
           <p>
-            <Link to="">Today Panchang</Link>
+            <Link to="">Puja Services</Link>
           </p>
           <p>
-            <Link to="">Live Astrologers</Link>
+            <Link to="">Astro Services</Link>
           </p>
           <p>
             <Link to="/freekundli/how-to-read-kundli">How to read Kundali</Link>
@@ -205,12 +220,12 @@ const Footer = () => {
           </p>
           <p>
             <Link to="/astrology-remedies/astrological-remedies-for-job-promotion">
-              Astrological remedies for job promotion
+              Astrological remedies for promotion
             </Link>
           </p>
         </div>
         <div className="footer-column">
-          <div className="name">Important Links</div>
+          <div className="name">Quick Links</div>
           <p>
             <Link to="/planetary-transit-2024">Planetary Transit 2024</Link>
           </p>
@@ -318,14 +333,14 @@ const Footer = () => {
           </p>
           <p>
             <a
-              href="https://www.instagram.com/astro_swarg/"
+              href="https://www.instagram.com/astroswarg/"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FontAwesomeIcon icon={faInstagram} className="linkedin-icon" />
             </a>{" "}
             <a
-              href="https://www.linkedin.com/company/astro-swarg/"
+              href="https://www.linkedin.com/company/astroswarg/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -348,8 +363,17 @@ const Footer = () => {
           </p>
         </div>
       </div>
-      <div className="footer-row" style={{ textAlign: "center" }}>
-        <div>All Rights Reserved @AstroSwarg 2024</div>
+      <div
+        className="footer-row"
+        style={{
+          display: "flex",
+          justifyContent: "center",
+          color: "red",
+          fontWeight: "bold",
+          fontSize: "16px",
+        }}
+      >
+        All Rights Reserved @AstroSwarg 2024
       </div>
     </div>
   );

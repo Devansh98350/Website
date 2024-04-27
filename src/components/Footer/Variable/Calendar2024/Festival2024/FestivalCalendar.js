@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+import { Link } from "react-router-dom";
 import Layout from "../../../../Layout/Layout.js";
 import styled from "styled-components";
 import FestivalCalendarFYQ from "./FestivalCalendarFyq";
@@ -35,6 +36,14 @@ const StyledDiv = styled.div`
     color: red;
   }
   .inline-red:hover {
+    font-weight: bold;
+  }
+  .inline-red a {
+    display: inline;
+    color: red;
+    text-decoration: none;
+  }
+  .inline-red a:hover {
     font-weight: bold;
   }
 `;
@@ -636,17 +645,13 @@ const FestivalCalendar = () => {
               ceremonies, and auspicious dates based on lunar movements. It's
               widely used across India and neighboring countries to plan
               religious events and celebrations.{" "}
-              <a className="inline-red">Click Here To Read More</a>
+              <a className="inline-red">
+                <Link to="/indian-calendar-festivals-2024/hindu-calendar-2024">
+                  Click Here To Read More
+                </Link>
+              </a>
             </ListItem>
-            <ListItem>
-              <strong>Islamic Calendar 2024 - </strong> The Islamic calendar, or
-              Hijri calendar, is a lunar calendar used by Muslims globally. It
-              consists of 12 months, each 29 or 30 days long, totaling 354 or
-              355 days in a year. It is crucial for determining Islamic events
-              and holidays, such as Ramadan and Eid al-Fitr, which are based on
-              lunar observations.{" "}
-              <a className="inline-red">Click Here To Read More</a>
-            </ListItem>
+
             <ListItem>
               <strong>Sikh Holidays 2024 - </strong> Sikhism follows the
               Nanakshahi calendar, introduced by Guru Nanak in 1999. This solar
@@ -654,17 +659,13 @@ const FestivalCalendar = () => {
               it marks events like Vaisakhi and Gurpurab, celebrating the birth
               anniversaries of Sikh Gurus. The calendar is used by Sikhs
               worldwide to commemorate their religious heritage.{" "}
-              <a className="inline-red">Click Here To Read More</a>
+              <a className="inline-red">
+                <Link to="/indian-calendar-festivals-2024/sikh-calendar-2024">
+                  Click Here To Read More
+                </Link>
+              </a>
             </ListItem>
-            <ListItem>
-              <strong>Christian Calendar 2024 - </strong> The Christian
-              calendar, based on the Gregorian calendar, is widely used globally
-              for civil purposes. It marks Christian holidays like Christmas and
-              Easter, following a solar system. In 2024, Christians will observe
-              various religious events and Sundays, shaping their worship
-              schedules and significant celebrations.{" "}
-              <a className="inline-red">Click Here To Read More</a>
-            </ListItem>
+
             <ListItem>
               <strong>Jain Calendar 2024 - </strong> The Jain calendar, also
               known as the Vira Nirvana Samvat, follows a lunar system. Jains
@@ -673,7 +674,11 @@ const FestivalCalendar = () => {
               calendar guides Jains in their religious practices, including
               Paryushana, a significant fasting period aimed at spiritual
               purification.{" "}
-              <a className="inline-red">Click Here To Read More</a>
+              <a className="inline-red">
+                <Link to="/indian-calendar-festivals-2024/jain-calendar-2024">
+                  Click Here To Read More
+                </Link>
+              </a>
             </ListItem>
             <ListItem>
               <strong>Buddhist Calendar 2024 - </strong> Buddhists use various
@@ -682,7 +687,12 @@ const FestivalCalendar = () => {
               events like Vesak, marking the birth, enlightenment, and death of
               Gautama Buddha. The lunar calendar plays a vital role in
               scheduling Buddhist rituals, meditation practices, and community
-              gatherings. <a className="inline-red">Click Here To Read More</a>
+              gatherings.{" "}
+              <a className="inline-red">
+                <Link to="/indian-calendar-festivals-2024/buddhist-calendar-2024">
+                  Click Here To Read More
+                </Link>
+              </a>
             </ListItem>
           </UnorderedList>
 

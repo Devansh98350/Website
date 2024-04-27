@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 import Layout from "../../../Layout/Layout";
 import styled from "styled-components";
@@ -37,29 +37,18 @@ const Container = styled.div`
   .inline-red-text a:hover {
     font-weight: bold;
   }
-
-  ul {
-    list-style-type: disc;
-    padding-left: 20px;
-  }
-  .inline {
-    color: red;
-    font-weight: normal;
-  }
-  .inline1 {
-    color: black;
-    font-weight: medium;
-    display: inline;
-  }
-  li {
-    margin-bottom: 5px;
-  }
-  p {
-    line-height: 1.5;
-  }
+`;
+const UnorderedList = styled.ul`
+  //   list-style-type: none;
+`;
+const ListItem = styled.li`
+  margin-bottom: 10px;
 `;
 
 const Mantras = () => {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   return (
     <Layout title="AstroSwarg - Mantras">
       <Container>
@@ -67,12 +56,9 @@ const Mantras = () => {
           <h1 className="heading">Mantras</h1>
           <h3>Vedic Mantras in astrology</h3>
           <p>
-            Mantras have a well-entrenched significance in astrology,{" "}
-            <h4 className="inline">
-              especially mantras for 9 planets in astrology
-            </h4>{" "}
-            or<h4 className="inline">Navagraha mantras</h4> as they call them.
-            Each planet in astrology maintains its own significance in a
+            Mantras have a well-entrenched significance in astrology, especially
+            mantras for 9 planets in astrology orNavagraha mantras as they call
+            them. Each planet in astrology maintains its own significance in a
             native’s life as it’s the positives or negatives of these planets
             that influence his or her life decisions in the long term. Hence, as
             any astrologer would tell you, to get the best results from life,
@@ -85,22 +71,18 @@ const Mantras = () => {
           </p>
           <h3>What is Vedic Mantra in Astrology?</h3>
           <p>
-            Before we sit down to learn about{" "}
-            <h4 className="inline">
-              {" "}
-              all the different types of mantras in astrology
-            </h4>
-            , it is crucial that we first understand what mantras are all about
-            and how to use or say, recite them, and what benefits can different
-            mantras bring to the native.
-            <br />
-            <br />
+            Before we sit down to learn about all the different types of mantras
+            in astrology , it is crucial that we first understand what mantras
+            are all about and how to use or say, recite them, and what benefits
+            can different mantras bring to the native.
+          </p>
+          <p>
             The ancient Vedic astrology, for 1000s of years, has been about
             making life easy for an individual. And to do so, Vedic astrology
             recognises three major remedies or upays. These three remedies are{" "}
-            <h4 className="inline"> Mantras, Yantras and Gemstones.</h4>
-            <br />
-            <br />
+            Mantras, Yantras and Gemstones.
+          </p>
+          <p>
             When we talk about Mantra recitation as a remedy, it is considered
             the most sought way not only to decipher and solve your problems but
             also to please God and planets in astrology. In fact, reciting
@@ -108,24 +90,18 @@ const Mantras = () => {
             anyone peace of mind if they have been struggling to find some.
             Hence, mantras in astrology are not just about spiritual benefits
             but also psychological benefits.
-            <br />
-            <br />
-            To define, <h4 className="inline">
-              {" "}
-              Mantras in Vedic astrology
-            </h4>{" "}
-            are a combination of syllabus or hymns, which, if pronounced
-            correctly, helps the native to concentrate one’s mind on the
-            universal energy and infinite spiritual energy within the self.
-            Mantras have existed in the world for over 1000s of years and find
-            mention in numerous religious books written in the past, including
-            the Vedas. Over the years, as Rishis have come to realise the
-            <h4 className="inline">
-              benefits of reciting Mantras in astrology,
-            </h4>{" "}
+          </p>
+          <p>
+            To define, Mantras in Vedic astrology are a combination of syllabus
+            or hymns, which, if pronounced correctly, helps the native to
+            concentrate one’s mind on the universal energy and infinite
+            spiritual energy within the self. Mantras have existed in the world
+            for over 1000s of years and find mention in numerous religious books
+            written in the past, including the Vedas. Over the years, as Rishis
+            have come to realise the benefits of reciting Mantras in astrology,
             they have happened to add-on to the list of mantras.
-            <br />
-            <br />
+          </p>
+          <p>
             The essence of the Mantra comes from its ‘Root word’ or Beej and the
             power generated by it is called Mantra Shakti. Each of the root
             words in a mantra is associated with a planet or God. Mantra
@@ -136,8 +112,8 @@ const Mantras = () => {
             recitation of mantras on a regular basis creates a sense of
             spiritual awareness in the person and leads him towards a life of
             peace and tranquillity.
-            <br />
-            <br />
+          </p>
+          <p>
             Today, with the emergence of Yoga and its worldwide acceptability as
             a way of mental and physical healing has given a major recognition
             to mantra chanting. Even science today believes in the power of
@@ -151,11 +127,11 @@ const Mantras = () => {
             then you are simply living in a bubble. If you ever ask an
             astrologer how Mantras work, they will tell you how a mantra alters
             the way you think, which eventually permits you to change your life
-            or actions for good. However, to have these wonderful{" "}
-            <h4 className="inline"> benefits of mantras on your mind,</h4> you
-            need to practise - recite - them on a regular basis.
-            <br />
-            <br />
+            or actions for good. However, to have these wonderful benefits of
+            mantras on your mind, you need to practise - recite - them on a
+            regular basis.
+          </p>
+          <p>
             The word ‘mantra’ has its roots in the ancient Sanskrit language.
             Mantra as a word is made of two terms ‘man’ which means ‘mind’ and
             ‘tra’ which means ‘tool or instrument’. Thus a Manta is nothing but
@@ -168,8 +144,8 @@ const Mantras = () => {
             of mind and feelings at times, which results in confusion for the
             native. Hence to align our minds with our feelings, mantras come
             into the picture.
-            <br />
-            <br />
+          </p>
+          <p>
             Our mind is always in a state of activity, and recitation of a
             mantra acts as an instrument to bring it to a standstill for
             relaxation. As we are in our peace zone now, we are able to connect
@@ -181,7 +157,7 @@ const Mantras = () => {
             the right chords within us. This way, one is better able to align
             his mind and heart to take a fruitful life decision for himself.
           </p>
-          <h4>Astrological importance of Mantras</h4>
+          <h3>Astrological importance of Mantras</h3>
           <p>
             As someone born in India, it is likely impossible that you haven't
             heard a Mantra in your life. Be it a temple, a wedding ceremony or
@@ -190,15 +166,15 @@ const Mantras = () => {
             the planets or Gods, and is one of the ways to ask them for their
             blessings. Having said that, there are numerous mantras in
             astrology, and each one of them is associated with a divine force.
-            <br />
-            <br />
+          </p>
+          <p>
             Just like there is a mantra for all planets in astrology, similarly,
             there are mantras for each Chakra in astrology too. So in case any
             of the Chakra in your body gets blocked or is not able to transfer
             the required energy, chanting the associated mantra with it can help
             unblock it and can surge its life force energy.
-            <br />
-            <br />
+          </p>
+          <p>
             Besides, Mantra chanting is an essential part of many religions.
             Reciting a mantra helps the native connect with the divinity in the
             universe who he thinks of as the ruling force. You must have seen in
@@ -233,8 +209,8 @@ const Mantras = () => {
             mantras are melodic phrases with spiritual interpretations such as a
             human longing for truth, reality, light, immortality, peace, love,
             knowledge, and action.
-            <br />
-            <br />
+          </p>
+          <p>
             Today, the structure and type of mantra vary as per the religion -
             Hinduism, Jainism, Buddhism or Sikhism. But most of these mantras
             are said to have originated from the vedic school of thoughts. The
@@ -242,8 +218,8 @@ const Mantras = () => {
             books called Mandalas. A Mantra can take distinct form including ṛc
             (verses from the Rigveda) and sāman (musical chants from the
             Sāmaveda).
-            <br />
-            <br />
+          </p>
+          <p>
             Since the Vedic period, the hymns and verses have been narrated and
             recited by the Rishis. The rishis, however, are not the producer of
             these mantras and are only responsible for sharing their knowledge
@@ -251,14 +227,14 @@ const Mantras = () => {
             give the credit for coming up with mantras. The Vedic poets were
             fascinated by the inspirational power of poems and referred to them
             as root dhi-, which evolved into dhyana (meditation) of Hinduism.
-            <br />
-            <br />
+          </p>
+          <p>
             In the mid-Vedic period, mantras were derived from all Vedic
             compositions. They included ṛc (verses from Rigveda), sāman (musical
             chants from the Sāmaveda), yajus (a muttered formula from the
             yajurveda), and nigada (a loudly spoken yajus).
-            <br />
-            <br />
+          </p>
+          <p>
             Thereafter, during the Hindu epics period, there were add-ons to
             vedas as they multiplied to meet numerous needs of people. In fact,
             various schools of Mantras emerged, including Tantric schools. In
@@ -277,13 +253,10 @@ const Mantras = () => {
             whether they will work for you or not depends upon the temperament
             of the person narrating it and not the superiority of the mantra
             over one another.
-            <br />
-            <br />
-            When considering the types of mantras, there are three -
-            <h4 className="inline">
-              {" "}
-              Beej Mantra, Saguna mantra and Nirguna Mantra.
-            </h4>
+          </p>
+          <p>
+            When considering the types of mantras, there are three - Beej
+            Mantra, Saguna mantra and Nirguna Mantra.
           </p>
           <h3>1. Beej Mantra</h3>
           <p>
@@ -294,57 +267,73 @@ const Mantras = () => {
             mantras in astrology. Each of these beej mantras is associated with
             some deity. When chanted with focus and devotion, beej mantras help
             in fulfilling the desire of any native.
-            <h4>Other beej mantras are:</h4>
+          </p>
+          <p>
+            <strong>Other beej mantras are:</strong>
+          </p>
+          <p>
             <strong>i) Kreem</strong> - Kreem Beeja mantra is associated with
             Goddess Kali. Reciting this beej mantra gives the native confidence.
             Chanting the Kreem beej mantra also brings strength and wisdom.
-            <br />
+          </p>
+          <p>
             <strong>ii) Shreem</strong> - This beeja mantra is associated with
             Mahalakshmi. Chanting this mantra brings social status and wealth to
             the native.
-            <br />
+          </p>
+          <p>
             <strong>iii) Hroum</strong> - The beej mantra is associated with
             Shiva. Chanting the Hroum beej mantra helps natives in fighting
             death, despair, diseases, etc. The beej mantra helps in the
             attainment of liberation.
-            <br />
+          </p>
+          <p>
             <strong>iv) Doom</strong> - Doom beej mantra is associated with
             Goddess Durga. Chanting this beej mantra helps in the fulfilment of
             desires. This beej mantra also brings strength to the native.
-            <br />
+          </p>
+          <p>
             <strong>v) Hreem</strong> - The Hreem beej mantra is associated with
             Goddess Bhuvaneshwari. The mantra helps in eradicating sorrows from
             the life of the native while ensuring you the blessings of Shiva and
             Parvati.
-            <br />
+          </p>
+          <p>
             <strong>vi) Ayeim</strong> - This mantra is associated with Goddess
             Saraswati. The beej mantra helps the native garner courage,
             confidence and communication skills.
-            <br />
+          </p>
+          <p>
             <strong>vii) Gam</strong> - Gam is the beej mantra for lord Ganesha.
             Chanting this mantra brings wisdom, knowledge and happiness to the
             life of the native.
-            <br />
+          </p>
+          <p>
             <strong>viii) Fraum</strong> - The Fraum beej mantra is associated
             with Lord Hanuman. The beej mantra gives the native strength, and
             protection and helps him in eliminating his fears.
-            <br />
+          </p>
+          <p>
             <strong>ix) Dam</strong> - Dam is the beej mantra for Lord Vishnu.
             Chanting this mantra helps the native in attaining a happy married
             life, wealth and abundance of good health.
-            <br />
+          </p>
+          <p>
             <strong>x) Bhram</strong> - The powerful beej mantra is associated
             with Lord Bhariav. The beej mantra helps in dealing with the native
             with any kind of court case and also brings fame to the native.
-            <br />
+          </p>
+          <p>
             <strong>xi) Dhoom</strong> - The Dhoom beej mantra is associated
             with Goddess Dhoomvati. Chanting the mantra saves the natives from
             enemies.
           </p>
           <h3>2. Saguna Mantra</h3>
-          Saguna is a Sanskrit word meaning “with attributes” or “having
-          qualities." Saguna mantras are sometimes called deity mantras because
-          they often focus on some form of the divine.
+          <p>
+            Saguna is a Sanskrit word meaning “with attributes” or “having
+            qualities." Saguna mantras are sometimes called deity mantras
+            because they often focus on some form of the divine.{" "}
+          </p>
           <h3>3. Nirguna Mantra</h3>
           <p>
             Last but not least are the Nirguna mantras, which are said to have
@@ -359,79 +348,68 @@ const Mantras = () => {
             From invoking deities to chanting them during numerous rituals,
             mantras in astrology have various benefits. Here are some benefits
             of reciting mantras as per astrology.
-            <ul>
-              <li>
-                Each of us has planets in our birth chart that are
-                weak/debilitated or badly placed in our kundli, and hence can
-                hinder our growth. Reciting mantras is one of the remedies to
-                please weak planets. There are mantras for each and every planet
-                in astrology.
-              </li>
-              <br />
-              <li>
-                In fact, mantras can also be used to please the benefic planets
-                and further strengthen them in your kundli.
-              </li>
-              <br />
-              <li>
-                The best thing about mantras is that they give only positive
-                effects.
-              </li>
-              <br />
-              <li>
-                Mantras can help you in attracting health, wealth, happiness,
-                pleasure, love and success.
-              </li>
-              <br />
-              <li>
-                Reciting certain mantras can help in warding off laziness,
-                diseases and troubles.
-              </li>
-              <br />
-              <li>
-                Many psychiatrists believe that mantra chanting helps in
-                reducing stress.
-              </li>
-              <br />
-              <li>
-                Additionally, Mantra chanting clears off your head and calms
-                down the nervous system.
-              </li>
-              <br />
-              <li>
-                Chanting mantras and concentrating help in slowing down the
-                heart rate and results in decreased levels of blood pressure.
-              </li>
-              <br />
-              <li>
-                As chanting mantras lead to relaxing the mind, it leads to lower
-                consumption of oxygen as well.
-              </li>
-              <br />
-              <li>
-                Chanting of mantras helps in restoring the body via deep sleep.
-              </li>
-              <br />
-              <li>
-                Meditation practitioners are of the view that vibrations of
-                chanting certain syllables can lead to a deep meditative state,
-                which helps in releasing any blocked energy or unblocking the
-                chakras.
-              </li>
-              <br />
-              <li>
-                Mantra meditation can help improve brain health. You are able to
-                retain things in a better way and for longer.
-              </li>
-              <br />
-              <li>
-                Repeating a mantra while meditating can also help you find a
-                natural breathing rhythm.
-              </li>
-              <br />
-              <li>Mantra repetition on a daily basis can uplift your mood.</li>
-            </ul>
           </p>
+          <UnorderedList>
+            <ListItem>
+              Each of us has planets in our birth chart that are
+              weak/debilitated or badly placed in our kundli, and hence can
+              hinder our growth. Reciting mantras is one of the remedies to
+              please weak planets. There are mantras for each and every planet
+              in astrology.
+            </ListItem>
+            <ListItem>
+              In fact, mantras can also be used to please the benefic planets
+              and further strengthen them in your kundli.
+            </ListItem>
+            <ListItem>
+              The best thing about mantras is that they give only positive
+              effects.
+            </ListItem>
+            <ListItem>
+              Mantras can help you in attracting health, wealth, happiness,
+              pleasure, love and success.
+            </ListItem>
+            <ListItem>
+              Reciting certain mantras can help in warding off laziness,
+              diseases and troubles.
+            </ListItem>
+            <ListItem>
+              Many psychiatrists believe that mantra chanting helps in reducing
+              stress.
+            </ListItem>
+            <ListItem>
+              Additionally, Mantra chanting clears off your head and calms down
+              the nervous system.
+            </ListItem>
+            <ListItem>
+              Chanting mantras and concentrating help in slowing down the heart
+              rate and results in decreased levels of blood pressure.
+            </ListItem>
+            <ListItem>
+              As chanting mantras lead to relaxing the mind, it leads to lower
+              consumption of oxygen as well.
+            </ListItem>
+            <ListItem>
+              Chanting of mantras helps in restoring the body via deep sleep.
+            </ListItem>
+            <ListItem>
+              Meditation practitioners are of the view that vibrations of
+              chanting certain syllables can lead to a deep meditative state,
+              which helps in releasing any blocked energy or unblocking the
+              chakras.
+            </ListItem>
+            <ListItem>
+              Mantra meditation can help improve brain health. You are able to
+              retain things in a better way and for longer.
+            </ListItem>
+            <ListItem>
+              Repeating a mantra while meditating can also help you find a
+              natural breathing rhythm.
+            </ListItem>
+            <ListItem>
+              Mantra repetition on a daily basis can uplift your mood.
+            </ListItem>
+          </UnorderedList>
           <h3>Mantras for planets in astrology</h3>
           <p>
             Navgrahas are nine planets that rule the horoscope of each and every
@@ -443,118 +421,128 @@ const Mantras = () => {
             sign in the Kundli, and thus can bring bad results for you. In such
             situations, using a mantra as the force to counter the bad effects
             of a planet in your life can help. Hence, there are mantras for all
-            nine planets in astrology.
-            <h4>Surya Mantra</h4>
+            nine planets in astrology.{" "}
+          </p>
+          <h4>Surya Mantra</h4>{" "}
+          <p>
             "ॐ ह्रीं ह्रौंग सूर्याय नमः" Chant the Surya Beej mantra 7000 times
             within 40 days to see the best results for yourself.
-            <br />
-            <br />
+          </p>
+          <p>
             Read in detail about Surya Mantra{" "}
             <div className="inline-red-text">
-              <Link to=""> Visit Here</Link>
+              <Link to="/mantras/surya-mantra"> Visit Here</Link>
             </div>
-            <h4>Chandra Mantra</h4>
+          </p>
+          <h4>Chandra Mantra</h4>{" "}
+          <p>
             "ॐ ऐं क्लिंग सोमाय नमः" Chant the Chandra beeja mantra 11,000 times
             within a period of 40 days.
-            <br />
-            <br />
+          </p>
+          <p>
             Read in detail about Chandra Mantra{" "}
             <div className="inline-red-text">
               {" "}
-              <Link to=""> Visit Here</Link>
+              <Link to="/mantras/chandra-mantra"> Visit Here</Link>
             </div>
-            <h4>Mangal Mantra</h4>
+          </p>
+          <h4>Mangal Mantra</h4>{" "}
+          <p>
             "ॐ हंग श्रीं भौमाय नमः" Chanting mangal mantra for 10,000 times
             within the period of 40 days can bring you the best results.
-            <br />
-            <br />
+          </p>
+          <p>
             Read in detail about Mangal Mantra{" "}
             <div className="inline-red-text">
               {" "}
-              <Link to=""> Visit Here</Link>
+              <Link to="/mantras/mangal-mantra"> Visit Here</Link>
             </div>
-            <h4>Budh Mantra</h4>
+          </p>
+          <h4>Budh Mantra</h4>{" "}
+          <p>
             "ॐ ऐं श्रृंघ् श्रृंग बुधाय नमः" To get the best results from the
             Budh Beej mantra, chant it for 9000 times within a period of 40
             days.
-            <br />
-            <br />
+          </p>
+          <p>
             Read in detail about Budh Mantra{" "}
             <div className="inline-red-text">
               {" "}
-              <Link to=""> Visit Here</Link>
+              <Link to="/mantras/budh-mantra"> Visit Here</Link>
             </div>
-            <h4>Brihaspati Mantra</h4>
+          </p>
+          <h4>Brihaspati Mantra</h4>{" "}
+          <p>
             "ॐ ह्रीं क्लिङ्ग हंग बृहस्पत्ये नमः" Chant the Guru Beej mantra
             19,000 times within 40 days for the best results.
-            <br />
-            <br />
+          </p>
+          <p>
             Read in detail about Guru Mantra{" "}
             <div className="inline-red-text">
               {" "}
-              <Link to=""> Visit Here</Link>
+              <Link to="/mantras/brihaspati-mantra"> Visit Here</Link>
             </div>
-            <h4>Shukra Mantra</h4>
+          </p>
+          <h4>Shukra Mantra</h4>{" "}
+          <p>
             "ॐ ह्रीं श्रृंग शुक्राय नमः" The mantra must be chanted 16,000 times
             within a period of 40 days.
-            <br />
-            <br />
+          </p>
+          <p>
             Read in detail about Shukra Mantra{" "}
             <div className="inline-red-text">
               {" "}
-              <Link to=""> Visit Here</Link>
+              <Link to="/mantras/shukra-mantra"> Visit Here</Link>
             </div>
-            <h4>Shani Mantra</h4>
+          </p>
+          <h4>Shani Mantra</h4>{" "}
+          <p>
             "ॐ ऐं ह्रीं श्रिन्द शनैश्चराय नमः" The Shani Beej mantra must be
             chanted 23,000 times within 40 days to have its best.
-            <br />
-            <br />
+          </p>
+          <p>
             Read in detail about Shani Mantra{" "}
             <div className="inline-red-text">
               {" "}
-              <Link to=""> Visit Here</Link>
+              <Link to="/mantras/shani-mantra"> Visit Here</Link>
             </div>
-            <h4>Rahu Mantra</h4>
+          </p>
+          <h4>Rahu Mantra</h4>{" "}
+          <p>
             "ॐ ऐं ह्रीं रहवे नमः" Chant this mantra 18,000 times within a time
             frame of 40 days to please Rahu.
-            <br />
-            <br />
+          </p>
+          <p>
             Read in detail about Rahu Mantra{" "}
             <div className="inline-red-text">
               {" "}
-              <Link to=""> Visit Here</Link>
+              <Link to="/mantras/rahu-mantra"> Visit Here</Link>
             </div>
-            <h4>Ketu Mantra</h4>
+          </p>
+          <h4>Ketu Mantra</h4>{" "}
+          <p>
             "ॐ ह्रीं ऐङ केतवे नमः" Chant the Keu beeja mantra for 17,000 times
             within 40 days.
-            <br />
-            <br />
+          </p>
+          <p>
             Read in detail about Ketu Mantra{" "}
             <div className="inline-red-text">
               {" "}
-              <Link to=""> Visit Here</Link>
-            </div>
-            <h4>Explore Navagraha Mantras</h4>
-            <ol>
-              <li>Surya Mantra</li>
-              <br />
-              <li>Chandra Mantra</li>
-              <br />
-              <li>Mangal Mantra</li>
-              <br />
-              <li>Budh Mantra</li>
-              <br />
-              <li>Brihaspati Mantra</li>
-              <br />
-              <li>Shukra Mantra</li>
-              <br />
-              <li>Shani Mantra </li>
-              <br />
-              <li>Rahu Mantra</li>
-              <br />
-              <li>Ketu Mantra</li>
-            </ol>
+              <Link to="/mantras/ketu-mantra"> Visit Here</Link>
+            </div>{" "}
           </p>
+          <h4>Explore Navagraha Mantras</h4>
+          <UnorderedList>
+            <ListItem>Surya Mantra</ListItem>
+            <ListItem>Chandra Mantra</ListItem>
+            <ListItem>Mangal Mantra</ListItem>
+            <ListItem>Budh Mantra</ListItem>
+            <ListItem>Brihaspati Mantra</ListItem>
+            <ListItem>Shukra Mantra</ListItem>
+            <ListItem>Shani Mantra </ListItem>
+            <ListItem>Rahu Mantra</ListItem>
+            <ListItem>Ketu Mantra</ListItem>
+          </UnorderedList>
         </div>
       </Container>
     </Layout>
