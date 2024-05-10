@@ -268,58 +268,34 @@ const Sidebar = () => {
             {dropdownOpen.about && (
               <DropdownMenu>
                 <DropdownItem>
-                  <StyledNavLink to="/about" className="dropdown-item">
+                  <StyledNavLink to=" " className="dropdown-item">
                     <i
                       className="fas fa-angle-double-right"
                       style={{ color: "#f39c12", marginRight: "5px" }}
                     ></i>{" "}
-                    IIT Academy
+                    About AstroSwarg
                   </StyledNavLink>
                 </DropdownItem>
                 <DropdownItem>
-                  <StyledNavLink
-                    to="/director-message"
-                    className="dropdown-item"
-                  >
+                  <StyledNavLink to=" " className="dropdown-item">
                     <i
                       className="fas fa-angle-double-right"
                       style={{ color: "#f39c12", marginRight: "5px" }}
                     ></i>{" "}
-                    Welcome Message
+                    Board of Advisors
                   </StyledNavLink>
                 </DropdownItem>
                 <DropdownItem>
-                  <StyledNavLink to="/why-us" className="dropdown-item">
+                  <StyledNavLink to=" " className="dropdown-item">
                     <i
                       className="fas fa-angle-double-right"
                       style={{ color: "#f39c12", marginRight: "5px" }}
                     ></i>
-                    Why IIT Academy
-                  </StyledNavLink>
-                </DropdownItem>
-                <DropdownItem>
-                  <StyledNavLink to="/our-faculty" className="dropdown-item">
-                    <i
-                      className="fas fa-angle-double-right"
-                      style={{ color: "#f39c12", marginRight: "5px" }}
-                    ></i>{" "}
-                    Our Faculty
-                  </StyledNavLink>
-                </DropdownItem>
-                <DropdownItem>
-                  <StyledNavLink
-                    to="/frequently-asked-questions"
-                    className="dropdown-item"
-                  >
-                    <i
-                      className="fas fa-angle-double-right"
-                      style={{ color: "#f39c12", marginRight: "5px" }}
-                    ></i>{" "}
                     FAQ's
                   </StyledNavLink>
                 </DropdownItem>
                 <DropdownItem>
-                  <StyledNavLink to="/gallery" className="dropdown-item">
+                  <StyledNavLink to=" " className="dropdown-item">
                     <i
                       className="fas fa-angle-double-right"
                       style={{ color: "#f39c12", marginRight: "5px" }}
@@ -331,32 +307,29 @@ const Sidebar = () => {
             )}
             <DropdownToggle
               to="#"
-              onClick={() => toggleDropdown("admission")}
+              onClick={() => toggleDropdown("astroservices")}
               className="dropdown-toggle"
             >
-              Admission
+              Astro Services
             </DropdownToggle>
-            {dropdownOpen.admission && (
+            {dropdownOpen.astroservices && (
               <DropdownMenu>
                 <DropdownItem>
-                  <StyledNavLink to="/fees-structure" className="dropdown-item">
+                  <StyledNavLink to=" " className="dropdown-item">
                     <i
                       className="fas fa-angle-double-right"
                       style={{ color: "#f39c12", marginRight: "5px" }}
                     ></i>
-                    Fee Structure
+                    Talk to Astrologer
                   </StyledNavLink>
                 </DropdownItem>
                 <DropdownItem>
-                  <StyledNavLink
-                    to="/admission-process"
-                    className="dropdown-item"
-                  >
+                  <StyledNavLink to=" " className="dropdown-item">
                     <i
                       className="fas fa-angle-double-right"
                       style={{ color: "#f39c12", marginRight: "5px" }}
                     ></i>
-                    Admission Process
+                    Chat with Astrologer
                   </StyledNavLink>
                 </DropdownItem>
                 <DropdownItem>
@@ -365,356 +338,541 @@ const Sidebar = () => {
                       className="fas fa-angle-double-right"
                       style={{ color: "#f39c12", marginRight: "5px" }}
                     ></i>{" "}
-                    Pay Fees Online
+                    Kundli Matching
                   </StyledNavLink>
                 </DropdownItem>
                 <DropdownItem>
-                  <StyledNavLink
-                    to="/admission-enquiry"
-                    className="dropdown-item"
-                  >
+                  <StyledNavLink to=" " className="dropdown-item">
                     <i
                       className="fas fa-angle-double-right"
                       style={{ color: "#f39c12", marginRight: "5px" }}
                     ></i>{" "}
-                    Admission Enquiry
-                  </StyledNavLink>
-                </DropdownItem>
-                <DropdownItem>
-                  <StyledNavLink to="/our-policy" className="dropdown-item">
-                    <i
-                      className="fas fa-angle-double-right"
-                      style={{ color: "#f39c12", marginRight: "5px" }}
-                    ></i>{" "}
-                    Privacy policy
+                    Palm Reading
                   </StyledNavLink>
                 </DropdownItem>
               </DropdownMenu>
             )}
             <DropdownToggle
               to="#"
-              onClick={() => toggleDropdown("batches")}
+              onClick={() => toggleDropdown("pujaservices")}
               className="dropdown-toggle"
             >
-              Batches
+              Puja Services
             </DropdownToggle>
-            {dropdownOpen.batches && (
+            {dropdownOpen.pujaservices && (
               <DropdownMenu1>
                 <DropdownToggle1
                   to="#"
-                  onClick={() => toggleDropdown("engineering")}
+                  onClick={() => toggleDropdown("puran")}
                   className="dropdown-toggle"
                 >
-                  Engineering
+                  Puran Katha
                 </DropdownToggle1>
-                {dropdownOpen.engineering && (
+                {dropdownOpen.puran && (
                   <DropdownMenu>
                     <DropdownItem>
-                      <StyledNavLink
-                        to="/engineering-class-11"
-                        className="dropdown-item"
-                      >
+                      <StyledNavLink to=" " className="dropdown-item">
                         <i
                           className="fas fa-angle-double-right"
                           style={{ color: "#f39c12", marginRight: "5px" }}
                         ></i>
-                        Arjuna
+                        Bhagwat Katha
                       </StyledNavLink>
                     </DropdownItem>
                     <DropdownItem>
-                      <StyledNavLink
-                        to="/engineering-class-12"
-                        className="dropdown-item"
-                      >
+                      <StyledNavLink to=" " className="dropdown-item">
                         <i
                           className="fas fa-angle-double-right"
                           style={{ color: "#f39c12", marginRight: "5px" }}
                         ></i>
-                        Chaitanya
+                        Shiv Maha Puran
                       </StyledNavLink>
                     </DropdownItem>
                     <DropdownItem>
-                      <StyledNavLink
-                        to="/engineering-class-13"
-                        className="dropdown-item"
-                      >
+                      <StyledNavLink to=" " className="dropdown-item">
                         <i
                           className="fas fa-angle-double-right"
                           style={{ color: "#f39c12", marginRight: "5px" }}
                         ></i>{" "}
-                        Eklavya
+                        Ram Katha
+                      </StyledNavLink>
+                    </DropdownItem>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>{" "}
+                        Shrimad Devi Bhagwat Puran
+                      </StyledNavLink>
+                    </DropdownItem>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>{" "}
+                        Vishnu Puran Katha
+                      </StyledNavLink>
+                    </DropdownItem>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>{" "}
+                        Bhaktmal Katha
                       </StyledNavLink>
                     </DropdownItem>
                   </DropdownMenu>
                 )}
                 <DropdownToggle1
                   to="#"
-                  onClick={() => toggleDropdown("medical")}
+                  onClick={() => toggleDropdown("shanti")}
                   className="dropdown-toggle"
                 >
-                  Medical
+                  Shanti Puja
                 </DropdownToggle1>
-                {dropdownOpen.medical && (
+                {dropdownOpen.shanti && (
                   <DropdownMenu>
                     <DropdownItem>
-                      <StyledNavLink
-                        to="/medical-class-11"
-                        className="dropdown-item"
-                      >
+                      <StyledNavLink to=" " className="dropdown-item">
                         <i
                           className="fas fa-angle-double-right"
                           style={{ color: "#f39c12", marginRight: "5px" }}
                         ></i>
-                        Ananta
+                        Narayanbali Pitrushraddh Vidhi
                       </StyledNavLink>
                     </DropdownItem>
                     <DropdownItem>
-                      <StyledNavLink
-                        to="/medical-class-12"
-                        className="dropdown-item"
-                      >
+                      <StyledNavLink to=" " className="dropdown-item">
                         <i
                           className="fas fa-angle-double-right"
                           style={{ color: "#f39c12", marginRight: "5px" }}
                         ></i>
-                        Sudarshan
+                        KaalSharp Yog Shanti
                       </StyledNavLink>
                     </DropdownItem>
                     <DropdownItem>
-                      <StyledNavLink
-                        to="/medical-class-13"
-                        className="dropdown-item"
-                      >
+                      <StyledNavLink to=" " className="dropdown-item">
                         <i
                           className="fas fa-angle-double-right"
                           style={{ color: "#f39c12", marginRight: "5px" }}
                         ></i>{" "}
-                        Swadhyaya
+                        Nakshatra Shanti
+                      </StyledNavLink>
+                    </DropdownItem>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>{" "}
+                        Vastu Shanti
+                      </StyledNavLink>
+                    </DropdownItem>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>{" "}
+                        NavGrah Shanti
+                      </StyledNavLink>
+                    </DropdownItem>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>{" "}
+                        Manglik Dosh Shanti
+                      </StyledNavLink>
+                    </DropdownItem>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>{" "}
+                        Shani Shanti
+                      </StyledNavLink>
+                    </DropdownItem>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>{" "}
+                        Guru Shanti
+                      </StyledNavLink>
+                    </DropdownItem>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>{" "}
+                        Rahu Shanti
+                      </StyledNavLink>
+                    </DropdownItem>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>{" "}
+                        Grih Parvesh
+                      </StyledNavLink>
+                    </DropdownItem>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>{" "}
+                        Office Grah Shanti
+                      </StyledNavLink>
+                    </DropdownItem>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>{" "}
+                        Sourya Mandal Shanti
                       </StyledNavLink>
                     </DropdownItem>
                   </DropdownMenu>
                 )}
                 <DropdownToggle1
                   to="#"
-                  onClick={() => toggleDropdown("foundation")}
+                  onClick={() => toggleDropdown("yagna")}
                   className="dropdown-toggle"
                 >
-                  Foundation
+                  Yagna
                 </DropdownToggle1>
-                {dropdownOpen.foundation && (
+                {dropdownOpen.yagna && (
                   <DropdownMenu>
                     <DropdownItem>
-                      <StyledNavLink
-                        to="/foundation-class-06"
-                        className="dropdown-item"
-                      >
+                      <StyledNavLink to=" " className="dropdown-item">
                         <i
                           className="fas fa-angle-double-right"
                           style={{ color: "#f39c12", marginRight: "5px" }}
                         ></i>
-                        Aadhya
+                        Ramarcha Pooja
                       </StyledNavLink>
                     </DropdownItem>
                     <DropdownItem>
-                      <StyledNavLink
-                        to="/foundation-class-07"
-                        className="dropdown-item"
-                      >
+                      <StyledNavLink to=" " className="dropdown-item">
                         <i
                           className="fas fa-angle-double-right"
                           style={{ color: "#f39c12", marginRight: "5px" }}
                         ></i>
-                        Abhinav
+                        Shat Chandi Yagna
                       </StyledNavLink>
                     </DropdownItem>
                     <DropdownItem>
-                      <StyledNavLink
-                        to="/foundation-class-08"
-                        className="dropdown-item"
-                      >
+                      <StyledNavLink to=" " className="dropdown-item">
                         <i
                           className="fas fa-angle-double-right"
                           style={{ color: "#f39c12", marginRight: "5px" }}
                         ></i>{" "}
-                        Abhyas
+                        Banglamukhi Jaap
                       </StyledNavLink>
                     </DropdownItem>
                     <DropdownItem>
-                      <StyledNavLink
-                        to="/foundation-class-09"
-                        className="dropdown-item"
-                      >
+                      <StyledNavLink to=" " className="dropdown-item">
                         <i
                           className="fas fa-angle-double-right"
                           style={{ color: "#f39c12", marginRight: "5px" }}
                         ></i>{" "}
-                        Aarohan
+                        Sri Suktam Havan
                       </StyledNavLink>
                     </DropdownItem>
                     <DropdownItem>
-                      <StyledNavLink
-                        to="/foundation-class-10"
-                        className="dropdown-item"
-                      >
+                      <StyledNavLink to=" " className="dropdown-item">
                         <i
                           className="fas fa-angle-double-right"
                           style={{ color: "#f39c12", marginRight: "5px" }}
                         ></i>{" "}
-                        Atal
+                        Maha Mritunjay Jap
+                      </StyledNavLink>
+                    </DropdownItem>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>{" "}
+                        Vishnu Yagna
+                      </StyledNavLink>
+                    </DropdownItem>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>{" "}
+                        Navchandi Yagna
+                      </StyledNavLink>
+                    </DropdownItem>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>{" "}
+                        Ekadashi Yagna
                       </StyledNavLink>
                     </DropdownItem>
                   </DropdownMenu>
                 )}
                 <DropdownToggle1
                   to="#"
-                  onClick={() => toggleDropdown("distance")}
+                  onClick={() => toggleDropdown("sanskar")}
                   className="dropdown-toggle"
                 >
-                  Distance Learning
+                  Sanskar Vidhi
                 </DropdownToggle1>
-                {dropdownOpen.distance && (
+                {dropdownOpen.sanskar && (
                   <DropdownMenu>
                     <DropdownItem>
-                      <StyledNavLink
-                        to="/distance-class-10"
-                        className="dropdown-item"
-                      >
+                      <StyledNavLink to=" " className="dropdown-item">
                         <i
                           className="fas fa-angle-double-right"
                           style={{ color: "#f39c12", marginRight: "5px" }}
                         ></i>
-                        Sankalp
+                        Namkaran Sanskar
                       </StyledNavLink>
                     </DropdownItem>
                     <DropdownItem>
-                      <StyledNavLink
-                        to="/distance-class-11-engineering"
-                        className="dropdown-item"
-                      >
+                      <StyledNavLink to=" " className="dropdown-item">
                         <i
                           className="fas fa-angle-double-right"
                           style={{ color: "#f39c12", marginRight: "5px" }}
                         ></i>
-                        Utkarsh
+                        Mundan Sanskar
                       </StyledNavLink>
                     </DropdownItem>
                     <DropdownItem>
-                      <StyledNavLink
-                        to="/distance-class-12-engineering"
-                        className="dropdown-item"
-                      >
+                      <StyledNavLink to=" " className="dropdown-item">
                         <i
                           className="fas fa-angle-double-right"
                           style={{ color: "#f39c12", marginRight: "5px" }}
                         ></i>{" "}
-                        Lakshya
+                        Yagnopavit Sanskar
                       </StyledNavLink>
                     </DropdownItem>
                     <DropdownItem>
-                      <StyledNavLink
-                        to="/distance-class-13-engineering"
-                        className="dropdown-item"
-                      >
+                      <StyledNavLink to=" " className="dropdown-item">
                         <i
                           className="fas fa-angle-double-right"
                           style={{ color: "#f39c12", marginRight: "5px" }}
                         ></i>{" "}
-                        Abhiyaan
+                        Vivah Sanskar
                       </StyledNavLink>
                     </DropdownItem>
                     <DropdownItem>
-                      <StyledNavLink
-                        to="/distance-class-11-medical"
-                        className="dropdown-item"
-                      >
+                      <StyledNavLink to=" " className="dropdown-item">
                         <i
                           className="fas fa-angle-double-right"
                           style={{ color: "#f39c12", marginRight: "5px" }}
                         ></i>{" "}
-                        Yukti
+                        Annaprashan Sanskar
                       </StyledNavLink>
                     </DropdownItem>
                     <DropdownItem>
-                      <StyledNavLink
-                        to="/distance-class-12-medical"
-                        className="dropdown-item"
-                      >
+                      <StyledNavLink to=" " className="dropdown-item">
                         <i
                           className="fas fa-angle-double-right"
                           style={{ color: "#f39c12", marginRight: "5px" }}
                         ></i>{" "}
-                        Sarthak
+                        Vidya Aarambh Sanskar
                       </StyledNavLink>
                     </DropdownItem>
                     <DropdownItem>
-                      <StyledNavLink
-                        to="/distance-class-13-medical"
-                        className="dropdown-item"
-                      >
+                      <StyledNavLink to=" " className="dropdown-item">
                         <i
                           className="fas fa-angle-double-right"
                           style={{ color: "#f39c12", marginRight: "5px" }}
                         ></i>{" "}
-                        Pragya
+                        Antyoshti Sanskar
                       </StyledNavLink>
                     </DropdownItem>
                   </DropdownMenu>
                 )}
                 <DropdownToggle1
                   to="#"
-                  onClick={() => toggleDropdown("boards")}
+                  onClick={() => toggleDropdown("sthapan")}
                   className="dropdown-toggle"
                 >
-                  Boards
+                  Sthapan Puja
                 </DropdownToggle1>
-                {dropdownOpen.boards && (
+                {dropdownOpen.sthapan && (
                   <DropdownMenu>
                     <DropdownItem>
-                      <StyledNavLink
-                        to="/boards-class-11-pcm"
-                        className="dropdown-item"
-                      >
+                      <StyledNavLink to=" " className="dropdown-item">
                         <i
                           className="fas fa-angle-double-right"
                           style={{ color: "#f39c12", marginRight: "5px" }}
                         ></i>
-                        Sammarsa
+                        Ghat Sthapna
                       </StyledNavLink>
                     </DropdownItem>
                     <DropdownItem>
-                      <StyledNavLink
-                        to="/boards-class-12-pcm"
-                        className="dropdown-item"
-                      >
+                      <StyledNavLink to=" " className="dropdown-item">
                         <i
                           className="fas fa-angle-double-right"
                           style={{ color: "#f39c12", marginRight: "5px" }}
                         ></i>
-                        Vikash
+                        Rudra Abhishek
                       </StyledNavLink>
                     </DropdownItem>
                     <DropdownItem>
-                      <StyledNavLink
-                        to="/boards-class-11-pcb"
-                        className="dropdown-item"
-                      >
+                      <StyledNavLink to=" " className="dropdown-item">
                         <i
                           className="fas fa-angle-double-right"
                           style={{ color: "#f39c12", marginRight: "5px" }}
                         ></i>{" "}
-                        Daksh
+                        Laghu Rudra
                       </StyledNavLink>
                     </DropdownItem>
                     <DropdownItem>
-                      <StyledNavLink
-                        to="/boards-class-12-pcb"
-                        className="dropdown-item"
-                      >
+                      <StyledNavLink to=" " className="dropdown-item">
                         <i
                           className="fas fa-angle-double-right"
                           style={{ color: "#f39c12", marginRight: "5px" }}
                         ></i>{" "}
-                        Samridhi
+                        Maha Rudra Pooja
+                      </StyledNavLink>
+                    </DropdownItem>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>{" "}
+                        Ati Rudra Pooja
+                      </StyledNavLink>
+                    </DropdownItem>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>{" "}
+                        Murti Pranpratishtha
+                      </StyledNavLink>
+                    </DropdownItem>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>{" "}
+                        Yantra Sthapana
+                      </StyledNavLink>
+                    </DropdownItem>
+                  </DropdownMenu>
+                )}
+                <DropdownToggle1
+                  to="#"
+                  onClick={() => toggleDropdown("festival")}
+                  className="dropdown-toggle"
+                >
+                  Festival Puja
+                </DropdownToggle1>
+                {dropdownOpen.festival && (
+                  <DropdownMenu>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>
+                        Saraswati Pooja
+                      </StyledNavLink>
+                    </DropdownItem>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>
+                        Kali Pooja
+                      </StyledNavLink>
+                    </DropdownItem>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>{" "}
+                        Durga Pooja
+                      </StyledNavLink>
+                    </DropdownItem>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>{" "}
+                        Vishwakarma Pooja
+                      </StyledNavLink>
+                    </DropdownItem>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>{" "}
+                        Ganesh Pooja
+                      </StyledNavLink>
+                    </DropdownItem>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>{" "}
+                        SatyaNarayan Pooja
+                      </StyledNavLink>
+                    </DropdownItem>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>{" "}
+                        Mahadev Pooja
+                      </StyledNavLink>
+                    </DropdownItem>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>{" "}
+                        Janamasti Pooja
+                      </StyledNavLink>
+                    </DropdownItem>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>{" "}
+                        Ramnavmi Pooja
+                      </StyledNavLink>
+                    </DropdownItem>
+                    <DropdownItem>
+                      <StyledNavLink to=" " className="dropdown-item">
+                        <i
+                          className="fas fa-angle-double-right"
+                          style={{ color: "#f39c12", marginRight: "5px" }}
+                        ></i>{" "}
+                        MahaShivratri Pooja
                       </StyledNavLink>
                     </DropdownItem>
                   </DropdownMenu>
@@ -724,91 +882,69 @@ const Sidebar = () => {
 
             <DropdownToggle
               to="#"
-              onClick={() => toggleDropdown("login")}
+              onClick={() => toggleDropdown("panchang")}
               className="dropdown-toggle"
             >
-              Login Section
+              Panchang 2024
             </DropdownToggle>
-            {dropdownOpen.login && (
+            {dropdownOpen.panchang && (
               <DropdownMenu>
                 <DropdownItem>
-                  <StyledNavLink to="/students-login" className="dropdown-item">
+                  <StyledNavLink to="/horoscope-2024" className="dropdown-item">
                     <i
                       className="fas fa-angle-double-right"
                       style={{ color: "#f39c12", marginRight: "5px" }}
                     ></i>
-                    Students
+                    Horoscope 2024
                   </StyledNavLink>
                 </DropdownItem>
                 <DropdownItem>
-                  <StyledNavLink to="/faculty-login" className="dropdown-item">
+                  <StyledNavLink
+                    to="/shubh-muhurat-2024"
+                    className="dropdown-item"
+                  >
                     <i
                       className="fas fa-angle-double-right"
                       style={{ color: "#f39c12", marginRight: "5px" }}
                     ></i>
-                    Faculty
+                    Shubh Muhurat 2024
                   </StyledNavLink>
                 </DropdownItem>
-              </DropdownMenu>
-            )}
-            <DropdownToggle
-              to="#"
-              onClick={() => toggleDropdown("result")}
-              className="dropdown-toggle"
-            >
-              Result
-            </DropdownToggle>
-            {dropdownOpen.result && (
-              <DropdownMenu>
                 <DropdownItem>
-                  <div className="dropdown-item">
-                    {" "}
+                  <StyledNavLink
+                    to="/indian-calendar-festivals-2024"
+                    className="dropdown-item"
+                  >
                     <i
                       className="fas fa-angle-double-right"
                       style={{ color: "#f39c12", marginRight: "5px" }}
                     ></i>
-                    JEE-Mains
-                  </div>
+                    Festival Calendar 2024
+                  </StyledNavLink>
                 </DropdownItem>
                 <DropdownItem>
-                  <div className="dropdown-item">
-                    {" "}
+                  <StyledNavLink
+                    to="/fasts-calendar-2024"
+                    className="dropdown-item"
+                  >
                     <i
                       className="fas fa-angle-double-right"
                       style={{ color: "#f39c12", marginRight: "5px" }}
                     ></i>
-                    JEE-Advance
-                  </div>
+                    Vrat Calendar 2024
+                  </StyledNavLink>
                 </DropdownItem>
                 <DropdownItem>
-                  <div className="dropdown-item">
-                    {" "}
+                  <StyledNavLink
+                    to="/planetary-transit-2024"
+                    className="dropdown-item"
+                  >
                     <i
                       className="fas fa-angle-double-right"
                       style={{ color: "#f39c12", marginRight: "5px" }}
                     ></i>
-                    NEET
-                  </div>
-                </DropdownItem>
-                <DropdownItem>
-                  <div className="dropdown-item">
-                    {" "}
-                    <i
-                      className="fas fa-angle-double-right"
-                      style={{ color: "#f39c12", marginRight: "5px" }}
-                    ></i>
-                    Boards
-                  </div>
-                </DropdownItem>
-                <DropdownItem>
-                  <div className="dropdown-item">
-                    {" "}
-                    <i
-                      className="fas fa-angle-double-right"
-                      style={{ color: "#f39c12", marginRight: "5px" }}
-                    ></i>
-                    KVPY
-                  </div>
+                    Planet Transit 2024
+                  </StyledNavLink>
                 </DropdownItem>
               </DropdownMenu>
             )}
@@ -822,7 +958,7 @@ const Sidebar = () => {
             {dropdownOpen.contact && (
               <DropdownMenu>
                 <DropdownItem>
-                  <StyledNavLink to="/careers" className="dropdown-item">
+                  <StyledNavLink to="/join-our-team" className="dropdown-item">
                     <i
                       className="fas fa-angle-double-right"
                       style={{ color: "#f39c12", marginRight: "5px" }}
@@ -831,21 +967,11 @@ const Sidebar = () => {
                   </StyledNavLink>
                 </DropdownItem>
                 <DropdownItem>
-                  <StyledNavLink to="/internship" className="dropdown-item">
+                  <StyledNavLink to=" " className="dropdown-item">
                     <i
                       className="fas fa-angle-double-right"
                       style={{ color: "#f39c12", marginRight: "5px" }}
                     ></i>{" "}
-                    Internship
-                  </StyledNavLink>
-                </DropdownItem>
-                <DropdownItem>
-                  <StyledNavLink to=" " className="dropdown-item">
-                    {" "}
-                    <i
-                      className="fas fa-angle-double-right"
-                      style={{ color: "#f39c12", marginRight: "5px" }}
-                    ></i>
                     Contact Us
                   </StyledNavLink>
                 </DropdownItem>
