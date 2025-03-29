@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import Layout from "../../../Layout/Layout.js";
 import styled from "styled-components";
 import VastuFYQ from "./VastuFyq.js";
+import Breadcrumbs from "../../../Breadcrumb.js";
 
 const StyledDiv = styled.div`
   .body {
@@ -50,7 +51,8 @@ const Vastu = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Vastu Shastra">
+    <Layout title="AstroSwarg - Vastu Shastra" description="" keywords="">
+      <Breadcrumbs />
       <StyledDiv>
         <div className="body">
           <h1 className="heading">Vastu Shastra</h1>

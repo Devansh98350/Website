@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import Layout from "../../../../Layout/Layout.js";
 import styled from "styled-components";
 import image from "./../../../../../assests/Others/Mantras/Chandra_Mantra.webp";
+import Breadcrumbs from "../../../../Breadcrumb.js";
 
 const Container = styled.div`
   .body {
@@ -84,7 +85,8 @@ const Chandra = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Chandra Mantra">
+    <Layout title="AstroSwarg - Chandra Mantra" description="" keywords="">
+      <Breadcrumbs />
       <Container>
         <div className="body">
           <h1 className="heading">Chandra Mantra</h1>

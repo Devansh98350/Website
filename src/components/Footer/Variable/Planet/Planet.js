@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 import styled from "styled-components";
 import Layout from "../../../Layout/Layout.js";
-
+import Breadcrumbs from "../../../Breadcrumb";
 const StyledDiv = styled.div`
   .body {
     margin: 0 auto;
@@ -64,9 +64,13 @@ const Planet = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Planet Transits 2024">
+    <Layout
+      title="AstroSwarg - Planet Transits 2024"
+      description=""
+      keywords=""
+    >
+      <Breadcrumbs />
       <StyledDiv>
-        {" "}
         <div className="body">
           <h1 className="heading">
             Planet Transits 2024: Dates, Time, And Predictions

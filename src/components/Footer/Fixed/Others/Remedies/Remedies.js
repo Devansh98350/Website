@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import styled from "styled-components";
 import Layout from "../../../../Layout/Layout.js";
 import RemediesFYQ from "./RemediesFyq";
+import Breadcrumbs from "../../../../Breadcrumb.js";
 
 const Container = styled.div`
   .body {
@@ -84,7 +85,12 @@ const Remedies = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Astrological remedies for job promotion">
+    <Layout
+      title="AstroSwarg - Astrological remedies for job promotion"
+      description=""
+      keywords=""
+    >
+      <Breadcrumbs />
       <Container>
         <div className="body">
           <h1 className="heading">Astrological remedies for job promotion</h1>

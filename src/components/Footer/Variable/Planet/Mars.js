@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import Layout from "../../../Layout/Layout.js";
 import styled from "styled-components";
-
+import Breadcrumbs from "../../../Breadcrumb";
 const StyledContainer = styled.div`
   .body {
     // font-family: Arial, sans-serif;
@@ -71,7 +71,8 @@ const Mars = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Mars Transits 2024">
+    <Layout title="AstroSwarg - Mars Transits 2024" description="" keywords="">
+      <Breadcrumbs />
       <StyledContainer>
         <div className="body">
           <h1 className="heading">

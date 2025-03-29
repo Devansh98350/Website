@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import Layout from "../../../../Layout/Layout.js";
 import styled from "styled-components";
 import image from "./../../../../../assests/Others/Mantras/Brishpati_Mantra.webp";
+import Breadcrumbs from "../../../../Breadcrumb.js";
 
 const Container = styled.div`
   .body {
@@ -84,7 +85,8 @@ const Brihaspati = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Brihaspati Mantra">
+    <Layout title="AstroSwarg - Brihaspati Mantra" description="" keywords="">
+      <Breadcrumbs />
       <Container>
         <div className="body">
           <h1 className="heading">Brihaspati Mantra</h1>

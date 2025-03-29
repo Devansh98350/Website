@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import Layout from "../../../../../../Layout/Layout.js";
 import styled from "styled-components";
 import CapricornFYQ from "./CapricornFyq.js";
-
+import Breadcrumbs from "../../../../../../Breadcrumb";
 const StyledDiv = styled.div`
   .body {
     width: 90%;
@@ -55,7 +55,12 @@ const Capricorn = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Capricorn Horoscope 2024">
+    <Layout
+      title="AstroSwarg - Capricorn Horoscope 2024"
+      description=""
+      keywords=""
+    >
+      <Breadcrumbs />
       <StyledDiv>
         <div className="body">
           <h1 className="heading">Capricorn Horoscope 2024</h1>

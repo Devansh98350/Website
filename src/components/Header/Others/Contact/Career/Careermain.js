@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import Layout from "../../../../Layout/Layout.js";
 import styled from "styled-components";
 import CareerJobs from "./CareerJobs.js";
-
+import Breadcrumbs from "../../../../Breadcrumb";
 const Container = styled.div`
   .body {
     width: 90%;
@@ -36,7 +36,8 @@ const Careermain = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg">
+    <Layout title="AstroSwarg" description="" keywords="">
+      <Breadcrumbs />
       <Container>
         <div className="body">
           <div className="row">

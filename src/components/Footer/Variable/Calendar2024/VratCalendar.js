@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 import Layout from "../../../Layout/Layout.js";
 import styled from "styled-components";
-
+import Breadcrumbs from "../../../Breadcrumb";
 const StyledDiv = styled.div`
   .body {
     width: 90%;
@@ -61,7 +61,8 @@ const VratCalendar = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Vrat Calendar 2024">
+    <Layout title="AstroSwarg - Vrat Calendar 2024" description="" keywords="">
+      <Breadcrumbs />
       <StyledDiv>
         <div className="body">
           <h1 className="heading">Vrat Calendar 2024</h1>

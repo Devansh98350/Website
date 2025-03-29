@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import Layout from "../../../../Layout/Layout.js";
 import styled from "styled-components";
 import MoleAstroFYQ from "./MoleAstroFyq.js";
+import Breadcrumbs from "../../../../Breadcrumb.js";
 
 const StyledDiv = styled.div`
   .body {
@@ -52,7 +53,8 @@ const MoleAstro = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Mole Astrology">
+    <Layout title="AstroSwarg - Mole Astrology" description="" keywords="">
+      <Breadcrumbs />
       <StyledDiv>
         <div className="body">
           <h1 className="heading">Mole Astrology</h1>

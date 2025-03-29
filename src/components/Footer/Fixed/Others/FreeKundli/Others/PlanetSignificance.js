@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import Layout from "../../../../../Layout/Layout.js";
 import styled from "styled-components";
 import image from "./../../../../../../assests/Others/chart3.webp";
+import Breadcrumbs from "../../../../../Breadcrumb.js";
 const StyledDiv = styled.div`
   .body {
     width: 90%;
@@ -63,7 +64,12 @@ const PlanetSignificance = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Planets signs and significance">
+    <Layout
+      title="AstroSwarg - Planets signs and significance"
+      description=""
+      keywords=""
+    >
+      <Breadcrumbs />
       <StyledDiv>
         <div className="body">
           <h1 className="heading">

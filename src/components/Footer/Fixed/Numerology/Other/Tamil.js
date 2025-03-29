@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import Layout from "../../../../Layout/Layout.js";
 import styled from "styled-components";
+import Breadcrumbs from "../../../../Breadcrumb.js";
 
 const StyledDiv = styled.div`
   .body {
@@ -56,7 +57,8 @@ const Tamil = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Tamil Numerology">
+    <Layout title="AstroSwarg - Tamil Numerology" description="" keywords="">
+      <Breadcrumbs />
       <StyledDiv>
         <div className="body">
           <h1 className="heading">Tamil Numerology</h1>

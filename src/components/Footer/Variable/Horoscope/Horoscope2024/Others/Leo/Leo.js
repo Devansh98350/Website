@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import Layout from "../../../../../../Layout/Layout.js";
 import styled from "styled-components";
 import LeoFYQ from "./LeoFyq.js";
-
+import Breadcrumbs from "../../../../../../Breadcrumb";
 const StyledDiv = styled.div`
   .body {
     width: 90%;
@@ -55,7 +55,8 @@ const Leo = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Leo Horoscope 2024">
+    <Layout title="AstroSwarg - Leo Horoscope 2024" description="" keywords="">
+      <Breadcrumbs />
       <StyledDiv>
         <div className="body">
           <h1 className="heading">Leo Horoscope 2024</h1>

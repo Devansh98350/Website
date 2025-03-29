@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import Layout from "../../../../../Layout/Layout.js";
 import styled from "styled-components";
+import Breadcrumbs from "../../../../../Breadcrumb.js";
 
 const StyledDiv = styled.div`
   .body {
@@ -49,7 +50,12 @@ const PlanetsAstro = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Planets in astrology">
+    <Layout
+      title="AstroSwarg - Planets in astrology"
+      description=""
+      keywords=""
+    >
+      <Breadcrumbs />
       <StyledDiv>
         <div className="body">
           <h1 className="heading">Planets in astrology meaning</h1>

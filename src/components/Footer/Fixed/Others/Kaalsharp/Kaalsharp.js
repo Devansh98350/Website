@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import styled from "styled-components";
 import Layout from "../../../../Layout/Layout.js";
 import KaalFYQ from "./KaalFyq.js";
+import Breadcrumbs from "../../../../Breadcrumb.js";
 
 const Container = styled.div`
   .body {
@@ -66,7 +67,8 @@ const Kaalsharp = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Kaalsarp Dosh">
+    <Layout title="AstroSwarg - Kaalsarp Dosh" description="" keywords="">
+      <Breadcrumbs />
       <Container>
         <div className="body">
           <h1 className="heading">12 Kaalsarp Doshas</h1>

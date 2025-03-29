@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import Layout from "../../../Layout/Layout.js";
 import styled from "styled-components";
 import TarotFYQ from "./TarotFyq.js";
+import Breadcrumbs from "../../../Breadcrumb.js";
 
 const StyledDiv = styled.div`
   .body {
@@ -37,7 +38,8 @@ const Tarot = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Tarot Cards Reading">
+    <Layout title="AstroSwarg - Tarot Cards Reading" description="" keywords="">
+      <Breadcrumbs />
       <StyledDiv>
         <div className="body">
           <h1 className="heading">Tarot Cards Reading</h1>

@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import Layout from "../../../../Layout/Layout.js";
 import styled from "styled-components";
 import Horoscope2024FYQ from "./Horoscope2024Fyq.js";
-
+import Breadcrumbs from "../../../../Breadcrumb";
 const StyledDiv = styled.div`
   .body {
     width: 90%;
@@ -58,7 +58,12 @@ const Horoscope2024 = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Yearly Horoscope 2024">
+    <Layout
+      title="AstroSwarg - Yearly Horoscope 2024"
+      description=""
+      keywords=""
+    >
+      <Breadcrumbs />
       <StyledDiv>
         <div className="body">
           <h1 className="heading">Yearly Horoscope 2024</h1>

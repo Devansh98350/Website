@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import Layout from "../../../../../Layout/Layout.js";
 import styled from "styled-components";
+import Breadcrumbs from "../../../../../Breadcrumb.js";
 
 const StyledDiv = styled.div`
   .body {
@@ -49,7 +50,8 @@ const Moarms = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Mole on the arms">
+    <Layout title="AstroSwarg - Mole on the arms" description="" keywords="">
+      <Breadcrumbs />
       <StyledDiv>
         <div className="body">
           <h1 className="heading">Mole on the arms</h1>

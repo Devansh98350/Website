@@ -2,6 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import Layout from "../../../../Layout/Layout.js";
 import ChAstroFYQ from "./ChAstroFyq.js";
+import Breadcrumbs from "../../../../Breadcrumb.js";
 
 const Container = styled.div`
   .body {
@@ -91,7 +92,8 @@ const ListItem = styled.li`
 
 const ChildAstro = () => {
   return (
-    <Layout title="AstroSwarg - Child Astrology">
+    <Layout title="AstroSwarg - Child Astrology" description="" keywords="">
+      <Breadcrumbs />
       <Container>
         <div className="body">
           <h1 className="heading">Child Astrology</h1>

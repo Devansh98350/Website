@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import Layout from "../../../../../../Layout/Layout.js";
 import styled from "styled-components";
 import LibraFYQ from "./LibraFyq.js";
-
+import Breadcrumbs from "../../../../../../Breadcrumb";
 const StyledDiv = styled.div`
   .body {
     width: 90%;
@@ -55,7 +55,12 @@ const Libra = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Libra Horoscope 2024">
+    <Layout
+      title="AstroSwarg - Libra Horoscope 2024"
+      description=""
+      keywords=""
+    >
+      <Breadcrumbs />
       <StyledDiv>
         <div className="body">
           <h1 className="heading">Libra Horoscope 2024</h1>

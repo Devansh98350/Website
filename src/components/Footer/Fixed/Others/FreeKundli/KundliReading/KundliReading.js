@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import Layout from "../../../../../Layout/Layout.js";
 import styled from "styled-components";
 import KundliReadingFYQ from "./KundliReadingFyq.js";
+import Breadcrumbs from "../../../../../Breadcrumb.js";
 
 const StyledDiv = styled.div`
   .body {
@@ -59,7 +60,8 @@ const KundliReading = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - How to read kundli">
+    <Layout title="AstroSwarg - How to read kundli" description="" keywords="">
+      <Breadcrumbs />
       <StyledDiv>
         <div className="body">
           <h1 className="heading">How to read kundli</h1>

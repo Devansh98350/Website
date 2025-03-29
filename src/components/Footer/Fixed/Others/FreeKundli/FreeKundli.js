@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import Layout from "../../../../Layout/Layout.js";
 import styled from "styled-components";
 import FreeKundliFYQ from "./FreeKundliFyq.js";
+import Breadcrumbs from "../../../../Breadcrumb.js";
 
 const StyledDiv = styled.div`
   .body {
@@ -44,7 +45,8 @@ const FreeKundli = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Free Kundli Online">
+    <Layout title="AstroSwarg - Free Kundli Online" description="" keywords="">
+      <Breadcrumbs />
       <StyledDiv>
         <div className="body">
           <h1 className="heading">Free Kundli Online</h1>

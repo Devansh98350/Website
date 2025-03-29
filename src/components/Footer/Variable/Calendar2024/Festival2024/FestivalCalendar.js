@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import Layout from "../../../../Layout/Layout.js";
 import styled from "styled-components";
 import FestivalCalendarFYQ from "./FestivalCalendarFyq";
-
+import Breadcrumbs from "../../../../Breadcrumb";
 const StyledDiv = styled.div`
   .body {
     width: 90%;
@@ -59,7 +59,12 @@ const FestivalCalendar = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Festival Calendar 2024">
+    <Layout
+      title="AstroSwarg - Festival Calendar 2024"
+      description=""
+      keywords=""
+    >
+      <Breadcrumbs />
       <StyledDiv>
         <div className="body">
           <h1 className="heading">Festival Calendar 2024</h1>

@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import Layout from "../../../Layout/Layout.js";
 import styled from "styled-components";
-
+import Breadcrumbs from "../../../Breadcrumb";
 const Container = styled.div`
   .body {
     width: 90%;
@@ -61,9 +61,13 @@ const Mercury = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Mercury Transits 2024">
+    <Layout
+      title="AstroSwarg - Mercury Transits 2024"
+      description=""
+      keywords=""
+    >
+      <Breadcrumbs />
       <Container>
-        {" "}
         <div className="body">
           <h1 className="heading">
             Mercury Transit 2024 Date, Time, Predictions & Remedies

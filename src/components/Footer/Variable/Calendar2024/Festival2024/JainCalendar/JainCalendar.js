@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import Layout from "../../../../../Layout/Layout.js";
 import styled from "styled-components";
 import JainCalendarFYQ from "./JainCalendarFyq.js";
-
+import Breadcrumbs from "../../../../../Breadcrumb";
 const StyledDiv = styled.div`
   .body {
     width: 90%;
@@ -50,7 +50,8 @@ const JainCalendar = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Jain Calendar 2024">
+    <Layout title="AstroSwarg - Jain Calendar 2024" description="" keywords="">
+      <Breadcrumbs />
       <StyledDiv>
         <div className="body">
           <h1 className="heading">Jain Calendar 2024</h1>

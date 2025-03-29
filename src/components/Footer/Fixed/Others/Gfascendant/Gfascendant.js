@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import styled from "styled-components";
 import Layout from "../../../../Layout/Layout.js";
 import GfaFYQ from "./GfaFyq";
+import Breadcrumbs from "../../../../Breadcrumb.js";
 
 const Container = styled.div`
   .body {
@@ -81,7 +82,12 @@ const Gfascendant = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Gemstone for Ascendant">
+    <Layout
+      title="AstroSwarg - Gemstone for Ascendant"
+      description=""
+      keywords=""
+    >
+      <Breadcrumbs />
       <Container>
         <div className="body">
           <h1 className="heading">Ascendant Sign Gemstone</h1>

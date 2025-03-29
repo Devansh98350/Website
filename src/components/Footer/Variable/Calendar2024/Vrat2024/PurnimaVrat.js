@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import Layout from "../../../../Layout/Layout.js";
 import styled from "styled-components";
-
+import Breadcrumbs from "../../../../Breadcrumb";
 const StyledDiv = styled.div`
   .body {
     width: 90%;
@@ -49,7 +49,8 @@ const PurnimaVrat = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Purnima in 2024">
+    <Layout title="AstroSwarg - Purnima in 2024" description="" keywords="">
+      <Breadcrumbs />
       <StyledDiv>
         <div className="body">
           <h1 className="heading">

@@ -3,6 +3,7 @@ import styled from "styled-components";
 import Layout from "../../../../Layout/Layout.js";
 import yogaData from "./yogaTableData.json";
 import YogaFYQ from "./YogaFyq.js";
+import Breadcrumbs from "../../../../Breadcrumb.js";
 const data = yogaData.Table;
 
 function TableRow({ name, description, result, quality }) {
@@ -51,7 +52,8 @@ const Yoga = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - 300 Astrology Yoga">
+    <Layout title="AstroSwarg - 300 Astrology Yoga" description="" keywords="">
+      <Breadcrumbs />
       <Container>
         <div className="body">
           <h1 className="heading">Yogas in Astrology</h1>

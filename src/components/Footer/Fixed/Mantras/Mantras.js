@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 import Layout from "../../../Layout/Layout";
 import styled from "styled-components";
+import Breadcrumbs from "../../../Breadcrumb";
 
 const Container = styled.div`
   .body {
@@ -50,7 +51,8 @@ const Mantras = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Mantras">
+    <Layout title="AstroSwarg - Mantras" description="" keywords="">
+      <Breadcrumbs />
       <Container>
         <div className="body">
           <h1 className="heading">Mantras</h1>

@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import Layout from "../../../Layout/Layout";
 import styled from "styled-components";
 import { Link } from "react-router-dom";
-
+import Breadcrumbs from "../../../Breadcrumb";
 const StyledDiv = styled.div`
   .body {
     width: 90%;
@@ -50,7 +50,8 @@ const Shubh_Muhrat = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Shubh Muhurat 2024">
+    <Layout title="AstroSwarg - Shubh Muhurat 2024" description="" keywords="">
+      <Breadcrumbs />
       <StyledDiv>
         <div className="body">
           <h1 className="heading">Shubh Muhurat 2024</h1>

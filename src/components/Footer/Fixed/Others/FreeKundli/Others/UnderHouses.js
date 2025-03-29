@@ -3,6 +3,7 @@ import Layout from "../../../../../Layout/Layout.js";
 import styled from "styled-components";
 import image from "./../../../../../../assests/Others/chart1.webp";
 import image1 from "./../../../../../../assests/Others/chart2.webp";
+import Breadcrumbs from "../../../../../Breadcrumb.js";
 
 const StyledDiv = styled.div`
   .body {
@@ -65,7 +66,12 @@ const UnderHouses = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Read houses in kundli">
+    <Layout
+      title="AstroSwarg - Read houses in kundli"
+      description=""
+      keywords=""
+    >
+      <Breadcrumbs />
       <StyledDiv>
         <div className="body">
           <h1 className="heading">How to read houses in kundli</h1>

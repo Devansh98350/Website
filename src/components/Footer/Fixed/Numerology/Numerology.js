@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import Layout from "../../../Layout/Layout.js";
 import styled from "styled-components";
 import NumerologyFYQ from "./NumerologyFyq";
+import Breadcrumbs from "../../../Breadcrumb.js";
 
 const Container = styled.div`
   .body {
@@ -64,7 +65,8 @@ const Numerology = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Numerology">
+    <Layout title="AstroSwarg - Numerology" description="" keywords="">
+      <Breadcrumbs />
       <Container>
         <div className="body">
           <h1 className="heading">Numerology</h1>

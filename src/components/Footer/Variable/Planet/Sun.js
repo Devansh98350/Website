@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import Layout from "../../../Layout/Layout.js";
 import styled from "styled-components";
-
+import Breadcrumbs from "../../../Breadcrumb";
 const StyledDiv = styled.div`
   // font-family: Arial, sans-serif;
   width: 90%;
@@ -76,7 +76,8 @@ const Sun = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Sun Transits 2024">
+    <Layout title="AstroSwarg - Sun Transits 2024" description="" keywords="">
+      <Breadcrumbs />
       <StyledDiv className="body">
         <StyledHeading className="heading">
           Sun Transit 2024 Dates, Time, Predictions & Remedies

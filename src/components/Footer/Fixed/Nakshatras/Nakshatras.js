@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import styled from "styled-components";
 import Layout from "../../../Layout/Layout.js";
 import NakshatraFYQ from "./NakshatrasFyq.js";
+import Breadcrumbs from "../../../Breadcrumb.js";
 
 const Container = styled.div`
   .body {
@@ -55,7 +56,8 @@ const Nakshatras = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Nakshatras">
+    <Layout title="AstroSwarg - Nakshatras" description="" keywords="">
+      <Breadcrumbs />
       <Container>
         <div className="body">
           <h1 className="heading"> Nakshatras Constellations</h1>

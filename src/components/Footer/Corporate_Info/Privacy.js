@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import Layout from "../../Layout/Layout.js";
 import styled from "styled-components";
+import Breadcrumbs from "../../Breadcrumb.js";
 
 const StyledDiv = styled.div`
   .body {
@@ -27,7 +28,8 @@ const Privacy = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Privacy Policy">
+    <Layout title="AstroSwarg - Privacy Policy" description="" keywords="">
+      <Breadcrumbs />
       <StyledDiv>
         <div className="body">
           <h1 className="heading">Privacy Policy</h1>

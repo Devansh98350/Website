@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import Layout from "../../../../Layout/Layout.js";
 import styled from "styled-components";
+import Breadcrumbs from "../../../../Breadcrumb.js";
 
 const StyledDiv = styled.div`
   .body {
@@ -62,7 +63,8 @@ const Kabbalah = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Kabbalah Numerology">
+    <Layout title="AstroSwarg - Kabbalah Numerology" description="" keywords="">
+      <Breadcrumbs />
       <StyledDiv>
         <div className="body">
           <h1 className="heading">Kabbalah Numerology</h1>
