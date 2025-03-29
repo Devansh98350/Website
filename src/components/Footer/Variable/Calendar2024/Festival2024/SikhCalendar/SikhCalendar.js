@@ -50,15 +50,15 @@ const SikhCalendar = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Sikh Holidays 2024" description="" keywords="">
+    <Layout title="AstroSwarg - Sikh Holidays 2025" description="" keywords="">
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
-          <h1 className="heading">Sikh Holidays 2024</h1>
+          <h1 className="heading">Sikh Holidays 2025</h1>
           <p>
             Get ready to immerse yourself in a tapestry of vibrant colours, rich
             traditions, and spiritual celebrations as we journey into the Sikh
-            Holidays of 2024. The Sikh calendar is a testament to the profound
+            Holidays of 2025. The Sikh calendar is a testament to the profound
             spirituality and cultural diversity that defines the Sikh community,
             and in the upcoming year, it promises to deliver a remarkable array
             of festivities that will captivate hearts and minds alike. From the
@@ -68,21 +68,21 @@ const SikhCalendar = () => {
             faith, joy, and unity.
           </p>
           <p>
-            In 2024, these Sikh holidays will not only mark significant moments
+            In 2025, these Sikh holidays will not only mark significant moments
             in Sikh history but also offer a glimpse into the soul-stirring
             world of Sikhism. Whether you're a devoted follower or an eager
             explorer, these celebrations will draw you into the core of Sikh
             culture, fostering a deeper understanding of its values and customs.
             So, prepare to be enchanted by the melodious hymns, mouthwatering
             langar (community kitchen) feasts, and the infectious enthusiasm
-            that defines the Sikh holidays in 2024. Join us as we embark on a
+            that defines the Sikh holidays in 2025. Join us as we embark on a
             journey through time and tradition, where spirituality meets
             festivity, and where the Sikh spirit shines brighter than ever
             before.
           </p>
-          <h2>Sikh Festivals and Holidays in 2024</h2>
+          <h2>Sikh Festivals and Holidays in 2025</h2>
           <p>
-            The Sikh calendar for the year 2024 in India is filled with
+            The Sikh calendar for the year 2025 in India is filled with
             occasions of deep reverence and celebration, primarily centred
             around the births and martyrdom of the ten Sikh Gurus. These special
             days, known as Gurupurabs, are marked with exuberant festivities and
@@ -102,7 +102,7 @@ const SikhCalendar = () => {
           <p>
             In addition to the public celebrations, individuals flock to
             Gurudwaras, Sikh temples, on this special day to bow their heads in
-            prayer and seek spiritual guidance. The Sikh calendar for 2024 is a
+            prayer and seek spiritual guidance. The Sikh calendar for 2025 is a
             tapestry of these cultural and religious expressions, inviting all
             to partake in the rich heritage and vibrant traditions of Sikhism.
           </p>
@@ -292,14 +292,14 @@ const SikhCalendar = () => {
           <p>
             Hola Mohalla, taking place immediately after Holi, traces its origin
             to Guru Gobind Singh Ji at Anandpur Sahib. This festival, celebrated
-            in 2024, features mock battles, allowing participants to hone their
+            in 2025, features mock battles, allowing participants to hone their
             combat skills and prepare to face potential adversaries.
           </p>
           <p>
-            To Read About Your Horoscope 2024 In Detail,{" "}
+            To Read About Your Horoscope 2025 In Detail,{" "}
             <div className="inline-text">Click Here</div>
           </p>
-          <h3>Sikh calendar 2024: Know all about Sikhism</h3>
+          <h3>Sikh calendar 2025: Know all about Sikhism</h3>
           <p>
             The term "Sikh" signifies a dedicated disciple or learner, and the
             foundation of Sikhism can be traced back to the teachings of Guru
@@ -346,7 +346,7 @@ const SikhCalendar = () => {
             the ten Gurus who conveyed the timeless message of a singular God,
             now enshrined in the sacred pages of the Guru Granth Sahib.
           </p>
-          <h3>2024 Sikh calendar: The ten Gurus in Sikhism</h3>
+          <h3>2025 Sikh calendar: The ten Gurus in Sikhism</h3>
           <p>The ten Gurus' names in Sikhism are as follows -</p>
           <UnorderedList>
             <ListItem>Guru Nanak Dev Ji (1469-1539)</ListItem>

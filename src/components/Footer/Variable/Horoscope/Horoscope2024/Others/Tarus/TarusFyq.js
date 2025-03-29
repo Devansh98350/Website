@@ -103,36 +103,36 @@ const TarusFYQ = () => {
     {
       id: 2,
       title:
-        "Q-2:- What can Taureans expect in terms of love and relationships in 2024?",
+        "Q-2:- What can Taureans expect in terms of love and relationships in 2025?",
       content: `Astrological insights may provide guidance on relationship dynamics, potential challenges, and opportunities for personal growth. Taureans may find focusing on communication, trust, and shared values important in their love lives.`,
     },
     {
       id: 3,
-      title: "Q-3:- How will Taureans' career prospects look in 2024?",
+      title: "Q-3:- How will Taureans' career prospects look in 2025?",
       content: `Career horoscopes can offer insights into potential career changes, job opportunities, and areas for professional development. Taureans' practical and persevering nature may be beneficial in navigating work-related challenges.`,
     },
     {
       id: 4,
       title:
-        "Q-4:- What health considerations should Taureans be aware of in 2024?",
+        "Q-4:- What health considerations should Taureans be aware of in 2025?",
       content: `Astrology may suggest areas of focus for health and well-being. Taureans may benefit from paying attention to stress management, maintaining a balanced lifestyle, and addressing any tendencies towards stubbornness that may impact their health.`,
     },
     {
       id: 5,
       title:
-        "Q-5:- Are there any significant astrological events for Taureans in 2024?",
+        "Q-5:- Are there any significant astrological events for Taureans in 2025?",
       content: `Taureans may want to stay informed about celestial events and planetary movements that could impact their lives. Checking for notable transits or alignments specific to Taurus can provide additional insights.`,
     },
     {
       id: 6,
       title:
-        "Q-6:- Should Taureans be cautious about anything specific in 2024?",
+        "Q-6:- Should Taureans be cautious about anything specific in 2025?",
       content: `Astrology may highlight potential challenges or areas that require careful consideration. Taureans may find it beneficial to be open to change, avoiding excessive materialism, and adapting to new opportunities.`,
     },
     {
       id: 7,
       title:
-        "Q-7:- Can astrology predict financial success for Taureans in 2024?",
+        "Q-7:- Can astrology predict financial success for Taureans in 2025?",
       content: `Astrology can offer insights into potential financial trends, but individual financial success depends on various factors. Taureans may find it helpful to focus on financial planning, budgeting, and exploring practical investment opportunities.`,
     },
   ];

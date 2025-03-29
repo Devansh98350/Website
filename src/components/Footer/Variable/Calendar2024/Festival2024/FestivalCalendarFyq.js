@@ -96,8 +96,8 @@ const FestivalCalendarFYQ = () => {
   const questions = [
     {
       id: 1,
-      title: "Q-1:- What does the Indian Festival Calendar 2024 include?",
-      content: `The calendar encompasses a comprehensive list of dates and events for various festivals celebrated across India in 2024. It provides insights into cultural, religious, and regional celebrations.`,
+      title: "Q-1:- What does the Indian Festival Calendar 2025 include?",
+      content: `The calendar encompasses a comprehensive list of dates and events for various festivals celebrated across India in 2025. It provides insights into cultural, religious, and regional celebrations.`,
     },
     {
       id: 2,
@@ -119,7 +119,7 @@ const FestivalCalendarFYQ = () => {
     {
       id: 5,
       title:
-        "Q-5:- Is the Indian Festival Calendar 2024 specific to any religious or cultural group?",
+        "Q-5:- Is the Indian Festival Calendar 2025 specific to any religious or cultural group?",
       content: `No, the calendar is inclusive and covers festivals from various religions and cultural backgrounds. It aims to represent the rich tapestry of India's diverse traditions.`,
     },
     {
@@ -131,7 +131,7 @@ const FestivalCalendarFYQ = () => {
     {
       id: 7,
       title:
-        "Q-7:- Can I access the Indian Festival Calendar 2024 on mobile devices?",
+        "Q-7:- Can I access the Indian Festival Calendar 2025 on mobile devices?",
       content: `Yes, the calendar is designed to be mobile-friendly. You can easily access it from your smartphone or tablet, making it convenient to check festival dates on the go.`,
     },
     {

@@ -43,14 +43,14 @@ const Bhoomi_Pujan = () => {
   }, []);
   return (
     <Layout
-      title="AstroSwarg - Bhoomi Pujan Muhurat 2024"
+      title="AstroSwarg - Bhoomi Pujan Muhurat 2025"
       description=""
       keywords=""
     >
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
-          <h1 className="heading">Bhoomi Pujan Muhurat 2024</h1>
+          <h1 className="heading">Bhoomi Pujan Muhurat 2025</h1>
           <p>
             In the rich tapestry of Hindu traditions, the Bhoomi Pujan ceremony
             stands as a profound and deeply symbolic ritual. It is a sacred act
@@ -63,20 +63,20 @@ const Bhoomi_Pujan = () => {
           <p>
             As we delve into the intricate world of Hindu culture, the Bhoomi
             Pujan ceremony emerges as a timeless tradition, celebrated with
-            great fervour and devotion. In the year 2024, this auspicious event
+            great fervour and devotion. In the year 2025, this auspicious event
             takes centre stage, offering a unique opportunity for those seeking
             to embark on new construction ventures or home investments. The
-            Bhoomi Pujan Muhurat for 2024 holds immense significance, aligning
+            Bhoomi Pujan Muhurat for 2025 holds immense significance, aligning
             celestial energies with earthly endeavours.
           </p>
           <p>
             This blog aims to unravel the mystique surrounding the Bhoomi Pujan
-            Muhurat of 2024. We will delve into its significance, the auspicious
+            Muhurat of 2025. We will delve into its significance, the auspicious
             dates, and the customs associated with this sacred ritual. Whether
             you're a devout follower of Hinduism or someone keen on
             understanding the cultural richness of this ancient tradition, join
             us on this enlightening journey as we explore the auspicious Bhoomi
-            Pujan Muhurat of 2024, a celestial alignment that promises blessings
+            Pujan Muhurat of 2025, a celestial alignment that promises blessings
             and prosperity for those who seek it.
           </p>
           <h2>What is land worship?</h2>
@@ -145,8 +145,8 @@ const Bhoomi_Pujan = () => {
               making it a vital tradition in the Indian cultural tapestry.
             </ListItem>
           </UnorderedList>
-          <h2>Auspicious time for Bhoomi Pujan in the year 2024</h2>
-          <h3>Bhoomi pujan auspicious time in January 2024 </h3>
+          <h2>Auspicious time for Bhoomi Pujan in the year 2025</h2>
+          <h3>Bhoomi pujan auspicious time in January 2025 </h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -159,18 +159,18 @@ const Bhoomi_Pujan = () => {
               <tbody>
                 <tr>
                   <td>January</td>
-                  <td>25 January 2024</td>
+                  <td>25 January 2025</td>
                   <td>Thursday</td>
                 </tr>
                 <tr>
                   <td>January</td>
-                  <td>26 January 2024</td>
+                  <td>26 January 2025</td>
                   <td>Friday</td>
                 </tr>
               </tbody>
             </table>
           </table>
-          <h3>Bhoomi pujan auspicious time in February 2024 </h3>
+          <h3>Bhoomi pujan auspicious time in February 2025 </h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -183,39 +183,39 @@ const Bhoomi_Pujan = () => {
               <tbody>
                 <tr>
                   <td>February</td>
-                  <td>1 February 2024</td>
+                  <td>1 February 2025</td>
                   <td>Thursday</td>
                 </tr>
                 <tr>
                   <td>February</td>
-                  <td>14 February 2024</td>
+                  <td>14 February 2025</td>
                   <td>Wednesday</td>
                 </tr>
                 <tr>
                   <td>February</td>
-                  <td>15 February 2024</td>
+                  <td>15 February 2025</td>
                   <td>Thursday</td>
                 </tr>
                 <tr>
                   <td>February</td>
-                  <td>19 February 2024</td>
+                  <td>19 February 2025</td>
                   <td>Thursday</td>
                 </tr>
                 <tr>
                   <td>February</td>
-                  <td>22 February 2024</td>
+                  <td>22 February 2025</td>
                   <td>Monday</td>
                 </tr>
               </tbody>
             </table>
           </table>
-          <h3>Bhoomi pujan auspicious time in March 2024 </h3>
+          <h3>Bhoomi pujan auspicious time in March 2025 </h3>
           <p>
-            In March 2024, there are no auspicious muhurats for ground-breaking
+            In March 2025, there are no auspicious muhurats for ground-breaking
             ceremonies. However, you can consult an astrologer as there may be
             some auspicious timings based on your horoscope.
           </p>
-          <h3>Bhoomi pujan auspicious time in April 2024 </h3>
+          <h3>Bhoomi pujan auspicious time in April 2025 </h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -228,25 +228,25 @@ const Bhoomi_Pujan = () => {
               <tbody>
                 <tr>
                   <td>April</td>
-                  <td>24 April 2024</td>
+                  <td>24 April 2025</td>
                   <td>Wednesday</td>
                 </tr>
               </tbody>
             </table>
           </table>
-          <h3>Bhoomi pujan auspicious time in May 2024 </h3>
+          <h3>Bhoomi pujan auspicious time in May 2025 </h3>
           <p>
-            There is no auspicious time in May 2024. However, you can consult an
+            There is no auspicious time in May 2025. However, you can consult an
             astrologer as there may be some auspicious times as per your
             horoscope.
           </p>
-          <h3>Bhoomi pujan auspicious time in June 2024 </h3>
+          <h3>Bhoomi pujan auspicious time in June 2025 </h3>
           <p>
-            There is no auspicious time in June 2024. However, you can consult
+            There is no auspicious time in June 2025. However, you can consult
             an astrologer as there may be some auspicious times as per your
             horoscope.
           </p>
-          <h3>Bhoomi pujan auspicious time in July 2024 </h3>
+          <h3>Bhoomi pujan auspicious time in July 2025 </h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -259,19 +259,19 @@ const Bhoomi_Pujan = () => {
               <tbody>
                 <tr>
                   <td>July</td>
-                  <td>17 July 2024</td>
+                  <td>17 July 2025</td>
                   <td>Wednesday</td>
                 </tr>
               </tbody>
             </table>
           </table>
-          <h3>Bhoomi pujan auspicious time in August 2024 </h3>
+          <h3>Bhoomi pujan auspicious time in August 2025 </h3>
           <p>
-            There is no auspicious time in August 2024. However, you can consult
+            There is no auspicious time in August 2025. However, you can consult
             an astrologer as there may be some auspicious times as per your
             horoscope.
           </p>
-          <h3>Bhoomi pujan auspicious time in September 2024 </h3>
+          <h3>Bhoomi pujan auspicious time in September 2025 </h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -284,13 +284,13 @@ const Bhoomi_Pujan = () => {
               <tbody>
                 <tr>
                   <td>September</td>
-                  <td>14 September 2024</td>
+                  <td>14 September 2025</td>
                   <td>Saturday</td>
                 </tr>
               </tbody>
             </table>
           </table>
-          <h3>Bhoomi pujan auspicious time in October 2024 </h3>
+          <h3>Bhoomi pujan auspicious time in October 2025 </h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -303,69 +303,69 @@ const Bhoomi_Pujan = () => {
               <tbody>
                 <tr>
                   <td>October</td>
-                  <td>14 October 2024</td>
+                  <td>14 October 2025</td>
                   <td>Monday</td>
                 </tr>
               </tbody>
             </table>
           </table>
-          <h3>Bhoomi pujan auspicious time in November 2024 </h3>
+          <h3>Bhoomi pujan auspicious time in November 2025 </h3>
           <p>
-            There is no auspicious time for Bhoomi Pujan in November 2024.
+            There is no auspicious time for Bhoomi Pujan in November 2025.
             However, you can consult an astrologer as there may be some
             auspicious times as per your horoscope.
           </p>
-          <h3>Bhoomi pujan auspicious time in December 2024 </h3>
+          <h3>Bhoomi pujan auspicious time in December 2025 </h3>
           <p>
-            There is no auspicious time for Bhoomi Pujan in December 2024.
+            There is no auspicious time for Bhoomi Pujan in December 2025.
             However, you can consult an astrologer as there may be some
             auspicious times as per your horoscope.
           </p>
           <h3>
-            Bhoomi Pujan Muhurta 2024: Auspicious date for house construction
+            Bhoomi Pujan Muhurta 2025: Auspicious date for house construction
             and Bhoomi Pujan Muhurat
           </h3>
           <p>
-            Bhoomi Pujan Muhurta in 2024 offers an auspicious window of
+            Bhoomi Pujan Muhurta in 2025 offers an auspicious window of
             opportunity for those embarking on house construction projects. The
             choice of an auspicious date is deeply rooted in Vedic astrology and
             is believed to ensure harmony, prosperity, and protection for the
-            new dwelling. Here are six months in 2024, each offering an
+            new dwelling. Here are six months in 2025, each offering an
             auspicious Bhoomi Pujan Muhurat:
           </p>
           <UnorderedList>
             <ListItem>
-              <strong>January 2024: </strong>
+              <strong>January 2025: </strong>
               Begin the year on a positive note by performing Bhoomi Pujan in
               January. The favourable celestial alignments promise a solid
               foundation for your home.
             </ListItem>
             <ListItem>
-              <strong>April 2024: </strong>
+              <strong>April 2025: </strong>
               Spring brings a sense of renewal, making it an ideal time for
               Bhoomi Pujan. This month's Muhurta can symbolise a fresh start for
               your family.
             </ListItem>
             <ListItem>
-              <strong>July 2024: </strong>
+              <strong>July 2025: </strong>
               Amidst the monsoon rains, July offers a unique charm for house
               construction. The rains are seen as a blessing, nurturing the
               earth and your new home.
             </ListItem>
             <ListItem>
-              <strong>September 2024: </strong>
+              <strong>September 2025: </strong>
               With the end of the rainy season, September's Muhurta is a symbol
               of new beginnings and the promise of a bright future in your new
               abode.
             </ListItem>
             <ListItem>
-              <strong>October 2024: </strong>
+              <strong>October 2025: </strong>
               The festive spirit of October makes it a popular choice.
               Performing Bhoomi Pujan during this month can infuse your home
               with positive energy and joy.
             </ListItem>
             <ListItem>
-              <strong>December 2024: </strong>
+              <strong>December 2025: </strong>
               Close the year with a sense of accomplishment by laying the
               foundation for your dream home in December. The peaceful winter
               setting ensures a serene start to your construction journey.
@@ -378,11 +378,11 @@ const Bhoomi_Pujan = () => {
             </span>
           </p>
           <h2>
-            Bhoomi pooja dates in 2024: Auspicious constellation/Nakshatra for
+            Bhoomi pooja dates in 2025: Auspicious constellation/Nakshatra for
             Griha Arambha
           </h2>
           <p>
-            According to our Vastu astrologers, in the year 2024, the most
+            According to our Vastu astrologers, in the year 2025, the most
             auspicious nakshatras for performing Bhumi Puja (groundbreaking
             ceremony) are Shatabhisha, Dhanishta, Uttarashada, Uttarabhadrapada,
             Rohini, Revati, Chitra, Uttara Phalguni, Mrigashira, Anuradha,
@@ -394,13 +394,13 @@ const Bhoomi_Pujan = () => {
             all other nakshatras when considering the foundation stone laying
             ceremony.
           </p>
-          <h2>Auspicious Lagna for Bhumi pujan Muhurat 2024</h2>
+          <h2>Auspicious Lagna for Bhumi pujan Muhurat 2025</h2>
           <p>
             Choosing an auspicious Lagna (ascendant) for Bhumi Pujan Muhurat in
-            2024 is of paramount importance. The Lagna, or the rising sign at
+            2025 is of paramount importance. The Lagna, or the rising sign at
             the time of the ceremony, sets the tone for the event. Ideally, a
             Lagna associated with stability, growth, and prosperity is
-            preferred. In 2024, particularly favourable Lagnas could include
+            preferred. In 2025, particularly favourable Lagnas could include
             Taurus (Vrishabha), Virgo (Kanya), or Capricorn (Makar). These Earth
             signs symbolise grounding energy, making them suitable for the
             foundation-laying ceremony. However, it's essential to consult a
@@ -472,13 +472,13 @@ const Bhoomi_Pujan = () => {
             spiritually aligned project.
           </p>
           <h2>
-            Bhoomi Pujan Vidhi 2024: How should the Bhoomi Pujan ritual be
+            Bhoomi Pujan Vidhi 2025: How should the Bhoomi Pujan ritual be
             performed?
           </h2>
           <p>
             Bhoomi Pujan, a sacred Hindu ritual, signifies the inauguration of a
             new construction project or the commencement of building on a piece
-            of land. In 2024, as in previous years, the ritual should be
+            of land. In 2025, as in previous years, the ritual should be
             performed with utmost reverence and adherence to tradition. The
             ceremony typically begins with the selection of an auspicious date
             and time by consulting a priest or astrologer. On the chosen day,

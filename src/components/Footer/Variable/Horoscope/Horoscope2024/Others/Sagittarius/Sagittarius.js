@@ -56,46 +56,46 @@ const Sagittarius = () => {
   }, []);
   return (
     <Layout
-      title="AstroSwarg - Sagittarius Horoscope 2024"
+      title="AstroSwarg - Sagittarius Horoscope 2025"
       description=""
       keywords=""
     >
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
-          <h1 className="heading">Sagittarius Horoscope 2024</h1>
+          <h1 className="heading">Sagittarius Horoscope 2025</h1>
           <p>
             Are you ready to embark on a cosmic journey through the stars and
             discover what the universe has in store for you in Sagittarius
-            Horoscope 2024? It's time to fasten your seatbelts, because this
+            Horoscope 2025? It's time to fasten your seatbelts, because this
             year promises to be a wild ride full of surprises, opportunities,
             and exciting twists in your life's grand adventure.As we gaze into
             the celestial crystal ball, we can't help but feel the electrifying
-            energy surrounding our Sagittarius friends. The year 2024 is like a
+            energy surrounding our Sagittarius friends. The year 2025 is like a
             treasure trove of possibilities waiting to be unlocked by your
             adventurous spirit. Whether you're a Sagittarius sun, moon, or
             rising sign, this horoscope is tailor-made to help you navigate the
             cosmic currents and set sail toward your dreams.
           </p>
           <p>
-            The universe is your playground, and in 2024, it's offering you the
+            The universe is your playground, and in 2025, it's offering you the
             chance to explore uncharted territories, broaden your horizons, and
             break free from any constraints that may have held you back in the
-            past. So, what can you expect in this Sagittarius Horoscope 2024?
+            past. So, what can you expect in this Sagittarius Horoscope 2025?
             We'll dive deep into the key themes, opportunities, and challenges
             that lie ahead, offering you insights and guidance to make the most
             of this cosmic adventure. From matters of the heart to career
             endeavors and personal growth, we've got it all covered. So, saddle
             up, Sagittarius, and let's set off on a quest to uncover the
-            mysteries of 2024!
+            mysteries of 2025!
           </p>
-          <h3>Sagittarius Love Horoscope 2024</h3>
+          <h3>Sagittarius Love Horoscope 2025</h3>
           <p>
             Are you ready to unlock the cosmic secrets of your heart's desires
-            with the Sagittarius Love Horoscope 2024? Get ready to fasten your
+            with the Sagittarius Love Horoscope 2025? Get ready to fasten your
             love seatbelts, because this year, your romantic journey promises a
             rollercoaster of emotions, filled with highs and a few
-            loop-the-loops. In 2024, your heart is set to soar to new heights,
+            loop-the-loops. In 2025, your heart is set to soar to new heights,
             much like your adventurous spirit. If you're already in a
             relationship, expect sparks to fly and passions to ignite like never
             before. This year, your connection deepens, and the bond you share
@@ -108,7 +108,7 @@ const Sagittarius = () => {
           </p>
           <p>
             While love is a beautiful adventure, it's not always smooth sailing.
-            In 2024, your free-spirited nature may clash with your partner's
+            In 2025, your free-spirited nature may clash with your partner's
             desire for stability. Your adventurous spirit could be
             misinterpreted as restlessness, leading to misunderstandings. You
             might find yourself juggling commitments and feeling torn between
@@ -126,12 +126,12 @@ const Sagittarius = () => {
             not everyone may share your passion for adventure and intellectual
             pursuits.
           </p>
-          <h3>Sagittarius Finance Horoscope 2024</h3>
+          <h3>Sagittarius Finance Horoscope 2025</h3>
           <p>
             It's time to dive deep into your money matters with the Sagittarius
-            Finance Horoscope 2024. Buckle up, because this year's financial
+            Finance Horoscope 2025. Buckle up, because this year's financial
             ride promises to be a rollercoaster of gains and a few financial
-            curves. In 2024, your financial prospects are looking brighter than
+            curves. In 2025, your financial prospects are looking brighter than
             a supernova. Your natural optimism and risk-taking tendencies may
             lead you to some wise investments, potentially reaping generous
             rewards. If you've been thinking about launching that side hustle or
@@ -156,7 +156,7 @@ const Sagittarius = () => {
             strategies or consider consulting with a financial expert to make
             informed decisions.
           </p>
-          <h3>Sagittarius Career Horoscope 2024</h3>
+          <h3>Sagittarius Career Horoscope 2025</h3>
           <p>
             This year, your career journey is akin to a thrilling expedition
             into uncharted territories, filled with peaks of success and a few
@@ -175,13 +175,13 @@ const Sagittarius = () => {
             they could lead to setbacks.
           </p>
           <p>
-            The Sagittarius Career Horoscope 2024 suggests that flexibility will
+            The Sagittarius Career Horoscope 2025 suggests that flexibility will
             be your ally this year. Don't shy away from taking on new challenges
             or responsibilities, even if they seem daunting at first. These
             experiences will not only expand your skill set but also increase
             your value in the job market. Your charismatic and outgoing
             personality is a valuable asset in your career journey. Network like
-            a pro in 2024, as it can open doors to exciting opportunities and
+            a pro in 2025, as it can open doors to exciting opportunities and
             collaborations. Attend industry events, engage with peers, and
             leverage social media to connect with like-minded professionals.
             Your ability to build strong relationships can be a game-changer.
@@ -191,7 +191,7 @@ const Sagittarius = () => {
             spending quality moments with loved ones. Balance ensures you can
             sustain your professional endeavors in the long run.
           </p>
-          <h3>Sagittarius Family Horoscope 2024</h3>
+          <h3>Sagittarius Family Horoscope 2025</h3>
           <p>
             This year, your familial bonds will be like the constellations in
             the night sky - strong, radiant, and occasionally hiding behind a
@@ -212,7 +212,7 @@ const Sagittarius = () => {
             spirit and your family's expectations.
           </p>
           <p>
-            In 2024, make a conscious effort to spend quality time with your
+            In 2025, make a conscious effort to spend quality time with your
             loved ones. Your presence and engagement in family activities will
             be cherished. Consider planning family outings, game nights, or
             simply sharing stories from your adventures. These moments will
@@ -226,7 +226,7 @@ const Sagittarius = () => {
             provide opportunities for bonding. Just be mindful of any travel
             plans conflicting with important family events or commitments.
           </p>
-          <h3>Sagittarius Health Horoscope 2024</h3>
+          <h3>Sagittarius Health Horoscope 2025</h3>
           <p>
             This year, your health journey is a bit like a thrilling expedition,
             with peaks of vitality and the occasional valley of challenges. Your
@@ -245,7 +245,7 @@ const Sagittarius = () => {
           </p>
           <p>
             Incorporating physical activity into your daily routine will be key
-            to maintaining your health in 2024. Consider taking up a sport or
+            to maintaining your health in 2025. Consider taking up a sport or
             outdoor activity that aligns with your adventurous spirit. Regular
             exercise not only keeps you fit but also enhances your mental
             clarity and emotional well-being. Pay attention to your dietary
@@ -258,10 +258,10 @@ const Sagittarius = () => {
             meditation, yoga, or mindfulness into your routine to reduce stress
             and maintain balance.
           </p>
-          <h3>Sagittarius Marriage Horoscope 2024</h3>
+          <h3>Sagittarius Marriage Horoscope 2025</h3>
           <p>
             In the realm of love and partnership, this year promises a mix of
-            adventure, growth, and a few cosmic twists along the way. In 2024,
+            adventure, growth, and a few cosmic twists along the way. In 2025,
             your marital bonds will sparkle like the brightest stars in the
             night sky. Your innate optimism and enthusiasm will infuse your
             relationship with renewed energy. Expect moments of deep connection,
@@ -280,7 +280,7 @@ const Sagittarius = () => {
             might be misconstrued by your spouse. It's important to find a
             harmonious balance between pursuing your individual passions and
             nurturing your marriage. Effective communication will be your ally
-            in 2024. Your candid and straightforward approach can help you
+            in 2025. Your candid and straightforward approach can help you
             navigate any marital conflicts or misunderstandings. Encourage open
             conversations with your spouse, and be receptive to their thoughts
             and feelings. Mutual understanding and compromise will be essential
@@ -296,7 +296,7 @@ const Sagittarius = () => {
             goals and ambitions. Encourage each other's dreams and aspirations,
             and celebrate each other's successes.
           </p>
-          <h3>Astrological Remedies For Sagittarius in 2024</h3>
+          <h3>Astrological Remedies For Sagittarius in 2025</h3>
           <UnorderedList>
             <ListItem>
               To enhance your luck and positive energy, incorporate yellow into

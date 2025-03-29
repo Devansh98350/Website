@@ -61,15 +61,15 @@ const Ketu = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Ketu Transits 2024" description="" keywords="">
+    <Layout title="AstroSwarg - Ketu Transits 2025" description="" keywords="">
       <Breadcrumbs />
       <StyledContainer>
         <div className="body">
           <h1 className="heading">
-            Ketu Transit 2024: Date, Time, Predictions & Remedies
+            Ketu Transit 2025: Date, Time, Predictions & Remedies
           </h1>
           <p>
-            The Ketu Transit in 2024 is a significant celestial event that holds
+            The Ketu Transit in 2025 is a significant celestial event that holds
             profound astrological implications. In the realm of astrology,
             planetary transits are like cosmic messages that influence our lives
             and the energies that surround us. Ketu, a shadow planet often
@@ -78,7 +78,7 @@ const Ketu = () => {
             influence upon us.
             <br />
             <br />
-            Transits, such as the Ketu Transit in 2024, are moments when planets
+            Transits, such as the Ketu Transit in 2025, are moments when planets
             move from one sign to another, bringing with them unique energies
             and themes. Ketu's influence is deeply karmic, and its transit can
             trigger introspection and a reassessment of our life's path. It's a
@@ -94,9 +94,9 @@ const Ketu = () => {
             navigate the ethereal currents of Ketu's presence in our birth
             charts.
           </p>
-          <h3>General impacts of Ketu Transit in 2024</h3>
+          <h3>General impacts of Ketu Transit in 2025</h3>
           <p>
-            The Ketu Transit in 2024 carries general astrological impacts that
+            The Ketu Transit in 2025 carries general astrological impacts that
             can touch various aspects of our lives. As Ketu, often referred to
             as the "South Node of the Moon," moves through different zodiac
             signs, its effects can be both subtle and profound. From an
@@ -118,7 +118,7 @@ const Ketu = () => {
             profound insights and personal growth.
             <br />
             <br />
-            The specific impact of the Ketu Transit in 2024 will vary depending
+            The specific impact of the Ketu Transit in 2025 will vary depending
             on an individual's birth chart and the positions of other planets,
             but its influence is generally a call to explore the deeper
             dimensions of our existence and to address karmic imprints from our
@@ -128,11 +128,11 @@ const Ketu = () => {
             To get a detailed Kundli analysis,
             <div className="inline-red-text"> Chat with Astrologer</div>
           </p>
-          <h3>Ketu transit 2024 date & time</h3>
-          <p>Ketu will not transit in any zodiac sign in 2024</p>
-          <h3>Ketu transit 2024 in 1st house</h3>
+          <h3>Ketu transit 2025 date & time</h3>
+          <p>Ketu will not transit in any zodiac sign in 2025</p>
+          <h3>Ketu transit 2025 in 1st house</h3>
           <p>
-            The Ketu Transit in 2024 occurring in the 1st house of an
+            The Ketu Transit in 2025 occurring in the 1st house of an
             individual's birth chart can have significant astrological
             implications. The 1st house, often referred to as the "house of
             self," represents one's identity, physical appearance, and personal
@@ -151,7 +151,7 @@ const Ketu = () => {
             this transit can bring about profound personal growth and spiritual
             insight, it's essential to note that its effects can be unique to
             each individual, depending on their birth chart and the positions of
-            other planets. Overall, the Ketu Transit in 2024 in the 1st house is
+            other planets. Overall, the Ketu Transit in 2025 in the 1st house is
             a time of self-reflection and potential transformation, urging
             individuals to seek a deeper connection with their inner selves.
           </p>
@@ -164,9 +164,9 @@ const Ketu = () => {
             <br />
             <li> Chant the Ketu mantra for spiritual clarity</li>
           </ul>
-          <h3>Ketu Transit 2024 in 2nd house</h3>
+          <h3>Ketu Transit 2025 in 2nd house</h3>
           <p>
-            The Ketu Transit in 2024 into the 2nd house of an individual's birth
+            The Ketu Transit in 2025 into the 2nd house of an individual's birth
             chart has noteworthy astrological implications. The 2nd house
             relates to wealth, values, and communication. When Ketu graces this
             house, it can influence one's perspective on material possessions
@@ -198,9 +198,9 @@ const Ketu = () => {
               Practice acts of selfless service (seva) for karmic healing.
             </li>
           </ul>
-          <h3>Ketu transit 2024 in 3rd house</h3>
+          <h3>Ketu transit 2025 in 3rd house</h3>
           <p>
-            As Ketu transits the 3rd house in 2024, it affects matters related
+            As Ketu transits the 3rd house in 2025, it affects matters related
             to communication, short journeys, and siblings. The 3rd house
             represents self-expression and close relationships, particularly
             with siblings. This transit may lead to a heightened sense of
@@ -221,7 +221,7 @@ const Ketu = () => {
           <h3>Remedy:</h3>
           <ul>
             <li>
-              As Ketu transits the 3rd house in 2024, it affects matters related
+              As Ketu transits the 3rd house in 2025, it affects matters related
               to communication, short journeys, and siblings. The 3rd house
               represents self-expression and close relationships, particularly
               with siblings. This transit may lead to a heightened sense of
@@ -242,9 +242,9 @@ const Ketu = () => {
               and introspective tone
             </li>
           </ul>
-          <h3>Ketu transit 2024 in 4th house</h3>
+          <h3>Ketu transit 2025 in 4th house</h3>
           <p>
-            The Ketu Transit in 2024 into the 4th house influences matters
+            The Ketu Transit in 2025 into the 4th house influences matters
             related to home, family, and emotional security. The 4th house
             represents one's innermost emotions and the foundation of life. This
             transit often brings about a sense of introspection and spiritual
@@ -259,7 +259,7 @@ const Ketu = () => {
             seeking a more profound connection with their living space. Some may
             embark on spiritual or meditative practices within the comfort of
             their homes, creating a more sacred and harmonious atmosphere.
-            Overall, the Ketu Transit in 2024 in the 4th house encourages a deep
+            Overall, the Ketu Transit in 2025 in the 4th house encourages a deep
             dive into one's emotional world and family dynamics, fostering
             opportunities for spiritual growth and emotional healing within the
             domestic sphere.
@@ -270,9 +270,9 @@ const Ketu = () => {
             <br />
             <li> Light a ghee lamp to appease Ketu's energy.</li>
           </ul>
-          <h3>Ketu transit 2024 in 5th house</h3>
+          <h3>Ketu transit 2025 in 5th house</h3>
           <p>
-            The Ketu Transit in 2024 into the 5th house holds significant
+            The Ketu Transit in 2025 into the 5th house holds significant
             astrological implications related to creativity, romance, and
             self-expression. The 5th house represents joy, hobbies, and matters
             of the heart.
@@ -296,12 +296,12 @@ const Ketu = () => {
             <li> Reflect on past life experiences for self-understanding.</li>
           </ul>
           <p>
-            To know how your year 2024 will be,
+            To know how your year 2025 will be,
             <div className="inline-red-text"> Talk to Astrologer</div>
           </p>
-          <h3>Ketu transit 2024 in 6th house</h3>
+          <h3>Ketu transit 2025 in 6th house</h3>
           <p>
-            As Ketu transits the 6th house in 2024, it impacts matters related
+            As Ketu transits the 6th house in 2025, it impacts matters related
             to health, work, and daily routines. The 6th house represents daily
             life and responsibilities. This transit may lead individuals to take
             a more introspective approach to their health and well-being. There
@@ -324,9 +324,9 @@ const Ketu = () => {
             <br />
             <li> Engage in acts of compassion and kindness</li>
           </ul>
-          <h3>Ketu transit 2024 in 7th house</h3>
+          <h3>Ketu transit 2025 in 7th house</h3>
           <p>
-            The Ketu Transit in 2024 into the 7th house influences matters
+            The Ketu Transit in 2025 into the 7th house influences matters
             related to partnerships, relationships, and one-on-one interactions.
             The 7th house represents marriage, business partnerships, and
             significant relationships. During this transit, individuals may
@@ -340,7 +340,7 @@ const Ketu = () => {
             their commitments, both in personal and professional partnerships.
             Some may choose to take a more spiritual or detached approach to
             their relationships, seeking deeper connections and meaningful
-            unions. The Ketu Transit in 2024 in the 7th house encourages a
+            unions. The Ketu Transit in 2025 in the 7th house encourages a
             period of introspection and potential transformation within the
             realm of partnerships and significant relationships, promoting a
             more spiritually aligned approach to connection and commitment.
@@ -351,9 +351,9 @@ const Ketu = () => {
             <br />
             <li> Maintain a journal for self-reflection and insights.</li>
           </ul>
-          <h3>Ketu Transit 2024 in 8th house</h3>
+          <h3>Ketu Transit 2025 in 8th house</h3>
           <p>
-            The Ketu Transit in 2024 into the 8th house has profound
+            The Ketu Transit in 2025 into the 8th house has profound
             astrological implications for matters related to transformation,
             shared resources, and intimacy. The 8th house represents profound
             changes, secrets, and hidden aspects of life. During this transit,
@@ -378,9 +378,9 @@ const Ketu = () => {
             <br />
             <li>Explore yoga and meditation for inner peace.</li>
           </ul>
-          <h3>Ketu transit 2024 in 9th house</h3>
+          <h3>Ketu transit 2025 in 9th house</h3>
           <p>
-            As Ketu transits the 9th house in 2024, it influences matters
+            As Ketu transits the 9th house in 2025, it influences matters
             related to travel, higher education, and personal beliefs. The 9th
             house represents one's spiritual quest, philosophy, and worldview.
             During this transit, individuals may experience a heightened sense
@@ -404,9 +404,9 @@ const Ketu = () => {
             <br />
             <li> Offer prayers to Lord Ganesha for guidance.</li>
           </ul>
-          <h3>Ketu transit 2024 in 10th house</h3>
+          <h3>Ketu transit 2025 in 10th house</h3>
           <p>
-            The Ketu Transit in 2024 into the 10th house influences matters
+            The Ketu Transit in 2025 into the 10th house influences matters
             related to career, public life, and reputation. The 10th house
             represents one's professional identity and ambitions. During this
             transit, individuals may experience a sense of introspection and
@@ -421,7 +421,7 @@ const Ketu = () => {
             more spiritually aligned approach to their public image. This
             transit may lead to a period of introspection regarding one's
             reputation and the impact of their actions in the public domain. The
-            Ketu Transit in 2024 in the 10th house encourages a deeper
+            Ketu Transit in 2025 in the 10th house encourages a deeper
             exploration of one's professional identity and a potential shift
             towards a more spiritually oriented approach to career and public
             life
@@ -432,9 +432,9 @@ const Ketu = () => {
             <br />
             <li> Recite the Ketu Beej Mantra daily.</li>
           </ul>
-          <h3>Ketu transit 2024 in 11th house</h3>
+          <h3>Ketu transit 2025 in 11th house</h3>
           <p>
-            The Ketu Transit in 2024 into the 11th house carries significant
+            The Ketu Transit in 2025 into the 11th house carries significant
             astrological implications for matters related to friendships, social
             networks, and aspirations. The 11th house represents goals, dreams,
             and the fulfilment of desires.
@@ -458,9 +458,9 @@ const Ketu = () => {
             <br />
             <li> Keep a dream journal to decipher subconscious messages.</li>
           </ul>
-          <h3>Ketu transit 2024 in 12th house</h3>
+          <h3>Ketu transit 2025 in 12th house</h3>
           <p>
-            As Ketu transits the 12th house in 2024, it influences matters
+            As Ketu transits the 12th house in 2025, it influences matters
             related to solitude, spirituality, and the subconscious mind. The
             12th house represents the hidden aspects of life and the journey of
             self-discovery. During this transit, individuals may experience a
@@ -473,7 +473,7 @@ const Ketu = () => {
             Ketu's presence in the 12th house can also lead to a reassessment of
             karmic and past-life influences on the present. It's a time when
             individuals may confront their inner demons and seek spiritual
-            healing and liberation from past burdens. The Ketu Transit in 2024
+            healing and liberation from past burdens. The Ketu Transit in 2025
             in the 12th house encourages a deep dive into the subconscious mind,
             a more profound exploration of spirituality, and the potential for
             significant personal transformation through solitude and
@@ -486,7 +486,7 @@ const Ketu = () => {
             <li> Seek solitude and moments of introspection regularly.</li>
           </ul>
           <p>
-            To know the effects of Ketu transit 2024 in your horoscope,
+            To know the effects of Ketu transit 2025 in your horoscope,
             <div className="inline-red-text"> Talk to astrologer</div>
           </p>
         </div>

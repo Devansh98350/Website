@@ -72,7 +72,7 @@ const Jupiter = () => {
   }, []);
   return (
     <Layout
-      title="AstroSwarg - Jupiter Transits 2024"
+      title="AstroSwarg - Jupiter Transits 2025"
       description=""
       keywords=""
     >
@@ -80,7 +80,7 @@ const Jupiter = () => {
       <StyledDiv>
         <div className="body">
           <h1 className="heading">
-            Jupiter Transit 2024 Date, Time, Predictions & Remedies
+            Jupiter Transit 2025 Date, Time, Predictions & Remedies
           </h1>
           <p>
             According to Vedic astrology, when Jupiter transits through any
@@ -100,7 +100,7 @@ const Jupiter = () => {
             quicker transitions of planets like the Sun and Mercury.
           </p>
           <p>
-            The 2024 Jupiter transit into Aries is noteworthy, distinct from the
+            The 2025 Jupiter transit into Aries is noteworthy, distinct from the
             brief sign changes of planets like the Sun and Mercury. This shift
             can have a profound influence on individuals, leading them toward
             spiritual pursuits and a heightened interest in religious
@@ -121,7 +121,7 @@ const Jupiter = () => {
             It has hostile relations with Venus and Mercury. Saturn and
             Rahu-Ketu have a stable, neutral relationship with Jupiter.
           </p>
-          <h3>Jupiter transit 2024 date and time</h3>
+          <h3>Jupiter transit 2025 date and time</h3>
           <table border="1" style={tableStyle}>
             <thead>
               <tr>
@@ -133,16 +133,16 @@ const Jupiter = () => {
             </thead>
             <tbody>
               <tr>
-                <td>May 1, 2024, Wednesday</td>
+                <td>May 1, 2025, Wednesday</td>
                 <td>Aries</td>
                 <td>Taurus</td>
                 <td>12:59 PM</td>
               </tr>
             </tbody>
           </table>
-          <h3>Jupiter transit 2024 in 1st house</h3>
+          <h3>Jupiter transit 2025 in 1st house</h3>
           <p>
-            The Jupiter transit of 2024 into the 1st house is a celestial event
+            The Jupiter transit of 2025 into the 1st house is a celestial event
             brimming with positivity and promise. In Vedic astrology, the 1st
             house is intimately linked with one's self, identity, and overall
             life path. When benevolent Jupiter graces this house with its
@@ -172,14 +172,14 @@ const Jupiter = () => {
           <ul>
             <li>
               {" "}
-              To enhance Jupiter's positive influence during its 2024 transit in
+              To enhance Jupiter's positive influence during its 2025 transit in
               the 1st house, wear yellow on Thursdays and chant the Guru Mantra
               for blessings and personal growth.
             </li>
           </ul>
-          <h3>Jupiter transit 2024 in 2nd house</h3>
+          <h3>Jupiter transit 2025 in 2nd house</h3>
           <p>
-            The Jupiter transit of 2024 into the 2nd house is a celestial
+            The Jupiter transit of 2025 into the 2nd house is a celestial
             occurrence radiating with positive potential and promising
             developments. In Vedic astrology, the 2nd house is closely
             associated with wealth, family, and speech. When expansive Jupiter
@@ -225,9 +225,9 @@ const Jupiter = () => {
               blessings in wealth and communication.
             </li>
           </ul>
-          <h3>Jupiter transit 2024 in 3rd house</h3>
+          <h3>Jupiter transit 2025 in 3rd house</h3>
           <p>
-            The Jupiter transit of 2024 into the 3rd house is a celestial event
+            The Jupiter transit of 2025 into the 3rd house is a celestial event
             brimming with positivity and the promise of growth and expansion. In
             Vedic astrology, the 3rd house governs communication, siblings,
             courage, and self-expression. When benevolent Jupiter graces this
@@ -243,7 +243,7 @@ const Jupiter = () => {
             delving into creative endeavours can yield excellent results.
             <br />
             <br />
-            Also Read <div className="inline-red-text">Horoscope 2024</div>
+            Also Read <div className="inline-red-text">Horoscope 2025</div>
             <br />
             <br />
             In terms of relationships with siblings and close relatives,
@@ -277,9 +277,9 @@ const Jupiter = () => {
               communication, knowledge, and confidence
             </li>
           </ul>
-          <h3>Jupiter transit 2024 in 4th house</h3>
+          <h3>Jupiter transit 2025 in 4th house</h3>
           <p>
-            The Jupiter transit of 2024 into the 4th house is a celestial event
+            The Jupiter transit of 2025 into the 4th house is a celestial event
             filled with optimism and the promise of positive developments in
             one's home and family life. In Vedic astrology, the 4th house
             represents the home, roots, and emotional foundations. When
@@ -325,12 +325,12 @@ const Jupiter = () => {
             </li>
           </ul>
           <h4>
-            To know how your year 2024 will be,
+            To know how your year 2025 will be,
             <div className="inline-red-text"> Talk to Astrologer</div>
           </h4>
-          <h3>Jupiter transit 2024 in 5th house</h3>
+          <h3>Jupiter transit 2025 in 5th house</h3>
           <p>
-            The Jupiter transit of 2024 into the 5th house is a celestial event
+            The Jupiter transit of 2025 into the 5th house is a celestial event
             teeming with positivity and the promise of significant growth and
             opportunities for creativity, knowledge, and love. In Vedic
             astrology, the 5th house is associated with creativity, education,
@@ -376,9 +376,9 @@ const Jupiter = () => {
               family for abundant joy and inspiration.
             </li>
           </ul>
-          <h3>Jupiter transit 2024 in 6th house</h3>
+          <h3>Jupiter transit 2025 in 6th house</h3>
           <p>
-            The Jupiter transit of 2024 into the 6th house heralds a period
+            The Jupiter transit of 2025 into the 6th house heralds a period
             filled with positivity and the potential for significant
             improvements in health, work, and overall well-being. In Vedic
             astrology, the 6th house is associated with health, employment,
@@ -426,9 +426,9 @@ const Jupiter = () => {
               grace.
             </li>
           </ul>
-          <h3>Jupiter transit 2024 in 7th house</h3>
+          <h3>Jupiter transit 2025 in 7th house</h3>
           <p>
-            The Jupiter transit of 2024 into the 7th house is a celestial event
+            The Jupiter transit of 2025 into the 7th house is a celestial event
             radiating with positivity and the promise of significant
             enhancements in relationships, partnerships, and personal growth. In
             Vedic astrology, the 7th house is closely associated with marriage,
@@ -463,9 +463,9 @@ const Jupiter = () => {
               prosperous partnerships.
             </li>
           </ul>
-          <h3>Jupiter transit 2024 in 8th house</h3>
+          <h3>Jupiter transit 2025 in 8th house</h3>
           <p>
-            The Jupiter transit of 2024 into the 8th house brings forth a unique
+            The Jupiter transit of 2025 into the 8th house brings forth a unique
             blend of transformative opportunities and spiritual growth,
             fostering positive changes and profound insights. In Vedic
             astrology, the 8th house is associated with transformation, rebirth,
@@ -516,9 +516,9 @@ const Jupiter = () => {
               and karmic blessings during this transformative period.
             </li>
           </ul>
-          <h3>Jupiter transit 2024 in 9th house</h3>
+          <h3>Jupiter transit 2025 in 9th house</h3>
           <p>
-            The Jupiter transit of 2024 into the 9th house is a celestial event
+            The Jupiter transit of 2025 into the 9th house is a celestial event
             filled with optimism and the promise of profound spiritual growth,
             higher knowledge, and expanded horizons. In Vedic astrology, the 9th
             house is associated with higher education, spirituality, long
@@ -568,9 +568,9 @@ const Jupiter = () => {
               horizons during this spiritually enriching period.
             </li>
           </ul>
-          <h3>Jupiter transit 2024 in 10th house</h3>
+          <h3>Jupiter transit 2025 in 10th house</h3>
           <p>
-            The Jupiter transit of 2024 into the 10th house is a celestial event
+            The Jupiter transit of 2025 into the 10th house is a celestial event
             brimming with positive potential and the promise of professional
             success, recognition, and personal growth. In Vedic astrology, the
             10th house is closely associated with career, public image, and
@@ -617,9 +617,9 @@ const Jupiter = () => {
               added career success and recognition.
             </li>
           </ul>
-          <h3>Jupiter transit 2024 in 11th house</h3>
+          <h3>Jupiter transit 2025 in 11th house</h3>
           <p>
-            The Jupiter transit of 2024 into the 11th house is a celestial event
+            The Jupiter transit of 2025 into the 11th house is a celestial event
             brimming with positivity and the promise of increased social
             connections, growth in aspirations, and fulfilment of long-standing
             goals. In Vedic astrology, the 11th house is associated with social
@@ -658,9 +658,9 @@ const Jupiter = () => {
               and abundance during this prosperous period.
             </li>
           </ul>
-          <h3>Jupiter transit 2024 in 12th house</h3>
+          <h3>Jupiter transit 2025 in 12th house</h3>
           <p>
-            The Jupiter transit of 2024 into the 12th house is a celestial event
+            The Jupiter transit of 2025 into the 12th house is a celestial event
             filled with positivity and the potential for spiritual growth,
             introspection, and enlightenment. In Vedic astrology, the 12th house
             is associated with seclusion, spirituality, and the subconscious

@@ -49,15 +49,15 @@ const PurnimaVrat = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Purnima in 2024" description="" keywords="">
+    <Layout title="AstroSwarg - Purnima in 2025" description="" keywords="">
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
           <h1 className="heading">
-            Purnima in 2024: Date, Puja Muhurat & Everything You Need To Know
+            Purnima in 2025: Date, Puja Muhurat & Everything You Need To Know
           </h1>
           <p>
-            Purnima in 2024 will be an auspicious occasion worth marking in your
+            Purnima in 2025 will be an auspicious occasion worth marking in your
             calendar. This significant day in the Hindu calendar, occurring
             monthly when the moon shines at its brightest and fullest, derives
             its name from the Sanskrit word "Purnima," meaning 'full moon.' As
@@ -81,13 +81,13 @@ const PurnimaVrat = () => {
             Vishnu manifested in his Matsya avatar, resembling a fish.
           </p>
           <p>
-            In essence, Purnima in 2024 is not just a date on the calendar but
+            In essence, Purnima in 2025 is not just a date on the calendar but
             an opportunity for spiritual reflection, religious observance, and
             joyful celebrations. So, mark your calendar and join Hindus
             worldwide in commemorating this special day with enthusiasm and
             devotion.
           </p>
-          <h2>List of Purnima dates in 2024</h2>
+          <h2>List of Purnima dates in 2025</h2>
           <table>
             <table
               border="1"
@@ -98,7 +98,7 @@ const PurnimaVrat = () => {
             >
               <thead>
                 <tr>
-                  <th>Purnima Vrat 2024</th>
+                  <th>Purnima Vrat 2025</th>
                   <th>Purnima tithi</th>
                   <th>Shubh Muhurat (From)</th>
                   <th>Shubh Muhurat (To)</th>
@@ -107,73 +107,73 @@ const PurnimaVrat = () => {
               <tbody>
                 <tr>
                   <td>Pausha Purnima</td>
-                  <td>January 25, 2024, Thursday</td>
+                  <td>January 25, 2025, Thursday</td>
                   <td>09:49 PM, Jan 24</td>
                   <td>11:23 PM, Jan 25</td>
                 </tr>
                 <tr>
                   <td>Magha Purnima</td>
-                  <td>February 24, 2024, Saturday</td>
+                  <td>February 24, 2025, Saturday</td>
                   <td>03:33 PM, Feb 23</td>
                   <td>05:59 PM, Feb 24</td>
                 </tr>
                 <tr>
                   <td>Phalguna Purnima</td>
-                  <td> March 25, 2024, Monday</td>
+                  <td> March 25, 2025, Monday</td>
                   <td>09:54 AM, Mar 24</td>
                   <td>12:29 PM, Mar 25</td>
                 </tr>
                 <tr>
                   <td>Chaitra Purnima</td>
-                  <td> April 23, 2024, Tuesday</td>
+                  <td> April 23, 2025, Tuesday</td>
                   <td>03:25 AM, Apr 23</td>
                   <td>05:18 AM, Apr 24</td>
                 </tr>
                 <tr>
                   <td>Vaishakha Purnima</td>
-                  <td>May 23, 2024, Thursday</td>
+                  <td>May 23, 2025, Thursday</td>
                   <td> 06:47 PM, May 22</td>
                   <td> 07:22 PM, May 23</td>
                 </tr>
                 <tr>
                   <td>Jyestha Purnima</td>
-                  <td> June 22, 2024, Saturday</td>
+                  <td> June 22, 2025, Saturday</td>
                   <td> 07:31 AM, Jun 21</td>
                   <td>06:37 AM, Jun 22</td>
                 </tr>
                 <tr>
                   <td>Ashadha Purnima</td>
-                  <td> July 21, 2024, Sunday</td>
+                  <td> July 21, 2025, Sunday</td>
                   <td> 05:59 PM, Jul 20</td>
                   <td> 03:46 PM, Jul 21</td>
                 </tr>
                 <tr>
                   <td>Shravana Purnima</td>
-                  <td> August 19, 2024, Monday</td>
+                  <td> August 19, 2025, Monday</td>
                   <td>03:04 AM, Aug 19</td>
                   <td> 11:55 PM, Aug 19</td>
                 </tr>
                 <tr>
                   <td>Bhadrapada Purnima</td>
-                  <td>September 18, 2024, Wednesday</td>
+                  <td>September 18, 2025, Wednesday</td>
                   <td> 11:44 AM, Sep 17</td>
                   <td> 08:04 AM, Sep 18</td>
                 </tr>
                 <tr>
                   <td>Ashwina Purnima</td>
-                  <td> October 17, 2024, Thursday</td>
+                  <td> October 17, 2025, Thursday</td>
                   <td> 08:40 PM, Oct 16</td>
                   <td>04:55 PM, Oct 17</td>
                 </tr>
                 <tr>
                   <td>Kartika Purnima</td>
-                  <td> November 15, 2024, Friday</td>
+                  <td> November 15, 2025, Friday</td>
                   <td> 06:19 AM, Nov 15</td>
                   <td>02:58 AM, Nov 16</td>
                 </tr>
                 <tr>
                   <td>Margashirsha Purnima</td>
-                  <td> November 15, 2024, Friday</td>
+                  <td> November 15, 2025, Friday</td>
                   <td> 04:58 PM, Dec 14</td>
                   <td> 02:31 PM, Dec 15</td>
                 </tr>
@@ -230,7 +230,7 @@ const PurnimaVrat = () => {
             mentors.
           </p>
           <p>
-            In the year 2024, as Purnima graces us with its radiant presence,
+            In the year 2025, as Purnima graces us with its radiant presence,
             these legends beckon us to delve into the rich tapestry of spiritual
             and cultural significance that weaves through this celestial
             phenomenon.
@@ -239,7 +239,7 @@ const PurnimaVrat = () => {
           <p>
             Purnima, also known as Full Moon Day, is a special occasion in
             Hinduism, and it's worth understanding its significance as we
-            approach Purnima in 2024. This day marks the end of one lunar month
+            approach Purnima in 2025. This day marks the end of one lunar month
             and the start of another. The moon is closest to Earth, making
             spiritual practices and rituals more effective.
           </p>
@@ -263,7 +263,7 @@ const PurnimaVrat = () => {
             respect to feminine energy.
           </p>
           <p>
-            In 2024, as Purnima approaches, remember its spiritual and cultural
+            In 2025, as Purnima approaches, remember its spiritual and cultural
             significance. It's a time for reflection, religious devotion, and
             joyous celebrations. It signifies the end of one lunar cycle and the
             start of another, an opportunity to seek enlightenment, give thanks
@@ -401,7 +401,7 @@ const PurnimaVrat = () => {
             </ListItem>
           </UnorderedList>
           <p>
-            By performing Purnima Puja in 2024, you can attain spiritual
+            By performing Purnima Puja in 2025, you can attain spiritual
             enlightenment, overcome obstacles, and achieve success in your
             endeavours.
           </p>
@@ -412,7 +412,7 @@ const PurnimaVrat = () => {
           <h3>Benefits of doing Purnima Puja</h3>
           <p>
             Purnima Puja is a highly auspicious and beneficial Hindu practice.
-            Here are some unique benefits of doing Purnima Puja in 2024:
+            Here are some unique benefits of doing Purnima Puja in 2025:
           </p>
           <UnorderedList>
             <ListItem>

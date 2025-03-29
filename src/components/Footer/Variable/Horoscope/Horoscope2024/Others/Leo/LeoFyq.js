@@ -103,34 +103,34 @@ const LeoFYQ = () => {
     {
       id: 2,
       title:
-        "Q-2:- What can Leos expect in terms of love and relationships in 2024?",
-      content: `Specific predictions for love and relationships in 2024 would depend on individual birth charts and the positions of celestial bodies during that time. Leos are typically passionate and loyal in relationships.`,
+        "Q-2:- What can Leos expect in terms of love and relationships in 2025?",
+      content: `Specific predictions for love and relationships in 2025 would depend on individual birth charts and the positions of celestial bodies during that time. Leos are typically passionate and loyal in relationships.`,
     },
     {
       id: 3,
-      title: "Q-3:- How will Leos' career prospects look in 2024?",
+      title: "Q-3:- How will Leos' career prospects look in 2025?",
       content: `Career horoscopes can vary based on personal circumstances, but Leos are generally known for their ambition and desire for success. The alignment of planets and astrological houses may provide insights into career opportunities and challenges.`,
     },
     {
       id: 4,
       title:
-        "Q-4:- What health considerations should Leos be aware of in 2024?",
+        "Q-4:- What health considerations should Leos be aware of in 2025?",
       content: `Astrology may offer general insights into potential health concerns, but it's essential to consult with healthcare professionals for accurate advice. Leos may want to focus on maintaining their energy levels and overall well-being.`,
     },
     {
       id: 5,
       title:
-        "Q-5:- Are there any significant astrological events for Leos in 2024?",
-      content: `Astrological events like planetary transits and retrogrades can influence individual horoscopes. Checking for notable celestial occurrences in 2024 can provide additional insights into potential changes or opportunities.`,
+        "Q-5:- Are there any significant astrological events for Leos in 2025?",
+      content: `Astrological events like planetary transits and retrogrades can influence individual horoscopes. Checking for notable celestial occurrences in 2025 can provide additional insights into potential changes or opportunities.`,
     },
     {
       id: 6,
-      title: "Q-6:- Should Leos be cautious about anything specific in 2024?",
+      title: "Q-6:- Should Leos be cautious about anything specific in 2025?",
       content: `Astrology often provides guidance on areas where individuals may need to be cautious, such as communication, relationships, or financial matters. Understanding potential challenges can help Leos make informed decisions.`,
     },
     {
       id: 7,
-      title: "Q-7:- Can astrology predict financial success for Leos in 2024?",
+      title: "Q-7:- Can astrology predict financial success for Leos in 2025?",
       content: `Astrology may offer insights into potential financial trends, but individual financial success is influenced by various factors. Leos may benefit from paying attention to opportunities and managing resources wisely.`,
     },
   ];

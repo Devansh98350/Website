@@ -65,7 +65,7 @@ const Planet = () => {
   }, []);
   return (
     <Layout
-      title="AstroSwarg - Planet Transits 2024"
+      title="AstroSwarg - Planet Transits 2025"
       description=""
       keywords=""
     >
@@ -73,10 +73,10 @@ const Planet = () => {
       <StyledDiv>
         <div className="body">
           <h1 className="heading">
-            Planet Transits 2024: Dates, Time, And Predictions
+            Planet Transits 2025: Dates, Time, And Predictions
           </h1>
           <p>
-            Planetary Transits in 2024 hold a special place in astrology, as
+            Planetary Transits in 2025 hold a special place in astrology, as
             they offer valuable insights into the cosmic forces that shape our
             lives. These celestial events occur when planets in our solar system
             move through the twelve zodiac signs, bringing with them distinct
@@ -88,7 +88,7 @@ const Planet = () => {
             Understanding how planetary transits work is key to harnessing their
             influence. Imagine the zodiac as a vast cosmic stage, with each
             planet taking on the role of an actor. As these celestial actors
-            move from one sign to another in 2024, they interact with the
+            move from one sign to another in 2025, they interact with the
             energies of that particular sign. This interaction creates a dynamic
             interplay of cosmic forces that radiate down to Earth, affecting
             everything from our emotions and behaviors to our opportunities and
@@ -110,15 +110,15 @@ const Planet = () => {
             one's birth chart, astrologers can provide valuable insights into
             the specific areas of life that will be most affected
           </p>
-          <h4>Planetary transit 2024 and their duration</h4>
+          <h4>Planetary transit 2025 and their duration</h4>
           <p>
-            Planetary Transits in 2024 are pivotal moments in astrology, as they
+            Planetary Transits in 2025 are pivotal moments in astrology, as they
             illuminate the cosmic movements that will shape our lives in the
             coming year. These transits occur when planets journey through the
             twelve zodiac signs, each with its unique influence. From an
             astrological perspective, these celestial wanderings act as
             celestial storytellers, whispering tales of change, growth, and
-            transformation. In 2024, various planets will dance through the
+            transformation. In 2025, various planets will dance through the
             zodiac, with each transit lasting for a specific duration, ranging
             from days to months.
           </p>
@@ -132,7 +132,7 @@ const Planet = () => {
             >
               <thead>
                 <tr>
-                  <th>Planetary Transit 2024</th>
+                  <th>Planetary Transit 2025</th>
                   <th>Transit duration</th>
                 </tr>
               </thead>
@@ -186,7 +186,7 @@ const Planet = () => {
           <h3>How do planetary transits work in Vedic astrology?</h3>
           <p>
             Understanding how planetary transits work in Vedic astrology,
-            especially in the context of Planetary Transits in 2024, is like
+            especially in the context of Planetary Transits in 2025, is like
             deciphering the mystical language of the cosmos. Vedic astrology,
             also known as Jyotish, is an ancient system that places great
             significance on the movements of celestial bodies, as they're
@@ -216,8 +216,8 @@ const Planet = () => {
             intersections and angles between these planets provide valuable
             insights into the timing and nature of events in a person's life.
           </p>
-          <h3>Sun Transit 2024</h3>
-          The Sun Transit 2024, viewed through an astrological lens, marks a
+          <h3>Sun Transit 2025</h3>
+          The Sun Transit 2025, viewed through an astrological lens, marks a
           significant celestial event. In this phenomenon, the Sun, a central
           force in astrology, moves from one zodiac sign to another, bringing a
           shift in energies. Astrologers analyze these transitions to understand
@@ -226,72 +226,72 @@ const Planet = () => {
           <h4>
             For all zodiac signs, click here to read the effects of{" "}
             <h10>
-              <Link to="/sun-transit-2024">Sun Transit 2024.</Link>
+              <Link to="/sun-transit-2025">Sun Transit 2025.</Link>
             </h10>
           </h4>
-          <h3>Mars Transit 2024</h3>
-          Mars Transit 2024 holds great significance in astrology as it
+          <h3>Mars Transit 2025</h3>
+          Mars Transit 2025 holds great significance in astrology as it
           represents the movement of the fiery planet Mars through the zodiac
           signs during that year. From an astrological perspective, Mars is
-          associated with action, energy, and motivation. Its transit in 2024
+          associated with action, energy, and motivation. Its transit in 2025
           will influence various aspects of our lives, stirring up passions,
           drive, and assertiveness.
           <h4>
             For all zodiac signs, click here to read the effects of
             <h10>
-              <Link to="/mars-transit-2024"> Mars Transit 2024.</Link>
+              <Link to="/mars-transit-2025"> Mars Transit 2025.</Link>
             </h10>
           </h4>
-          <h3>Mercury Transit 2024</h3>
-          The Mercury Transit 2024, from an astrological standpoint, highlights
+          <h3>Mercury Transit 2025</h3>
+          The Mercury Transit 2025, from an astrological standpoint, highlights
           the journey of the planet Mercury through the zodiac signs in the
           coming year. Mercury symbolizes communication, intellect, and
-          adaptability. As it moves through different signs in 2024, it will
+          adaptability. As it moves through different signs in 2025, it will
           shape our thought processes, decision-making abilities, and the way we
           express ourselves.
           <h4>
             For all zodiac signs, click here to read the effects of
             <h10>
               {" "}
-              <Link to="/mercury-transit-2024">Mercury Transit 2024.</Link>
+              <Link to="/mercury-transit-2025">Mercury Transit 2025.</Link>
             </h10>
           </h4>
-          <h3>Jupiter Transit 2024</h3>
-          The Jupiter Transit 2024 carries astrological significance as the
+          <h3>Jupiter Transit 2025</h3>
+          The Jupiter Transit 2025 carries astrological significance as the
           expansive planet Jupiter traverses the zodiac signs during the year.
-          Its transit in 2024 is expected to bring opportunities for personal
+          Its transit in 2025 is expected to bring opportunities for personal
           and spiritual development.
           <h4>
             For all zodiac signs, click here to read the effects of
             <h10>
-              <Link to="/jupiter-transit-2024"> Jupiter Transit 2024.</Link>
+              <Link to="/jupiter-transit-2025"> Jupiter Transit 2025.</Link>
             </h10>
           </h4>
-          <h3>Venus Transit 2024</h3>
-          In the realm of astrology, the Venus Transit 2024 represents the
+          <h3>Venus Transit 2025</h3>
+          In the realm of astrology, the Venus Transit 2025 represents the
           movement of the planet Venus through the zodiac signs in the coming
           year. Venus symbolizes love, beauty, and harmony. This transit is
           poised to influence our relationships, creativity, and aesthetics in
-          2024.
+          2025.
           <h4>
             For all zodiac signs, click here to read the effects of
             <h10>
-              <Link to="/venus-transit-2024"> Venus Transit 2024.</Link>
+              <Link to="/venus-transit-2025"> Venus Transit 2025.</Link>
             </h10>
           </h4>
-          <h3>Saturn Transit 2024</h3>
-          The Saturn Transit 2024 carries profound astrological implications as
+          <h3>Saturn Transit 2025</h3>
+          The Saturn Transit 2025 carries profound astrological implications as
           Saturn, the planet of discipline and responsibility, journeys through
           the zodiac signs during the year. This transit may bring challenges
           and lessons aimed at personal growth and maturity.
           <h4>
             For all zodiac signs, click here to read the effects of
             <h10>
-              <Link to="/saturn-transit-2024"> Saturn Transit 2024.</Link>
+              <Link to="/saturn-transit-2025"> Saturn Transit 2025.</Link>
             </h10>
           </h4>
-          <h3>Rahu Transit 2024</h3>
-          The Rahu Transit 2024 holds special significance in Vedic astrology,
+          <h3>Rahu Transit 2025</h3>
+          The Rahu Transit 2025 holds special significance in Vedic astrology,
           as it signifies the movement of the shadow planet Rahu through the
           zodiac signs during the year. Rahu is known for its influence on
           desires, obsessions, and worldly pursuits. This transit can bring
@@ -299,23 +299,23 @@ const Planet = () => {
           <h4>
             For all zodiac signs, click here to read the effects of
             <h10>
-              <Link to="/rahu-transit-2024"> Rahu Transit 2024.</Link>
+              <Link to="/rahu-transit-2025"> Rahu Transit 2025.</Link>
             </h10>
           </h4>
-          <h3>Ketu Transit 2024</h3>
-          In Vedic astrology, the Ketu Transit 2024 represents the movement of
+          <h3>Ketu Transit 2025</h3>
+          In Vedic astrology, the Ketu Transit 2025 represents the movement of
           the shadow planet Ketu through the zodiac signs during the year. Ketu
           is associated with spirituality, detachment, and the past. Its transit
-          in 2024 may trigger introspection and a reevaluation of one's life
+          in 2025 may trigger introspection and a reevaluation of one's life
           choices.
           <h4>
             For all zodiac signs, click here to read the effects of
             <h10>
-              <Link to="/ketu-transit-2024"> Ketu Transit 2024.</Link>
+              <Link to="/ketu-transit-2025"> Ketu Transit 2025.</Link>
             </h10>
           </h4>
-          <h3>Moon Transit 2024</h3>
-          The Moon Transit 2024 carries significant astrological implications as
+          <h3>Moon Transit 2025</h3>
+          The Moon Transit 2025 carries significant astrological implications as
           it signifies the Moon's movement through the zodiac signs in the
           coming year. The Moon is intimately linked with emotions, instincts,
           and our inner world. This transit will influence our moods, feelings,
@@ -323,7 +323,7 @@ const Planet = () => {
           <h4>
             For all zodiac signs, click here to read the effects of
             <h10>
-              <Link to="/moon-transit-2024"> Moon Transit 2024.</Link>
+              <Link to="/moon-transit-2025"> Moon Transit 2025.</Link>
             </h10>
           </h4>
         </div>

@@ -44,14 +44,14 @@ const SankashtiChaturthi = () => {
   }, []);
   return (
     <Layout
-      title="AstroSwarg - Sankashti Chaturthi Vrat 2024"
+      title="AstroSwarg - Sankashti Chaturthi Vrat 2025"
       description=""
       keywords=""
     >
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
-          <h1 className="heading">Sankashti Chaturthi Vrat Dates 2024</h1>
+          <h1 className="heading">Sankashti Chaturthi Vrat Dates 2025</h1>
           <p>
             Sankashti Chaturthi Vrat is a significant Hindu religious observance
             dedicated to Lord Ganesha, the revered elephant-headed deity known
@@ -87,7 +87,7 @@ const SankashtiChaturthi = () => {
             For Detailed Predictions About Your Life,{" "}
             <div className="inline-text">Talk To Astrologer</div>
           </p>
-          <h2>2024 Sankashti Chaturthi Dates</h2>
+          <h2>2025 Sankashti Chaturthi Dates</h2>
           <table>
             <table
               border="1"
@@ -98,7 +98,7 @@ const SankashtiChaturthi = () => {
             >
               <thead>
                 <tr>
-                  <th>Sankashti Chaturthi Vrat 2024</th>
+                  <th>Sankashti Chaturthi Vrat 2025</th>
                   <th>Date & Day</th>
                   <th>Tithi</th>
                   <th>Beginning Time</th>
@@ -108,84 +108,84 @@ const SankashtiChaturthi = () => {
               <tbody>
                 <tr>
                   <td>Lambodara Sankashti Chaturthi</td>
-                  <td>January 29, 2024, Monday</td>
+                  <td>January 29, 2025, Monday</td>
                   <td>Magha, Krishna Chaturthi</td>
                   <td>06:10 AM, January 29</td>
                   <td>08:54 AM, January 30</td>
                 </tr>
                 <tr>
                   <td>Dwijapriya Sankashti Chaturthi</td>
-                  <td>February 28, 2024, Wednesday</td>
+                  <td>February 28, 2025, Wednesday</td>
                   <td>Phalguna, Krishna Chaturthi</td>
                   <td>01:53 AM, February 28</td>
                   <td>04:18 AM, February 29</td>
                 </tr>
                 <tr>
                   <td>Bhalachandra Sankashti Chaturthi</td>
-                  <td>March 28, 2024, Thursday</td>
+                  <td>March 28, 2025, Thursday</td>
                   <td>Chaitra, Krishna Chaturthi</td>
                   <td>06:56 PM, March 28</td>
                   <td>08:20 PM, March 29</td>
                 </tr>
                 <tr>
                   <td>Vikata Sankashti Chaturthi</td>
-                  <td>April 27, 2024, Saturday</td>
+                  <td>April 27, 2025, Saturday</td>
                   <td>Vaishakha, Krishna Chaturthi</td>
                   <td>08:17 AM, April 27</td>
                   <td>08:21 AM, April 28</td>
                 </tr>
                 <tr>
                   <td>Ekadanta Sankashti Chaturthi</td>
-                  <td>May 26, 2024, Sunday</td>
+                  <td>May 26, 2025, Sunday</td>
                   <td>Jyeshtha, Krishna Chaturthi</td>
                   <td>06:06 PM, May 26</td>
                   <td>04:53 PM, May 27</td>
                 </tr>
                 <tr>
                   <td>Krishnapingala Sankashti Chaturthi</td>
-                  <td>June 25, 2024, Tuesday</td>
+                  <td>June 25, 2025, Tuesday</td>
                   <td>Ashadha, Krishna Chaturthi</td>
                   <td>01:23 AM, June 25</td>
                   <td>11:10 PM, June 25</td>
                 </tr>
                 <tr>
                   <td>Gajanana Sankashti Chaturthi</td>
-                  <td>July 24, 2024, Wednesday</td>
+                  <td>July 24, 2025, Wednesday</td>
                   <td>Shravana, Krishna Chaturthi</td>
                   <td>07:30 AM, July 24</td>
                   <td>04:39 AM, July 25</td>
                 </tr>
                 <tr>
                   <td>Heramba Sankashti Chaturthi</td>
-                  <td>August 22, 2024, Thursday</td>
+                  <td>August 22, 2025, Thursday</td>
                   <td>Bhadrapada, Krishna Chaturthi</td>
                   <td>01:46 PM, August 22</td>
                   <td>10:38 AM, August 23</td>
                 </tr>
                 <tr>
                   <td>Vighnaraja Sankashti Chaturthi</td>
-                  <td>September 21, 2024, Saturday</td>
+                  <td>September 21, 2025, Saturday</td>
                   <td>Ashwina, Krishna Chaturthi</td>
                   <td>09:15 PM, September 20</td>
                   <td>06:13 PM, September 21</td>
                 </tr>
                 <tr>
                   <td>Vakratunda Sankashti Chaturthi</td>
-                  <td>October 20, 2024, Sunday</td>
+                  <td>October 20, 2025, Sunday</td>
                   <td>Kartika, Krishna Chaturthi</td>
                   <td>06:46 AM, October 20</td>
                   <td>04:16 AM, October 21</td>
                 </tr>
                 <tr>
                   <td>Ganadhipa Sankashti Chaturthi</td>
-                  <td>November 18, 2024, Monday</td>
+                  <td>November 18, 2025, Monday</td>
                   <td>Margashirsha, Krishna Chaturthi</td>
                   <td>06:55 PM, November 18</td>
                   <td>05:28 PM, November 19</td>
                 </tr>
                 <tr>
                   <td>Akhuratha Sankashti Chaturthi</td>
-                  <td>December 18, 2024, Wednesday</td>
+                  <td>December 18, 2025, Wednesday</td>
                   <td>Pausha, Krishna Chaturthi</td>
                   <td>10:06 AM, December 18</td>
                   <td>10:02 AM, December 19</td>
@@ -193,7 +193,7 @@ const SankashtiChaturthi = () => {
               </tbody>
             </table>
           </table>
-          <h3>Sankashti Chaturthi Vrat 2024 Pooja Procedure</h3>
+          <h3>Sankashti Chaturthi Vrat 2025 Pooja Procedure</h3>
           <p>
             The Sankashti Chaturthi Vrat Pooja is a comprehensive and elaborate
             ritual, carefully observed by devotees seeking the divine blessings
@@ -359,7 +359,7 @@ const SankashtiChaturthi = () => {
             towards a life free from obstacles and filled with divine blessings.
           </p>
           <p>
-            To Read About Your Horoscope 2024 In Detail,{" "}
+            To Read About Your Horoscope 2025 In Detail,{" "}
             <div className="inline-text">Click Here</div>
           </p>
           <p>
@@ -442,7 +442,7 @@ const SankashtiChaturthi = () => {
             perseverance, humility, and unwavering faith in the face of life's
             challenges.
           </p>
-          <h3>Benefits of observing Sankashti Chaturthi Vrat in 2024</h3>
+          <h3>Benefits of observing Sankashti Chaturthi Vrat in 2025</h3>
           <p>
             Observing the Sankashti Chaturthi Vrat, a revered Hindu fasting
             ritual dedicated to Lord Ganesha, is believed to bring about a

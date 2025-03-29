@@ -50,7 +50,7 @@ const Footer = () => {
         <div className="footer-column">
           <div className="name">Horoscope</div>
           <p>
-            <Link to="/horoscope-2024">Horoscope 2024</Link>
+            <Link to="/horoscope-2025">Horoscope 2025</Link>
           </p>
           {/*<p>
             <Link to="/todays-horoscope">Today's Horoscope</Link>
@@ -96,50 +96,50 @@ const Footer = () => {
           </p>
           <div className="name">
             <Link
-              to="/shubh-muhurat-2024"
+              to="/shubh-muhurat-2025"
               style={{ color: "black", marginBottom: "20px" }}
             >
-              Shubh Muhurat 2024
+              Shubh Muhurat 2025
             </Link>
           </div>
           <p>
-            <Link to="/shubh-muhurat-2024/annanprashan-muhurat-2024">
-              Annaprashan Muhurat 2024
+            <Link to="/shubh-muhurat-2025/annanprashan-muhurat-2025">
+              Annaprashan Muhurat 2025
             </Link>
           </p>
           <p>
-            <Link to="/shubh-muhurat-2024/namkaran-muhurat-2024">
-              Naamkaran Muhurat 2024
+            <Link to="/shubh-muhurat-2025/namkaran-muhurat-2025">
+              Naamkaran Muhurat 2025
             </Link>
           </p>
           <p>
-            <Link to="/shubh-muhurat-2024/car-bike-muhurat-2024">
-              Car/Bike Muhurat 2024
+            <Link to="/shubh-muhurat-2025/car-bike-muhurat-2025">
+              Car/Bike Muhurat 2025
             </Link>
           </p>
           <p>
-            <Link to="/shubh-muhurat-2024/marriage-muhurat-2024">
-              Marriage Muhurat 2024
+            <Link to="/shubh-muhurat-2025/marriage-muhurat-2025">
+              Marriage Muhurat 2025
             </Link>
           </p>
           <p>
-            <Link to="/shubh-muhurat-2024/gold-buying-muhurat-2024">
-              Gold Buying Muhurat 2024
+            <Link to="/shubh-muhurat-2025/gold-buying-muhurat-2025">
+              Gold Buying Muhurat 2025
             </Link>
           </p>
           <p>
-            <Link to="/shubh-muhurat-2024/bhoomi-pujan-muhurat-2024">
-              Bhoomi Pujan Muhurat 2024
+            <Link to="/shubh-muhurat-2025/bhoomi-pujan-muhurat-2025">
+              Bhoomi Pujan Muhurat 2025
             </Link>
           </p>
           <p>
-            <Link to="/shubh-muhurat-2024/griha-pravesh-muhurat-2024">
-              Griha Pravesh Muhurat 2024
+            <Link to="/shubh-muhurat-2025/griha-pravesh-muhurat-2025">
+              Griha Pravesh Muhurat 2025
             </Link>
           </p>
           <p>
-            <Link to="/shubh-muhurat-2024/mundan-muhurat-2024">
-              Mundan Muhurat 2024
+            <Link to="/shubh-muhurat-2025/mundan-muhurat-2025">
+              Mundan Muhurat 2025
             </Link>
           </p>
         </div>
@@ -227,7 +227,7 @@ const Footer = () => {
         <div className="footer-column">
           <div className="name">Quick Links</div>
           <p>
-            <Link to="/planetary-transit-2024">Planetary Transit 2024</Link>
+            <Link to="/planetary-transit-2025">Planetary Transit 2025</Link>
           </p>
           {/*<p>
             <Link to="/collaboration">Collaboration</Link>
@@ -245,18 +245,18 @@ const Footer = () => {
             <Link to="/vastu-shastra">Vastu Shastra</Link>
           </p>
           <p>
-            <Link to="/solar-eclipse-2024">Solar Eclipse 2024</Link>
+            <Link to="/solar-eclipse-2025">Solar Eclipse 2025</Link>
           </p>
           <p>
-            <Link to="/lunar-eclipse-2024">Lunar Eclipse 2024</Link>
+            <Link to="/lunar-eclipse-2025">Lunar Eclipse 2025</Link>
           </p>
           <p>
-            <Link to="/indian-calendar-festivals-2024">
-              Festival Calendar 2024
+            <Link to="/indian-calendar-festivals-2025">
+              Festival Calendar 2025
             </Link>
           </p>
           <p>
-            <Link to="/fasts-calendar-2024">Vrat Calendar 2024</Link>
+            <Link to="/fasts-calendar-2025">Vrat Calendar 2025</Link>
           </p>
           <p>
             <Link to="/mole-astrology">Mole Astrology</Link>
@@ -373,7 +373,7 @@ const Footer = () => {
           fontSize: "16px",
         }}
       >
-        All Rights Reserved @AstroSwarg 2024
+        All Rights Reserved @AstroSwarg 2025
       </div>
     </div>
   );

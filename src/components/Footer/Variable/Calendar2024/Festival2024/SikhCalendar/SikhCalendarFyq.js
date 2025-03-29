@@ -97,8 +97,8 @@ const SikhCalendarFYQ = () => {
   const questions = [
     {
       id: 1,
-      title: "Q-1:- What are the main Sikh holidays in the Sikh Calendar 2024?",
-      content: `The Sikh Calendar 2024 includes major holidays like Gurpurabs, Vaisakhi, and other significant Sikh festivals.`,
+      title: "Q-1:- What are the main Sikh holidays in the Sikh Calendar 2025?",
+      content: `The Sikh Calendar 2025 includes major holidays like Gurpurabs, Vaisakhi, and other significant Sikh festivals.`,
     },
     {
       id: 2,

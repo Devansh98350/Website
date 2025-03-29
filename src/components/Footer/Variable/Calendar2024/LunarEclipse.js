@@ -42,18 +42,18 @@ const LunarEclipse = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Lunar Eclipse 2024" description="" keywords="">
+    <Layout title="AstroSwarg - Lunar Eclipse 2025" description="" keywords="">
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
-          <h1 className="heading">Lunar Eclipse 2024</h1>
+          <h1 className="heading">Lunar Eclipse 2025</h1>
           <p>
-            The Lunar Eclipse of 2024 is set to be a celestial event of great
+            The Lunar Eclipse of 2025 is set to be a celestial event of great
             interest and fascination for skywatchers around the world. Lunar
             eclipses occur when the Earth passes directly between the Sun and
             the Moon, casting a shadow that gradually covers and darkens the
             lunar surface. Here are some key details about the Lunar Eclipse of
-            2024.
+            2025.
           </p>
           <p>
             A lunar eclipse typically consists of several phases. It begins with
@@ -70,7 +70,7 @@ const LunarEclipse = () => {
             through Earth's atmosphere. Finally, the eclipse concludes with the
             Moon gradually exiting the umbra.
           </p>
-          <h2>Lunar Eclipse 2024: Date & Eclipse Type</h2>
+          <h2>Lunar Eclipse 2025: Date & Eclipse Type</h2>
           <table>
             <table
               border="1"
@@ -87,19 +87,19 @@ const LunarEclipse = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>March 25, 2024</td>
+                  <td>March 25, 2025</td>
                   <td>Penumbral Lunar Eclipse</td>
                 </tr>
                 <tr>
-                  <td>September 18, 2024</td>
+                  <td>September 18, 2025</td>
                   <td>Partial Lunar Eclipse</td>
                 </tr>
               </tbody>
             </table>
           </table>
-          <h2>Types of Lunar Eclipse 2024</h2>
+          <h2>Types of Lunar Eclipse 2025</h2>
           <p>
-            In the year 2024, there are a total of three Lunar Eclipses, each
+            In the year 2025, there are a total of three Lunar Eclipses, each
             with its own unique characteristics and significance. While the most
             prominent of these is the Total Lunar Eclipse, the Partial and
             Shadow Lunar Eclipses occurring in the New Year also hold importance
@@ -154,13 +154,13 @@ const LunarEclipse = () => {
             appreciation of the cosmos.
           </p>
           <p>For a detailed Kundli analysis, Talk to Astrologer</p>
-          <h2>Lunar Eclipse 2024: Impact on each zodiac sign</h2>
+          <h2>Lunar Eclipse 2025: Impact on each zodiac sign</h2>
           <p>
             The impact of a Lunar Eclipse on each zodiac sign can vary depending
             on several factors, including the individual's birth chart, the
             specific degrees of the eclipses, and their personal circumstances.
             However, we can provide a general overview of how a Lunar Eclipse in
-            2024 might influence each zodiac sign:
+            2025 might influence each zodiac sign:
           </p>
           <UnorderedList>
             <ListItem>
@@ -242,12 +242,12 @@ const LunarEclipse = () => {
               address any financial or emotional issues within partnerships.
             </ListItem>
           </UnorderedList>
-          <p>To Read About Your Horoscope 2024 In Detail, Click Here</p>
-          <h2>Points to remember during Sutak Kaal 2024</h2>
+          <p>To Read About Your Horoscope 2025 In Detail, Click Here</p>
+          <h2>Points to remember during Sutak Kaal 2025</h2>
           <p>
             It is believed that during Sutak Kaal, negative energies prevail,
             and therefore, there are certain precautions and practices to
-            follow. In 2024, there will be several eclipses, so it's essential
+            follow. In 2025, there will be several eclipses, so it's essential
             to know what to keep in mind during Sutak Kaal:
           </p>
           <UnorderedList>
@@ -308,14 +308,14 @@ const LunarEclipse = () => {
               impure.
             </ListItem>
           </UnorderedList>
-          <p>Chat with Astrologer to know about your Love Life in 2024</p>
-          <h2>Lunar Eclipse 2024: Do's and don'ts to follow</h2>
+          <p>Chat with Astrologer to know about your Love Life in 2025</p>
+          <h2>Lunar Eclipse 2025: Do's and don'ts to follow</h2>
           <p>
             In astrology, Lunar Eclipses are believed to be significant
             celestial events with potential impacts on individuals and their
             lives. While astrological practices and beliefs can vary widely,
             here are some general do's and don'ts that some people may consider
-            during a Lunar Eclipse in 2024 based on astrological traditions:
+            during a Lunar Eclipse in 2025 based on astrological traditions:
           </p>
           <h2>Do's</h2>
           <UnorderedList>
@@ -390,13 +390,13 @@ const LunarEclipse = () => {
               talking to a trusted friend or therapist.
             </ListItem>
           </UnorderedList>
-          <h2>Remedies for Lunar Eclipse 2024</h2>
+          <h2>Remedies for Lunar Eclipse 2025</h2>
           <p>
             In astrology, lunar eclipses are considered potent times for
             reflection, transformation, and addressing imbalances in one's life.
             While different cultures and astrological traditions may offer
             various remedies, here are some general astrological remedies that
-            individuals may consider during the Lunar Eclipse in 2024:
+            individuals may consider during the Lunar Eclipse in 2025:
           </p>
           <UnorderedList>
             <ListItem>
@@ -461,13 +461,13 @@ const LunarEclipse = () => {
               provide protection and healing during challenging times.
             </ListItem>
           </UnorderedList>
-          <p>To know how your year 2024 will be, Talk to Astrologer</p>
-          <h2>Lunar Eclipse 2024: Precautions for pregnant women</h2>
+          <p>To know how your year 2025 will be, Talk to Astrologer</p>
+          <h2>Lunar Eclipse 2025: Precautions for pregnant women</h2>
           <p>
             In astrology and cultural traditions, Lunar Eclipses are often
             associated with potential challenges and uncertainties. Pregnant
             women, in particular, may be advised to take certain precautions
-            during a Lunar Eclipse in 2024 to ensure the well-being of both the
+            during a Lunar Eclipse in 2025 to ensure the well-being of both the
             mother and the unborn child. While these precautions are based on
             beliefs, here are some common recommendations:
           </p>
@@ -523,12 +523,12 @@ const LunarEclipse = () => {
               circumstances.
             </ListItem>
           </UnorderedList>
-          <h2>Effects of 2024 Lunar Eclipse on health</h2>
+          <h2>Effects of 2025 Lunar Eclipse on health</h2>
           <p>
             In astrology, lunar eclipses are believed to have potential effects
             on an individual's health, although these effects can vary based on
             the person's astrological chart and other factors. Here are some
-            general considerations regarding the impact of the 2024 Lunar
+            general considerations regarding the impact of the 2025 Lunar
             Eclipse on health:
           </p>
           <UnorderedList>
@@ -570,7 +570,7 @@ const LunarEclipse = () => {
             </ListItem>
           </UnorderedList>
           <p>
-            To know the effects of Lunar Eclipse in 2024 on your life, Talk to
+            To know the effects of Lunar Eclipse in 2025 on your life, Talk to
             astrologer
           </p>
         </div>

@@ -7,20 +7,20 @@ import Gallery from "./components/Header/Others/About/Gallery.js";
 import Contact from "./components/Header/Others/Contact/Contact.js";
 import About from "./components/Header/Others/About/About.js";
 import Careermain from "./components/Header/Others/Contact/Career/Careermain.js";
-/*Horoscope 2024*/
-import Horoscope2024 from "./components/Footer/Variable/Horoscope/Horoscope2024/Horoscope2024.js";
-import Virgo from "./components/Footer/Variable/Horoscope/Horoscope2024/Others/Virgo/Virgo.js";
-import Tarus from "./components/Footer/Variable/Horoscope/Horoscope2024/Others/Tarus/Tarus.js";
-import Scorpio from "./components/Footer/Variable/Horoscope/Horoscope2024/Others/Scorpio/Scorpio.js";
-import Sagittarius from "./components/Footer/Variable/Horoscope/Horoscope2024/Others/Sagittarius/Sagittarius.js";
-import Pisces from "./components/Footer/Variable/Horoscope/Horoscope2024/Others/Pisces/Pisces.js";
-import Libra from "./components/Footer/Variable/Horoscope/Horoscope2024/Others/Libra/Libra.js";
-import Leo from "./components/Footer/Variable/Horoscope/Horoscope2024/Others/Leo/Leo.js";
-import Gemini from "./components/Footer/Variable/Horoscope/Horoscope2024/Others/Gemini/Gemini.js";
-import Capricorn from "./components/Footer/Variable/Horoscope/Horoscope2024/Others/Capricorn/Capricorn.js";
-import Cancer from "./components/Footer/Variable/Horoscope/Horoscope2024/Others/Cancer/Cancer.js";
-import Aries from "./components/Footer/Variable/Horoscope/Horoscope2024/Others/Aries/Aries.js";
-import Aquarius from "./components/Footer/Variable/Horoscope/Horoscope2024/Others/Aquarius/Aquarius.js";
+/*Horoscope 2025*/
+import Horoscope2025 from "./components/Footer/Variable/Horoscope/Horoscope2025/Horoscope2025.js";
+import Virgo from "./components/Footer/Variable/Horoscope/Horoscope2025/Others/Virgo/Virgo.js";
+import Tarus from "./components/Footer/Variable/Horoscope/Horoscope2025/Others/Tarus/Tarus.js";
+import Scorpio from "./components/Footer/Variable/Horoscope/Horoscope2025/Others/Scorpio/Scorpio.js";
+import Sagittarius from "./components/Footer/Variable/Horoscope/Horoscope2025/Others/Sagittarius/Sagittarius.js";
+import Pisces from "./components/Footer/Variable/Horoscope/Horoscope2025/Others/Pisces/Pisces.js";
+import Libra from "./components/Footer/Variable/Horoscope/Horoscope2025/Others/Libra/Libra.js";
+import Leo from "./components/Footer/Variable/Horoscope/Horoscope2025/Others/Leo/Leo.js";
+import Gemini from "./components/Footer/Variable/Horoscope/Horoscope2025/Others/Gemini/Gemini.js";
+import Capricorn from "./components/Footer/Variable/Horoscope/Horoscope2025/Others/Capricorn/Capricorn.js";
+import Cancer from "./components/Footer/Variable/Horoscope/Horoscope2025/Others/Cancer/Cancer.js";
+import Aries from "./components/Footer/Variable/Horoscope/Horoscope2025/Others/Aries/Aries.js";
+import Aquarius from "./components/Footer/Variable/Horoscope/Horoscope2025/Others/Aquarius/Aquarius.js";
 /*Shubh Muhurat*/
 import Shubh_Muhrat from "./components/Footer/Variable/Shubh_Muhurat/Shubh_Muhrat.js";
 import Annanprashan from "./components/Footer/Variable/Shubh_Muhurat/Annanprashan.js";
@@ -135,7 +135,7 @@ import Grihasan from "./components/Footer/Fixed/Mantras/OtherMantras/Grihasan.js
 import Ganesh from "./components/Footer/Fixed/Mantras/OtherMantras/Ganesh.js";
 import Rashi from "./components/Footer/Fixed/Mantras/OtherMantras/Rashi.js";
 import Krishna from "./components/Footer/Fixed/Mantras/OtherMantras/Krishna.js";
-/*Planetary Transit 2024*/
+/*Planetary Transit 2025*/
 import Planet from "./components/Footer/Variable/Planet/Planet.js";
 import Sun from "./components/Footer/Variable/Planet/Sun.js";
 import Mars from "./components/Footer/Variable/Planet/Mars.js";
@@ -248,22 +248,22 @@ import Dlife from "./components/Footer/Fixed/Vastu_Shastra/Dlife.js";
 import Pmirror from "./components/Footer/Fixed/Vastu_Shastra/Pmirror.js";
 import Sdirection from "./components/Footer/Fixed/Vastu_Shastra/Sdirection.js";
 import Products from "./components/Footer/Fixed/Vastu_Shastra/Products.js";
-/*Calendar2024*/
-import SolarEclipse from "./components/Footer/Variable/Calendar2024/SolarEclipse.js";
-import LunarEclipse from "./components/Footer/Variable/Calendar2024/LunarEclipse.js";
-import FestivalCalendar from "./components/Footer/Variable/Calendar2024/Festival2024/FestivalCalendar.js";
-import VratCalendar from "./components/Footer/Variable/Calendar2024/VratCalendar.js";
-import HinduCalendar from "./components/Footer/Variable/Calendar2024/Festival2024/HinduCalendar/HinduCalendar.js";
-import JainCalendar from "./components/Footer/Variable/Calendar2024/Festival2024/JainCalendar/JainCalendar.js";
-import SikhCalendar from "./components/Footer/Variable/Calendar2024/Festival2024/SikhCalendar/SikhCalendar.js";
-import BuddhistCalendar from "./components/Footer/Variable/Calendar2024/Festival2024/BuddhistCalendar/BuddhistCalendar.js";
-import PradoshaVrat from "./components/Footer/Variable/Calendar2024/Vrat2024/PradoshaVrat.js";
-import EkadashiVrat from "./components/Footer/Variable/Calendar2024/Vrat2024/EkadashiVrat.js";
-import AmavasyaVrat from "./components/Footer/Variable/Calendar2024/Vrat2024/AmavasyaVrat.js";
-import PurnimaVrat from "./components/Footer/Variable/Calendar2024/Vrat2024/PurnimaVrat.js";
-import SankashtiChaturthi from "./components/Footer/Variable/Calendar2024/Vrat2024/SankashtiChaturthi.js";
-import ShradhaDays from "./components/Footer/Variable/Calendar2024/Vrat2024/ShradhaDays.js";
-import RohiniVrat from "./components/Footer/Variable/Calendar2024/Vrat2024/RohiniVrat.js";
+/*Calendar2025*/
+import SolarEclipse from "./components/Footer/Variable/Calendar2025/SolarEclipse.js";
+import LunarEclipse from "./components/Footer/Variable/Calendar2025/LunarEclipse.js";
+import FestivalCalendar from "./components/Footer/Variable/Calendar2025/Festival2025/FestivalCalendar.js";
+import VratCalendar from "./components/Footer/Variable/Calendar2025/VratCalendar.js";
+import HinduCalendar from "./components/Footer/Variable/Calendar2025/Festival2025/HinduCalendar/HinduCalendar.js";
+import JainCalendar from "./components/Footer/Variable/Calendar2025/Festival2025/JainCalendar/JainCalendar.js";
+import SikhCalendar from "./components/Footer/Variable/Calendar2025/Festival2025/SikhCalendar/SikhCalendar.js";
+import BuddhistCalendar from "./components/Footer/Variable/Calendar2025/Festival2025/BuddhistCalendar/BuddhistCalendar.js";
+import PradoshaVrat from "./components/Footer/Variable/Calendar2025/Vrat2025/PradoshaVrat.js";
+import EkadashiVrat from "./components/Footer/Variable/Calendar2025/Vrat2025/EkadashiVrat.js";
+import AmavasyaVrat from "./components/Footer/Variable/Calendar2025/Vrat2025/AmavasyaVrat.js";
+import PurnimaVrat from "./components/Footer/Variable/Calendar2025/Vrat2025/PurnimaVrat.js";
+import SankashtiChaturthi from "./components/Footer/Variable/Calendar2025/Vrat2025/SankashtiChaturthi.js";
+import ShradhaDays from "./components/Footer/Variable/Calendar2025/Vrat2025/ShradhaDays.js";
+import RohiniVrat from "./components/Footer/Variable/Calendar2025/Vrat2025/RohiniVrat.js";
 /*Mole Astrology*/
 import MoleAstro from "./components/Footer/Fixed/Others/MoleAstrology/MoleAstro.js";
 import Moface from "./components/Footer/Fixed/Others/MoleAstrology/Others/Moface.js";
@@ -290,85 +290,85 @@ function App() {
         <Route path="/gallery" element={<Gallery />} />
         <Route path="/join-our-team" element={<Careermain />} />
         <Route path="/contact-us" element={<Contact />} />
-        {/*Horoscope 2024*/}
-        <Route path="/horoscope-2024" element={<Horoscope2024 />} />
+        {/*Horoscope 2025*/}
+        <Route path="/horoscope-2025" element={<Horoscope2025 />} />
         <Route
-          path="/horoscope-2024/virgo-horoscope-2024"
+          path="/horoscope-2025/virgo-horoscope-2025"
           element={<Virgo />}
         />
         <Route
-          path="/horoscope-2024/taurus-horoscope-2024"
+          path="/horoscope-2025/taurus-horoscope-2025"
           element={<Tarus />}
         />
         <Route
-          path="/horoscope-2024/scorpio-horoscope-2024"
+          path="/horoscope-2025/scorpio-horoscope-2025"
           element={<Scorpio />}
         />
         <Route
-          path="/horoscope-2024/sagittarius-horoscope-2024"
+          path="/horoscope-2025/sagittarius-horoscope-2025"
           element={<Sagittarius />}
         />
         <Route
-          path="/horoscope-2024/libra-horoscope-2024"
+          path="/horoscope-2025/libra-horoscope-2025"
           element={<Libra />}
         />
-        <Route path="/horoscope-2024/leo-horoscope-2024" element={<Leo />} />
+        <Route path="/horoscope-2025/leo-horoscope-2025" element={<Leo />} />
         <Route
-          path="/horoscope-2024/gemini-horoscope-2024"
+          path="/horoscope-2025/gemini-horoscope-2025"
           element={<Gemini />}
         />
         <Route
-          path="/horoscope-2024/capricorn-horoscope-2024"
+          path="/horoscope-2025/capricorn-horoscope-2025"
           element={<Capricorn />}
         />
         <Route
-          path="/horoscope-2024/cancer-horoscope-2024"
+          path="/horoscope-2025/cancer-horoscope-2025"
           element={<Cancer />}
         />
         <Route
-          path="/horoscope-2024/aries-horoscope-2024"
+          path="/horoscope-2025/aries-horoscope-2025"
           element={<Aries />}
         />
         <Route
-          path="/horoscope-2024/aquarius-horoscope-2024"
+          path="/horoscope-2025/aquarius-horoscope-2025"
           element={<Aquarius />}
         />
         <Route
-          path="/horoscope-2024/pisces-horoscope-2024"
+          path="/horoscope-2025/pisces-horoscope-2025"
           element={<Pisces />}
         />
         {/*Shubh Muhurat*/}
-        <Route path="/shubh-muhurat-2024" element={<Shubh_Muhrat />} />
+        <Route path="/shubh-muhurat-2025" element={<Shubh_Muhrat />} />
         <Route
-          path="/shubh-muhurat-2024/annanprashan-muhurat-2024"
+          path="/shubh-muhurat-2025/annanprashan-muhurat-2025"
           element={<Annanprashan />}
         />
         <Route
-          path="/shubh-muhurat-2024/namkaran-muhurat-2024"
+          path="/shubh-muhurat-2025/namkaran-muhurat-2025"
           element={<Naamkaran />}
         />
         <Route
-          path="/shubh-muhurat-2024/car-bike-muhurat-2024"
+          path="/shubh-muhurat-2025/car-bike-muhurat-2025"
           element={<Car />}
         />
         <Route
-          path="/shubh-muhurat-2024/marriage-muhurat-2024"
+          path="/shubh-muhurat-2025/marriage-muhurat-2025"
           element={<Marriage />}
         />
         <Route
-          path="/shubh-muhurat-2024/gold-buying-muhurat-2024"
+          path="/shubh-muhurat-2025/gold-buying-muhurat-2025"
           element={<Gold_Buying />}
         />
         <Route
-          path="/shubh-muhurat-2024/bhoomi-pujan-muhurat-2024"
+          path="/shubh-muhurat-2025/bhoomi-pujan-muhurat-2025"
           element={<Bhoomi_Pujan />}
         />
         <Route
-          path="/shubh-muhurat-2024/griha-pravesh-muhurat-2024"
+          path="/shubh-muhurat-2025/griha-pravesh-muhurat-2025"
           element={<Griha_Pravesh />}
         />
         <Route
-          path="/shubh-muhurat-2024/mundan-muhurat-2024"
+          path="/shubh-muhurat-2025/mundan-muhurat-2025"
           element={<Mundan />}
         />
         {/*Free Kundli*/}
@@ -610,17 +610,17 @@ function App() {
         <Route path="/mantras/ganesh-mantra" element={<Ganesh />} />
         <Route path="/mantras/rashi-mantra" element={<Rashi />} />
         <Route path="/mantras/krishna-mantra" element={<Krishna />} />
-        {/*Planetary Transit 2024*/}
-        <Route path="/planetary-transit-2024" element={<Planet />} />
-        <Route path="/sun-transit-2024" element={<Sun />} />
-        <Route path="/mars-transit-2024" element={<Mars />} />
-        <Route path="/mercury-transit-2024" element={<Mercury />} />
-        <Route path="/jupiter-transit-2024" element={<Jupiter />} />
-        <Route path="/venus-transit-2024" element={<Venus />} />
-        <Route path="/saturn-transit-2024" element={<Saturn />} />
-        <Route path="/rahu-transit-2024" element={<Rahu />} />
-        <Route path="/ketu-transit-2024" element={<Ketu />} />
-        <Route path="/moon-transit-2024" element={<Moon />} />
+        {/*Planetary Transit 2025*/}
+        <Route path="/planetary-transit-2025" element={<Planet />} />
+        <Route path="/sun-transit-2025" element={<Sun />} />
+        <Route path="/mars-transit-2025" element={<Mars />} />
+        <Route path="/mercury-transit-2025" element={<Mercury />} />
+        <Route path="/jupiter-transit-2025" element={<Jupiter />} />
+        <Route path="/venus-transit-2025" element={<Venus />} />
+        <Route path="/saturn-transit-2025" element={<Saturn />} />
+        <Route path="/rahu-transit-2025" element={<Rahu />} />
+        <Route path="/ketu-transit-2025" element={<Ketu />} />
+        <Route path="/moon-transit-2025" element={<Moon />} />
         {/*Zodiac Signs*/}
         <Route path="/zodiac-signs" element={<Zodiac />} />
         {/*Footer-Others*/}
@@ -751,56 +751,56 @@ function App() {
           element={<Sdirection />}
         />
         <Route path="/vastu-shastra/vastu-products" element={<Products />} />
-        {/*Calendar2024*/}
-        <Route path="/solar-eclipse-2024" element={<SolarEclipse />} />
-        <Route path="/lunar-eclipse-2024" element={<LunarEclipse />} />
+        {/*Calendar2025*/}
+        <Route path="/solar-eclipse-2025" element={<SolarEclipse />} />
+        <Route path="/lunar-eclipse-2025" element={<LunarEclipse />} />
         <Route
-          path="/indian-calendar-festivals-2024"
+          path="/indian-calendar-festivals-2025"
           element={<FestivalCalendar />}
         />
-        <Route path="/fasts-calendar-2024" element={<VratCalendar />} />
+        <Route path="/fasts-calendar-2025" element={<VratCalendar />} />
         <Route
-          path="/indian-calendar-festivals-2024/hindu-calendar-2024"
+          path="/indian-calendar-festivals-2025/hindu-calendar-2025"
           element={<HinduCalendar />}
         />
         <Route
-          path="/indian-calendar-festivals-2024/buddhist-calendar-2024"
+          path="/indian-calendar-festivals-2025/buddhist-calendar-2025"
           element={<BuddhistCalendar />}
         />
         <Route
-          path="/indian-calendar-festivals-2024/jain-calendar-2024"
+          path="/indian-calendar-festivals-2025/jain-calendar-2025"
           element={<JainCalendar />}
         />
         <Route
-          path="/indian-calendar-festivals-2024/sikh-calendar-2024"
+          path="/indian-calendar-festivals-2025/sikh-calendar-2025"
           element={<SikhCalendar />}
         />
         <Route
-          path="/fasts-calendar-2024/pradosh-vrat-2024"
+          path="/fasts-calendar-2025/pradosh-vrat-2025"
           element={<PradoshaVrat />}
         />
         <Route
-          path="/fasts-calendar-2024/ekadashi-vrat-2024"
+          path="/fasts-calendar-2025/ekadashi-vrat-2025"
           element={<EkadashiVrat />}
         />
         <Route
-          path="/fasts-calendar-2024/amavasya-vrat-2024"
+          path="/fasts-calendar-2025/amavasya-vrat-2025"
           element={<AmavasyaVrat />}
         />
         <Route
-          path="/fasts-calendar-2024/purnima-vrat-2024"
+          path="/fasts-calendar-2025/purnima-vrat-2025"
           element={<PurnimaVrat />}
         />
         <Route
-          path="/fasts-calendar-2024/sankashti-vrat-2024"
+          path="/fasts-calendar-2025/sankashti-vrat-2025"
           element={<SankashtiChaturthi />}
         />
         <Route
-          path="/fasts-calendar-2024/shradha-days-vrat-2024"
+          path="/fasts-calendar-2025/shradha-days-vrat-2025"
           element={<ShradhaDays />}
         />
         <Route
-          path="/fasts-calendar-2024/rohini-vrat-2024"
+          path="/fasts-calendar-2025/rohini-vrat-2025"
           element={<RohiniVrat />}
         />
         {/*Mole Astrology*/}

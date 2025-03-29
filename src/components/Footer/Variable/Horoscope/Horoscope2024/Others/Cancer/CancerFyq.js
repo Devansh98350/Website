@@ -97,28 +97,28 @@ const CancerFYQ = () => {
   const questions = [
     {
       id: 1,
-      title: "Q-1:- Will Cancer find love in 2024?",
-      content: `The Cancer horoscope 2024 hints at a nurturing love life with the influence of the Moon. The first half of the year is particularly favorable for romantic endeavors, encouraging Cancer individuals to explore new connections.`,
+      title: "Q-1:- Will Cancer find love in 2025?",
+      content: `The Cancer horoscope 2025 hints at a nurturing love life with the influence of the Moon. The first half of the year is particularly favorable for romantic endeavors, encouraging Cancer individuals to explore new connections.`,
     },
     {
       id: 2,
-      title: "Q-2:- Will Cancer go abroad in 2024?",
-      content: `Cancer's foreign travel prospects in 2024 vary. While the initial months may not be highly conducive to international experiences, the latter part of the year holds potential opportunities for exciting journeys abroad.`,
+      title: "Q-2:- Will Cancer go abroad in 2025?",
+      content: `Cancer's foreign travel prospects in 2025 vary. While the initial months may not be highly conducive to international experiences, the latter part of the year holds potential opportunities for exciting journeys abroad.`,
     },
     {
       id: 3,
-      title: "Q-3:- Will Cancer get married in 2024?",
-      content: `With a strong Moon influence, the second half of 2024 brings favorable conditions for marriage. It is advisable for Cancer individuals to consider this period for tying the knot, as the first half may not be as auspicious.`,
+      title: "Q-3:- Will Cancer get married in 2025?",
+      content: `With a strong Moon influence, the second half of 2025 brings favorable conditions for marriage. It is advisable for Cancer individuals to consider this period for tying the knot, as the first half may not be as auspicious.`,
     },
     {
       id: 4,
-      title: "Q-4:- Will Cancer get a job in 2024?",
-      content: `The year 2024 holds promise for Cancer individuals planning to start a business. Positive movements, especially post-May 2024, will contribute to career development, presenting opportunities for job seekers and entrepreneurs alike.`,
+      title: "Q-4:- Will Cancer get a job in 2025?",
+      content: `The year 2025 holds promise for Cancer individuals planning to start a business. Positive movements, especially post-May 2025, will contribute to career development, presenting opportunities for job seekers and entrepreneurs alike.`,
     },
     {
       id: 5,
-      title: "Q-5:- What is the lucky gemstone for Cancer in 2024?",
-      content: `The fortunate gemstone for Cancer in 2024 is Moonstone. This gem is believed to bring emotional balance and enhance intuition, aligning positively with the cosmic energies shaping the Cancer journey throughout the year.`,
+      title: "Q-5:- What is the lucky gemstone for Cancer in 2025?",
+      content: `The fortunate gemstone for Cancer in 2025 is Moonstone. This gem is believed to bring emotional balance and enhance intuition, aligning positively with the cosmic energies shaping the Cancer journey throughout the year.`,
     },
   ];
   const Question = ({ question }) => {

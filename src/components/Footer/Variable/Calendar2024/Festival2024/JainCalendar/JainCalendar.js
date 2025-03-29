@@ -50,18 +50,18 @@ const JainCalendar = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Jain Calendar 2024" description="" keywords="">
+    <Layout title="AstroSwarg - Jain Calendar 2025" description="" keywords="">
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
-          <h1 className="heading">Jain Calendar 2024</h1>
+          <h1 className="heading">Jain Calendar 2025</h1>
           <p>
             The Jain Calendar, an ancient and intricate system, plays a
             significant role in the lives of millions of followers of Jainism
             worldwide. It is more than just a way to keep track of dates; it is
             a spiritual guide that aligns daily activities with celestial events
             and auspicious times. In this comprehensive guide, we will delve
-            into the Jain Calendar for the year 2024, shedding light on its
+            into the Jain Calendar for the year 2025, shedding light on its
             importance, key features, and the positive impact it has on the
             lives of Jain practitioners.
           </p>
@@ -126,10 +126,10 @@ const JainCalendar = () => {
             </ListItem>
           </UnorderedList>
           <p>
-            To Read About Your Horoscope 2024 In Detail,{" "}
+            To Read About Your Horoscope 2025 In Detail,{" "}
             <div className="inline-text">Click Here</div>
           </p>
-          <h3>Jain Calendar 2024: January</h3>
+          <h3>Jain Calendar 2025: January</h3>
           <table>
             <table
               border="1"
@@ -164,7 +164,7 @@ const JainCalendar = () => {
               </tbody>
             </table>
           </table>
-          <h3>Jain Calendar 2024: February</h3>
+          <h3>Jain Calendar 2025: February</h3>
           <table>
             <table
               border="1"
@@ -211,7 +211,7 @@ const JainCalendar = () => {
               </tbody>
             </table>
           </table>
-          <h3>Jain Calendar 2024: March</h3>
+          <h3>Jain Calendar 2025: March</h3>
           <table>
             <table
               border="1"
@@ -238,7 +238,7 @@ const JainCalendar = () => {
               </tbody>
             </table>
           </table>
-          <h3>Jain Calendar 2024: April</h3>
+          <h3>Jain Calendar 2025: April</h3>
           <table>
             <table
               border="1"
@@ -281,7 +281,7 @@ const JainCalendar = () => {
               </tbody>
             </table>
           </table>
-          <h3>Jain Calendar 2024: May</h3>
+          <h3>Jain Calendar 2025: May</h3>
           <table border="1" style={{ width: "100%", height: "auto" }}>
             <thead>
               <tr>
@@ -331,7 +331,7 @@ const JainCalendar = () => {
               </tbody>
             </table>
           </table>
-          <h3>Jain Calendar 2024: July</h3>
+          <h3>Jain Calendar 2025: July</h3>
           <table>
             <table
               border="1"
@@ -362,7 +362,7 @@ const JainCalendar = () => {
               </tbody>
             </table>
           </table>
-          <h3>Jain Calendar 2024: August</h3>
+          <h3>Jain Calendar 2025: August</h3>
           <table>
             <table
               border="1"
@@ -385,7 +385,7 @@ const JainCalendar = () => {
               </tbody>
             </table>
           </table>
-          <h3>Jain Calendar 2024: September</h3>
+          <h3>Jain Calendar 2025: September</h3>
           <table>
             <table
               border="1"
@@ -424,7 +424,7 @@ const JainCalendar = () => {
               </tbody>
             </table>
           </table>
-          <h3>Jain Calendar 2024: October</h3>
+          <h3>Jain Calendar 2025: October</h3>
           <table border="1" style={{ width: "100%", height: "auto" }}>
             <thead>
               <tr>
@@ -447,7 +447,7 @@ const JainCalendar = () => {
               </tr>
             </tbody>
           </table>
-          <h3>Jain Calendar 2024: November</h3>
+          <h3>Jain Calendar 2025: November</h3>
           <table>
             <table
               border="1"
@@ -506,7 +506,7 @@ const JainCalendar = () => {
               </tbody>
             </table>
           </table>
-          <h3>Jain Calendar 2024: December</h3>
+          <h3>Jain Calendar 2025: December</h3>
           <table>
             <table
               border="1"
@@ -601,13 +601,13 @@ const JainCalendar = () => {
             To get a detailed Kundli analysis,{" "}
             <div className="inline-text">Talk To Astrologer</div>
           </p>
-          <h3>Important Festivals of Jainism 2024</h3>
+          <h3>Important Festivals of Jainism 2025</h3>
           <p>
             Jainism, one of the world's oldest religions, is a way of life that
             promotes non-violence, truth, and self-discipline. Rooted in the
             teachings of revered sages and scholars, Jainism has a rich tapestry
             of festivals that hold immense significance in the lives of its
-            followers. In 2024, these festivals continue to be celebrated with
+            followers. In 2025, these festivals continue to be celebrated with
             great zeal, promoting harmony, spiritual awakening, and a profound
             connection with one's inner self.
           </p>
@@ -664,7 +664,7 @@ const JainCalendar = () => {
           <p>
             The festivals of Jainism are not only occasions for celebration but
             also opportunities for deep spiritual introspection and growth. In
-            2024, as Jains continue to observe these festivals, they strengthen
+            2025, as Jains continue to observe these festivals, they strengthen
             their commitment to non-violence, truth, and self-discipline. These
             festivals remind us all of the importance of spirituality,
             compassion, and self-improvement, contributing to a more harmonious
@@ -672,7 +672,7 @@ const JainCalendar = () => {
           </p>
           <p>
             By sharing this positive information about the important festivals
-            of Jainism in 2024, we hope to contribute to a greater understanding
+            of Jainism in 2025, we hope to contribute to a greater understanding
             of this ancient and profound faith. May this knowledge lead to more
             tolerance, respect, and appreciation for the diversity of spiritual
             practices in our world.

@@ -62,15 +62,15 @@ const Moon = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Moon Transits 2024" description="" keywords="">
+    <Layout title="AstroSwarg - Moon Transits 2025" description="" keywords="">
       <Breadcrumbs />
       <StyledContainer>
         <div className="body">
           <h1 className="heading">
-            Moon Transit 2024 Dates, Time, Prediction & Remedies
+            Moon Transit 2025 Dates, Time, Prediction & Remedies
           </h1>
           <p>
-            The Moon Transit in 2024 is a celestial event of astrological
+            The Moon Transit in 2025 is a celestial event of astrological
             significance, as the moon moves through various zodiac signs
             throughout the year. Astrologically, transits like these are pivotal
             moments when planetary energies influence our lives. The Moon's
@@ -79,10 +79,10 @@ const Moon = () => {
             times, and predictions can provide insights into our inner selves.
             Furthermore, adopting suitable remedies can help harness the lunar
             energy for emotional balance and personal growth. This guide
-            explores the Moon Transit in 2024, offering predictions and remedies
+            explores the Moon Transit in 2025, offering predictions and remedies
             to navigate its profound effects.
           </p>
-          <h3>Moon transit in January 2024</h3>
+          <h3>Moon transit in January 2025</h3>
           <table border="1" className="table-size">
             <thead>
               <tr>
@@ -93,68 +93,68 @@ const Moon = () => {
             </thead>
             <tbody>
               <tr>
-                <td>January 2, 2024</td>
+                <td>January 2, 2025</td>
                 <td>Leo</td>
                 <td>Virgo</td>
               </tr>
               <tr>
-                <td>January 5, 2024</td>
+                <td>January 5, 2025</td>
                 <td>Virgo </td>
                 <td>Libra</td>
               </tr>
               <tr>
-                <td>January 7, 2024</td>
+                <td>January 7, 2025</td>
                 <td>Libra</td>
                 <td>Scorpio</td>
               </tr>
               <tr>
-                <td>January 9, 2024</td>
+                <td>January 9, 2025</td>
                 <td>Scorpio </td>
                 <td>Sagittarius</td>
               </tr>
               <tr>
-                <td>January 13, 2024</td>
+                <td>January 13, 2025</td>
                 <td>Capricorn</td>
                 <td>Aquarius</td>
               </tr>
               <tr>
-                <td>January 16, 2024</td>
+                <td>January 16, 2025</td>
                 <td>Aquarius</td>
                 <td>Pisces</td>
               </tr>
               <tr>
-                <td>January 18, 2024</td>
+                <td>January 18, 2025</td>
                 <td>Pisces</td>
                 <td>Aries</td>
               </tr>
               <tr>
-                <td>January 20, 2024</td>
+                <td>January 20, 2025</td>
                 <td>Aries</td>
                 <td>Taurus</td>
               </tr>
               <tr>
-                <td>January 22, 2024</td>
+                <td>January 22, 2025</td>
                 <td>Taurus</td>
                 <td>Gemini</td>
               </tr>
               <tr>
-                <td>January 25, 2024</td>
+                <td>January 25, 2025</td>
                 <td>Gemini </td>
                 <td>Cancer</td>
               </tr>
               <tr>
-                <td>January 27, 2024</td>
+                <td>January 27, 2025</td>
                 <td>Cancer</td>
                 <td>Leo</td>
               </tr>
               <tr>
-                <td>January 30, 2024</td>
+                <td>January 30, 2025</td>
                 <td>Leo</td>
                 <td>Virgo</td>
               </tr>
             </tbody>
           </table>
-          <h3>Moon transit in February 2024</h3>
+          <h3>Moon transit in February 2025</h3>
           <table border="1" className="table-size">
             <thead>
               <tr>
@@ -165,73 +165,73 @@ const Moon = () => {
             </thead>
             <tbody>
               <tr>
-                <td>February 1, 2024</td>
+                <td>February 1, 2025</td>
                 <td>Virgo</td>
                 <td>Libra</td>
               </tr>
               <tr>
-                <td>February 4, 2024</td>
+                <td>February 4, 2025</td>
                 <td>Libra</td>
                 <td>Scorpio</td>
               </tr>
               <tr>
-                <td>February 6, 2024</td>
+                <td>February 6, 2025</td>
                 <td>Scorpio</td>
                 <td>Sagittarius</td>
               </tr>
               <tr>
-                <td>February 8, 2024</td>
+                <td>February 8, 2025</td>
                 <td>Sagittarius </td>
                 <td>Capricorn</td>
               </tr>
               <tr>
-                <td>February 10, 2024</td>
+                <td>February 10, 2025</td>
                 <td>Capricorn</td>
                 <td>Aquarius</td>
               </tr>
               <tr>
-                <td>February 12, 2024</td>
+                <td>February 12, 2025</td>
                 <td>Aquarius</td>
                 <td>Pisces</td>
               </tr>
               <tr>
-                <td>February 14, 2024</td>
+                <td>February 14, 2025</td>
                 <td>Pisces</td>
                 <td>Aries</td>
               </tr>
               <tr>
-                <td>February 16, 2024</td>
+                <td>February 16, 2025</td>
                 <td>Aries</td>
                 <td>Taurus</td>
               </tr>
               <tr>
-                <td>February 18,, 2024</td>
+                <td>February 18,, 2025</td>
                 <td>Taurus</td>
                 <td>Gemini</td>
               </tr>
               <tr>
-                <td>February 21, 2024</td>
+                <td>February 21, 2025</td>
                 <td>Gemini </td>
                 <td>Cancer</td>
               </tr>
               <tr>
-                <td>February 23, 2024</td>
+                <td>February 23, 2025</td>
                 <td>Cancer</td>
                 <td>Leo</td>
               </tr>
               <tr>
-                <td>February 26, 2024</td>
+                <td>February 26, 2025</td>
                 <td>Leo</td>
                 <td>Virgo</td>
               </tr>
               <tr>
-                <td>February 28, 2024</td>
+                <td>February 28, 2025</td>
                 <td>Virgo</td>
                 <td>Libra</td>
               </tr>
             </tbody>
           </table>
-          <h3>Moon transit in March 2024</h3>
+          <h3>Moon transit in March 2025</h3>
           <table border="1" className="table-size">
             <thead>
               <tr>
@@ -242,78 +242,78 @@ const Moon = () => {
             </thead>
             <tbody>
               <tr>
-                <td>March 2, 2024</td>
+                <td>March 2, 2025</td>
                 <td>Libra </td>
                 <td>Scorpio</td>
               </tr>
               <tr>
-                <td>March 4, 2024</td>
+                <td>March 4, 2025</td>
                 <td>Scorpio</td>
                 <td>Sagittarius</td>
               </tr>
               <tr>
-                <td>March 6, 2024</td>
+                <td>March 6, 2025</td>
                 <td>Sagittarius</td>
                 <td>Capricorn</td>
               </tr>
               <tr>
-                <td>March 8, 2024</td>
+                <td>March 8, 2025</td>
                 <td>Capricorn</td>
                 <td>Aquarius</td>
               </tr>
               <tr>
-                <td>March 10, 2024</td>
+                <td>March 10, 2025</td>
                 <td>Aquarius</td>
                 <td>Pisces</td>
               </tr>
               <tr>
-                <td>March 12, 2024</td>
+                <td>March 12, 2025</td>
                 <td>Pisces</td>
                 <td>Aries</td>
               </tr>
               <tr>
-                <td>March 14, 2024</td>
+                <td>March 14, 2025</td>
                 <td>Aries</td>
                 <td>Taurus</td>
               </tr>
               <tr>
-                <td>March 17, 2024</td>
+                <td>March 17, 2025</td>
                 <td>Taurus</td>
                 <td>Gemini</td>
               </tr>
               <tr>
-                <td>March 19, 2024</td>
+                <td>March 19, 2025</td>
                 <td>Gemini</td>
                 <td>Cancer</td>
               </tr>
               <tr>
-                <td>March 22, 2024</td>
+                <td>March 22, 2025</td>
                 <td>Cancer</td>
                 <td>Leo</td>
               </tr>
               <tr>
-                <td>March 24, 2024</td>
+                <td>March 24, 2025</td>
                 <td>Leo</td>
                 <td>Virgo</td>
               </tr>
               <tr>
-                <td>March 27, 2024</td>
+                <td>March 27, 2025</td>
                 <td>Virgo</td>
                 <td>Libra</td>
               </tr>
               <tr>
-                <td>March 29, 2024</td>
+                <td>March 29, 2025</td>
                 <td>Libra</td>
                 <td>Scorpio</td>
               </tr>
               <tr>
-                <td>March 31, 2024</td>
+                <td>March 31, 2025</td>
                 <td>Scorpio</td>
                 <td>Sagittarius</td>
               </tr>
             </tbody>
           </table>
-          <h3>Moon transit in April 2024</h3>
+          <h3>Moon transit in April 2025</h3>
           <table border="1" className="table-size">
             <thead>
               <tr>
@@ -324,73 +324,73 @@ const Moon = () => {
             </thead>
             <tbody>
               <tr>
-                <td>April 3, 2024</td>
+                <td>April 3, 2025</td>
                 <td>Sagittarius</td>
                 <td>Capricorn</td>
               </tr>
               <tr>
-                <td>April 5, 2024</td>
+                <td>April 5, 2025</td>
                 <td>Capricorn</td>
                 <td>Aquarius</td>
               </tr>
               <tr>
-                <td>April 7, 2024</td>
+                <td>April 7, 2025</td>
                 <td>Aquarius</td>
                 <td>Pisces</td>
               </tr>
               <tr>
-                <td>April 9, 2024</td>
+                <td>April 9, 2025</td>
                 <td>Pisces</td>
                 <td>Aries</td>
               </tr>
               <tr>
-                <td>April 11, 2024</td>
+                <td>April 11, 2025</td>
                 <td>Aries</td>
                 <td>Taurus</td>
               </tr>
               <tr>
-                <td>April 13, 2024</td>
+                <td>April 13, 2025</td>
                 <td>Taurus</td>
                 <td>Gemini</td>
               </tr>
               <tr>
-                <td>April 15, 2024</td>
+                <td>April 15, 2025</td>
                 <td>Gemini</td>
                 <td>Cancer</td>
               </tr>
               <tr>
-                <td>April 18, 2024</td>
+                <td>April 18, 2025</td>
                 <td>Cancer</td>
                 <td>Leo</td>
               </tr>
               <tr>
-                <td>April 20, 2024</td>
+                <td>April 20, 2025</td>
                 <td>Leo</td>
                 <td>Virgo</td>
               </tr>
               <tr>
-                <td>April 23, 2024</td>
+                <td>April 23, 2025</td>
                 <td>Virgo</td>
                 <td>Libra</td>
               </tr>
               <tr>
-                <td>April 25, 2024</td>
+                <td>April 25, 2025</td>
                 <td>Libra</td>
                 <td>Scorpio</td>
               </tr>
               <tr>
-                <td>April 28, 2024</td>
+                <td>April 28, 2025</td>
                 <td>Scorpio</td>
                 <td>Sagittarius</td>
               </tr>
               <tr>
-                <td>April 30, 2024</td>
+                <td>April 30, 2025</td>
                 <td>Sagittarius</td>
                 <td>Scorpio</td>
               </tr>
             </tbody>
           </table>
-          <h3>Moon transit in May 2024</h3>
+          <h3>Moon transit in May 2025</h3>
           <table border="1" className="table-size">
             <thead>
               <tr>
@@ -401,78 +401,78 @@ const Moon = () => {
             </thead>
             <tbody>
               <tr>
-                <td>May 2, 2024</td>
+                <td>May 2, 2025</td>
                 <td>Capricorn</td>
                 <td>Aquarius</td>
               </tr>
               <tr>
-                <td>May 4, 2024</td>
+                <td>May 4, 2025</td>
                 <td>Aquarius</td>
                 <td>Pisces</td>
               </tr>
               <tr>
-                <td>May 6, 2024</td>
+                <td>May 6, 2025</td>
                 <td>Pisces</td>
                 <td>Aries</td>
               </tr>
               <tr>
-                <td>May 8, 2024</td>
+                <td>May 8, 2025</td>
                 <td>Aries</td>
                 <td>Taurus</td>
               </tr>
               <tr>
-                <td>May 10, 2024</td>
+                <td>May 10, 2025</td>
                 <td>Taurus</td>
                 <td>Gemini</td>
               </tr>
               <tr>
-                <td>May 13, 2024</td>
+                <td>May 13, 2025</td>
                 <td>Gemini</td>
                 <td>Cancer</td>
               </tr>
               <tr>
-                <td>May 15, 2024</td>
+                <td>May 15, 2025</td>
                 <td>Cancer</td>
                 <td>Leo</td>
               </tr>
               <tr>
-                <td>May 18, 2024</td>
+                <td>May 18, 2025</td>
                 <td>Leo</td>
                 <td>Virgo</td>
               </tr>
               <tr>
-                <td>May 20, 2024</td>
+                <td>May 20, 2025</td>
                 <td>Virgo</td>
                 <td>Libra</td>
               </tr>
               <tr>
-                <td>May 23, 2024</td>
+                <td>May 23, 2025</td>
                 <td>Libra</td>
                 <td>Scorpio</td>
               </tr>
               <tr>
-                <td>May 25, 2024</td>
+                <td>May 25, 2025</td>
                 <td>Scorpio</td>
                 <td>Sagittarius</td>
               </tr>
               <tr>
-                <td>May 27, 2024</td>
+                <td>May 27, 2025</td>
                 <td>Sagittarius</td>
                 <td>Scorpio</td>
               </tr>
               <tr>
-                <td>May 29, 2024</td>
+                <td>May 29, 2025</td>
                 <td>Capricorn</td>
                 <td>Aquarius</td>
               </tr>
               <tr>
-                <td>May 31, 2024</td>
+                <td>May 31, 2025</td>
                 <td>Aquarius</td>
                 <td>Pisces</td>
               </tr>
             </tbody>
           </table>
-          <h3>Moon transit in June 2024</h3>
+          <h3>Moon transit in June 2025</h3>
           <table border="1" className="table-size">
             <thead>
               <tr>
@@ -483,78 +483,78 @@ const Moon = () => {
             </thead>
             <tbody>
               <tr>
-                <td>June 3, 2024</td>
+                <td>June 3, 2025</td>
                 <td>Pisces</td>
                 <td>Aries</td>
               </tr>
               <tr>
-                <td>June 5, 2024</td>
+                <td>June 5, 2025</td>
                 <td>Aries</td>
                 <td>Taurus</td>
               </tr>
               <tr>
-                <td>June 7, 2024</td>
+                <td>June 7, 2025</td>
                 <td>Taurus</td>
                 <td>Gemini</td>
               </tr>
               <tr>
-                <td>June 9, 2024</td>
+                <td>June 9, 2025</td>
                 <td>Gemini</td>
                 <td>Cancer</td>
               </tr>
               <tr>
-                <td>June 11, 2024</td>
+                <td>June 11, 2025</td>
                 <td>Cancer</td>
                 <td>Leo</td>
               </tr>
               <tr>
-                <td>June 14, 2024</td>
+                <td>June 14, 2025</td>
                 <td>Gemini</td>
                 <td>Cancer</td>
               </tr>
               <tr>
-                <td>June 17, 2024</td>
+                <td>June 17, 2025</td>
                 <td>Leo</td>
                 <td>Virgo</td>
               </tr>
               <tr>
-                <td>May 18, 2024</td>
+                <td>May 18, 2025</td>
                 <td>Virgo</td>
                 <td>Libra</td>
               </tr>
               <tr>
-                <td>June 19, 2024</td>
+                <td>June 19, 2025</td>
                 <td>Libra</td>
                 <td>Scorpio</td>
               </tr>
               <tr>
-                <td>June 21, 2024</td>
+                <td>June 21, 2025</td>
                 <td>Scorpio</td>
                 <td>Sagittarius</td>
               </tr>
               <tr>
-                <td>June 23, 2024</td>
+                <td>June 23, 2025</td>
                 <td>Sagittarius</td>
                 <td>Scorpio</td>
               </tr>
               <tr>
-                <td>June 26, 2024</td>
+                <td>June 26, 2025</td>
                 <td>Capricorn</td>
                 <td>Aquarius</td>
               </tr>
               <tr>
-                <td>June 28, 2024</td>
+                <td>June 28, 2025</td>
                 <td>Aquarius</td>
                 <td>Pisces</td>
               </tr>
               <tr>
-                <td>June 30, 2024</td>
+                <td>June 30, 2025</td>
                 <td>Pisces</td>
                 <td>Aries</td>
               </tr>
             </tbody>
           </table>
-          <h3>Moon transit in July 2024</h3>
+          <h3>Moon transit in July 2025</h3>
           <table border="1" className="table-size">
             <thead>
               <tr>
@@ -565,78 +565,78 @@ const Moon = () => {
             </thead>
             <tbody>
               <tr>
-                <td>July 2, 2024</td>
+                <td>July 2, 2025</td>
                 <td>Aries</td>
                 <td>Taurus</td>
               </tr>
               <tr>
-                <td>July 4, 2024</td>
+                <td>July 4, 2025</td>
                 <td>Taurus</td>
                 <td>Gemini</td>
               </tr>
               <tr>
-                <td>July 6, 2024</td>
+                <td>July 6, 2025</td>
                 <td>Gemini</td>
                 <td>Cancer</td>
               </tr>
               <tr>
-                <td>July 9, 2024</td>
+                <td>July 9, 2025</td>
                 <td>Cancer</td>
                 <td>Leo</td>
               </tr>
               <tr>
-                <td>July 11, 2024</td>
+                <td>July 11, 2025</td>
                 <td>Leo</td>
                 <td>Virgo</td>
               </tr>
               <tr>
-                <td>July 14, 2024</td>
+                <td>July 14, 2025</td>
                 <td>Virgo</td>
                 <td>Libra</td>
               </tr>
               <tr>
-                <td>July 16, 2024</td>
+                <td>July 16, 2025</td>
                 <td>Libra</td>
                 <td>Scorpio</td>
               </tr>
               <tr>
-                <td>July 19, 2024</td>
+                <td>July 19, 2025</td>
                 <td>Scorpio</td>
                 <td>Sagittarius</td>
               </tr>
               <tr>
-                <td>July 21, 2024</td>
+                <td>July 21, 2025</td>
                 <td>Sagittarius</td>
                 <td>Scorpio</td>
               </tr>
               <tr>
-                <td>July 23, 2024</td>
+                <td>July 23, 2025</td>
                 <td>Capricorn</td>
                 <td>Aquarius</td>
               </tr>
               <tr>
-                <td>July 25, 2024</td>
+                <td>July 25, 2025</td>
                 <td>Aquarius</td>
                 <td>Pisces</td>
               </tr>
               <tr>
-                <td>July 27, 2024</td>
+                <td>July 27, 2025</td>
                 <td>Pisces</td>
                 <td>Aries</td>
               </tr>
               <tr>
-                <td>July 29, 2024</td>
+                <td>July 29, 2025</td>
                 <td>Aries</td>
                 <td>Taurus</td>
               </tr>
               <tr>
-                <td>July 31, 2024</td>
+                <td>July 31, 2025</td>
                 <td>Taurus</td>
                 <td>Gemini</td>
               </tr>
             </tbody>
           </table>
-          <h3>Moon transit in August 2024</h3>
+          <h3>Moon transit in August 2025</h3>
           <table border="1" className="table-size">
             <thead>
               <tr>
@@ -647,73 +647,73 @@ const Moon = () => {
             </thead>
             <tbody>
               <tr>
-                <td>August 3, 2024</td>
+                <td>August 3, 2025</td>
                 <td>Gemini</td>
                 <td>Cancer</td>
               </tr>
               <tr>
-                <td>August 5, 2024</td>
+                <td>August 5, 2025</td>
                 <td>Cancer</td>
                 <td>Leo</td>
               </tr>
               <tr>
-                <td>August 8, 2024</td>
+                <td>August 8, 2025</td>
                 <td>Leo</td>
                 <td>Virgo</td>
               </tr>
               <tr>
-                <td>August 10, 2024</td>
+                <td>August 10, 2025</td>
                 <td>Virgo</td>
                 <td>Libra</td>
               </tr>
               <tr>
-                <td>August 13, 2024</td>
+                <td>August 13, 2025</td>
                 <td>Libra</td>
                 <td>Scorpio</td>
               </tr>
               <tr>
-                <td>August 15, 2024</td>
+                <td>August 15, 2025</td>
                 <td>Scorpio</td>
                 <td>Sagittarius</td>
               </tr>
               <tr>
-                <td>August 17, 2024</td>
+                <td>August 17, 2025</td>
                 <td>Sagittarius</td>
                 <td>Scorpio</td>
               </tr>
               <tr>
-                <td>August 19, 2024</td>
+                <td>August 19, 2025</td>
                 <td>Capricorn</td>
                 <td>Aquarius</td>
               </tr>
               <tr>
-                <td>August 21, 2024</td>
+                <td>August 21, 2025</td>
                 <td>Aquarius</td>
                 <td>Pisces</td>
               </tr>
               <tr>
-                <td>August 23, 2024</td>
+                <td>August 23, 2025</td>
                 <td>Pisces</td>
                 <td>Aries</td>
               </tr>
               <tr>
-                <td>August 25, 2024</td>
+                <td>August 25, 2025</td>
                 <td>Aries</td>
                 <td>Taurus</td>
               </tr>
               <tr>
-                <td>August 28, 2024</td>
+                <td>August 28, 2025</td>
                 <td>Taurus</td>
                 <td>Gemini</td>
               </tr>
               <tr>
-                <td>August 30, 2024</td>
+                <td>August 30, 2025</td>
                 <td>Gemini</td>
                 <td>Cancer</td>
               </tr>
             </tbody>
           </table>
-          <h3>Moon transit in September 2024</h3>
+          <h3>Moon transit in September 2025</h3>
           <table border="1" className="table-size">
             <thead>
               <tr>
@@ -724,73 +724,73 @@ const Moon = () => {
             </thead>
             <tbody>
               <tr>
-                <td>September 2, 2024</td>
+                <td>September 2, 2025</td>
                 <td>Cancer</td>
                 <td>Leo</td>
               </tr>
               <tr>
-                <td>September 4, 2024</td>
+                <td>September 4, 2025</td>
                 <td>Leo</td>
                 <td>Virgo</td>
               </tr>
               <tr>
-                <td>September 6, 2024</td>
+                <td>September 6, 2025</td>
                 <td>Virgo</td>
                 <td>Libra</td>
               </tr>
               <tr>
-                <td>September 9, 2024</td>
+                <td>September 9, 2025</td>
                 <td>Libra</td>
                 <td>Scorpio</td>
               </tr>
               <tr>
-                <td>September 11, 2024</td>
+                <td>September 11, 2025</td>
                 <td>Scorpio</td>
                 <td>Sagittarius</td>
               </tr>
               <tr>
-                <td>September 14, 2024</td>
+                <td>September 14, 2025</td>
                 <td>Sagittarius</td>
                 <td>Scorpio</td>
               </tr>
               <tr>
-                <td>September 16, 2024</td>
+                <td>September 16, 2025</td>
                 <td>Capricorn</td>
                 <td>Aquarius</td>
               </tr>
               <tr>
-                <td>September 18, 2024</td>
+                <td>September 18, 2025</td>
                 <td>Aquarius</td>
                 <td>Pisces</td>
               </tr>
               <tr>
-                <td>September 20, 2024</td>
+                <td>September 20, 2025</td>
                 <td>Pisces</td>
                 <td>Aries</td>
               </tr>
               <tr>
-                <td>September 22, 2024</td>
+                <td>September 22, 2025</td>
                 <td>Aries</td>
                 <td>Taurus</td>
               </tr>
               <tr>
-                <td>September 24, 2024</td>
+                <td>September 24, 2025</td>
                 <td>Taurus</td>
                 <td>Gemini</td>
               </tr>
               <tr>
-                <td>September 26, 2024</td>
+                <td>September 26, 2025</td>
                 <td>Gemini</td>
                 <td>Cancer</td>
               </tr>
               <tr>
-                <td>September 29, 2024</td>
+                <td>September 29, 2025</td>
                 <td>Cancer</td>
                 <td>Leo</td>
               </tr>
             </tbody>
           </table>
-          <h3>Moon transit in October 2024</h3>
+          <h3>Moon transit in October 2025</h3>
           <table border="1" className="table-size">
             <thead>
               <tr>
@@ -801,78 +801,78 @@ const Moon = () => {
             </thead>
             <tbody>
               <tr>
-                <td>October 1, 2024</td>
+                <td>October 1, 2025</td>
                 <td>Leo</td>
                 <td>Virgo</td>
               </tr>
               <tr>
-                <td>October 4, 2024</td>
+                <td>October 4, 2025</td>
                 <td>Virgo</td>
                 <td>Libra</td>
               </tr>
               <tr>
-                <td>October 6, 2024</td>
+                <td>October 6, 2025</td>
                 <td>Libra</td>
                 <td>Scorpio</td>
               </tr>
               <tr>
-                <td>October 9, 2024</td>
+                <td>October 9, 2025</td>
                 <td>Scorpio</td>
                 <td>Sagittarius</td>
               </tr>
               <tr>
-                <td>October 11, 2024</td>
+                <td>October 11, 2025</td>
                 <td>Sagittarius</td>
                 <td>Scorpio</td>
               </tr>
               <tr>
-                <td>October 13, 2024</td>
+                <td>October 13, 2025</td>
                 <td>Capricorn</td>
                 <td>Aquarius</td>
               </tr>
               <tr>
-                <td>October 15, 2024</td>
+                <td>October 15, 2025</td>
                 <td>Aquarius</td>
                 <td>Pisces</td>
               </tr>
               <tr>
-                <td>October 17, 2024</td>
+                <td>October 17, 2025</td>
                 <td>Pisces</td>
                 <td>Aries</td>
               </tr>
               <tr>
-                <td>October 19, 2024</td>
+                <td>October 19, 2025</td>
                 <td>Aries</td>
                 <td>Taurus</td>
               </tr>
               <tr>
-                <td>October 21, 2024</td>
+                <td>October 21, 2025</td>
                 <td>Taurus</td>
                 <td>Gemini</td>
               </tr>
               <tr>
-                <td>October 24, 2024</td>
+                <td>October 24, 2025</td>
                 <td>Gemini</td>
                 <td>Cancer</td>
               </tr>
               <tr>
-                <td>October 26, 2024</td>
+                <td>October 26, 2025</td>
                 <td>Cancer</td>
                 <td>Leo</td>
               </tr>
               <tr>
-                <td>October 28, 2024</td>
+                <td>October 28, 2025</td>
                 <td>Leo</td>
                 <td>Virgo</td>
               </tr>
               <tr>
-                <td>October 31, 2024</td>
+                <td>October 31, 2025</td>
                 <td>Virgo</td>
                 <td>Libra</td>
               </tr>
             </tbody>
           </table>
-          <h3>Moon transit in November 2024</h3>
+          <h3>Moon transit in November 2025</h3>
           <table border="1" className="table-size">
             <thead>
               <tr>
@@ -883,73 +883,73 @@ const Moon = () => {
             </thead>
             <tbody>
               <tr>
-                <td>November 2, 2024</td>
+                <td>November 2, 2025</td>
                 <td>Libra</td>
                 <td>Scorpio</td>
               </tr>
               <tr>
-                <td>November 5, 2024</td>
+                <td>November 5, 2025</td>
                 <td>Scorpio</td>
                 <td>Sagittarius</td>
               </tr>
               <tr>
-                <td>November 7, 2024</td>
+                <td>November 7, 2025</td>
                 <td>Sagittarius</td>
                 <td>Scorpio</td>
               </tr>
               <tr>
-                <td>November 9, 2024</td>
+                <td>November 9, 2025</td>
                 <td>Capricorn</td>
                 <td>Aquarius</td>
               </tr>
               <tr>
-                <td>November 12, 2024</td>
+                <td>November 12, 2025</td>
                 <td>Aquarius</td>
                 <td>Pisces</td>
               </tr>
               <tr>
-                <td>November 14, 2024</td>
+                <td>November 14, 2025</td>
                 <td>Pisces</td>
                 <td>Aries</td>
               </tr>
               <tr>
-                <td>November 16, 2024</td>
+                <td>November 16, 2025</td>
                 <td>Aries</td>
                 <td>Taurus</td>
               </tr>
               <tr>
-                <td>November 18, 2024</td>
+                <td>November 18, 2025</td>
                 <td>Taurus</td>
                 <td>Gemini</td>
               </tr>
               <tr>
-                <td>November 20, 2024</td>
+                <td>November 20, 2025</td>
                 <td>Gemini</td>
                 <td>Cancer</td>
               </tr>
               <tr>
-                <td>November 22, 2024</td>
+                <td>November 22, 2025</td>
                 <td>Cancer</td>
                 <td>Leo</td>
               </tr>
               <tr>
-                <td>November 25, 2024</td>
+                <td>November 25, 2025</td>
                 <td>Leo</td>
                 <td>Virgo</td>
               </tr>
               <tr>
-                <td>November 27, 2024</td>
+                <td>November 27, 2025</td>
                 <td>Virgo</td>
                 <td>Libra</td>
               </tr>
               <tr>
-                <td>November 30, 2024</td>
+                <td>November 30, 2025</td>
                 <td>Libra</td>
                 <td>Scorpio</td>
               </tr>
             </tbody>
           </table>
-          <h3>Moon transit in December 2024</h3>
+          <h3>Moon transit in December 2025</h3>
           <table border="1" className="table-size">
             <thead>
               <tr>
@@ -960,79 +960,79 @@ const Moon = () => {
             </thead>
             <tbody>
               <tr>
-                <td>December 2, 2024</td>
+                <td>December 2, 2025</td>
                 <td>Scorpio</td>
                 <td>Sagittarius</td>
               </tr>
               <tr>
-                <td>December 4, 2024</td>
+                <td>December 4, 2025</td>
                 <td>Sagittarius</td>
                 <td>Scorpio</td>
               </tr>
               <tr>
-                <td>December 7, 2024</td>
+                <td>December 7, 2025</td>
                 <td>Capricorn</td>
                 <td>Aquarius</td>
               </tr>
               <tr>
-                <td>December 9, 2024</td>
+                <td>December 9, 2025</td>
                 <td>Aquarius</td>
                 <td>Pisces</td>
               </tr>
               <tr>
-                <td>December 11, 2024</td>
+                <td>December 11, 2025</td>
                 <td>Pisces</td>
                 <td>Aries</td>
               </tr>
               <tr>
-                <td>December 13, 2024</td>
+                <td>December 13, 2025</td>
                 <td>Aries</td>
                 <td>Taurus</td>
               </tr>
               <tr>
-                <td>December 15, 2024</td>
+                <td>December 15, 2025</td>
                 <td>Taurus</td>
                 <td>Gemini</td>
               </tr>
               <tr>
-                <td>December 17, 2024</td>
+                <td>December 17, 2025</td>
                 <td>Gemini</td>
                 <td>Cancer</td>
               </tr>
               <tr>
-                <td>December 20, 2024</td>
+                <td>December 20, 2025</td>
                 <td>Cancer</td>
                 <td>Leo</td>
               </tr>
               <tr>
-                <td>December 22, 2024</td>
+                <td>December 22, 2025</td>
                 <td>Leo</td>
                 <td>Virgo</td>
               </tr>
               <tr>
-                <td>December 25, 2024</td>
+                <td>December 25, 2025</td>
                 <td>Virgo</td>
                 <td>Libra</td>
               </tr>
               <tr>
-                <td>December 27, 2024</td>
+                <td>December 27, 2025</td>
                 <td>Libra</td>
                 <td>Scorpio</td>
               </tr>
               <tr>
-                <td>December 29, 2024</td>
+                <td>December 29, 2025</td>
                 <td>Scorpio</td>
                 <td>Sagittarius</td>
               </tr>
             </tbody>
           </table>
           <p>
-            To know how your year 2024 will be,
+            To know how your year 2025 will be,
             <div className="inline-red-text"> Talk to Astrologer</div>
           </p>
           <h3>Moon Transit in 1st House from Natal Moon</h3>
           <p>
-            The Moon Transit in 2024, specifically in the 1st House from the
+            The Moon Transit in 2025, specifically in the 1st House from the
             Natal Moon, is a significant astrological event. In Vedic astrology,
             the Moon is considered a sensitive and influential planet,
             representing our emotions, inner self, and mind. When the Moon
@@ -1067,7 +1067,7 @@ const Moon = () => {
           </ul>
           <h3>Moon Transit in 2nd House from Natal Moon</h3>
           <p>
-            The Moon Transit in 2024, occurring in the 2nd house from one's
+            The Moon Transit in 2025, occurring in the 2nd house from one's
             Natal Moon, holds significant astrological implications. The 2nd
             house primarily relates to finances, values, and speech. During this
             transit, emotions may become intertwined with financial matters.
@@ -1092,7 +1092,7 @@ const Moon = () => {
           </ul>
           <h3>Moon Transit in 3rd House from Natal Moon</h3>
           <p>
-            The Moon Transit in 2024, passing through the 3rd house from the
+            The Moon Transit in 2025, passing through the 3rd house from the
             Natal Moon, brings its influence to matters related to
             communication, siblings, and short journeys. During this transit,
             emotions may find expression through communication. Individuals may
@@ -1123,7 +1123,7 @@ const Moon = () => {
           </p>
           <h3>Moon Transit in 4th House from Natal Moon</h3>
           <p>
-            As the Moon transits through the 4th house in 2024, it significantly
+            As the Moon transits through the 4th house in 2025, it significantly
             influences matters related to home, family, and emotional security.
             During this transit, individuals may experience a heightened
             emotional connection to their home and family members. There could
@@ -1150,7 +1150,7 @@ const Moon = () => {
           </ul>
           <h3>Moon Transit in 5th House from Natal Moon</h3>
           <p>
-            The Moon Transit in 2024, when passing through the 5th house from
+            The Moon Transit in 2025, when passing through the 5th house from
             the Natal Moon, holds profound astrological implications. The 5th
             house primarily governs creativity, romance, and self-expression.
             During this transit, emotions take center stage in matters of the
@@ -1181,7 +1181,7 @@ const Moon = () => {
           </ul>
           <h3>Moon Transit in 6th House from Natal Moon</h3>
           <p>
-            When the Moon transits through the 6th house in 2024, it influences
+            When the Moon transits through the 6th house in 2025, it influences
             matters related to health, work, and daily routines. During this
             transit, emotions may become more pronounced in daily life and work.
             Individuals may find themselves more emotionally attuned to their
@@ -1212,12 +1212,12 @@ const Moon = () => {
             </li>
           </ul>
           <p>
-            To Read About Your Horoscope 2024 In Detail,
+            To Read About Your Horoscope 2025 In Detail,
             <div className="inline-red-text"> Click Here</div>
           </p>
           <h3>Moon Transit in 7th House from Natal Moon</h3>
           <p>
-            As the Moon transits through the 7th house in 2024, it significantly
+            As the Moon transits through the 7th house in 2025, it significantly
             influences matters related to partnerships, relationships, and
             one-on-one interactions. During this transit, emotions come to the
             forefront in the realm of relationships. Individuals may experience
@@ -1246,7 +1246,7 @@ const Moon = () => {
           </ul>
           <h3>Moon Transit in 8th House from Natal Moon</h3>
           <p>
-            The Moon Transit in 2024, moving through the 8th house from the
+            The Moon Transit in 2025, moving through the 8th house from the
             Natal Moon, carries significant astrological implications related to
             transformation, shared resources, and deep emotions. During this
             transit, emotions may run deep as the 8th house governs profound
@@ -1273,7 +1273,7 @@ const Moon = () => {
           </ul>
           <h3>Moon Transit in 9th House from Natal Moon</h3>
           <p>
-            When the Moon transits through the 9th house in 2024, it
+            When the Moon transits through the 9th house in 2025, it
             significantly influences matters related to travel, higher
             education, and personal beliefs. During this transit, emotions may
             become intertwined with one's spiritual and philosophical beliefs.
@@ -1300,7 +1300,7 @@ const Moon = () => {
           </ul>
           <h3>Moon Transit in 10th House from Natal Moon</h3>
           <p>
-            The Moon Transit in 2024, occurring in the 10th house from the Natal
+            The Moon Transit in 2025, occurring in the 10th house from the Natal
             Moon, holds significant astrological implications for matters
             related to career, public life, and reputation. During this transit,
             emotions may play a substantial role in one's professional life.
@@ -1329,7 +1329,7 @@ const Moon = () => {
           </ul>
           <h3>Moon Transit in 11th House from Natal Moon</h3>
           <p>
-            The Moon Transit in 2024 through the 11th house from the Natal Moon
+            The Moon Transit in 2025 through the 11th house from the Natal Moon
             carries astrological significance related to friendships,
             aspirations, and social networks. During this transit, emotions play
             a crucial role in one's friendships and social interactions.
@@ -1355,7 +1355,7 @@ const Moon = () => {
           </ul>
           <h3>Moon Transit in 12th House from Natal Moon</h3>
           <p>
-            When the Moon transits through the 12th house in 2024, it influences
+            When the Moon transits through the 12th house in 2025, it influences
             matters related to solitude, spirituality, and the subconscious
             mind. This transit encourages introspection and emotional healing in
             solitude. Individuals may find solace in moments of seclusion,
@@ -1385,7 +1385,7 @@ const Moon = () => {
             <li> Consult an astrologer for personalized remedies.</li>
           </ul>
           <p>
-            To know the effects of Planetary transits in 2024 in your horoscope,
+            To know the effects of Planetary transits in 2025 in your horoscope,
             <div className="inline-red-text"> Talk to astrologer</div>
           </p>
         </div>

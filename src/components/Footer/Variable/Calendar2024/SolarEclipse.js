@@ -42,18 +42,18 @@ const SolarEclipse = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Solar Eclipse 2024" description="" keywords="">
+    <Layout title="AstroSwarg - Solar Eclipse 2025" description="" keywords="">
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
-          <h1 className="heading">Solar Eclipse 2024</h1>
+          <h1 className="heading">Solar Eclipse 2025</h1>
           <p>
-            The upcoming solar eclipse in 2024 is poised to be a breathtaking
+            The upcoming solar eclipse in 2025 is poised to be a breathtaking
             celestial event that captivates skywatchers across North America.
             Solar eclipses have always held a special place in human history,
             culture, and astrology. In this article, we'll delve into the
             enchanting world of solar eclipses, their significance in astrology,
-            and the excitement surrounding the 2024 eclipse.
+            and the excitement surrounding the 2025 eclipse.
           </p>
           <p>
             A solar eclipse occurs when the Moon passes between the Earth and
@@ -72,19 +72,19 @@ const SolarEclipse = () => {
             pivotal moments in personal growth and self-discovery.
           </p>
           <p>
-            The 2024 solar eclipse is generating a buzz in the astronomical and
+            The 2025 solar eclipse is generating a buzz in the astronomical and
             astrological communities. It is a total solar eclipse, and its path
             of totality will stretch across parts of North America. Eager
             stargazers will be treated to a once-in-a-lifetime experience, as
             the Moon obscures the Sun for a brief but awe-inspiring period.
           </p>
-          <h2>Different Types of Solar Eclipse 2024</h2>
+          <h2>Different Types of Solar Eclipse 2025</h2>
           <p>
             Solar eclipses are among the most captivating celestial events that
-            capture the imagination of people worldwide. In 2024, there will be
+            capture the imagination of people worldwide. In 2025, there will be
             several types of solar eclipses to look forward to, each with its
             own unique characteristics. In this article, we will delve into the
-            different types of solar eclipses occurring in 2024, allowing you to
+            different types of solar eclipses occurring in 2025, allowing you to
             better understand and appreciate these celestial wonders.
           </p>
           <UnorderedList>
@@ -93,7 +93,7 @@ const SolarEclipse = () => {
               breathtaking spectacle in which the Moon completely covers the
               Sun, casting a shadow on Earth. During this event, the sky
               darkens, revealing the solar corona, creating an awe-inspiring
-              sight. In 2024, these total solar eclipses will be visible from
+              sight. In 2025, these total solar eclipses will be visible from
               specific regions, providing a rare opportunity to experience this
               cosmic phenomenon.
             </ListItem>
@@ -101,7 +101,7 @@ const SolarEclipse = () => {
               <strong>Partial Solar Eclipse - </strong> Unlike a total eclipse,
               a partial solar eclipse occurs when the Moon only partially covers
               the Sun. This creates a stunning crescent shape as the Moon moves
-              across the solar disk. These partial eclipses in 2024 will offer
+              across the solar disk. These partial eclipses in 2025 will offer
               viewers a captivating display of nature's beauty, reminding us of
               the incredible precision of our solar system.
             </ListItem>
@@ -110,25 +110,25 @@ const SolarEclipse = () => {
               takes place when the Moon covers the central part of the Sun,
               leaving a "ring of fire" effect around the edges. This occurs when
               the Moon is near its apogee, appearing slightly smaller in the
-              sky. In 2024, skywatchers can anticipate the breathtaking annular
+              sky. In 2025, skywatchers can anticipate the breathtaking annular
               solar eclipses, which are equally remarkable in their unique way.
             </ListItem>
             <ListItem>
               <strong>Hybrid Solar Eclipse - </strong> Also known as an
               annular-total eclipse, the hybrid solar eclipse transitions
               between a total and annular eclipse as its path progresses. This
-              rare phenomenon can be observed in some regions during 2024,
+              rare phenomenon can be observed in some regions during 2025,
               offering a remarkable combination of eclipse types.
             </ListItem>
           </UnorderedList>
           <p>
             Solar eclipses are awe-inspiring events that provide a fascinating
-            glimpse into the mechanics of our solar system. In 2024, you have
+            glimpse into the mechanics of our solar system. In 2025, you have
             the chance to witness various types of solar eclipses, each with its
             own distinct charm. Remember to use proper eye protection and check
             the exact dates and locations for these events to ensure a safe and
             memorable viewing experience. So, mark your calendars and prepare to
-            be amazed by the celestial wonders of 2024!
+            be amazed by the celestial wonders of 2025!
           </p>
           <p>To get a detailed Kundli analysis, Chat with Astrologer</p>
           <table border="1" style={{ width: "100%", height: "auto" }}>
@@ -142,20 +142,20 @@ const SolarEclipse = () => {
             </thead>
             <tbody>
               <tr>
-                <td>Total Solar eclipse 2024</td>
+                <td>Total Solar eclipse 2025</td>
                 <td>April 20, 2023</td>
                 <td>11:07 AM</td>
                 <td>South Pacific Ocean</td>
               </tr>
               <tr>
-                <td>Annular Solar eclipse 2024</td>
-                <td>02 October 2024</td>
+                <td>Annular Solar eclipse 2025</td>
+                <td>02 October 2025</td>
                 <td>18:45 PM</td>
                 <td>South America, North America, Atlantis, Antarctica</td>
               </tr>
             </tbody>
           </table>
-          <h2>Hybrid Solar Eclipse 2024</h2>
+          <h2>Hybrid Solar Eclipse 2025</h2>
           <p>
             Hybrid solar eclipses are among the most intriguing celestial events
             that capture the imagination of both seasoned astronomers and casual
@@ -202,7 +202,7 @@ const SolarEclipse = () => {
             of the universe. So, keep your eyes on the sky and prepare to be
             spellbound by the enchanting magic of a hybrid solar eclipse.
           </p>
-          <h2>Annular Solar Eclipse 2024</h2>
+          <h2>Annular Solar Eclipse 2025</h2>
           <p>
             Annular solar eclipses are among the most captivating celestial
             events that capture the imagination of skygazers and astrology
@@ -263,20 +263,20 @@ const SolarEclipse = () => {
             of annular solar eclipses. Remember to stay safe, protect your eyes,
             and cherish the celestial beauty of the 'ring of fire.'
           </p>
-          <h2>Solar Eclipse 2024: Impact on Each Zodiac Sign</h2>
+          <h2>Solar Eclipse 2025: Impact on Each Zodiac Sign</h2>
           <p>
-            The solar eclipse of 2024 promises to be a spectacular celestial
+            The solar eclipse of 2025 promises to be a spectacular celestial
             event that will undoubtedly capture the imagination of astrology
             enthusiasts and skywatchers alike. This rare occurrence will not
             only be a visual treat but is also believed to hold significant
             influence over the lives of individuals, depending on their zodiac
             signs. In this comprehensive guide, we will explore the potential
-            impact of the Solar Eclipse 2024 on each of the twelve zodiac signs.
+            impact of the Solar Eclipse 2025 on each of the twelve zodiac signs.
           </p>
           <UnorderedList>
             <ListItem>
               <strong>Aries - </strong>
-              The Solar Eclipse 2024 may bring renewed energy and enthusiasm for
+              The Solar Eclipse 2025 may bring renewed energy and enthusiasm for
               Aries. This could be a perfect time to set new goals and embark on
               exciting ventures. It's an opportunity to focus on
               self-improvement, both physically and mentally. Be open to fresh
@@ -292,7 +292,7 @@ const SolarEclipse = () => {
             <ListItem>
               <strong>Gemini - </strong>
               Gemini, your social life may take a positive turn during the Solar
-              Eclipse 2024. Expect new friendships and exciting connections.
+              Eclipse 2025. Expect new friendships and exciting connections.
               Focus on improving your communication skills and nurturing
               existing relationships.
             </ListItem>
@@ -305,7 +305,7 @@ const SolarEclipse = () => {
             </ListItem>
             <ListItem>
               <strong>Leo - </strong>
-              The Solar Eclipse 2024 could boost your creative endeavors, Leo.
+              The Solar Eclipse 2025 could boost your creative endeavors, Leo.
               It's an ideal time to express yourself through art, hobbies, or
               even a new romance. Embrace your passions and let your creativity
               shine.
@@ -324,7 +324,7 @@ const SolarEclipse = () => {
             </ListItem>
             <ListItem>
               <strong>Scorpio - </strong>
-              The Solar Eclipse 2024 may bring financial opportunities and a
+              The Solar Eclipse 2025 may bring financial opportunities and a
               chance to increase your income, Scorpio. Focus on your financial
               security and consider investments or savings.
             </ListItem>
@@ -336,7 +336,7 @@ const SolarEclipse = () => {
             </ListItem>
             <ListItem>
               <strong>Capricorn - </strong>
-              Capricorn, the Solar Eclipse 2024 might have a significant impact
+              Capricorn, the Solar Eclipse 2025 might have a significant impact
               on your social life. New friendships and collaborations are on the
               horizon. Embrace the opportunities to network and expand your
               horizons.
@@ -349,13 +349,13 @@ const SolarEclipse = () => {
             </ListItem>
             <ListItem>
               <strong>Pisces - </strong>
-              The Solar Eclipse 2024 may enhance your intuition and spiritual
+              The Solar Eclipse 2025 may enhance your intuition and spiritual
               connections, Pisces. It's a perfect time for meditation,
               self-reflection, and exploring your inner self.
             </ListItem>
           </UnorderedList>
           <p>
-            The Solar Eclipse 2024 is an extraordinary celestial event that has
+            The Solar Eclipse 2025 is an extraordinary celestial event that has
             the potential to impact each zodiac sign uniquely. While it's
             essential to approach astrology with an open mind, this event can
             serve as a catalyst for personal growth and positive change. Embrace
@@ -364,8 +364,8 @@ const SolarEclipse = () => {
             personal development, and the eclipse is just one chapter in your
             life's journey.
           </p>
-          <p>To know how your year 2024 will be, Talk to Astrologer</p>
-          <h2>Solar Eclipse 2024: The Don’ts to Remember</h2>
+          <p>To know how your year 2025 will be, Talk to Astrologer</p>
+          <h2>Solar Eclipse 2025: The Don’ts to Remember</h2>
           <p>
             A solar eclipse is a fascinating celestial event that captures the
             imagination of people worldwide. It occurs when the moon passes
@@ -454,12 +454,12 @@ const SolarEclipse = () => {
             following these guidelines and respecting the power of the sun, you
             can make the most of this incredible celestial event.
           </p>
-          <h2>Solar Eclipse 2024: Astrological Remedies to Follow</h2>
+          <h2>Solar Eclipse 2025: Astrological Remedies to Follow</h2>
           <p>
             A solar eclipse is a celestial event that has fascinated humanity
             for centuries. Not only do these celestial occurrences hold profound
             scientific significance, but they also have a place in astrology.
-            The upcoming solar eclipse in 2024 provides us with a unique
+            The upcoming solar eclipse in 2025 provides us with a unique
             opportunity to explore astrological remedies that can help
             individuals align with the cosmic energies and harness their
             potential for positive transformation.
@@ -512,7 +512,7 @@ const SolarEclipse = () => {
             </ListItem>
           </UnorderedList>
           <p>
-            The 2024 solar eclipse offers a unique opportunity to connect with
+            The 2025 solar eclipse offers a unique opportunity to connect with
             the cosmos and unlock your potential for positive transformation.
             Astrological remedies can serve as a guiding light during this
             event, helping you align your energies with the universe and
@@ -534,11 +534,11 @@ const SolarEclipse = () => {
             create a brighter and more fulfilling future.
           </p>
           <p>
-            To know the effects of Solar Eclipse in 2024 on your life, Talk to
+            To know the effects of Solar Eclipse in 2025 on your life, Talk to
             astrologer
           </p>
           <p>
-            For more details on the impacts of the Solar Eclipse in 2024, speak
+            For more details on the impacts of the Solar Eclipse in 2025, speak
             to our astrologers online.
           </p>
         </div>

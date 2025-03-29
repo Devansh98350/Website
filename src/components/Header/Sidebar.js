@@ -885,65 +885,65 @@ const Sidebar = () => {
               onClick={() => toggleDropdown("panchang")}
               className="dropdown-toggle"
             >
-              Panchang 2024
+              Panchang 2025
             </DropdownToggle>
             {dropdownOpen.panchang && (
               <DropdownMenu>
                 <DropdownItem>
-                  <StyledNavLink to="/horoscope-2024" className="dropdown-item">
+                  <StyledNavLink to="/horoscope-2025" className="dropdown-item">
                     <i
                       className="fas fa-angle-double-right"
                       style={{ color: "#f39c12", marginRight: "5px" }}
                     ></i>
-                    Horoscope 2024
+                    Horoscope 2025
                   </StyledNavLink>
                 </DropdownItem>
                 <DropdownItem>
                   <StyledNavLink
-                    to="/shubh-muhurat-2024"
+                    to="/shubh-muhurat-2025"
                     className="dropdown-item"
                   >
                     <i
                       className="fas fa-angle-double-right"
                       style={{ color: "#f39c12", marginRight: "5px" }}
                     ></i>
-                    Shubh Muhurat 2024
+                    Shubh Muhurat 2025
                   </StyledNavLink>
                 </DropdownItem>
                 <DropdownItem>
                   <StyledNavLink
-                    to="/indian-calendar-festivals-2024"
+                    to="/indian-calendar-festivals-2025"
                     className="dropdown-item"
                   >
                     <i
                       className="fas fa-angle-double-right"
                       style={{ color: "#f39c12", marginRight: "5px" }}
                     ></i>
-                    Festival Calendar 2024
+                    Festival Calendar 2025
                   </StyledNavLink>
                 </DropdownItem>
                 <DropdownItem>
                   <StyledNavLink
-                    to="/fasts-calendar-2024"
+                    to="/fasts-calendar-2025"
                     className="dropdown-item"
                   >
                     <i
                       className="fas fa-angle-double-right"
                       style={{ color: "#f39c12", marginRight: "5px" }}
                     ></i>
-                    Vrat Calendar 2024
+                    Vrat Calendar 2025
                   </StyledNavLink>
                 </DropdownItem>
                 <DropdownItem>
                   <StyledNavLink
-                    to="/planetary-transit-2024"
+                    to="/planetary-transit-2025"
                     className="dropdown-item"
                   >
                     <i
                       className="fas fa-angle-double-right"
                       style={{ color: "#f39c12", marginRight: "5px" }}
                     ></i>
-                    Planet Transit 2024
+                    Planet Transit 2025
                   </StyledNavLink>
                 </DropdownItem>
               </DropdownMenu>

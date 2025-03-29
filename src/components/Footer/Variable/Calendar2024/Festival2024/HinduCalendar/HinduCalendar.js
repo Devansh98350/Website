@@ -50,20 +50,20 @@ const HinduCalendar = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Hindu Calendar 2024" description="" keywords="">
+    <Layout title="AstroSwarg - Hindu Calendar 2025" description="" keywords="">
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
           <h1 className="heading">
-            Hindu Calendar 2024: Hindu Festivals, Holidays & Vrats 2024
+            Hindu Calendar 2025: Hindu Festivals, Holidays & Vrats 2025
           </h1>
           <p>
             The Hindu calendar comprises a comprehensive list of festivals,
             events, and fasts that unfold throughout the year. The timing of
             most of these celebrations is intricately linked to the positions of
-            the Sun and the Moon in the sky. In the year 2024, the Hindu
+            the Sun and the Moon in the sky. In the year 2025, the Hindu
             calendar predominantly follows the Lunisolar system. Additionally,
-            the scheduling of Hindu festivals and vrats in 2024 is influenced by
+            the scheduling of Hindu festivals and vrats in 2025 is influenced by
             geographical location, leading to variations from one region to
             another.
           </p>
@@ -71,7 +71,7 @@ const HinduCalendar = () => {
             The Hindu calendar is also commonly referred to as the Hindu Vrat or
             Tyohar calendar. Here, we have provided an overview of all the
             festivals, Vrats, and other significant events, known as Parv, as
-            per the Hindu calendar for 2024. Many of these Tyohar involve
+            per the Hindu calendar for 2025. Many of these Tyohar involve
             observing important fasts to pay homage to deities, while others are
             steeped in mythological significance.
           </p>
@@ -79,7 +79,7 @@ const HinduCalendar = () => {
             It's worth noting that the Hindu calendar does not adhere to fixed
             dates for its festivals and occasions. However, this does not apply
             universally to all celebrations, events, or vrats. In the case of
-            the Hindu calendar for 2024, the timing of festivals is intricately
+            the Hindu calendar for 2025, the timing of festivals is intricately
             linked to the occurrence of the Full Moon. Conversely, some
             festivals are contingent upon the phases of the Moon, such as
             Diwali, Holi, Maha Shivaratri, and others.
@@ -238,18 +238,18 @@ const HinduCalendar = () => {
             To get a detailed Kundli analysis,{" "}
             <dic className="inline-text">Talk To Astrologer</dic>
           </p>
-          <h2>Festivals in Hindu calendar 2024</h2>
+          <h2>Festivals in Hindu calendar 2025</h2>
           <p>
-            Explore the month-by-month Hindu calendar for the New Year 2024 at
+            Explore the month-by-month Hindu calendar for the New Year 2025 at
             AstroSwarg, featuring all the significant festivals, holidays,
             Ekadashi, Purnima, Amavasya, and much more.
           </p>
-          <h3>Festivals and Vrats in January 2024</h3>
+          <h3>Festivals and Vrats in January 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
                 <tr>
-                  <th>January 2024</th>
+                  <th>January 2025</th>
                   <th>Festivals</th>
                 </tr>
               </thead>
@@ -289,7 +289,7 @@ const HinduCalendar = () => {
               </tbody>
             </table>
           </table>
-          <h3>Festivals and Vrats in February 2024</h3>
+          <h3>Festivals and Vrats in February 2025</h3>
           <table>
             <table
               border="1"
@@ -300,7 +300,7 @@ const HinduCalendar = () => {
             >
               <thead>
                 <tr>
-                  <th>February 2024</th>
+                  <th>February 2025</th>
                   <th>Festivals</th>
                 </tr>
               </thead>
@@ -348,12 +348,12 @@ const HinduCalendar = () => {
               </tbody>
             </table>
           </table>
-          <h3>Festivals and Vrats in March 2024</h3>
+          <h3>Festivals and Vrats in March 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
                 <tr>
-                  <th>March 2024</th>
+                  <th>March 2025</th>
                   <th>Festivals</th>
                 </tr>
               </thead>
@@ -397,7 +397,7 @@ const HinduCalendar = () => {
               </tbody>
             </table>
           </table>
-          <h3>Festivals and Vrats in April 2024</h3>
+          <h3>Festivals and Vrats in April 2025</h3>
           <table>
             <table
               border="1"
@@ -408,7 +408,7 @@ const HinduCalendar = () => {
             >
               <thead>
                 <tr>
-                  <th>April 2024</th>
+                  <th>April 2025</th>
                   <th>Festivals</th>
                 </tr>
               </thead>
@@ -464,7 +464,7 @@ const HinduCalendar = () => {
               </tbody>
             </table>
           </table>
-          <h3>Festivals and Vrats in May 2024</h3>
+          <h3>Festivals and Vrats in May 2025</h3>
           <table>
             <table
               border="1"
@@ -475,7 +475,7 @@ const HinduCalendar = () => {
             >
               <thead>
                 <tr>
-                  <th>May 2024</th>
+                  <th>May 2025</th>
                   <th>Festivals</th>
                 </tr>
               </thead>
@@ -523,11 +523,11 @@ const HinduCalendar = () => {
               </tbody>
             </table>
           </table>
-          <h3>Festivals and Vrats in June 2024</h3>
+          <h3>Festivals and Vrats in June 2025</h3>
           <table>
             <thead>
               <tr>
-                <th>June 2024</th>
+                <th>June 2025</th>
                 <th>Festivals</th>
               </tr>
             </thead>
@@ -566,7 +566,7 @@ const HinduCalendar = () => {
               </tr>
             </tbody>
           </table>
-          <h3>Festivals and Vrats in July 2024</h3>
+          <h3>Festivals and Vrats in July 2025</h3>
           <table>
             <table
               border="1"
@@ -577,7 +577,7 @@ const HinduCalendar = () => {
             >
               <thead>
                 <tr>
-                  <th>July 2024</th>
+                  <th>July 2025</th>
                   <th>Festivals</th>
                 </tr>
               </thead>
@@ -629,7 +629,7 @@ const HinduCalendar = () => {
               </tbody>
             </table>
           </table>
-          <h3>Festivals and Vrats in August 2024</h3>
+          <h3>Festivals and Vrats in August 2025</h3>
           <table>
             <table
               border="1"
@@ -640,7 +640,7 @@ const HinduCalendar = () => {
             >
               <thead>
                 <tr>
-                  <th>August 2024</th>
+                  <th>August 2025</th>
                   <th>Festivals</th>
                 </tr>
               </thead>
@@ -696,7 +696,7 @@ const HinduCalendar = () => {
               </tbody>
             </table>
           </table>
-          <h3>Festivals and Vrats in September 2024</h3>
+          <h3>Festivals and Vrats in September 2025</h3>
           <table>
             <table
               border="1"
@@ -707,7 +707,7 @@ const HinduCalendar = () => {
             >
               <thead>
                 <tr>
-                  <th>September 2024</th>
+                  <th>September 2025</th>
                   <th>Festivals</th>
                 </tr>
               </thead>
@@ -767,11 +767,11 @@ const HinduCalendar = () => {
               </tbody>
             </table>
           </table>
-          <h3>Festivals and Vrats in October 2024</h3>
+          <h3>Festivals and Vrats in October 2025</h3>
           <table>
             <thead>
               <tr>
-                <th>October 2024</th>
+                <th>October 2025</th>
                 <th>Festivals</th>
               </tr>
             </thead>
@@ -838,7 +838,7 @@ const HinduCalendar = () => {
               </tr>
             </tbody>
           </table>
-          <h3>Festivals and Vrats in November 2024</h3>
+          <h3>Festivals and Vrats in November 2025</h3>
           <table>
             <table
               border="1"
@@ -849,7 +849,7 @@ const HinduCalendar = () => {
             >
               <thead>
                 <tr>
-                  <th>November 2024</th>
+                  <th>November 2025</th>
                   <th>Festivals</th>
                 </tr>
               </thead>
@@ -905,7 +905,7 @@ const HinduCalendar = () => {
               </tbody>
             </table>
           </table>
-          <h3>Festivals and Vrats in December 2024</h3>
+          <h3>Festivals and Vrats in December 2025</h3>
           <table>
             <table
               border="1"
@@ -916,7 +916,7 @@ const HinduCalendar = () => {
             >
               <thead>
                 <tr>
-                  <th>December 2024</th>
+                  <th>December 2025</th>
                   <th>Festivals</th>
                 </tr>
               </thead>
@@ -960,25 +960,25 @@ const HinduCalendar = () => {
               </tbody>
             </table>
           </table>
-          <h3>Lunar time of the Hindu calendar 2024</h3>
+          <h3>Lunar time of the Hindu calendar 2025</h3>
           <p>
             The Hindu calendar operates following the Lunisolar system, which
             takes into account both the Sun's and the Moon's positions relative
-            to the Earth. In the context of lunar months in the year 2024, they
+            to the Earth. In the context of lunar months in the year 2025, they
             align with the time it takes for the Moon to complete its orbit
             around the Sun. Additionally, the lunar days in the Hindu calendar
-            for 2024 amount to 30.
+            for 2025 amount to 30.
           </p>
           <p>
             This lunar calendar divides its days into two distinct phases: the
             waning phase, leading up to Amavasya (the New Moon), and the waxing
             phase, leading to Purnima (the Full Moon). Furthermore, the regional
             variations in the northern and southern parts of India play a role
-            in the calendar for 2024. In North India, the commencement of a
+            in the calendar for 2025. In North India, the commencement of a
             month coincides with the occurrence of a Full Moon, whereas in South
             India, the start of the month follows one day after the Full Moon.
           </p>
-          <h3>Solar time of the Hindu calendar 2024</h3>
+          <h3>Solar time of the Hindu calendar 2025</h3>
           <p>
             Similar to how lunar months are influenced by the lunar cycle or the
             Moon's orbit, solar months and days in the Hindu calendar are
@@ -987,7 +987,7 @@ const HinduCalendar = () => {
             varying periods during which the Sun traverses them.
           </p>
           <p>
-            The solar months and days in the Hindu calendar for 2024 are
+            The solar months and days in the Hindu calendar for 2025 are
             considered the civil months observed by people throughout the
             country as a part of the Hindu calendar. Conversely, the lunar
             aspect of the calendar dictates the timing of festivals and regional
@@ -1030,7 +1030,7 @@ const HinduCalendar = () => {
               while the Full Moon is known as Purnima.
             </ListItem>
           </UnorderedList>
-          <h3>Significance of the Hindu Calendar 2024</h3>
+          <h3>Significance of the Hindu Calendar 2025</h3>
           <p>
             The Hindu calendar represents a collective effort of ancient
             scholars and finds its roots mentioned in the Vedas, making it a
@@ -1047,15 +1047,15 @@ const HinduCalendar = () => {
             throughout the year.
           </p>
           <p>
-            The Hindu calendar for 2024 commences slightly later than the
+            The Hindu calendar for 2025 commences slightly later than the
             financial year and just before the academic year, with a delay of
             approximately 13 to 15 days. In terms of solar months, this
             corresponds to the zodiac sign Aries or Mesha. Furthermore, in the
-            Hindu calendar for 2024, occasional adjustments may be observed,
+            Hindu calendar for 2025, occasional adjustments may be observed,
             though they are rare events.
           </p>
           <p>
-            To know Solar Eclipse in 2024 will affect your zodiac sign,{" "}
+            To know Solar Eclipse in 2025 will affect your zodiac sign,{" "}
             <div className="inline-text">Visit Here</div>
           </p>
           <p></p>

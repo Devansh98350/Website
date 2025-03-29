@@ -98,8 +98,8 @@ const JainCalendarFYQ = () => {
     {
       id: 1,
       title:
-        "Q-1:- Which are the main Jain festivals in the Jain Calendar 2024?",
-      content: `The Jain Calendar 2024 includes festivals like Mahavir Jayanti, Paryushana Parva, and Diwali, among others.`,
+        "Q-1:- Which are the main Jain festivals in the Jain Calendar 2025?",
+      content: `The Jain Calendar 2025 includes festivals like Mahavir Jayanti, Paryushana Parva, and Diwali, among others.`,
     },
     {
       id: 2,
@@ -109,8 +109,8 @@ const JainCalendarFYQ = () => {
     {
       id: 3,
       title:
-        "Q-3:- How can I use the Jain Calendar 2024 to plan Jain festival celebrations?",
-      content: `Utilize AstroSwarg's Jain Calendar 2024 to stay informed about Jain festival dates, understand their significance, and plan your celebrations accordingly.`,
+        "Q-3:- How can I use the Jain Calendar 2025 to plan Jain festival celebrations?",
+      content: `Utilize AstroSwarg's Jain Calendar 2025 to stay informed about Jain festival dates, understand their significance, and plan your celebrations accordingly.`,
     },
   ];
   const Question = ({ question }) => {

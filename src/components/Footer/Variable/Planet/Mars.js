@@ -71,17 +71,17 @@ const Mars = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Mars Transits 2024" description="" keywords="">
+    <Layout title="AstroSwarg - Mars Transits 2025" description="" keywords="">
       <Breadcrumbs />
       <StyledContainer>
         <div className="body">
           <h1 className="heading">
-            Mars Transit 2024: Dates, Time, Predictions & Remedies
+            Mars Transit 2025: Dates, Time, Predictions & Remedies
           </h1>
           <p>
             Mars, the fiery red planet of energy and ambition, will transit
-            through all 12 signs of the zodiac in 2024. This means that everyone
-            will experience the effects of Mars' transit 2024 in some way,
+            through all 12 signs of the zodiac in 2025. This means that everyone
+            will experience the effects of Mars' transit 2025 in some way,
             shape, or form.
           </p>
           <p>
@@ -121,7 +121,7 @@ const Mars = () => {
               Chat with Astrologer
             </StyledInlineRedTextLink>
           </p>
-          <h3>Mars transit 2024 Date and Time</h3>
+          <h3>Mars transit 2025 Date and Time</h3>
           <table border="1" className="table-size">
             <thead>
               <tr>
@@ -133,53 +133,53 @@ const Mars = () => {
             </thead>
             <tbody>
               <tr>
-                <td>5 February 2024, (Monday)</td>
+                <td>5 February 2025, (Monday)</td>
                 <td>Sagittarius</td>
                 <td>Capricorn</td>
                 <td>09:43 PM</td>
               </tr>
               <tr>
-                <td>15 March 2024, (Friday)</td>
+                <td>15 March 2025, (Friday)</td>
                 <td>Capricorn</td>
                 <td>Aquarius</td>
                 <td>06:08 PM</td>
               </tr>
               <tr>
-                <td>23 April 2024, (Tuesday) </td>
+                <td>23 April 2025, (Tuesday) </td>
                 <td>Aquarius</td>
                 <td>Pisces</td>
                 <td>08:38 AM</td>
               </tr>
               <tr>
-                <td>1 June 2024, (Saturday) </td>
+                <td>1 June 2025, (Saturday) </td>
                 <td>Pisces </td>
                 <td>Aries</td>
                 <td>03:36 PM</td>
               </tr>
               <tr>
-                <td>12 July 2024, (Friday) </td>
+                <td>12 July 2025, (Friday) </td>
                 <td>Aries</td>
                 <td>Taurus</td>
                 <td>06:58 PM</td>
               </tr>
               <tr>
-                <td>26 August 2024, (Monday) </td>
+                <td>26 August 2025, (Monday) </td>
                 <td>Taurus</td>
                 <td>Gemini </td>
                 <td>03:25 PM</td>
               </tr>
               <tr>
-                <td>20 October 2024, (Sunday)</td>
+                <td>20 October 2025, (Sunday)</td>
                 <td>Gemini</td>
                 <td>Cancer</td>
                 <td>02:21 PM</td>
               </tr>
             </tbody>
           </table>
-          <h3>Mars transit 2024 in 1st house</h3>
+          <h3>Mars transit 2025 in 1st house</h3>
           <p>
-            In 2024, when Mars enters your 1st house, things might get a bit
-            tricky. This Mars transit, also called Mangal Gochar 2024, isn't
+            In 2025, when Mars enters your 1st house, things might get a bit
+            tricky. This Mars transit, also called Mangal Gochar 2025, isn't
             bringing the best vibes. So, what does this mean for you? Well, you
             might face some challenges and setbacks. To navigate this, it's
             important to stay positive. While success may slow down, your
@@ -201,11 +201,11 @@ const Mars = () => {
               and resilience.
             </li>
           </ul>
-          <h3>Mars transit 2024 in 2nd house</h3>
+          <h3>Mars transit 2025 in 2nd house</h3>
           <p>
-            As Mars prepares to make its transit through your 2nd house in 2024,
+            As Mars prepares to make its transit through your 2nd house in 2025,
             you should brace yourself for a period that might not be the most
-            favourable in your life's journey. This Mars transit 2024 is likely
+            favourable in your life's journey. This Mars transit 2025 is likely
             to present its fair share of challenges. It's crucial to handle your
             love life with care during this time, as relationships may face some
             turbulence. Financial matters won't be exempt from this planetary
@@ -218,15 +218,15 @@ const Mars = () => {
             exercise caution in your communication, as words spoken in anger can
             damage precious relationships. You may find yourself entangled in
             disputes instigated by adversaries, so tread carefully during Mars'
-            2024 transit. This period might inadvertently lead to the creation
+            2025 transit. This period might inadvertently lead to the creation
             of new foes, adding chaos to your life.
           </p>
           <ul>
             <li> Consider offering food to monkeys on Tuesdays.</li>
           </ul>
-          <h3>Mars transit 2024 in 3rd house</h3>
+          <h3>Mars transit 2025 in 3rd house</h3>
           <p>
-            In 2024, when Mars makes its way into your third house, get ready
+            In 2025, when Mars makes its way into your third house, get ready
             for a boost of positive energy. This transit will last about a month
             and a half and will bring a wave of vitality and enthusiasm into
             your life. You'll feel more confident than ever before. Success will
@@ -234,7 +234,7 @@ const Mars = () => {
             time for you.
           </p>
           <p>
-            Mars' influence in 2024 will also bring a sense of clarity,
+            Mars' influence in 2025 will also bring a sense of clarity,
             patience, and calmness to your daily routine. You'll start to see
             your long-term goals more clearly, which will inspire you to work
             harder and strive for excellence. Financially, you may have various
@@ -252,9 +252,9 @@ const Mars = () => {
               and avoid isolation.
             </li>
           </ul>
-          <h3>Mars transit 2024 in 4th house</h3>
+          <h3>Mars transit 2025 in 4th house</h3>
           <p>
-            When Mars moves into your fourth house in 2024, life may throw some
+            When Mars moves into your fourth house in 2025, life may throw some
             challenges your way. It might feel like your energy isn't flowing in
             the right direction, and you could encounter more negativity. Be
             mindful that you may also encounter new conflicts and adversaries.
@@ -262,7 +262,7 @@ const Mars = () => {
             harmonious relationships.
           </p>
           <p>
-            Furthermore, during the 2024 planetary transit, it's vital to work
+            Furthermore, during the 2025 planetary transit, it's vital to work
             on anger management and practice patience. Watch your words
             carefully, as quick remarks can lead to disputes, even with
             relatives. Also, neglecting your meals or consuming stale food could
@@ -281,7 +281,7 @@ const Mars = () => {
             at a Hanuman temple.
           </h3>
           <p>
-            As Mars cruises into your fifth house during its 2024 transit, it's
+            As Mars cruises into your fifth house during its 2025 transit, it's
             time to prepare for a few challenges and shifts in your life. Keep a
             close eye on your health, as problems like indigestion, colic pain,
             bile issues, or acidity might pop up. Additionally, your
@@ -302,9 +302,9 @@ const Mars = () => {
           <ul>
             <li>Offer Shradha to your ancestors and plant a Neem tree.</li>
           </ul>
-          <h3>Mars transit 2024 in 6th house</h3>
+          <h3>Mars transit 2025 in 6th house</h3>
           <p>
-            The Mars transit in 2024, specifically in your sixth house, promises
+            The Mars transit in 2025, specifically in your sixth house, promises
             a favourable period ahead. During this time, you'll experience
             auspicious outcomes in various aspects of your life. If you've been
             contemplating a job change, seize the opportunities that come your
@@ -327,9 +327,9 @@ const Mars = () => {
               this positive energy effectively.
             </li>
           </ul>
-          <h3>Mars transit 2024 in 7th house</h3>
+          <h3>Mars transit 2025 in 7th house</h3>
           <p>
-            As Mars gears up to journey through your 7th house in 2024, be
+            As Mars gears up to journey through your 7th house in 2025, be
             prepared for a storm of emotions in your relationships. Your family
             ties may undergo strain, giving rise to conflicts and disagreements.
             It's crucial to brace yourself for potential clashes with your
@@ -338,7 +338,7 @@ const Mars = () => {
             reactions, which may surface more prominently now.
           </p>
           <p>
-            Looking forward to Mars' transit in 2024, exercise caution when
+            Looking forward to Mars' transit in 2025, exercise caution when
             sharing your secrets with others, as there's a risk of false
             accusations and betrayal from those you trust. Safeguard your
             confidential matters, as they might be used against you
@@ -360,7 +360,7 @@ const Mars = () => {
               Chat with Astrologer
             </StyledInlineRedTextLink>
           </p>
-          <h3>Mars transit 2024 in 8th house</h3>
+          <h3>Mars transit 2025 in 8th house</h3>
           <p>
             When Mars transits into your eighth house, it finds itself in its
             own house, but its influence may pose some challenges for you. It's
@@ -385,9 +385,9 @@ const Mars = () => {
               such as temples
             </li>
           </ul>
-          <h3>Mars transit 2024 in 9th house</h3>
+          <h3>Mars transit 2025 in 9th house</h3>
           <p>
-            During Mars's transit into your ninth house in 2024, you may
+            During Mars's transit into your ninth house in 2025, you may
             encounter some challenges on your life's journey. This planetary
             shift signifies a period where you might face certain obstacles on
             your path to success. It's crucial to remember that perseverance and
@@ -399,7 +399,7 @@ const Mars = () => {
             or acidity troubles. You may also experience a general sense of
             physical weakness. On the professional front, you might find your
             work less satisfying, and luck may appear to be eluding you.
-            However, don't lose heart; the 2024 Mars transit indicates that by
+            However, don't lose heart; the 2025 Mars transit indicates that by
             giving your best efforts and maintaining a positive outlook, you'll
             soon witness positive developments in your life.
           </p>
@@ -410,9 +410,9 @@ const Mars = () => {
               symbol of strength during this period.
             </li>
           </ul>
-          <h3>Mars transit 2024 in 10th house</h3>
+          <h3>Mars transit 2025 in 10th house</h3>
           <p>
-            As we approach Mars transit in 2024 into the 10th house, you should
+            As we approach Mars transit in 2025 into the 10th house, you should
             prepare yourself for a transformative journey. This celestial event
             signifies a period of dynamic energy and ambition that can have a
             significant impact on your professional life. Mars, the fiery
@@ -434,9 +434,9 @@ const Mars = () => {
               this time
             </li>
           </ul>
-          <h3>Mars transit 2024 in 11th house</h3>
+          <h3>Mars transit 2025 in 11th house</h3>
           <p>
-            In 2024, as Mars moves through your 11th house, exciting changes are
+            In 2025, as Mars moves through your 11th house, exciting changes are
             on the horizon. This period promises a boost in your financial
             well-being, bringing in extra income and enhancing your reputation
             in the community. You'll also become more health-conscious, taking
@@ -447,7 +447,7 @@ const Mars = () => {
             This Mars transit will awaken your ambition, inspiring you to seize
             the various opportunities that come your way. It's a time to shake
             off any laziness and fully embrace the chances life presents. As you
-            look ahead to Mars transit in 2024, remember to make the most of
+            look ahead to Mars transit in 2025, remember to make the most of
             these opportunities, particularly in terms of investments in
             property or stocks, which are likely to yield substantial gains.
           </p>
@@ -458,9 +458,9 @@ const Mars = () => {
               effects of this transit
             </li>
           </ul>
-          <h3>Mars transit 2024 in 12th house</h3>
+          <h3>Mars transit 2025 in 12th house</h3>
           <p>
-            In 2024, when Mars makes its transit through your 12th house, you
+            In 2025, when Mars makes its transit through your 12th house, you
             might find yourself facing a series of challenges. It's important to
             remember that this period is a test of your resilience. Health
             issues could surface, so prioritising a balanced diet and
@@ -471,7 +471,7 @@ const Mars = () => {
             disheartened; things will improve with time, so be patient.
           </p>
           <p>
-            On the flip side, Mars' transit in 2024 also brings positive energy,
+            On the flip side, Mars' transit in 2025 also brings positive energy,
             promising career opportunities, and the potential for foreign
             travel, particularly for educational pursuits. When encountering new
             people, exercise caution, as some may have ulterior motives. Avoid

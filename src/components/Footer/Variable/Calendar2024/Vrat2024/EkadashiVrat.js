@@ -49,13 +49,13 @@ const EkadashiVrat = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Ekadashi Vrat 2024" description="" keywords="">
+    <Layout title="AstroSwarg - Ekadashi Vrat 2025" description="" keywords="">
       <Breadcrumbs />
       import Breadcrumbs from "../../../Breadcrumb"
       <StyledDiv>
         <div className="body">
           <h1 className="heading">
-            Ekadashi 2024: Dates, Time, Rituals & Benefits Of Observing This
+            Ekadashi 2025: Dates, Time, Rituals & Benefits Of Observing This
             Fast
           </h1>
           <p>
@@ -71,7 +71,7 @@ const EkadashiVrat = () => {
             Engaging in this sacred ritual is believed to help individuals
             counter negative planetary influences and attain happiness. Devotees
             dedicate their fast on Ekadashi to Lord Vishnu, the protector of the
-            universe. Let's delve into the details of Ekadashi 2024 and explore
+            universe. Let's delve into the details of Ekadashi 2025 and explore
             the proper rituals for observing Ekadashi Vrat.
           </p>
           <h3>The Ekadashi Tithi & Ekadashi Vrat</h3>
@@ -102,7 +102,7 @@ const EkadashiVrat = () => {
             Overall, Ekadashi serves as a powerful reminder of the importance of
             spiritual devotion and self-purification on this special day.
           </p>
-          <h3>Ekadashi 2024: List of all Ekadashi Vrat & their timings</h3>
+          <h3>Ekadashi 2025: List of all Ekadashi Vrat & their timings</h3>
           <table>
             <table
               border="1"
@@ -120,7 +120,7 @@ const EkadashiVrat = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>07 January, 2024 (Sunday)</td>
+                  <td>07 January, 2025 (Sunday)</td>
                   <td>Saphala Ekadashi(K)</td>
                   <td>
                     Begins - 12:41 AM, Jan 07
@@ -129,7 +129,7 @@ const EkadashiVrat = () => {
                   </td>
                 </tr>
                 <tr>
-                  <td>21 January, 2024 (Sunday)</td>
+                  <td>21 January, 2025 (Sunday)</td>
                   <td>Pausha Putrada Ekadashi(S)</td>
                   <td>
                     Begins - 07:26 PM, Jan 20
@@ -138,7 +138,7 @@ const EkadashiVrat = () => {
                   </td>
                 </tr>
                 <tr>
-                  <td>06 February, 2024 (Tuesday)</td>
+                  <td>06 February, 2025 (Tuesday)</td>
                   <td>Shattila Ekadashi(K)</td>
                   <td>
                     Begins - 05:24 PM, Feb 05
@@ -147,7 +147,7 @@ const EkadashiVrat = () => {
                   </td>
                 </tr>
                 <tr>
-                  <td>20 February, 2024 (Tuesday)</td>
+                  <td>20 February, 2025 (Tuesday)</td>
                   <td>Jaya Ekadashi(S)</td>
                   <td>
                     Begins - 08:49 AM, Feb 19
@@ -156,7 +156,7 @@ const EkadashiVrat = () => {
                   </td>
                 </tr>
                 <tr>
-                  <td>06 March, 2024 (Wednesday)</td>
+                  <td>06 March, 2025 (Wednesday)</td>
                   <td>Vijaya Ekadashi(K)</td>
                   <td>
                     Begins - 06:30 AM, Mar 06
@@ -165,7 +165,7 @@ const EkadashiVrat = () => {
                   </td>
                 </tr>
                 <tr>
-                  <td>20 March, 2024 (Wednesday)</td>
+                  <td>20 March, 2025 (Wednesday)</td>
                   <td>Amalaki Ekadashi(S)</td>
                   <td>
                     Begins - 12:21 AM, Mar 20
@@ -174,7 +174,7 @@ const EkadashiVrat = () => {
                   </td>
                 </tr>
                 <tr>
-                  <td>05 April, 2024 (Friday)</td>
+                  <td>05 April, 2025 (Friday)</td>
                   <td>Papmochani Ekadashi(K)</td>
                   <td>
                     Begins - 04:14 PM, Apr 04
@@ -183,7 +183,7 @@ const EkadashiVrat = () => {
                   </td>
                 </tr>
                 <tr>
-                  <td>19 April, 2024 (Friday)</td>
+                  <td>19 April, 2025 (Friday)</td>
                   <td>Kamada Ekadashi(S)</td>
                   <td>
                     Begins - 05:31 PM, Apr 18
@@ -192,7 +192,7 @@ const EkadashiVrat = () => {
                   </td>
                 </tr>
                 <tr>
-                  <td>04 May, 2024 (Saturday)</td>
+                  <td>04 May, 2025 (Saturday)</td>
                   <td>Vaishnava Varuthini Ekadashi(K)</td>
                   <td>
                     Begins - 11:24 PM, May 03
@@ -201,7 +201,7 @@ const EkadashiVrat = () => {
                   </td>
                 </tr>
                 <tr>
-                  <td>19 May, 2024 (Sunday)</td>
+                  <td>19 May, 2025 (Sunday)</td>
                   <td>Mohini Ekadashi(S)</td>
                   <td>
                     Begins - 11:22 AM, May 18
@@ -210,7 +210,7 @@ const EkadashiVrat = () => {
                   </td>
                 </tr>
                 <tr>
-                  <td>02 June, 2024 (Sunday)</td>
+                  <td>02 June, 2025 (Sunday)</td>
                   <td>Apara Ekadashi(K)</td>
                   <td>
                     Begins - 05:04 AM, Jun 02
@@ -219,7 +219,7 @@ const EkadashiVrat = () => {
                   </td>
                 </tr>
                 <tr>
-                  <td>17 June, 2024 (Monday)</td>
+                  <td>17 June, 2025 (Monday)</td>
                   <td>Nirjala Ekadashi(S)</td>
                   <td>
                     Begins - 04:43 AM, Jun 17
@@ -228,7 +228,7 @@ const EkadashiVrat = () => {
                   </td>
                 </tr>
                 <tr>
-                  <td>18 June, 2024 (Tuesday)</td>
+                  <td>18 June, 2025 (Tuesday)</td>
                   <td>Nirjala Ekadashi(S)</td>
                   <td>
                     Begins - 04:43 AM, Jun 17
@@ -237,7 +237,7 @@ const EkadashiVrat = () => {
                   </td>
                 </tr>
                 <tr>
-                  <td>02 July, 2024 (Tuesday)</td>
+                  <td>02 July, 2025 (Tuesday)</td>
                   <td>Yogini Ekadashi(K)</td>
                   <td>
                     Begins - 10:26 AM, Jul 01
@@ -246,7 +246,7 @@ const EkadashiVrat = () => {
                   </td>
                 </tr>
                 <tr>
-                  <td>17 July, 2024 (Wednesday)</td>
+                  <td>17 July, 2025 (Wednesday)</td>
                   <td>Devshayani Ekadashi(S)</td>
                   <td>
                     Begins - 08:33 PM, Jul 16
@@ -255,7 +255,7 @@ const EkadashiVrat = () => {
                   </td>
                 </tr>
                 <tr>
-                  <td>31 July, 2024 (Wednesday)</td>
+                  <td>31 July, 2025 (Wednesday)</td>
                   <td>Vaishnava Kamika Ekadashi(K)</td>
                   <td>
                     Begins - 04:44 PM, Jul 30
@@ -264,7 +264,7 @@ const EkadashiVrat = () => {
                   </td>
                 </tr>
                 <tr>
-                  <td>16 August, 2024 (Friday)</td>
+                  <td>16 August, 2025 (Friday)</td>
                   <td>Shravana Putrada Ekadashi(S)</td>
                   <td>
                     Begins - 10:26 AM, Aug 15
@@ -273,7 +273,7 @@ const EkadashiVrat = () => {
                   </td>
                 </tr>
                 <tr>
-                  <td>29 August, 2024 (Thursday)</td>
+                  <td>29 August, 2025 (Thursday)</td>
                   <td>Aja Ekadashi(K)</td>
                   <td>
                     Begins - 01:19 AM, Aug 29
@@ -282,7 +282,7 @@ const EkadashiVrat = () => {
                   </td>
                 </tr>
                 <tr>
-                  <td>14 September, 2024 (Saturday)</td>
+                  <td>14 September, 2025 (Saturday)</td>
                   <td>Parsva Ekadashi(S)</td>
                   <td>
                     Begins - 10:30 PM, Sep 13
@@ -291,7 +291,7 @@ const EkadashiVrat = () => {
                   </td>
                 </tr>
                 <tr>
-                  <td>28 September, 2024 (Saturday)</td>
+                  <td>28 September, 2025 (Saturday)</td>
                   <td>Indira Ekadashi(K)</td>
                   <td>
                     Begins - 01:20 PM, Sep 27
@@ -300,7 +300,7 @@ const EkadashiVrat = () => {
                   </td>
                 </tr>
                 <tr>
-                  <td>14 October, 2024 (Monday)</td>
+                  <td>14 October, 2025 (Monday)</td>
                   <td>Papankusha Ekadashi(S)</td>
                   <td>
                     Begins - 09:08 AM, Oct 13
@@ -309,7 +309,7 @@ const EkadashiVrat = () => {
                   </td>
                 </tr>
                 <tr>
-                  <td>27 October, 2024 (Sunday)</td>
+                  <td>27 October, 2025 (Sunday)</td>
                   <td>Rama Ekadashi(K)</td>
                   <td>
                     Begins - 09:08 AM, Oct 13
@@ -318,7 +318,7 @@ const EkadashiVrat = () => {
                   </td>
                 </tr>
                 <tr>
-                  <td>28 October, 2024 (Monday)</td>
+                  <td>28 October, 2025 (Monday)</td>
                   <td>Rama Ekadashi(K)</td>
                   <td>
                     Begins - 05:23 AM, Oct 27
@@ -327,7 +327,7 @@ const EkadashiVrat = () => {
                   </td>
                 </tr>
                 <tr>
-                  <td>12 November, 2024 (Tuesday)</td>
+                  <td>12 November, 2025 (Tuesday)</td>
                   <td>Devutthana Ekadashi(S)</td>
                   <td>
                     Begins - 06:46 PM, Nov 11
@@ -336,7 +336,7 @@ const EkadashiVrat = () => {
                   </td>
                 </tr>
                 <tr>
-                  <td>26 November, 2024 (Tuesday)</td>
+                  <td>26 November, 2025 (Tuesday)</td>
                   <td>Utpanna Ekadashi(K)</td>
                   <td>
                     Begins - 01:01 AM, Nov 26
@@ -345,7 +345,7 @@ const EkadashiVrat = () => {
                   </td>
                 </tr>
                 <tr>
-                  <td>11 December, 2024 (Wednesday)</td>
+                  <td>11 December, 2025 (Wednesday)</td>
                   <td>Mokshada Ekadashi(S)</td>
                   <td>
                     Begins - 03:42 AM, Dec 11
@@ -354,7 +354,7 @@ const EkadashiVrat = () => {
                   </td>
                 </tr>
                 <tr>
-                  <td>26 December, 2024 (Thursday)</td>
+                  <td>26 December, 2025 (Thursday)</td>
                   <td>Saphala Ekadashi(K)</td>
                   <td>
                     Begins - 10:29 PM, Dec 25
@@ -365,9 +365,9 @@ const EkadashiVrat = () => {
               </tbody>
             </table>
           </table>
-          <h3>How to keep Ekadashi Vrat in 2024?</h3>
+          <h3>How to keep Ekadashi Vrat in 2025?</h3>
           <p>
-            Observing Ekadashi Vrat in 2024, or any year, involves specific
+            Observing Ekadashi Vrat in 2025, or any year, involves specific
             rituals and practices that vary based on personal beliefs and
             regional traditions.
           </p>
@@ -380,7 +380,7 @@ const EkadashiVrat = () => {
               the child's life.
             </ListItem>
             <ListItem>
-              Plan in advance to identify the Ekadashi dates for 2024. You can
+              Plan in advance to identify the Ekadashi dates for 2025. You can
               consult a Hindu calendar or reliable sources for this information.
               It's advisable to start your fast from sunrise (dawn) on the
               Ekadashi day and break it after sunrise on the following day
@@ -511,9 +511,9 @@ const EkadashiVrat = () => {
               fast.
             </ListItem>
           </UnorderedList>
-          <h3>What to eat on Ekadashi 2024?</h3>
+          <h3>What to eat on Ekadashi 2025?</h3>
           <p>
-            On Ekadashi in 2024, adherents should abstain from grains and beans
+            On Ekadashi in 2025, adherents should abstain from grains and beans
             as part of their dietary restrictions. Instead, they can consume
             foods like fruits, vegetables, milk, yogurt, nuts, and non-grain
             items. Common Ekadashi-friendly dishes include sabudana (tapioca)

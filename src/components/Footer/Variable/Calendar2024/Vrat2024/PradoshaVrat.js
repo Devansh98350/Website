@@ -49,15 +49,15 @@ const PradoshaVrat = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Pradosh Vrat 2024" description="" keywords="">
+    <Layout title="AstroSwarg - Pradosh Vrat 2025" description="" keywords="">
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
           <h1 className="heading">
-            Pradosh Vrat 2024- Date, Rituals and Significance
+            Pradosh Vrat 2025- Date, Rituals and Significance
           </h1>
           <p>
-            Pradosh Vrat in 2024 holds great significance in the Hindu calendar.
+            Pradosh Vrat in 2025 holds great significance in the Hindu calendar.
             This bi-monthly observance, known as Pradosham, is dedicated to Lord
             Shiva and falls on the 13th day of each lunar fortnight. It's a day
             to connect with the divine energies of Lord Shiva and Goddess
@@ -65,16 +65,16 @@ const PradoshaVrat = () => {
             removal of fear.
           </p>
           <p>
-            In 2024, new Pradosh Vrat dates emerge, and AstroSwarg is here to
+            In 2025, new Pradosh Vrat dates emerge, and AstroSwarg is here to
             provide you with a comprehensive list. By observing Pradosh Vrat in
-            2024, you can invite positivity, inner strength, and divine
+            2025, you can invite positivity, inner strength, and divine
             blessings into your life. Mark your calendars and immerse yourself
             in the spiritual journey of Pradosham for a year filled with
             spiritual growth and blessings.
           </p>
-          <h3>Significance of Pradosh Vrat 2024</h3>
+          <h3>Significance of Pradosh Vrat 2025</h3>
           <p>
-            Pradosh Vrat in 2024 is not just a tradition; it's a chance for you
+            Pradosh Vrat in 2025 is not just a tradition; it's a chance for you
             to make a positive change in your life. This sacred fasting ritual
             has the power to connect you with your inner self, bringing you joy
             and spiritual growth. It's like a refreshing breeze for your soul,
@@ -87,11 +87,11 @@ const PradoshaVrat = () => {
             fear. So, if you're going through tough times or simply seeking
             personal growth and inner peace, this is the Vrat for you. Embrace
             it with an open heart, and watch how it transforms your life in
-            2024.
+            2025.
           </p>
           <h3>Types of Pradosh Vrat</h3>
           <p>
-            In 2024, during the Pradosh Vrat, you'll encounter various types,
+            In 2025, during the Pradosh Vrat, you'll encounter various types,
             each holding its unique significance in Hindu traditions. The
             Pradosh Vrat occurring on a Monday is known as Som Pradosh or
             Pradosham, dedicated to Lord Shiva and Parvati. On a Tuesday, it
@@ -107,11 +107,11 @@ const PradoshaVrat = () => {
             calendar, making them an ideal opportunity for you to deepen your
             spiritual connection and seek divine blessings.
           </p>
-          <h3>Pradosh Vrat Dates in 2024</h3>
+          <h3>Pradosh Vrat Dates in 2025</h3>
           <p>
             Pradosh Vrat occurs on specific dates according to the Hindu
             calendar, and these dates can differ from year to year. Here are the
-            Pradosh Vrat dates for the year 2024:
+            Pradosh Vrat dates for the year 2025:
           </p>
           <table>
             <table
@@ -238,7 +238,7 @@ const PradoshaVrat = () => {
           </p>
           <h3>Pradosh Vrat Puja Vidhi (Rituals):</h3>
           <p>
-            Pradosh Vrat in 2024 is a significant occasion for those seeking the
+            Pradosh Vrat in 2025 is a significant occasion for those seeking the
             divine blessings of Lord Shiva and Goddess Parvati. Here, I'll guide
             you through the simplified Puja Vidhi:
           </p>
@@ -287,11 +287,11 @@ const PradoshaVrat = () => {
               evening Puja, strengthening their spiritual resolve.
             </ListItem>
           </UnorderedList>
-          <h3>Pradosh Vrat in 2024 - What You Can Look Forward To?</h3>
+          <h3>Pradosh Vrat in 2025 - What You Can Look Forward To?</h3>
           <UnorderedList>
             <ListItem>
               <strong>Inner Cleansing:</strong> When you observe Pradosh Vrat in
-              2024, it's like giving your soul a refreshing shower. You cleanse
+              2025, it's like giving your soul a refreshing shower. You cleanse
               away negativity and welcome positivity into your life.
             </ListItem>
             <ListItem>
@@ -306,7 +306,7 @@ const PradoshaVrat = () => {
             </ListItem>
             <ListItem>
               <strong>Spiritual Growth:</strong> As you participate in Pradosh
-              Vrat 2024, you're on a path of spiritual growth and
+              Vrat 2025, you're on a path of spiritual growth and
               self-improvement. It's like a spiritual upgrade for your soul.
             </ListItem>
             <ListItem>

@@ -60,19 +60,19 @@ const FestivalCalendar = () => {
   }, []);
   return (
     <Layout
-      title="AstroSwarg - Festival Calendar 2024"
+      title="AstroSwarg - Festival Calendar 2025"
       description=""
       keywords=""
     >
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
-          <h1 className="heading">Festival Calendar 2024</h1>
+          <h1 className="heading">Festival Calendar 2025</h1>
           <p>
             In the diverse tapestry of cultures and traditions that adorn the
             Indian subcontinent, the calendar serves as an essential thread,
             weaving together the fabric of daily life. As we stand on the
-            threshold of a new year, the Indian Calendar for 2024 emerges as a
+            threshold of a new year, the Indian Calendar for 2025 emerges as a
             profound and intricate mosaic, encapsulating not only the passage of
             time but also the rich heritage, spirituality, and astrological
             insights that have guided generations.
@@ -97,13 +97,13 @@ const FestivalCalendar = () => {
           <p>
             Prepare to be enchanted, enlightened, and inspired as we delve into
             the depths of this age-old calendar, unlocking the secrets it holds
-            for the year 2024 and gaining a deeper appreciation for the cultural
+            for the year 2025 and gaining a deeper appreciation for the cultural
             heritage it embodies. Welcome to the mystical world of the Indian
-            Calendar 2024, where tradition and time unite in a harmonious dance.
+            Calendar 2025, where tradition and time unite in a harmonious dance.
           </p>
           <h2>Significance of Hindu Calendar</h2>
           <p>
-            The Indian Calendar for 2024 holds immense significance in the lives
+            The Indian Calendar for 2025 holds immense significance in the lives
             of millions of people across India and the Indian diaspora. Rooted
             in ancient traditions, this calendar plays a pivotal role in shaping
             various aspects of daily life, cultural events, and religious
@@ -156,7 +156,7 @@ const FestivalCalendar = () => {
             calendar based on the tropical year and is closely tied to the
             Gregorian calendar used worldwide.
           </p>
-          <h3>January Festival 2024</h3>
+          <h3>January Festival 2025</h3>
           <table border="1" style={{ width: "100%", height: "auto" }}>
             <thead>
               <tr>
@@ -193,7 +193,7 @@ const FestivalCalendar = () => {
               </tr>
             </tbody>
           </table>
-          <h3>February Festival 2024</h3>
+          <h3>February Festival 2025</h3>
           <table border="1" style={{ width: "100%", height: "auto" }}>
             <thead>
               <tr>
@@ -204,13 +204,13 @@ const FestivalCalendar = () => {
             </thead>
             <tbody>
               <tr>
-                <td>February 14, 2024</td>
+                <td>February 14, 2025</td>
                 <td>Wednesday</td>
                 <td>Basant Panchmi, Saraswati Puja</td>
               </tr>
             </tbody>
           </table>
-          <h3>March Festival 2024</h3>
+          <h3>March Festival 2025</h3>
           <table border="1" style={{ width: "100%", height: "auto" }}>
             <thead>
               <tr>
@@ -237,7 +237,7 @@ const FestivalCalendar = () => {
               </tr>
             </tbody>
           </table>
-          <h3>April Festival 2024</h3>
+          <h3>April Festival 2025</h3>
           <table border="1" style={{ width: "100%", height: "auto" }}>
             <thead>
               <tr>
@@ -279,7 +279,7 @@ const FestivalCalendar = () => {
               </tr>
             </tbody>
           </table>
-          <h3>May Festival 2024</h3>
+          <h3>May Festival 2025</h3>
           <table border="1" style={{ width: "100%", height: "auto" }}>
             <thead>
               <tr>
@@ -296,7 +296,7 @@ const FestivalCalendar = () => {
               </tr>
             </tbody>
           </table>
-          <h3>July Festival 2024</h3>
+          <h3>July Festival 2025</h3>
           <table border="1" style={{ width: "100%", height: "auto" }}>
             <thead>
               <tr>
@@ -323,7 +323,7 @@ const FestivalCalendar = () => {
               </tr>
             </tbody>
           </table>
-          <h3>August Festival 2024</h3>
+          <h3>August Festival 2025</h3>
           <table border="1" style={{ width: "100%", height: "auto" }}>
             <thead>
               <tr>
@@ -365,7 +365,7 @@ const FestivalCalendar = () => {
               </tr>
             </tbody>
           </table>
-          <h3>September Festival 2024</h3>
+          <h3>September Festival 2025</h3>
           <table border="1" style={{ width: "100%", height: "auto" }}>
             <thead>
               <tr>
@@ -397,7 +397,7 @@ const FestivalCalendar = () => {
               </tr>
             </tbody>
           </table>
-          <h3>October Festival 2024</h3>
+          <h3>October Festival 2025</h3>
           <table border="1" style={{ width: "100%", height: "auto" }}>
             <thead>
               <tr>
@@ -444,7 +444,7 @@ const FestivalCalendar = () => {
               </tr>
             </tbody>
           </table>
-          <h3>November Festival 2024</h3>
+          <h3>November Festival 2025</h3>
           <table border="1" style={{ width: "100%", height: "auto" }}>
             <thead>
               <tr>
@@ -481,7 +481,7 @@ const FestivalCalendar = () => {
               </tr>
             </tbody>
           </table>
-          <h3>December Festival 2024</h3>
+          <h3>December Festival 2025</h3>
           <table border="1" style={{ width: "100%", height: "auto" }}>
             <thead>
               <tr>
@@ -644,57 +644,57 @@ const FestivalCalendar = () => {
           </p>
           <UnorderedList>
             <ListItem>
-              <strong>Hindu Calendar 2024 - </strong> The Hindu calendar, also
+              <strong>Hindu Calendar 2025 - </strong> The Hindu calendar, also
               known as the Panchang, follows a lunar system and is rich in
-              cultural significance. In 2024, it marks various festivals,
+              cultural significance. In 2025, it marks various festivals,
               ceremonies, and auspicious dates based on lunar movements. It's
               widely used across India and neighboring countries to plan
               religious events and celebrations.{" "}
               <a className="inline-red">
-                <Link to="/indian-calendar-festivals-2024/hindu-calendar-2024">
+                <Link to="/indian-calendar-festivals-2025/hindu-calendar-2025">
                   Click Here To Read More
                 </Link>
               </a>
             </ListItem>
 
             <ListItem>
-              <strong>Sikh Holidays 2024 - </strong> Sikhism follows the
+              <strong>Sikh Holidays 2025 - </strong> Sikhism follows the
               Nanakshahi calendar, introduced by Guru Nanak in 1999. This solar
-              calendar determines Sikh festivals and important dates. In 2024,
+              calendar determines Sikh festivals and important dates. In 2025,
               it marks events like Vaisakhi and Gurpurab, celebrating the birth
               anniversaries of Sikh Gurus. The calendar is used by Sikhs
               worldwide to commemorate their religious heritage.{" "}
               <a className="inline-red">
-                <Link to="/indian-calendar-festivals-2024/sikh-calendar-2024">
+                <Link to="/indian-calendar-festivals-2025/sikh-calendar-2025">
                   Click Here To Read More
                 </Link>
               </a>
             </ListItem>
 
             <ListItem>
-              <strong>Jain Calendar 2024 - </strong> The Jain calendar, also
+              <strong>Jain Calendar 2025 - </strong> The Jain calendar, also
               known as the Vira Nirvana Samvat, follows a lunar system. Jains
               commemorate important events in the lives of Tirthankaras
-              (spiritual leaders) and observe fasting days. In 2024, the
+              (spiritual leaders) and observe fasting days. In 2025, the
               calendar guides Jains in their religious practices, including
               Paryushana, a significant fasting period aimed at spiritual
               purification.{" "}
               <a className="inline-red">
-                <Link to="/indian-calendar-festivals-2024/jain-calendar-2024">
+                <Link to="/indian-calendar-festivals-2025/jain-calendar-2025">
                   Click Here To Read More
                 </Link>
               </a>
             </ListItem>
             <ListItem>
-              <strong>Buddhist Calendar 2024 - </strong> Buddhists use various
+              <strong>Buddhist Calendar 2025 - </strong> Buddhists use various
               regional lunar calendars, with the Theravada tradition following
-              the Buddhist Era (BE) calendar. In 2024, Buddhists will observe
+              the Buddhist Era (BE) calendar. In 2025, Buddhists will observe
               events like Vesak, marking the birth, enlightenment, and death of
               Gautama Buddha. The lunar calendar plays a vital role in
               scheduling Buddhist rituals, meditation practices, and community
               gatherings.{" "}
               <a className="inline-red">
-                <Link to="/indian-calendar-festivals-2024/buddhist-calendar-2024">
+                <Link to="/indian-calendar-festivals-2025/buddhist-calendar-2025">
                   Click Here To Read More
                 </Link>
               </a>
@@ -709,15 +709,15 @@ const FestivalCalendar = () => {
             people for religious, cultural, and astrological events.
           </p>
           <p>
-            Also Read <div className="inline-red">Horoscope 2024</div>
+            Also Read <div className="inline-red">Horoscope 2025</div>
           </p>
           <h3>
-            Embrace the Festivities: Indian Festival Calendar 2024 | Dates,
+            Embrace the Festivities: Indian Festival Calendar 2025 | Dates,
             Events, and Cultural Celebrations
           </h3>
           <p>
             Embark on an enriching journey through India's cultural mosaic with
-            AstroSwarg's Indian Festival Calendar 2024. Explore the meticulously
+            AstroSwarg's Indian Festival Calendar 2025. Explore the meticulously
             curated dates and events that define the rhythm of joyous
             celebrations throughout the year. Whether you're drawn to the
             spiritual ambiance of Hindu festivals, the vibrant traditions of
@@ -726,7 +726,7 @@ const FestivalCalendar = () => {
             this immersive experience, exclusively designed for AstroSwarg,
             where each occasion becomes a cherished cultural celebration. Plan,
             participate, and revel in the essence of tradition with AstroSwarg's
-            Indian Festival Calendar 2024 – your personalized roadmap to a year
+            Indian Festival Calendar 2025 – your personalized roadmap to a year
             brimming with joy and cultural richness.
           </p>
           <FestivalCalendarFYQ />

@@ -61,11 +61,11 @@ const VratCalendar = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Vrat Calendar 2024" description="" keywords="">
+    <Layout title="AstroSwarg - Vrat Calendar 2025" description="" keywords="">
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
-          <h1 className="heading">Vrat Calendar 2024</h1>
+          <h1 className="heading">Vrat Calendar 2025</h1>
           <p>
             The Vrat Calendar holds profound significance in Hindu traditions,
             serving as a comprehensive guide to the auspicious days dedicated to
@@ -259,13 +259,13 @@ const VratCalendar = () => {
             essence as a sacred vow and a means of connecting with the divine.
           </p>
           <p>
-            To Read About Your Horoscope 2024 In Detail,{" "}
+            To Read About Your Horoscope 2025 In Detail,{" "}
             <div className="inline-red">Click Here </div>
           </p>
-          <h2>List of Vrat in 2024</h2>
+          <h2>List of Vrat in 2025</h2>
           <UnorderedList>
             <ListItem>
-              <strong>Pradosha Vrat 2024 - </strong>
+              <strong>Pradosha Vrat 2025 - </strong>
               Pradosha Vrat is a revered monthly observance in Hinduism
               dedicated to Lord Shiva. It occurs twice a month, specifically
               during the evening twilight on the 13th day of both the waxing and
@@ -275,13 +275,13 @@ const VratCalendar = () => {
               spiritual growth, inner peace, and divine grace.
               <br />
               <a className="inline-red">
-                <Link to="/fasts-calendar-2024/pradosh-vrat-2024">
-                  Click Here To Read More about Pradosh Vrat 2024
+                <Link to="/fasts-calendar-2025/pradosh-vrat-2025">
+                  Click Here To Read More about Pradosh Vrat 2025
                 </Link>
               </a>
             </ListItem>
             <ListItem>
-              <strong>Ekadashi Vrat 2024 - </strong>
+              <strong>Ekadashi Vrat 2025 - </strong>
               Ekadashi Vrat, observed twice a month, falls on the 11th day of
               both the waxing and waning moon phases. Devotees fast on Ekadashi
               to honour Lord Vishnu and attain spiritual purification. The fast
@@ -291,13 +291,13 @@ const VratCalendar = () => {
               scriptures, and participating in charitable activities to receive
               divine blessings. <br />
               <a className="inline-red">
-                <Link to="/fasts-calendar-2024/ekadashi-vrat-2024">
-                  Click Here To Read More about Ekadashi Vrat 2024
+                <Link to="/fasts-calendar-2025/ekadashi-vrat-2025">
+                  Click Here To Read More about Ekadashi Vrat 2025
                 </Link>
               </a>
             </ListItem>
             <ListItem>
-              <strong>Amavasya Vrat 2024 - </strong>
+              <strong>Amavasya Vrat 2025 - </strong>
               Amavasya Vrat is the observance of the new moon day, occurring
               monthly. On this day, devotees perform rituals and prayers to
               honour their ancestors and seek their blessings. Amavasya is
@@ -306,14 +306,14 @@ const VratCalendar = () => {
               one's roots. It is believed that observing Amavasya Vrat helps in
               appeasing departed souls and promoting overall well-being. <br />
               <a className="inline-red">
-                <Link to="/fasts-calendar-2024/amavasya-vrat-2024">
+                <Link to="/fasts-calendar-2025/amavasya-vrat-2025">
                   {" "}
-                  Click Here To Read More about Amavasya Vrat 2024
+                  Click Here To Read More about Amavasya Vrat 2025
                 </Link>
               </a>
             </ListItem>
             <ListItem>
-              <strong>Purnima Vrat 2024 - </strong>
+              <strong>Purnima Vrat 2025 - </strong>
               Purnima Vrat, celebrated on the full moon day each month, is
               dedicated to Lord Satyanarayana or Goddess Lakshmi. Devotees
               engage in prayers, fasts, and charitable acts to harness the
@@ -323,14 +323,14 @@ const VratCalendar = () => {
               community worship, conduct pujas, and perform acts of kindness on
               this day. <br />
               <a className="inline-red">
-                <Link to="/fasts-calendar-2024/purnima-vrat-2024">
+                <Link to="/fasts-calendar-2025/purnima-vrat-2025">
                   {" "}
-                  Click Here To Read More about Purnima Vrat 2024
+                  Click Here To Read More about Purnima Vrat 2025
                 </Link>
               </a>{" "}
             </ListItem>
             <ListItem>
-              <strong>Sankashti Chaturthi Vrat 2024 - </strong>
+              <strong>Sankashti Chaturthi Vrat 2025 - </strong>
               Sankashti Chaturthi Vrat is a Hindu ritual observed on the fourth
               day of the waning lunar phase each month. Devotees fast and
               perform prayers to seek the blessings of Lord Ganesha, the remover
@@ -339,14 +339,14 @@ const VratCalendar = () => {
               the vrat involves the sighting of the moon, symbolising the
               successful completion of the vow. <br />
               <a className="inline-red">
-                <Link to="/fasts-calendar-2024/sankashti-vrat-2024">
+                <Link to="/fasts-calendar-2025/sankashti-vrat-2025">
                   {" "}
-                  Click Here To Read More about Sankashti Chaturthi Vrat 2024
+                  Click Here To Read More about Sankashti Chaturthi Vrat 2025
                 </Link>
               </a>
             </ListItem>
             <ListItem>
-              <strong>Shradha Days 2024 - </strong>
+              <strong>Shradha Days 2025 - </strong>
               Shradha Days are a series of rituals performed in honour of
               ancestors and departed souls. These days typically fall during the
               lunar fortnight of Pitru Paksha, 16 days dedicated to ancestral
@@ -356,26 +356,26 @@ const VratCalendar = () => {
               ancestors in the afterlife and brings blessings to the living.
               <br />
               <a className="inline-red">
-                <Link to="/fasts-calendar-2024/shradha-days-vrat-2024">
-                  Click Here To Read More about Shradha Days 2024
+                <Link to="/fasts-calendar-2025/shradha-days-vrat-2025">
+                  Click Here To Read More about Shradha Days 2025
                 </Link>
               </a>
             </ListItem>
             <ListItem>
-              <strong>Rohini Vrat 2024 - </strong>
+              <strong>Rohini Vrat 2025 - </strong>
               Rohini Vrat is a special observance dedicated to Goddess Rohini, a
               manifestation of Goddess Lakshmi. Devotees engage in prayers,
               fasting, and rituals to seek the divine blessings of the goddess.
-              The specific significance of Rohini Vrat in 2024 would depend on
+              The specific significance of Rohini Vrat in 2025 would depend on
               the Hindu calendar and the planetary alignments during that time.
               It is a day of heightened spiritual significance, symbolising
               devotion, prosperity, and the pursuit of divine grace. Devotees
               may participate in rituals, visit temples, and offer special
               prayers to Goddess Rohini on this auspicious day. <br />
               <a className="inline-red">
-                <Link to="/fasts-calendar-2024/rohini-vrat-2024">
+                <Link to="/fasts-calendar-2025/rohini-vrat-2025">
                   {" "}
-                  Click Here To Read More about Rohini Vrat 2024
+                  Click Here To Read More about Rohini Vrat 2025
                 </Link>
               </a>
             </ListItem>

@@ -51,18 +51,18 @@ const BuddhistCalendar = () => {
   }, []);
   return (
     <Layout
-      title="AstroSwarg - Buddhist Calendar 2024"
+      title="AstroSwarg - Buddhist Calendar 2025"
       description=""
       keywords=""
     >
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
-          <h1 className="heading">Buddhist Calendar 2024</h1>
+          <h1 className="heading">Buddhist Calendar 2025</h1>
           <p>
             Buddhism is a significant religion, much like all other religions.
             This religion instructs us to always follow the path of truth, just
-            like other religions do. The Buddhist Calendar 2024 is useful for
+            like other religions do. The Buddhist Calendar 2025 is useful for
             both Buddhists and non-Buddhists who are curious about the festivals
             and festivities of the religion. The Lord Buddha's teachings are
             what made Buddhism popular. In addition, Lord Buddha, who follows
@@ -152,14 +152,14 @@ const BuddhistCalendar = () => {
             minutes longer than a tropical year and which the Western Gregorian
             calendar aims to follow. The Buddhist year begins a little later
             each year. The New Year will be observed on the 25th of January,
-            according to the Buddhist Calendar 2024. However, there may be
+            according to the Buddhist Calendar 2025. However, there may be
             regional variances depending on the day.
           </p>
           <p>
             To get a detailed Kundli analysis,{" "}
             <div className="inline-text">Talk To Astrologer</div>
           </p>
-          <h2>Festivals as per Buddhist Calendar 2024</h2>
+          <h2>Festivals as per Buddhist Calendar 2025</h2>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -171,54 +171,54 @@ const BuddhistCalendar = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>January 25, 2024</td>
+                  <td>January 25, 2025</td>
                   <td>Thursday</td>
                   <td>Mahayana New Year</td>
                 </tr>
                 <tr>
-                  <td>February 10, 2024</td>
+                  <td>February 10, 2025</td>
                   <td>Saturday</td>
                   <td>Chinese New Year</td>
                 </tr>
                 <tr>
-                  <td>February 15, 2024</td>
+                  <td>February 15, 2025</td>
                   <td>Thursday</td>
                   <td>Nirvana Day</td>
                 </tr>
                 <tr>
-                  <td>February 24, 2024</td>
+                  <td>February 24, 2025</td>
                   <td>Saturday</td>
                   <td>Magha Puja Day</td>
                 </tr>
                 <tr>
-                  <td>April 13, 2024</td>
+                  <td>April 13, 2025</td>
                   <td>Saturday</td>
                   <td>Theravada New Year</td>
                 </tr>
                 <tr>
-                  <td>May 23, 2024</td>
+                  <td>May 23, 2025</td>
                   <td>Thursday</td>
                   <td>Vesak - Buddha Day</td>
                 </tr>
                 <tr>
-                  <td>July 21, 2024</td>
+                  <td>July 21, 2025</td>
                   <td>Sunday</td>
                   <td>Asla, Religion Day</td>
                 </tr>
                 <tr>
-                  <td>August 13, 2024</td>
+                  <td>August 13, 2025</td>
                   <td>Tuesday</td>
                   <td>Oboni</td>
                 </tr>
                 <tr>
-                  <td>December 28, 2024</td>
+                  <td>December 28, 2025</td>
                   <td>Sunday</td>
                   <td>Bodhi Day</td>
                 </tr>
               </tbody>
             </table>
           </table>
-          <h2>Buddhist Festival According to the Buddhist calendar 2024</h2>
+          <h2>Buddhist Festival According to the Buddhist calendar 2025</h2>
           <h3>Bodhi Day</h3>
           <p>
             One of the most well-known Buddhist holidays is Bodhi Day, which
@@ -232,14 +232,14 @@ const BuddhistCalendar = () => {
           </p>
           <h3>Mahayana New Year</h3>
           <p>
-            According to the Buddhist calendar 2024, different nations and
+            According to the Buddhist calendar 2025, different nations and
             cultures celebrate Mahayana New Year on various dates. While some
             Mahayana Buddhists wait until the first full moon of the year,
             others celebrate this day on December 31 or January 1. This Buddhist
             holiday is not observed until the middle of January.
           </p>
           <p>
-            To Read About Your Horoscope 2024 In Detail,
+            To Read About Your Horoscope 2025 In Detail,
             <div className="inline-text">Click Here</div>
           </p>
           <p>

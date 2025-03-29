@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 import Layout from "../../../../Layout/Layout.js";
 import styled from "styled-components";
-import Horoscope2024FYQ from "./Horoscope2024Fyq.js";
+import Horoscope2025FYQ from "./Horoscope2025Fyq.js";
 import Breadcrumbs from "../../../../Breadcrumb";
 const StyledDiv = styled.div`
   .body {
@@ -53,37 +53,37 @@ const StyledDiv = styled.div`
   }
 `;
 
-const Horoscope2024 = () => {
+const Horoscope2025 = () => {
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
   return (
     <Layout
-      title="AstroSwarg - Yearly Horoscope 2024"
+      title="AstroSwarg - Yearly Horoscope 2025"
       description=""
       keywords=""
     >
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
-          <h1 className="heading">Yearly Horoscope 2024</h1>
+          <h1 className="heading">Yearly Horoscope 2025</h1>
           <h1 className="heading1">Predictions for all zodiac signs</h1>
-          <h2>Yearly horoscope 2024 predictions for all zodiac signs</h2>
+          <h2>Yearly horoscope 2025 predictions for all zodiac signs</h2>
           <p>
-            Step into the vibrant and promising realm of 2024, where new
+            Step into the vibrant and promising realm of 2025, where new
             beginnings, fresh ambitions, and transformative shifts await you.
             It's a time to redefine your aspirations, reshape your life's
             trajectory, and navigate the celestial currents with the guidance of
-            our skilled astrologers. Welcome to your personalized Horoscope 2024
+            our skilled astrologers. Welcome to your personalized Horoscope 2025
             journey – your companion for the upcoming year!
           </p>
           <p>
             2023 was a year of growth, self-discovery, and learning. As we step
-            into 2024, we're presented with a clean slate, an opportunity to
+            into 2025, we're presented with a clean slate, an opportunity to
             fine-tune our goals, and embrace the transitions that lie ahead.
             Whether you're aspiring to venture into uncharted professional
             territory, nurture your relationships, or simply find a deeper
-            connection with yourself, your Horoscope 2024 is here to light the
+            connection with yourself, your Horoscope 2025 is here to light the
             way.
           </p>
           <p>
@@ -93,7 +93,7 @@ const Horoscope2024 = () => {
             ordinary, like learning a new skill, to the profound, like finding
             your soulmate. However, life often throws curveballs, and the path
             to our goals isn't always straightforward. That's where your
-            Horoscope 2024 comes into play – as a cosmic compass, guiding you
+            Horoscope 2025 comes into play – as a cosmic compass, guiding you
             through the planetary influences and energies that shape your
             journey.
           </p>
@@ -106,7 +106,7 @@ const Horoscope2024 = () => {
             challenge your efforts. When Venus aligns favorably with your chart,
             love may flow effortlessly into your life. Yet, during periods when
             Venus is less cooperative, obstacles might arise. Your Horoscope
-            2024 unveils these intricate planetary movements, empowering you to
+            2025 unveils these intricate planetary movements, empowering you to
             make well-timed decisions and optimize your chances of success.
           </p>
           <p>
@@ -123,34 +123,34 @@ const Horoscope2024 = () => {
             Astrology is the art of deciphering the language of the cosmos,
             translating celestial motions into tangible advice. It's not about
             surrendering your will to the stars; it's about aligning your
-            intentions with the cosmic rhythms. Your Horoscope 2024 isn't a
+            intentions with the cosmic rhythms. Your Horoscope 2025 isn't a
             crystal ball that predicts every twist and turn, but rather a
             roadmap that equips you with wisdom to navigate life's labyrinth.
             It's about being informed, proactive, and adaptable in your pursuit
             of happiness and fulfillment.
           </p>
           <p>
-            As you embark on this journey through 2024, remember that every
+            As you embark on this journey through 2025, remember that every
             challenge is an opportunity in disguise, every setback a stepping
-            stone towards growth. Your Horoscope 2024 will be your trusted ally,
+            stone towards growth. Your Horoscope 2025 will be your trusted ally,
             helping you recognize those moments of potential transformation and
             offering insights into the energies that surround you. Whether
             you're a believer or a curious skeptic, the wisdom of the stars
             awaits you, ready to empower you on your unique voyage.
           </p>
           <p>
-            So, dive into your Horoscope 2024, authored by India's finest
+            So, dive into your Horoscope 2025, authored by India's finest
             astrologers. Let it be the lantern that illuminates your path, the
             guiding star that leads you towards your dreams, and the roadmap
             that helps you navigate the twists and turns of the upcoming year.
             Remember, your destiny is a collaboration between your actions and
-            the universe's whispers. Let's make 2024 a year of purpose, growth,
+            the universe's whispers. Let's make 2025 a year of purpose, growth,
             and cosmic synergy – together.
           </p>
-          <h3>Aries Horoscope 2024</h3>
+          <h3>Aries Horoscope 2025</h3>
           <p>
-            Hey there, fiery Aries! Get ready to rock 2024 with unstoppable
-            energy and fierce determination. Your Aries Horoscope 2024 is a
+            Hey there, fiery Aries! Get ready to rock 2025 with unstoppable
+            energy and fierce determination. Your Aries Horoscope 2025 is a
             sneak peek into a year that's all about stepping into your power and
             making your mark. Career-wise, you'll be a force to be reckoned
             with. Your bold ideas and daring initiatives will catch the
@@ -163,18 +163,18 @@ const Horoscope2024 = () => {
             is real, even for a dynamo like you. Take moments to recharge,
             indulge in hobbies, and nurture your well-being. Adventure is
             calling, dear Aries. Embrace the unknown, face challenges head-on,
-            and let your 2024 Horoscope be your trusty sidekick in this
+            and let your 2025 Horoscope be your trusty sidekick in this
             exhilarating journey! <br /> Click here to read in detail about{" "}
             <div className="inline-text">
-              <Link to="/horoscope-2024/aries-horoscope-2024">
-                Aries Horoscope 2024
+              <Link to="/horoscope-2025/aries-horoscope-2025">
+                Aries Horoscope 2025
               </Link>
             </div>
           </p>
-          <h3>Taurus Horoscope 2024</h3>
+          <h3>Taurus Horoscope 2025</h3>
           <p>
-            Your 2024 journey is all about growth, stability, and embracing
-            change. Your Taurus Horoscope 2024 gives you a glimpse of a year
+            Your 2025 journey is all about growth, stability, and embracing
+            change. Your Taurus Horoscope 2025 gives you a glimpse of a year
             where your patience will pay off in ways you can't imagine.
             Professionally, get ready for a steady climb. Your practical
             approach and strong work ethic will draw recognition. New
@@ -185,18 +185,18 @@ const Horoscope2024 = () => {
             shared dreams and intimate moments. This year, you're breaking free
             from old routines. Travel and exploration will beckon – say yes!
             It's time to broaden your horizons and add some adventure to your
-            life. Your Taurus Horoscope 2024 is your compass, guiding you
+            life. Your Taurus Horoscope 2025 is your compass, guiding you
             through the realms of stability and growth. Embrace the winds of
             change, and let this year be a testament to your enduring strength
             and newfound possibilities!
             <br /> Click here to read in detail about{" "}
             <div className="inline-text">
-              <Link to="/horoscope-2024/taurus-horoscope-2024">
-                Taurus Horoscope 2024
+              <Link to="/horoscope-2025/taurus-horoscope-2025">
+                Taurus Horoscope 2025
               </Link>
             </div>
           </p>
-          <h3>Gemini Horoscope 2024</h3>
+          <h3>Gemini Horoscope 2025</h3>
           <p>
             Brace yourself for a year of excitement, growth, and new adventures.
             This year, your communication skills will shine like never before.
@@ -216,12 +216,12 @@ const Horoscope2024 = () => {
             and don't hesitate to seek advice when needed.
             <br /> Click here to read in detail about{" "}
             <div className="inline-text">
-              <Link to="/horoscope-2024/gemini-horoscope-2024">
-                Gemini Horoscope 2024
+              <Link to="/horoscope-2025/gemini-horoscope-2025">
+                Gemini Horoscope 2025
               </Link>
             </div>
           </p>
-          <h3>Cancer Horoscope 2024</h3>
+          <h3>Cancer Horoscope 2025</h3>
           <p>
             This year, the cosmos has some intriguing twists and turns lined up
             just for you. Your intuition will be your guiding star, so trust
@@ -243,14 +243,14 @@ const Horoscope2024 = () => {
             and innovation will serve you well.
             <br /> Click here to read in detail about{" "}
             <div className="inline-text">
-              <Link to="/horoscope-2024/cancer-horoscope-2024">
-                Cancer Horoscope 2024
+              <Link to="/horoscope-2025/cancer-horoscope-2025">
+                Cancer Horoscope 2025
               </Link>
             </div>
           </p>
-          <h3>Leo Horoscope 2024</h3>
+          <h3>Leo Horoscope 2025</h3>
           <p>
-            Get ready for a spectacular spin in 2024 – it's your time to shine
+            Get ready for a spectacular spin in 2025 – it's your time to shine
             brighter than ever! Passion and creativity will be your trusty
             companions throughout the year, igniting the flames of your
             ambitions. Career-wise, prepare to unleash your inner lion and
@@ -267,12 +267,12 @@ const Horoscope2024 = () => {
             and maintain that signature Leo vitality.
             <br /> Click here to read in detail about{" "}
             <div className="inline-text">
-              <Link to="/horoscope-2024/leo-horoscope-2024">
-                Leo Horoscope 2024
+              <Link to="/horoscope-2025/leo-horoscope-2025">
+                Leo Horoscope 2025
               </Link>
             </div>
           </p>
-          <h3>Virgo Horoscope 2024</h3>
+          <h3>Virgo Horoscope 2025</h3>
           <p>
             This is your time to fine-tune your life and let your incredible
             attention to detail shine. Career-wise, your analytical prowess will
@@ -284,7 +284,7 @@ const Horoscope2024 = () => {
             communication will be your love language, deepening your bond.
             Single Virgos might discover love where they least expect it – keep
             your heart open and be ready to embrace surprises. Health is wealth,
-            and 2024 encourages you to prioritize well-being. Embrace a holistic
+            and 2025 encourages you to prioritize well-being. Embrace a holistic
             approach – from mindful eating to refreshing walks – to keep your
             mind, body, and soul in perfect harmony. Your keen eye for detail
             will also extend to your personal growth. Explore new hobbies, learn
@@ -292,12 +292,12 @@ const Horoscope2024 = () => {
             your way – they're all part of your evolving story.
             <br /> Click here to read in detail about{" "}
             <div className="inline-text">
-              <Link to="/horoscope-2024/virgo-horoscope-2024">
-                Virgo Horoscope 2024
+              <Link to="/horoscope-2025/virgo-horoscope-2025">
+                Virgo Horoscope 2025
               </Link>
             </div>
           </p>
-          <h3>Libra Horoscope 2024</h3>
+          <h3>Libra Horoscope 2025</h3>
           <p>
             This year is like a cosmic makeover designed just for you. Your
             charm and diplomacy will be off the charts, making you the go-to
@@ -306,27 +306,27 @@ const Horoscope2024 = () => {
             Career-wise, prepare for some exciting twists. The stars are urging
             you to step out of your comfort zone and embrace new challenges.
             That dream project you've been mulling over? Your creativity knows
-            no bounds in 2024. In matters of the heart, your natural allure will
+            no bounds in 2025. In matters of the heart, your natural allure will
             be irresistible. If you're single, expect some heart-fluttering
             encounters. Already coupled up? Your bond will deepen as you embark
             on thrilling adventures together. Just remember to keep the lines of
             communication open – that Libra harmony is your secret weapon.
             Amidst all this hustle and bustle, don't forget to take care of
             yourself. Schedule in some spa days and meditation moments to keep
-            your inner scales balanced. 2024 is all about embracing your
+            your inner scales balanced. 2025 is all about embracing your
             fabulousness, inside and out. So go on, gorgeous Libra, paint the
             year with your signature style and let the world be enchanted by
             your magnetic energy!
             <br /> Click here to read in detail about{" "}
             <div className="inline-text">
-              <Link to="/horoscope-2024/libra-horoscope-2024">
-                Libra Horoscope 2024
+              <Link to="/horoscope-2025/libra-horoscope-2025">
+                Libra Horoscope 2025
               </Link>
             </div>
           </p>
-          <h3>Scorpio Horoscope 2024</h3>
+          <h3>Scorpio Horoscope 2025</h3>
           <p>
-            Get ready to rock 2024 like the enigmatic powerhouse you are. This
+            Get ready to rock 2025 like the enigmatic powerhouse you are. This
             year, the cosmos has some intense and transformative vibes in store,
             and you're absolutely here for it. When it comes to your career,
             prepare to rise from the ashes and take on challenges like never
@@ -346,12 +346,12 @@ const Horoscope2024 = () => {
             reflection to keep your energy levels balanced.
             <br /> Click here to read in detail about{" "}
             <div className="inline-text">
-              <Link to="/horoscope-2024/scorpio-horoscope-2024">
-                Scorpio Horoscope 2024
+              <Link to="/horoscope-2025/scorpio-horoscope-2025">
+                Scorpio Horoscope 2025
               </Link>
             </div>
           </p>
-          <h3>Sagittarius Horoscope 2024</h3>
+          <h3>Sagittarius Horoscope 2025</h3>
           <p>
             This year, the stars are aligning to bring you a whirlwind of
             opportunities and growth. Your natural optimism and enthusiasm will
@@ -363,7 +363,7 @@ const Horoscope2024 = () => {
             with destiny. Whether you're single or taken, the stars are
             orchestrating some heart-fluttering moments. Open your heart to
             meaningful connections, and don't shy away from expressing your true
-            feelings. Travel bug tingling? Pack your bags! 2024 is your chance
+            feelings. Travel bug tingling? Pack your bags! 2025 is your chance
             to quench your thirst for adventure. New cultures, exotic cuisines,
             and breathtaking landscapes await your exploration. Your infectious
             energy will attract fellow wanderers and create memories that will
@@ -374,15 +374,15 @@ const Horoscope2024 = () => {
             exploration. Your arrow is aimed at the stars – let it fly!
             <br /> Click here to read in detail about{" "}
             <div className="inline-text">
-              <Link to="/horoscope-2024/sagittarius-horoscope-2024">
-                Sagittarius Horoscope 2024
+              <Link to="/horoscope-2025/sagittarius-horoscope-2025">
+                Sagittarius Horoscope 2025
               </Link>
             </div>
           </p>
-          <h3>Capricorn Horoscope 2024</h3>
+          <h3>Capricorn Horoscope 2025</h3>
           <p>
             Get ready to sculpt a masterpiece out of the cosmic clay that is
-            2024. This year, the universe is handing you a chisel of
+            2025. This year, the universe is handing you a chisel of
             determination and a canvas of opportunities to create a life that
             truly resonates with your dreams. Career aspirations? You've got
             this in the bag! The stars are aligning to elevate your professional
@@ -393,25 +393,25 @@ const Horoscope2024 = () => {
             committed, the universe is bringing opportunities for deeper
             connections. Open your heart to vulnerability and let authenticity
             be your magnet. Feeling the urge to broaden your horizons? Pack your
-            bags, because 2024 is your year to expand your worldview. Travel,
+            bags, because 2025 is your year to expand your worldview. Travel,
             learning, and self-discovery await you. Let your practicality blend
             with your curiosity, and watch as new perspectives enrich your life.
             Remember, cosmic climber, balance is your mantra. As you scale the
             peaks of success, make sure to nurture your well-being and maintain
             connections with loved ones. Your mountain is waiting – ascend it
-            step by patient step. In 2024, you're not just chasing dreams;
+            step by patient step. In 2025, you're not just chasing dreams;
             you're building foundations for a future that's as solid as your
             determination.
             <br /> Click here to read in detail about{" "}
             <div className="inline-text">
-              <Link to="/horoscope-2024/capricorn-horoscope-2024">
-                Capricorn Horoscope 2024
+              <Link to="/horoscope-2025/capricorn-horoscope-2025">
+                Capricorn Horoscope 2025
               </Link>
             </div>
           </p>
-          <h3>Aquarius Horoscope 2024</h3>
+          <h3>Aquarius Horoscope 2025</h3>
           <p>
-            Buckle up for a cosmic joyride in 2024! This year, the universe has
+            Buckle up for a cosmic joyride in 2025! This year, the universe has
             a captivating lineup planned just for you. Get ready to shine as
             your innovative ideas take center stage. Brace yourself for an
             adventure that promises personal and professional growth. Saturn's
@@ -426,20 +426,20 @@ const Horoscope2024 = () => {
             life. Expect some delightful surprises in the realm of the heart.
             However, remember that even superheroes need rest. Don't forget to
             recharge your batteries and indulge in self-care. A balanced
-            approach will keep you at your vibrant best. So, Aquarius, 2024 is
+            approach will keep you at your vibrant best. So, Aquarius, 2025 is
             your year to make waves, embrace change, and dance to your own
             rhythm. Get ready to color the world with your unique hues and let
             your star shine the brightest!
             <br /> Click here to read in detail about{" "}
             <div className="inline-text">
-              <Link to="/horoscope-2024/aquarius-horoscope-2024">
-                Aquarius Horoscope 2024
+              <Link to="/horoscope-2025/aquarius-horoscope-2025">
+                Aquarius Horoscope 2025
               </Link>
             </div>
           </p>
-          <h3>Pisces Horoscope 2024</h3>
+          <h3>Pisces Horoscope 2025</h3>
           <p>
-            Hold onto your seashells because 2024 is about to whisk you away on
+            Hold onto your seashells because 2025 is about to whisk you away on
             a tidal wave of transformation and adventure. Get ready to dive deep
             into the ocean of possibilities and ride the cosmic currents. This
             year, the planets’ influence will be like a spotlight on your
@@ -462,21 +462,21 @@ const Horoscope2024 = () => {
             others' lives.
             <br /> Click here to read in detail about{" "}
             <div className="inline-text">
-              <Link to="/horoscope-2024/pisces-horoscope-2024">
-                Pisces Horoscope 2024
+              <Link to="/horoscope-2025/pisces-horoscope-2025">
+                Pisces Horoscope 2025
               </Link>
             </div>
           </p>
-          <h2>Why read horoscope 2024?</h2>
+          <h2>Why read horoscope 2025?</h2>
           <p>
-            Step into the fascinating realm of Horoscope 2024 - your ultimate
+            Step into the fascinating realm of Horoscope 2025 - your ultimate
             guide to navigating the cosmic currents of the upcoming year. Ever
             wondered why reading your horoscope is more than just stargazing?
             Well, let's unravel the magic together.
           </p>
           <p>
             Imagine having a sneak peek into the future, a roadmap that unveils
-            the celestial events that will shape your path. Horoscope 2024 is
+            the celestial events that will shape your path. Horoscope 2025 is
             your personal cosmic GPS, revealing the transits, conjunctions, and
             retrogrades that play a symphony of influence in your life. From
             Venus dancing through your love sector to the sun casting its rays
@@ -485,7 +485,7 @@ const Horoscope2024 = () => {
           </p>
           <p>
             Transitions are inevitable, like the seasons changing. Life shifts,
-            evolves, and challenges us to adapt. With your Horoscope 2024 in
+            evolves, and challenges us to adapt. With your Horoscope 2025 in
             hand, you're not merely a passenger; you're the captain steering
             your ship. Be it relationships, career, health, or finances – every
             facet is illuminated, enabling you to identify pitfalls and seize
@@ -495,13 +495,13 @@ const Horoscope2024 = () => {
             Astrologers, the cosmic translators, play a pivotal role. At
             AstroSwarg, our team of seasoned astrologers doesn't just glance at
             stars; they decipher the cosmic code. With meticulous tracking and
-            insightful analysis, they craft your Horoscope 2024. Their expertise
+            insightful analysis, they craft your Horoscope 2025. Their expertise
             transforms celestial movements into tangible advice, empowering you
             to make informed choices.
           </p>
           <p>
             Ever wondered why you have amazing highs one month and challenges
-            the next? That's where your Horoscope 2024 comes in. By pinpointing
+            the next? That's where your Horoscope 2025 comes in. By pinpointing
             favorable and challenging periods, it gives you a head start.
             Imagine making decisions that put you ahead of the curve, surprising
             colleagues, friends, and even your partner with your insightful
@@ -509,7 +509,7 @@ const Horoscope2024 = () => {
           </p>
           <p>
             And hey, life isn't all about challenges; it's about connections
-            too. Your love horoscope in 2024 isn't just about predicting
+            too. Your love horoscope in 2025 isn't just about predicting
             romance; it's about fostering deeper bonds. Communication is your
             secret weapon, and your horoscope acts as a guide, helping you
             understand and enhance your relationships.
@@ -519,11 +519,11 @@ const Horoscope2024 = () => {
             cosmic advisors, ready to answer your burning questions and offer
             personalized guidance.
           </p>
-          <Horoscope2024FYQ />
+          <Horoscope2025FYQ />
         </div>
       </StyledDiv>
     </Layout>
   );
 };
 
-export default Horoscope2024;
+export default Horoscope2025;

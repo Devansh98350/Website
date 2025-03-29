@@ -98,8 +98,8 @@ const BuddhistCalendarFYQ = () => {
     {
       id: 1,
       title:
-        "Q-1:- What are the main Buddhist festivals in the calendar for 2024?",
-      content: `The Buddhist Calendar 2024 includes festivals like Vesak, Asalha Puja, and Uposatha Days.`,
+        "Q-1:- What are the main Buddhist festivals in the calendar for 2025?",
+      content: `The Buddhist Calendar 2025 includes festivals like Vesak, Asalha Puja, and Uposatha Days.`,
     },
     {
       id: 2,
@@ -109,8 +109,8 @@ const BuddhistCalendarFYQ = () => {
     {
       id: 3,
       title:
-        "Q-3:- How can I use the Buddhist Calendar 2024 for planning my observances?",
-      content: `Utilize AstroSwarg's Buddhist Calendar 2024 to learn about important Buddhist festivals, understand their significance, and organize your cultural observances accordingly. `,
+        "Q-3:- How can I use the Buddhist Calendar 2025 for planning my observances?",
+      content: `Utilize AstroSwarg's Buddhist Calendar 2025 to learn about important Buddhist festivals, understand their significance, and organize your cultural observances accordingly. `,
     },
   ];
   const Question = ({ question }) => {

@@ -63,7 +63,7 @@ const Saturn = () => {
   }, []);
   return (
     <Layout
-      title="AstroSwarg - Saturn Transits 2024"
+      title="AstroSwarg - Saturn Transits 2025"
       description=""
       keywords=""
     >
@@ -71,7 +71,7 @@ const Saturn = () => {
       <StyledContainer>
         <div className="body">
           <h1 className="heading">
-            Saturn Transit 2024 Date, Time, and Predictions
+            Saturn Transit 2025 Date, Time, and Predictions
           </h1>
           <p>
             Saturn, a colossal celestial body, resides at a considerable
@@ -87,7 +87,7 @@ const Saturn = () => {
             life during Saturn's transit.
             <br />
             <br />
-            However, it's important to note that Saturn's 2024 transit in one's
+            However, it's important to note that Saturn's 2025 transit in one's
             horoscope need not necessarily spell doom and gloom. In certain
             circumstances, this celestial giant can bestow positive outcomes.
             For instance, when the Moon is positioned within the 3rd, 6th, or
@@ -103,7 +103,7 @@ const Saturn = () => {
             both adversity and opportunity, depending on its specific placement
             in an individual's astrological chart.
           </p>
-          <h3>General impacts of Saturn transit 2024</h3>
+          <h3>General impacts of Saturn transit 2025</h3>
           <p>
             In the realm of Vedic astrology, the transits and cycles of Saturn
             are often regarded as significant phases of growth, maturation, and
@@ -139,11 +139,11 @@ const Saturn = () => {
             To get a detailed Kundli analysis,
             <div className="inline-red-text"> Chat with Astrologer</div>
           </p>
-          <h3>Saturn transit 2024 date and time</h3>
-          <p>Saturn will not transit in any zodiac sign in 2024.</p>
-          <h3>Saturn transit 2024 in 1st house</h3>
+          <h3>Saturn transit 2025 date and time</h3>
+          <p>Saturn will not transit in any zodiac sign in 2025.</p>
+          <h3>Saturn transit 2025 in 1st house</h3>
           <p>
-            The Saturn transit of 2024 into the 1st house heralds a
+            The Saturn transit of 2025 into the 1st house heralds a
             transformative period of self-discovery and personal growth. While
             Saturn's presence may initially seem challenging, it carries immense
             potential for positive change. This celestial alignment encourages
@@ -182,9 +182,9 @@ const Saturn = () => {
             <br />
             <li> Mitigate any challenges during this transit.</li>
           </ul>
-          <h3>Saturn transit 2024 in 2nd house</h3>
+          <h3>Saturn transit 2025 in 2nd house</h3>
           <p>
-            The Saturn transit of 2024 into the 2nd house ushers in a period of
+            The Saturn transit of 2025 into the 2nd house ushers in a period of
             significant positive transformation in matters related to finance,
             communication, and personal values. This celestial alignment brings
             with it a unique opportunity for individuals to strengthen their
@@ -224,9 +224,9 @@ const Saturn = () => {
               during this transit and mitigate any challenges.
             </li>
           </ul>
-          <h3>Saturn transit 2024 in 3rd house</h3>
+          <h3>Saturn transit 2025 in 3rd house</h3>
           <p>
-            The Saturn transit of 2024 into the 3rd house is a promising
+            The Saturn transit of 2025 into the 3rd house is a promising
             celestial event that brings forth a wave of positive transformations
             in the realms of communication, relationships with siblings, and
             personal growth. This transit is a powerful catalyst for enhancing
@@ -269,9 +269,9 @@ const Saturn = () => {
               ensure a smoother journey.
             </li>
           </ul>
-          <h3>Saturn transit 2024 in 4th house</h3>
+          <h3>Saturn transit 2025 in 4th house</h3>
           <p>
-            The Saturn transit of 2024 into the 4th house brings a profound and
+            The Saturn transit of 2025 into the 4th house brings a profound and
             transformative influence that can be harnessed for personal growth,
             family harmony, and a stronger sense of security. This celestial
             alignment offers an opportunity to build solid foundations in
@@ -311,9 +311,9 @@ const Saturn = () => {
               during this transit and ensure a harmonious and secure home life.
             </li>
           </ul>
-          <h3>Saturn transit 2024 in 5th house</h3>
+          <h3>Saturn transit 2025 in 5th house</h3>
           <p>
-            The Saturn transit of 2024 into the 5th house heralds a period of
+            The Saturn transit of 2025 into the 5th house heralds a period of
             profound personal growth, creativity, and structured
             self-expression. While Saturn is often associated with discipline
             and challenges, its presence in the 5th house offers unique
@@ -348,7 +348,7 @@ const Saturn = () => {
             relationships.
             <br />
             <br />
-            In conclusion, the Saturn transit of 2024 in the 5th house presents
+            In conclusion, the Saturn transit of 2025 in the 5th house presents
             an exciting opportunity for creative and intellectual growth, as
             well as the development of meaningful relationships. Embrace this
             transit with enthusiasm, and you'll likely experience significant
@@ -362,9 +362,9 @@ const Saturn = () => {
               of Saturn during this transit and unlock your creative potential.
             </li>
           </ul>
-          <h3>Saturn transit 2024 in 6th house</h3>
+          <h3>Saturn transit 2025 in 6th house</h3>
           <p>
-            The Saturn transit of 2024 into the 6th house heralds a period of
+            The Saturn transit of 2025 into the 6th house heralds a period of
             substantial positive transformation in matters related to health,
             work, and personal growth. Saturn, often associated with discipline
             and responsibility, brings its constructive influence to the 6th
@@ -397,13 +397,13 @@ const Saturn = () => {
             </li>
           </ul>
           <h4>
-            To know how your year 2024 will be,
+            To know how your year 2025 will be,
             <div className="inline-red-text"> Chat with Astrologer </div> for
             solutions
           </h4>
-          <h3>Saturn transit 2024 in 7th house</h3>
+          <h3>Saturn transit 2025 in 7th house</h3>
           <p>
-            The Saturn transit of 2024 into the 7th house ushers in a
+            The Saturn transit of 2025 into the 7th house ushers in a
             transformative and positive period for relationships and
             partnerships. While Saturn is often associated with challenges, its
             presence in the 7th house offers a unique opportunity for
@@ -447,9 +447,9 @@ const Saturn = () => {
               partnerships.
             </li>
           </ul>
-          <h3>Saturn transit 2024 in 8th house</h3>
+          <h3>Saturn transit 2025 in 8th house</h3>
           <p>
-            The Saturn transit of 2024 into the 8th house ushers in a period of
+            The Saturn transit of 2025 into the 8th house ushers in a period of
             profound transformation, inner growth, and the potential for
             positive change in various aspects of life. While Saturn's presence
             in the 8th house is often associated with intensity and challenges,
@@ -491,9 +491,9 @@ const Saturn = () => {
               financial well-being.
             </li>
           </ul>
-          <h3>Saturn transit 2024 in 9th house</h3>
+          <h3>Saturn transit 2025 in 9th house</h3>
           <p>
-            The Saturn transit of 2024 into the 9th house brings a remarkable
+            The Saturn transit of 2025 into the 9th house brings a remarkable
             period of personal growth, spiritual development, and expanded
             horizons. While Saturn is often associated with discipline and
             challenges, its presence in the 9th house offers a unique
@@ -537,9 +537,9 @@ const Saturn = () => {
               spiritual journey.
             </li>
           </ul>
-          <h3>Saturn transit 2024 in 10th house</h3>
+          <h3>Saturn transit 2025 in 10th house</h3>
           <p>
-            The Saturn transit of 2024 into the 10th house is a powerful
+            The Saturn transit of 2025 into the 10th house is a powerful
             celestial event that offers individuals a remarkable opportunity for
             personal and professional growth, along with a heightened sense of
             responsibility and achievement. While Saturn is often associated
@@ -580,9 +580,9 @@ const Saturn = () => {
               during this transit and ensure career success and recognition.
             </li>
           </ul>
-          <h3>Saturn transit 2024 in 11th house</h3>
+          <h3>Saturn transit 2025 in 11th house</h3>
           <p>
-            The Saturn transit of 2024 into the 11th house brings forth a period
+            The Saturn transit of 2025 into the 11th house brings forth a period
             of significant positive transformations in the realm of friendships,
             social networks, and personal aspirations. Saturn's presence in the
             11th house signifies an opportunity for individuals to strengthen
@@ -628,9 +628,9 @@ const Saturn = () => {
               harmony and personal fulfillment.
             </li>
           </ul>
-          <h3>Saturn transit 2024 in 12th house</h3>
+          <h3>Saturn transit 2025 in 12th house</h3>
           <p>
-            The Saturn transit of 2024 into the 12th house, although often
+            The Saturn transit of 2025 into the 12th house, although often
             perceived as a challenging placement, carries with it a unique
             opportunity for profound personal growth, spiritual development, and
             inner transformation. Rather than being a time of hardships, this
@@ -652,7 +652,7 @@ const Saturn = () => {
             to others.
             <br />
             <br />
-            In conclusion, the Saturn transit of 2024 in the 12th house offers a
+            In conclusion, the Saturn transit of 2025 in the 12th house offers a
             promising opportunity for profound spiritual growth, inner peace,
             and a deeper connection with the higher self. Embrace this transit
             with dedication and a positive attitude, and you'll likely
@@ -669,7 +669,7 @@ const Saturn = () => {
             </li>
           </ul>
           <p>
-            To know the effects of Planetary transits in 2024 in your horoscope,
+            To know the effects of Planetary transits in 2025 in your horoscope,
             <div className="inline-red-text"> Chat with Astrologer</div>
           </p>
         </div>

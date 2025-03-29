@@ -56,24 +56,24 @@ const Aquarius = () => {
   }, []);
   return (
     <Layout
-      title="AstroSwarg - Aquarius Horoscope 2024"
+      title="AstroSwarg - Aquarius Horoscope 2025"
       description=""
       keywords=""
     >
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
-          <h1 className="heading">Aquarius Horoscope 2024</h1>
+          <h1 className="heading">Aquarius Horoscope 2025</h1>
           <p>
             Buckle up because this year is destined to be a thrilling journey
             through innovation, growth, and a few cosmic surprises along the
-            way. As we step into the future, the Aquarius Horoscope 2024 is your
+            way. As we step into the future, the Aquarius Horoscope 2025 is your
             trusty compass, guiding you through the celestial tides and
             illuminating the unique path that's in store for you. Aquarians,
             with your bold ideas and unconventional thinking, are about to
             embark on a year that promises a dazzling blend of personal
             transformation, intellectual exploration, and social revolution. In
-            2024, the universe has woven a tapestry of opportunities,
+            2025, the universe has woven a tapestry of opportunities,
             challenges, and cosmic connections, and it's time for you to unravel
             it. From matters of the heart to career aspirations, from
             technological breakthroughs to humanitarian endeavors, this
@@ -83,15 +83,15 @@ const Aquarius = () => {
           <p>
             So, dear Aquarius, are you ready to unlock the mysteries of the
             stars and embark on a journey that's uniquely yours? Let's dive into
-            the Aquarius Horoscope 2024 and discover the wonders that await you
+            the Aquarius Horoscope 2025 and discover the wonders that await you
             in this thrilling chapter of your life.
           </p>
-          <h3>Aquarius Love Horoscope 2024</h3>
+          <h3>Aquarius Love Horoscope 2025</h3>
           <p>
-            Brace yourselves, because the Aquarius Love Horoscope 2024 is about
+            Brace yourselves, because the Aquarius Love Horoscope 2025 is about
             to take you on a celestial rollercoaster through the realms of
             romance, passion, and, of course, a few unexpected cosmic twists.
-            Let's kick things off with the starry-eyed news. In 2024, your love
+            Let's kick things off with the starry-eyed news. In 2025, your love
             life is destined to be a kaleidoscope of emotions and connections,
             shimmering with the promise of unforgettable moments. Aquarians,
             known for their independent and free-spirited nature, are set to
@@ -116,7 +116,7 @@ const Aquarius = () => {
           </p>
           <p>
             Effective communication will be your guiding star in matters of the
-            heart in 2024. Your unconventional thinking and open-mindedness can
+            heart in 2025. Your unconventional thinking and open-mindedness can
             help you navigate romantic misunderstandings or disagreements.
             Encourage deep, heart-to-heart conversations with your partner, and
             be receptive to their thoughts and feelings. Your love for unique
@@ -132,13 +132,13 @@ const Aquarius = () => {
             own, and it's crucial to support each other's individual growth
             while nurturing your love.
           </p>
-          <h3>Aquarius Finance Horoscope 2024</h3>
+          <h3>Aquarius Finance Horoscope 2025</h3>
           <p>
             Get ready to embark on a cosmic journey through the realm of wealth
-            and prosperity with the Aquarius Finance Horoscope 2024. This year,
+            and prosperity with the Aquarius Finance Horoscope 2025. This year,
             your financial path is like a captivating financial thriller, filled
             with twists of fortune, strategic moves, and, of course, a few
-            cosmic surprises. Let's start with the promising news. In 2024, your
+            cosmic surprises. Let's start with the promising news. In 2025, your
             financial prospects are set to sparkle like the stars in a clear
             night sky. Your innovative thinking, intellectual prowess, and
             humanitarian spirit are your secret weapons in navigating the
@@ -157,7 +157,7 @@ const Aquarius = () => {
             It's essential to seek equilibrium where both your financial
             independence and your financial stability can coexist. Your
             innovative spirit aligns well with exploring new investment
-            opportunities. In 2024, consider diversifying your investment
+            opportunities. In 2025, consider diversifying your investment
             portfolio and exploring emerging markets or technologies. However,
             exercise caution and conduct thorough research before taking
             financial risks. Effective budgeting will be your ally. Your unique
@@ -166,13 +166,13 @@ const Aquarius = () => {
             both short-term and long-term financial objectives. Don't forget to
             maintain an emergency fund.
           </p>
-          <h3>Aquarius Career Horoscope 2024</h3>
+          <h3>Aquarius Career Horoscope 2025</h3>
           <p>
             Are you ready to decode the cosmic blueprint of your professional
-            journey with the Aquarius Career Horoscope 2024? This year, your
+            journey with the Aquarius Career Horoscope 2025? This year, your
             career path resembles a complex mosaic, with pieces of success,
             innovation, and a few intriguing challenges to piece together. Let's
-            dive into the exciting part first. In 2024, your professional
+            dive into the exciting part first. In 2025, your professional
             prospects are as vibrant as a canvas waiting for your artistic
             touch. Your innovative thinking, humanitarian spirit, and ability to
             embrace change are your secret weapons. Anticipate opportunities for
@@ -192,7 +192,7 @@ const Aquarius = () => {
             responsibilities. It's essential to seek equilibrium where both your
             creative pursuits and your career stability can coexist
             harmoniously. Expanding your professional network is crucial in
-            2024. Your humanitarian spirit aligns well with building
+            2025. Your humanitarian spirit aligns well with building
             relationships that can further your career. Attend industry events,
             engage with like-minded professionals, and use your innovative ideas
             to connect with potential collaborators or mentors. Embrace
@@ -212,13 +212,13 @@ const Aquarius = () => {
             and engage in meaningful conversations with colleagues and
             superiors.
           </p>
-          <h3>Aquarius Family Horoscope 2024</h3>
+          <h3>Aquarius Family Horoscope 2025</h3>
           <p>
             Brace yourselves for a cosmic journey through the intricate tapestry
-            of your family dynamics with the Aquarius Family Horoscope 2024.
+            of your family dynamics with the Aquarius Family Horoscope 2025.
             This year, your family life resembles a mosaic of shared moments,
             growth, and, of course, a few cosmic curveballs to keep things
-            interesting. Let's kick off with heartwarming news. In 2024, your
+            interesting. Let's kick off with heartwarming news. In 2025, your
             familial bonds are set to shine as brilliantly as the stars in the
             night sky. Your innovative thinking, open-mindedness, and love for
             humanitarian causes are your secret weapons in nurturing your family
@@ -238,7 +238,7 @@ const Aquarius = () => {
             pursuing your own passions and fulfilling familial obligations. It's
             essential to seek equilibrium, where both your independence and your
             family's needs are respected. Effective communication will be your
-            guiding star in familial matters in 2024. Your innovative thinking
+            guiding star in familial matters in 2025. Your innovative thinking
             and open-mindedness can help you navigate family conflicts or
             disagreements. Encourage meaningful conversations with family
             members, and be receptive to their thoughts and feelings.
@@ -251,13 +251,13 @@ const Aquarius = () => {
             all together. These experiences will strengthen your familial bonds
             and create a nurturing and loving environment.
           </p>
-          <h3>Aquarius Health Horoscope 2024</h3>
+          <h3>Aquarius Health Horoscope 2025</h3>
           <p>
             Get ready to embark on a cosmic exploration of your well-being with
-            the Aquarius Health Horoscope 2024. This year, your health journey
+            the Aquarius Health Horoscope 2025. This year, your health journey
             is akin to an exhilarating quest, filled with vitality,
             self-discovery, and, yes, a few celestial challenges to keep you on
-            your toes. Let's dive into the exciting news first. In 2024, your
+            your toes. Let's dive into the exciting news first. In 2025, your
             physical and mental well-being are poised to shine as brilliantly as
             the stars in the night sky. Your progressive thinking, love for
             innovation, and humanitarian spirit are your secret weapons in
@@ -281,7 +281,7 @@ const Aquarius = () => {
           </p>
           <p>
             Incorporating physical activity into your daily routine will be your
-            ally in 2024. Your love for innovation can lead you to explore
+            ally in 2025. Your love for innovation can lead you to explore
             unique fitness routines or exercise trends. Embrace these with
             enthusiasm, but also maintain a regular exercise regimen that aligns
             with your fitness goals. Pay attention to your dietary choices. Your
@@ -290,13 +290,13 @@ const Aquarius = () => {
             maintain a balanced and nutritious diet that supports your long-term
             health.
           </p>
-          <h3>Aquarius Marriage Horoscope 2024</h3>
+          <h3>Aquarius Marriage Horoscope 2025</h3>
           <p>
             Get ready to navigate the cosmic waters of matrimony with the
-            Aquarius Marriage Horoscope 2024. This year, your marital journey is
+            Aquarius Marriage Horoscope 2025. This year, your marital journey is
             like a captivating voyage, filled with the winds of passion, the
             depths of understanding, and, yes, a few celestial storms to weather
-            along the way. Let's begin with the heartwarming news. In 2024, your
+            along the way. Let's begin with the heartwarming news. In 2025, your
             marital bonds are set to shine as brightly as the stars in a moonlit
             sky. Your progressive thinking, open-mindedness, and love for
             humanitarian causes are your secret weapons in nurturing your
@@ -316,7 +316,7 @@ const Aquarius = () => {
             passions and fulfilling your marital responsibilities. It's
             essential to seek equilibrium where both your independence and your
             marriage thrive. Effective communication will be your guiding star
-            in marital matters in 2024. Your progressive thinking and
+            in marital matters in 2025. Your progressive thinking and
             open-mindedness can help you navigate misunderstandings or
             disagreements with your spouse. Encourage meaningful conversations,
             share your thoughts and feelings, and be receptive to your partner's
@@ -332,7 +332,7 @@ const Aquarius = () => {
             dreams, and it's vital to support each other's growth while
             nurturing your marital connection.
           </p>
-          <h3>Astrological Remedies For Aquarius in 2024</h3>
+          <h3>Astrological Remedies For Aquarius in 2025</h3>
           <UnorderedList>
             <ListItem>
               Regularly chant the 'Om Shanti' mantra to promote inner peace and

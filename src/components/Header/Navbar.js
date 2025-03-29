@@ -1300,67 +1300,67 @@ const Navbar = (props) => {
                         }}
                         aria-expanded="false"
                       >
-                        Panchang 2024
+                        Panchang 2025
                       </NavLink>
                       <ul className="dropdown-menu">
                         <li>
                           <NavLink
-                            to="/horoscope-2024"
+                            to="/horoscope-2025"
                             className="dropdown-item"
                           >
                             <i
                               className="fas fa-angle-double-right"
                               style={{ color: "red", marginRight: "5px" }}
                             ></i>
-                            Horoscope 2024
+                            Horoscope 2025
                           </NavLink>
                         </li>
                         <li>
                           <NavLink
-                            to="/shubh-muhurat-2024"
+                            to="/shubh-muhurat-2025"
                             className="dropdown-item"
                           >
                             <i
                               className="fas fa-angle-double-right"
                               style={{ color: "red", marginRight: "5px" }}
                             ></i>
-                            Shubh Muhurat 2024
+                            Shubh Muhurat 2025
                           </NavLink>
                         </li>
                         <li>
                           <NavLink
-                            to="/indian-calendar-festivals-2024"
+                            to="/indian-calendar-festivals-2025"
                             className="dropdown-item"
                           >
                             <i
                               className="fas fa-angle-double-right"
                               style={{ color: "red", marginRight: "5px" }}
                             ></i>
-                            Festival Calendar 2024
+                            Festival Calendar 2025
                           </NavLink>
                         </li>
                         <li>
                           <NavLink
-                            to="/fasts-calendar-2024"
+                            to="/fasts-calendar-2025"
                             className="dropdown-item"
                           >
                             <i
                               className="fas fa-angle-double-right"
                               style={{ color: "red", marginRight: "5px" }}
                             ></i>
-                            Vrat Calendar 2024
+                            Vrat Calendar 2025
                           </NavLink>
                         </li>
                         <li>
                           <NavLink
-                            to="/planetary-transit-2024"
+                            to="/planetary-transit-2025"
                             className="dropdown-item"
                           >
                             <i
                               className="fas fa-angle-double-right"
                               style={{ color: "red", marginRight: "5px" }}
                             ></i>
-                            Planet Transit 2024
+                            Planet Transit 2025
                           </NavLink>
                         </li>
                       </ul>
@@ -1588,67 +1588,67 @@ const Navbar = (props) => {
                         style={{ border: "none", color: "White" }}
                         aria-expanded="false"
                       >
-                        Panchang 2024
+                        Panchang 2025
                       </NavLink>
                       <ul className="dropdown-menu">
                         <li>
                           <NavLink
-                            to="/horoscope-2024"
+                            to="/horoscope-2025"
                             className="dropdown-item"
                           >
                             <i
                               className="fas fa-angle-double-right"
                               style={{ color: "red", marginRight: "5px" }}
                             ></i>
-                            Horoscope 2024
+                            Horoscope 2025
                           </NavLink>
                         </li>
                         <li>
                           <NavLink
-                            to="/shubh-muhurat-2024"
+                            to="/shubh-muhurat-2025"
                             className="dropdown-item"
                           >
                             <i
                               className="fas fa-angle-double-right"
                               style={{ color: "red", marginRight: "5px" }}
                             ></i>
-                            Shubh Muhurat 2024
+                            Shubh Muhurat 2025
                           </NavLink>
                         </li>
                         <li>
                           <NavLink
-                            to="/indian-calendar-festivals-2024"
+                            to="/indian-calendar-festivals-2025"
                             className="dropdown-item"
                           >
                             <i
                               className="fas fa-angle-double-right"
                               style={{ color: "red", marginRight: "5px" }}
                             ></i>
-                            Festival Calendar 2024
+                            Festival Calendar 2025
                           </NavLink>
                         </li>
                         <li>
                           <NavLink
-                            to="/fasts-calendar-2024"
+                            to="/fasts-calendar-2025"
                             className="dropdown-item"
                           >
                             <i
                               className="fas fa-angle-double-right"
                               style={{ color: "red", marginRight: "5px" }}
                             ></i>
-                            Vrat Calendar 2024
+                            Vrat Calendar 2025
                           </NavLink>
                         </li>
                         <li>
                           <NavLink
-                            to="/planetary-transit-2024"
+                            to="/planetary-transit-2025"
                             className="dropdown-item"
                           >
                             <i
                               className="fas fa-angle-double-right"
                               style={{ color: "red", marginRight: "5px" }}
                             ></i>
-                            Planet Transit 2024
+                            Planet Transit 2025
                           </NavLink>
                         </li>
                       </ul>

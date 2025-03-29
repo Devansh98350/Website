@@ -42,23 +42,23 @@ const Car = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Car Muhurat 2024" description="" keywords="">
+    <Layout title="AstroSwarg - Car Muhurat 2025" description="" keywords="">
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
-          <h1 className="heading">Car/Bike Muhurat 2024</h1>
+          <h1 className="heading">Car/Bike Muhurat 2025</h1>
           <p>
             In a world where transportation has become an integral part of our
             daily lives, the significance of choosing the right moment to
             acquire a vehicle cannot be underestimated. For those eagerly
             awaiting the purchase of a car or a bike, the concept of a Muhurat
-            holds immense importance. In 2024, this age-old tradition takes
+            holds immense importance. In 2025, this age-old tradition takes
             centre stage, as enthusiasts and prospective buyers gear up to
             embrace their dream rides under the most auspicious celestial
             alignments.
           </p>
           <p>
-            The Car Bike Muhurat 2024 is a topic that resonates with individuals
+            The Car Bike Muhurat 2025 is a topic that resonates with individuals
             across cultures and backgrounds, highlighting the universal desire
             for safe and prosperous journeys. Whether you are a seasoned
             automobile aficionado or a first- time buyer, understanding the
@@ -75,7 +75,7 @@ const Car = () => {
             aligns with your desires but also ensures a harmonious and
             prosperous future on the road.
           </p>
-          <h2>Muhurat 2024</h2>
+          <h2>Muhurat 2025</h2>
           <p>
             Muhurat is a significant aspect of Indian astrology and culture,
             focusing on selecting auspicious timings for various activities each
@@ -83,7 +83,7 @@ const Car = () => {
             vital role in ensuring success and positive outcomes in endeavours
             such as weddings, ceremonies, and business ventures.
           </p>
-          <h2>Car/ bike buying muhurat in January 2024</h2>
+          <h2>Car/ bike buying muhurat in January 2025</h2>
           <table>
             <thead>
               <tr>
@@ -93,48 +93,48 @@ const Car = () => {
             </thead>
             <tbody>
               <tr>
-                <td>January 3, 2024</td>
-                <td>21:18 to January 7, 2024 09:53</td>
+                <td>January 3, 2025</td>
+                <td>21:18 to January 7, 2025 09:53</td>
               </tr>
               <tr>
-                <td>January 4, 2024</td>
-                <td>09:53 to January 4, 2024 23:34</td>
+                <td>January 4, 2025</td>
+                <td>09:53 to January 4, 2025 23:34</td>
               </tr>
               <tr>
-                <td>January 7, 2024</td>
-                <td>23:38 to January 8, 2024 02:16</td>
+                <td>January 7, 2025</td>
+                <td>23:38 to January 8, 2025 02:16</td>
               </tr>
               <tr>
-                <td>January 17, 2024</td>
-                <td>23:36 to January 18, 2024 05:03</td>
+                <td>January 17, 2025</td>
+                <td>23:36 to January 18, 2025 05:03</td>
               </tr>
               <tr>
-                <td>January 21, 2024</td>
-                <td>09:38 to January 21, 2024 20:56</td>
+                <td>January 21, 2025</td>
+                <td>09:38 to January 21, 2025 20:56</td>
               </tr>
               <tr>
-                <td>January 22, 2024</td>
-                <td>21:21 to January 23, 2024 06:38</td>
+                <td>January 22, 2025</td>
+                <td>21:21 to January 23, 2025 06:38</td>
               </tr>
               <tr>
-                <td>January 24, 2024</td>
-                <td>23:19 to January 25, 2024 09:32</td>
+                <td>January 24, 2025</td>
+                <td>23:19 to January 25, 2025 09:32</td>
               </tr>
               <tr>
-                <td>January 25, 2024</td>
-                <td>09:32 to January 26, 2024 09:31</td>
+                <td>January 25, 2025</td>
+                <td>09:32 to January 26, 2025 09:31</td>
               </tr>
               <tr>
-                <td>January 26, 2024</td>
-                <td>07:12 to January 26, 2024 10:28</td>
+                <td>January 26, 2025</td>
+                <td>07:12 to January 26, 2025 10:28</td>
               </tr>
               <tr>
-                <td>January 31, 2024</td>
-                <td>07:10 to February 1, 2024 07:10 (overnight)</td>
+                <td>January 31, 2025</td>
+                <td>07:10 to February 1, 2025 07:10 (overnight)</td>
               </tr>
             </tbody>
           </table>
-          <h2>Car/ bike buying muhurat in February 2024</h2>
+          <h2>Car/ bike buying muhurat in February 2025</h2>
           <table>
             <thead>
               <tr>
@@ -144,28 +144,28 @@ const Car = () => {
             </thead>
             <tbody>
               <tr>
-                <td>February 1, 2024</td>
-                <td>07:10 to February 2, 2024 02:03</td>
+                <td>February 1, 2025</td>
+                <td>07:10 to February 2, 2025 02:03</td>
               </tr>
               <tr>
-                <td>February 2, 2024</td>
-                <td>04:02 to February 3, 2024 05:57</td>
+                <td>February 2, 2025</td>
+                <td>04:02 to February 3, 2025 05:57</td>
               </tr>
               <tr>
-                <td>February 4, 2024</td>
-                <td>05:49 to February 5, 2024 07:07</td>
+                <td>February 4, 2025</td>
+                <td>05:49 to February 5, 2025 07:07</td>
               </tr>
               <tr>
-                <td>February 5, 2024</td>
-                <td>07:07 to February 5, 2024 07:54</td>
+                <td>February 5, 2025</td>
+                <td>07:07 to February 5, 2025 07:54</td>
               </tr>
               <tr>
-                <td>February 14, 2024</td>
-                <td>07:01 to February 14, 2024 10:43</td>
+                <td>February 14, 2025</td>
+                <td>07:01 to February 14, 2025 10:43</td>
               </tr>
             </tbody>
           </table>
-          <h2>Car/ bike buying muhurat in March 2024</h2>
+          <h2>Car/ bike buying muhurat in March 2025</h2>
           <table>
             <thead>
               <tr>
@@ -175,20 +175,20 @@ const Car = () => {
             </thead>
             <tbody>
               <tr>
-                <td>March 1, 2024</td>
-                <td>06:46 to March 1, 2024 12:48</td>
+                <td>March 1, 2025</td>
+                <td>06:46 to March 1, 2025 12:48</td>
               </tr>
               <tr>
-                <td>March 15, 2024</td>
-                <td>04:08 to March 15, 2024 10:09</td>
+                <td>March 15, 2025</td>
+                <td>04:08 to March 15, 2025 10:09</td>
               </tr>
               <tr>
-                <td>March 29, 2024</td>
-                <td>08:36 to March 30, 2024 06:13 (overnight)</td>
+                <td>March 29, 2025</td>
+                <td>08:36 to March 30, 2025 06:13 (overnight)</td>
               </tr>
             </tbody>
           </table>
-          <h2>Car/ bike buying muhurat in April 2024</h2>
+          <h2>Car/ bike buying muhurat in April 2025</h2>
           <table>
             <thead>
               <tr>
@@ -198,16 +198,16 @@ const Car = () => {
             </thead>
             <tbody>
               <tr>
-                <td>April 12, 2024</td>
-                <td>01:11 to April 13, 2024 05:58</td>
+                <td>April 12, 2025</td>
+                <td>01:11 to April 13, 2025 05:58</td>
               </tr>
               <tr>
-                <td>April 26, 2024</td>
-                <td>07:45 to April 27, 2024 03:40</td>
+                <td>April 26, 2025</td>
+                <td>07:45 to April 27, 2025 03:40</td>
               </tr>
             </tbody>
           </table>
-          <h2>Car/ bike buying muhurat in May 2024</h2>
+          <h2>Car/ bike buying muhurat in May 2025</h2>
           <table>
             <thead>
               <tr>
@@ -217,16 +217,16 @@ const Car = () => {
             </thead>
             <tbody>
               <tr>
-                <td>May 23, 2024</td>
-                <td>09:15 to May 24, 2024 05:26</td>
+                <td>May 23, 2025</td>
+                <td>09:15 to May 24, 2025 05:26</td>
               </tr>
               <tr>
-                <td>May 31, 2024</td>
-                <td>05:24 to May 31, 2024 06:14</td>
+                <td>May 31, 2025</td>
+                <td>05:24 to May 31, 2025 06:14</td>
               </tr>
             </tbody>
           </table>
-          <h2>Car/ bike buying muhurat in June 2024</h2>
+          <h2>Car/ bike buying muhurat in June 2025</h2>
           <table>
             <thead>
               <tr>
@@ -236,20 +236,20 @@ const Car = () => {
             </thead>
             <tbody>
               <tr>
-                <td>June 9, 2024</td>
-                <td>05:23 to June 9, 2024 03:44</td>
+                <td>June 9, 2025</td>
+                <td>05:23 to June 9, 2025 03:44</td>
               </tr>
               <tr>
-                <td>June 19, 2024</td>
-                <td>05:23 to June 20, 2024 05:24</td>
+                <td>June 19, 2025</td>
+                <td>05:23 to June 20, 2025 05:24</td>
               </tr>
               <tr>
-                <td>June 27, 2024</td>
-                <td>05:26 to June 27, 2024 11:36</td>
+                <td>June 27, 2025</td>
+                <td>05:26 to June 27, 2025 11:36</td>
               </tr>
             </tbody>
           </table>
-          <h2>Car/ bike buying muhurat in July 2024</h2>
+          <h2>Car/ bike buying muhurat in July 2025</h2>
           <table>
             <thead>
               <tr>
@@ -259,16 +259,16 @@ const Car = () => {
             </thead>
             <tbody>
               <tr>
-                <td>July 3, 2024</td>
-                <td>07:10 to July 4, 2024 05:28</td>
+                <td>July 3, 2025</td>
+                <td>07:10 to July 4, 2025 05:28</td>
               </tr>
               <tr>
-                <td>July 26, 2024</td>
-                <td>02:30 to July 26, 2024 11:30</td>
+                <td>July 26, 2025</td>
+                <td>02:30 to July 26, 2025 11:30</td>
               </tr>
             </tbody>
           </table>
-          <h2>Car/ bike buying muhurat in August 2024</h2>
+          <h2>Car/ bike buying muhurat in August 2025</h2>
           <table>
             <thead>
               <tr>
@@ -278,16 +278,16 @@ const Car = () => {
             </thead>
             <tbody>
               <tr>
-                <td>August 9, 2024</td>
-                <td>05:47 to August 10, 2024 05:48</td>
+                <td>August 9, 2025</td>
+                <td>05:47 to August 10, 2025 05:48</td>
               </tr>
               <tr>
-                <td>August 29, 2024</td>
-                <td>04:39 to August 30, 2024 01:37</td>
+                <td>August 29, 2025</td>
+                <td>04:39 to August 30, 2025 01:37</td>
               </tr>
             </tbody>
           </table>
-          <h2>Car/ bike buying muhurat in September 2024</h2>
+          <h2>Car/ bike buying muhurat in September 2025</h2>
           <table>
             <thead>
               <tr>
@@ -297,12 +297,12 @@ const Car = () => {
             </thead>
             <tbody>
               <tr>
-                <td>September 6, 2024</td>
-                <td>06:02 to September 6, 2024 03:01</td>
+                <td>September 6, 2025</td>
+                <td>06:02 to September 6, 2025 03:01</td>
               </tr>
             </tbody>
           </table>
-          <h2>Car/ bike buying muhurat in October 2024</h2>
+          <h2>Car/ bike buying muhurat in October 2025</h2>
           <table>
             <thead>
               <tr>
@@ -312,12 +312,12 @@ const Car = () => {
             </thead>
             <tbody>
               <tr>
-                <td>October 24, 2024</td>
-                <td>06:28 to October 25, 2024 01:58</td>
+                <td>October 24, 2025</td>
+                <td>06:28 to October 25, 2025 01:58</td>
               </tr>
             </tbody>
           </table>
-          <h2>Car/ bike buying muhurat in November 2024</h2>
+          <h2>Car/ bike buying muhurat in November 2025</h2>
           <table>
             <thead>
               <tr>
@@ -327,12 +327,12 @@ const Car = () => {
             </thead>
             <tbody>
               <tr>
-                <td>November 20, 2024</td>
-                <td>06:48 to November 21, 2024 06:49</td>
+                <td>November 20, 2025</td>
+                <td>06:48 to November 21, 2025 06:49</td>
               </tr>
             </tbody>
           </table>
-          <h2>Car/ bike buying muhurat in December 2024</h2>
+          <h2>Car/ bike buying muhurat in December 2025</h2>
           <table>
             <thead>
               <tr>
@@ -342,12 +342,12 @@ const Car = () => {
             </thead>
             <tbody>
               <tr>
-                <td>December 18, 2024</td>
-                <td>07:08 to December 18, 2024 10:06</td>
+                <td>December 18, 2025</td>
+                <td>07:08 to December 18, 2025 10:06</td>
               </tr>
               <tr>
-                <td>December 25, 2024</td>
-                <td>07:12 to December 26, 2024 07:12</td>
+                <td>December 25, 2025</td>
+                <td>07:12 to December 26, 2025 07:12</td>
               </tr>
             </tbody>
           </table>
@@ -604,7 +604,7 @@ const Car = () => {
           </p>
           <h3>
             Also Read
-            <span className="text-red-500 italic">Horoscope 2024</span>
+            <span className="text-red-500 italic">Horoscope 2025</span>
           </h3>
           <h2>Is it advisable to buy a vehicle on Ekadashi ?</h2>
 

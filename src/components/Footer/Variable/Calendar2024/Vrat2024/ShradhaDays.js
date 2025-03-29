@@ -49,11 +49,11 @@ const ShradhaDays = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Shradha Days 2024" description="" keywords="">
+    <Layout title="AstroSwarg - Shradha Days 2025" description="" keywords="">
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
-          <h1 className="heading">Shradha Days In 2024</h1>
+          <h1 className="heading">Shradha Days In 2025</h1>
           <p>
             There is an old saying-“We reap what we sow”. Hindus believe that
             what we do in life affects our future, and this also applies to our
@@ -75,10 +75,10 @@ const ShradhaDays = () => {
             their blessings and secure their well-being in the hereafter. It is
             a significant time for seeking forgiveness and conducting charitable
             gestures for those in need. Know what to do on Pitru Paksha (Shradh)
-            2024 to seek your ancestors' blessings.
+            2025 to seek your ancestors' blessings.
           </p>
           <p>
-            To Read About Your Horoscope 2024 In Detail,{" "}
+            To Read About Your Horoscope 2025 In Detail,{" "}
             <div className="inline-text">Click Here</div>
           </p>
           <p>
@@ -86,76 +86,76 @@ const ShradhaDays = () => {
             determined using the moon's location in the sky. A lunar month has
             30 tithis, each lasting around 12 hours.
           </p>
-          <h3>When is Pitru Paksha or Shradh 2024?</h3>
+          <h3>When is Pitru Paksha or Shradh 2025?</h3>
           <p>
-            The beginning of Pitru Paksh or Shradh in 2024 is on September 17th,
+            The beginning of Pitru Paksh or Shradh in 2025 is on September 17th,
             Tuesday, and it will end on October 2nd,Wednesday. Between these
             intervals, several Pitru Paksh Shradhs are performed.
           </p>
-          <h3>Shradh Dates 2024</h3>
+          <h3>Shradh Dates 2025</h3>
           <UnorderedList>
             <ListItem>
-              17th September 2024 (Tuesday) <strong>--</strong> Purnima Shradh
+              17th September 2025 (Tuesday) <strong>--</strong> Purnima Shradh
               Date
             </ListItem>
             <ListItem>
-              18th September 2024 (Wednesday) <strong>--</strong> Pratipada
+              18th September 2025 (Wednesday) <strong>--</strong> Pratipada
               Shradh Date
             </ListItem>
             <ListItem>
-              19th September 2024 (Thursday) <strong>--</strong> Dwitiya Shradh
+              19th September 2025 (Thursday) <strong>--</strong> Dwitiya Shradh
               or Dooj Shradh Date
             </ListItem>
             <ListItem>
-              20th September 2024 (Friday) <strong>--</strong> Tritiya Shradh
+              20th September 2025 (Friday) <strong>--</strong> Tritiya Shradh
               Date
             </ListItem>
             <ListItem>
-              21st September 2024 (Saturday) <strong>--</strong> Chaturthi
+              21st September 2025 (Saturday) <strong>--</strong> Chaturthi
               Shradh & Maha Bharani Shradh Date
             </ListItem>
             <ListItem>
-              22nd September 2024 (Sunday) <strong>--</strong> Panchami Shradh
+              22nd September 2025 (Sunday) <strong>--</strong> Panchami Shradh
               Date
             </ListItem>
             <ListItem>
-              23rd September 2024 (Monday) <strong>--</strong> Shashti Shradh
+              23rd September 2025 (Monday) <strong>--</strong> Shashti Shradh
               Date
             </ListItem>
             <ListItem>
-              23rd September 2024 (Monday) <strong>--</strong> Saptami Shradh
+              23rd September 2025 (Monday) <strong>--</strong> Saptami Shradh
               Date
             </ListItem>
             <ListItem>
-              24th September 2024 (Tuesday) <strong>--</strong> Ashtami Shradh
+              24th September 2025 (Tuesday) <strong>--</strong> Ashtami Shradh
               Date
             </ListItem>
             <ListItem>
-              25th September 2024 (Wednesday) <strong>--</strong> Navami Shradh
+              25th September 2025 (Wednesday) <strong>--</strong> Navami Shradh
               Date
             </ListItem>
             <ListItem>
-              26th September 2024 (Thursday) <strong>--</strong> Dashmi Shradh
+              26th September 2025 (Thursday) <strong>--</strong> Dashmi Shradh
               Date
             </ListItem>
             <ListItem>
-              27th September 2024 (Friday) <strong>--</strong> Ekadashi Shradh
+              27th September 2025 (Friday) <strong>--</strong> Ekadashi Shradh
               Date
             </ListItem>
             <ListItem>
-              29th September 2024 (Sunday) <strong>--</strong> Dwadashi Shradh
+              29th September 2025 (Sunday) <strong>--</strong> Dwadashi Shradh
               or Magha Shradh Date
             </ListItem>
             <ListItem>
-              30th September 2024 (Monday) <strong>--</strong> Trayodashi Shradh
+              30th September 2025 (Monday) <strong>--</strong> Trayodashi Shradh
               Date
             </ListItem>
             <ListItem>
-              1st October 2024 (Tuesday) <strong>--</strong> Chaturdashi Shradh
+              1st October 2025 (Tuesday) <strong>--</strong> Chaturdashi Shradh
               Date
             </ListItem>
             <ListItem>
-              2nd October 2024 (Saturday) <strong>--</strong> Sarva Pitru
+              2nd October 2025 (Saturday) <strong>--</strong> Sarva Pitru
               Amavasya or Amavasya Shradh Date
             </ListItem>
           </UnorderedList>
@@ -227,7 +227,7 @@ const ShradhaDays = () => {
             For Detailed Predictions About Your Life,{" "}
             <div className="inline-text">Talk To Astrologer</div>
           </p>
-          <h3>Remedies for Pitra Dosh 2024</h3>
+          <h3>Remedies for Pitra Dosh 2025</h3>
           <p>
             Pitru Dosh may be a problem and needs to be removed as a result. In
             addition to doing Shradh, the following are some methods for
@@ -250,7 +250,7 @@ const ShradhaDays = () => {
             </ListItem>
             <ListItem>Respect your husband or wife.</ListItem>
           </UnorderedList>
-          <h3>Pitru Paksha 2024 Rituals</h3>
+          <h3>Pitru Paksha 2025 Rituals</h3>
           <p>
             Now let's talk about how to do the Pitru Paksha Rituals. Let's break
             them down step by step.
@@ -290,13 +290,13 @@ const ShradhaDays = () => {
               to carry ancestors' souls at the time, as the last stage.
             </ListItem>
           </UnorderedList>
-          <h3>Pujas to perform on Pitru Paksha (Shradh) 2024</h3>
+          <h3>Pujas to perform on Pitru Paksha (Shradh) 2025</h3>
           <p>
-            You can perform the following pujas on Pitru Paksha (Shradh) 2024:
+            You can perform the following pujas on Pitru Paksha (Shradh) 2025:
           </p>
           <UnorderedList>
             <ListItem>
-              <strong> Vishnu Puja:</strong> During Pitru Paksha (Shradh) 2024,
+              <strong> Vishnu Puja:</strong> During Pitru Paksha (Shradh) 2025,
               Vishnu Puja can be performed to assist the ancestors in obtaining
               blessings and serenity. Lord Vishnu, the protector of the cosmos
               and the one who can bestow blessings on the ancestors, is honored
@@ -316,7 +316,7 @@ const ShradhaDays = () => {
               performing this puja.
             </ListItem>
             <ListItem>
-              <strong>Shradh Puja:</strong> On Pitru Paksha (Shradh), 2024, a
+              <strong>Shradh Puja:</strong> On Pitru Paksha (Shradh), 2025, a
               Shradh Puja will be performed to honor the dead and ask for their
               blessings. It is a thorough ritual that includes several actions,
               including performing Tarpana and providing food and water. This
@@ -324,7 +324,7 @@ const ShradhaDays = () => {
               help.
             </ListItem>
           </UnorderedList>
-          <h3>Benefits of Pitru Paksha 2024</h3>
+          <h3>Benefits of Pitru Paksha 2025</h3>
           <p>
             To gain from Pitru Paksha, people observe caution throughout the
             entire 16-day period. To receive the rewards listed below, believers

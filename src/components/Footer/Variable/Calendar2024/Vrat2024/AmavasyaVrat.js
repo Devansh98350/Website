@@ -49,12 +49,12 @@ const AmavasyaVrat = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Amavasya in 2024" description="" keywords="">
+    <Layout title="AstroSwarg - Amavasya in 2025" description="" keywords="">
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
           <h1 className="heading">
-            Amavasya in 2024: Date, Puja Muhurat, & Rituals
+            Amavasya in 2025: Date, Puja Muhurat, & Rituals
           </h1>
           <p>
             Amavasya, a significant lunar phase in the Hindu calendar, coincides
@@ -129,7 +129,7 @@ const AmavasyaVrat = () => {
             To know about your future,{" "}
             <div className="inline-text">Talk to Astrologer</div> now!
           </p>
-          <h2>List of Amavasya dates in 2024</h2>
+          <h2>List of Amavasya dates in 2025</h2>
           <table>
             <table
               border="1"
@@ -140,7 +140,7 @@ const AmavasyaVrat = () => {
             >
               <thead>
                 <tr>
-                  <th>Amavasya Vrat 2024</th>
+                  <th>Amavasya Vrat 2025</th>
                   <th>Amavasya tithi </th>
                   <th>Shubh Muhurat (From)</th>
                   <th>Shubh Muhurat (To)</th>
@@ -149,79 +149,79 @@ const AmavasyaVrat = () => {
               <tbody>
                 <tr>
                   <td>Pausha, Krishna Amavasya</td>
-                  <td>January 11, 2024, Thursday</td>
+                  <td>January 11, 2025, Thursday</td>
                   <td>08:10 PM, Jan 10</td>
                   <td>05:26 PM, Jan 11</td>
                 </tr>
                 <tr>
                   <td>Magha, Krishna Amavasya</td>
-                  <td> February 9, 2024, Friday</td>
+                  <td> February 9, 2025, Friday</td>
                   <td>08:02 AM, Feb 09</td>
                   <td>04:28 AM, Feb 10</td>
                 </tr>
                 <tr>
                   <td>Phalguna, Krishna Amavasya</td>
-                  <td>March 10, 2024, Sunday</td>
+                  <td>March 10, 2025, Sunday</td>
                   <td>06:17 PM, Mar 09</td>
                   <td>02:29 PM, Mar 10</td>
                 </tr>
                 <tr>
                   <td>Chaitra, Krishna Amavasya</td>
-                  <td>April 8, 2024, Monday</td>
+                  <td>April 8, 2025, Monday</td>
                   <td>03:21 AM, Apr 08</td>
                   <td>11:50 PM, Apr 08</td>
                 </tr>
                 <tr>
                   <td>Vaishakha, Krishna Amavasya</td>
-                  <td>May 7, 2024, Tuesday</td>
+                  <td>May 7, 2025, Tuesday</td>
                   <td>11:40 AM, May 07</td>
                   <td>08:51 AM, May 08</td>
                 </tr>
                 <tr>
                   <td>Jyeshtha, Krishna Amavasya</td>
-                  <td>June 6, 2024, Thursday</td>
+                  <td>June 6, 2025, Thursday</td>
                   <td>07:54 PM, Jun 05</td>
                   <td>06:07 PM, Jun 06</td>
                 </tr>
                 <tr>
                   <td>Ashadha, Krishna Amavasya</td>
-                  <td> July 5, 2024, Friday</td>
+                  <td> July 5, 2025, Friday</td>
                   <td> 04:57 AM, Jul 05</td>
                   <td>04:26 AM, Jul 06</td>
                 </tr>
                 <tr>
                   <td>Shravana, Krishna Amavasya</td>
-                  <td>August 4, 2024, Sunday</td>
+                  <td>August 4, 2025, Sunday</td>
                   <td>03:50 PM, Aug 03</td>
                   <td>04:42 PM, Aug 04</td>
                 </tr>
                 <tr>
                   <td>Bhadrapada, Krishna Amavasya</td>
-                  <td>September 2, 2024, Monday</td>
+                  <td>September 2, 2025, Monday</td>
                   <td>05:21 AM, Sep 02</td>
                   <td>07:24 AM, Sep 03</td>
                 </tr>
                 <tr>
                   <td>Ashwina, Krishna Amavasya</td>
-                  <td>October 2, 2024, Wednesday</td>
+                  <td>October 2, 2025, Wednesday</td>
                   <td>09:39 PM, Oct 01</td>
                   <td>12:18 AM, Oct 03</td>
                 </tr>
                 <tr>
                   <td>Kartika, Krishna Amavasya</td>
-                  <td>November 1, 2024, Friday</td>
+                  <td>November 1, 2025, Friday</td>
                   <td>03:52 PM, Oct 31</td>
                   <td>06:16 PM, Nov 01</td>
                 </tr>
                 <tr>
                   <td>Margashirsha, Krishna Amavasya</td>
-                  <td>December 1, 2024, Sunday</td>
+                  <td>December 1, 2025, Sunday</td>
                   <td>10:29 AM, Nov 30</td>
                   <td>11:50 AM, Dec 01</td>
                 </tr>
                 <tr>
                   <td>Pausha, Krishna Amavasya</td>
-                  <td>December 30, 2024, Monday</td>
+                  <td>December 30, 2025, Monday</td>
                   <td>04:01 AM, Dec 30</td>
                   <td>03:56 AM, Dec 31</td>
                 </tr>

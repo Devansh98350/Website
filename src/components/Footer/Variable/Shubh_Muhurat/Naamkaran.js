@@ -43,21 +43,21 @@ const Naamkaran = () => {
   }, []);
   return (
     <Layout
-      title="AstroSwarg - Naamkaran Muhurat 2024"
+      title="AstroSwarg - Naamkaran Muhurat 2025"
       description=""
       keywords=""
     >
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
-          <h1 className="heading">Naamkaran Muhurat 2024</h1>
+          <h1 className="heading">Naamkaran Muhurat 2025</h1>
           <p>
             Namkaran Muhurat, a significant ritual in Hindu astrology and
             culture, is the ceremony of naming a newborn. It is a momentous
             event, steeped in tradition and symbolism, celebrated with great joy
             and reverence by families across India. In this article, we will
             explore the importance of Namkaran Muhurat and delve into what it
-            signifies in 2024.
+            signifies in 2025.
           </p>
           <p>
             Namkaran Muhurat is derived from two Sanskrit words: "Nam" meaning
@@ -69,7 +69,7 @@ const Naamkaran = () => {
             ceremony.
           </p>
           <p>
-            As we look ahead to Namkaran Muhurat in 2024, its important to note
+            As we look ahead to Namkaran Muhurat in 2025, its important to note
             that the auspicious dates and times for this ceremony will be
             influenced by the Hindu lunar calendar. Families and astrologers
             will consult this calendar to determine the best times for the
@@ -77,7 +77,7 @@ const Naamkaran = () => {
           </p>
           <p>
             To make the process of finding an auspicious Namkaran Muhurat in
-            2024 easier, here are some general guidelines:
+            2025 easier, here are some general guidelines:
           </p>
           <UnorderedList>
             <ListItem>
@@ -104,12 +104,12 @@ const Naamkaran = () => {
           </UnorderedList>
 
           <p>
-            Namkaran Muhurat in 2024 is a time-honored tradition that holds
+            Namkaran Muhurat in 2025 is a time-honored tradition that holds
             immense significance in Hindu culture. It is a harmonious blend of
             astrology, tradition, and spirituality. Naming a child during an
             auspicious time is believed to set the course for a prosperous and
             fulfilling life. While the specific dates and times may vary in
-            2024, the essence of this ceremony remains unaltered.
+            2025, the essence of this ceremony remains unaltered.
           </p>
           <p>
             Incorporating Namkaran Muhurat into your familys life is a beautiful
@@ -121,7 +121,7 @@ const Naamkaran = () => {
             transcends time and connects generations in the tapestry of Indian
             culture.
           </p>
-          <h2>January 2024: Auspicious Muhurat for Namkaran</h2>
+          <h2>January 2025: Auspicious Muhurat for Namkaran</h2>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -195,7 +195,7 @@ const Naamkaran = () => {
               </tbody>
             </table>
           </table>
-          <h2>February 2024: Auspicious Muhurat for Namkaran</h2>
+          <h2>February 2025: Auspicious Muhurat for Namkaran</h2>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -269,7 +269,7 @@ const Naamkaran = () => {
               </tbody>
             </table>
           </table>
-          <h2>March 2024: Auspicious Muhurat for Namkaran</h2>
+          <h2>March 2025: Auspicious Muhurat for Namkaran</h2>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -353,7 +353,7 @@ const Naamkaran = () => {
               </tbody>
             </table>
           </table>
-          <h2>April 2024: Auspicious Muhurat for Namkaran</h2>
+          <h2>April 2025: Auspicious Muhurat for Namkaran</h2>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -402,7 +402,7 @@ const Naamkaran = () => {
               </tbody>
             </table>
           </table>
-          <h2>May 2024: Auspicious Muhurat for Namkaran</h2>
+          <h2>May 2025: Auspicious Muhurat for Namkaran</h2>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -481,7 +481,7 @@ const Naamkaran = () => {
               </tbody>
             </table>
           </table>
-          <h2>June 2024: Auspicious Muhurat for Namkaran</h2>
+          <h2>June 2025: Auspicious Muhurat for Namkaran</h2>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -556,7 +556,7 @@ const Naamkaran = () => {
               </tbody>
             </table>
           </table>
-          <h2>July 2024: Auspicious Muhurat for Namkaran</h2>
+          <h2>July 2025: Auspicious Muhurat for Namkaran</h2>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -635,7 +635,7 @@ const Naamkaran = () => {
               </tbody>
             </table>
           </table>
-          <h2>August 2024: Auspicious Muhurat for Namkaran</h2>
+          <h2>August 2025: Auspicious Muhurat for Namkaran</h2>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -720,7 +720,7 @@ const Naamkaran = () => {
               </tbody>
             </table>
           </table>
-          <h2>September 2024: Auspicious Muhurat for Namkaran</h2>
+          <h2>September 2025: Auspicious Muhurat for Namkaran</h2>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -800,7 +800,7 @@ const Naamkaran = () => {
               </tbody>
             </table>
           </table>
-          <h2>October 2024: Auspicious Muhurat for Namkaran</h2>
+          <h2>October 2025: Auspicious Muhurat for Namkaran</h2>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -879,7 +879,7 @@ const Naamkaran = () => {
               </tbody>
             </table>
           </table>
-          <h2>November 2024: Auspicious Muhurat for Namkaran</h2>
+          <h2>November 2025: Auspicious Muhurat for Namkaran</h2>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -958,7 +958,7 @@ const Naamkaran = () => {
               </tbody>
             </table>
           </table>
-          <h2>December 2024: Auspicious Muhurat for Namkaran</h2>
+          <h2>December 2025: Auspicious Muhurat for Namkaran</h2>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>

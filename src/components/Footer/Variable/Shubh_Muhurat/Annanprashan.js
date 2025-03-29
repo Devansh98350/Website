@@ -44,18 +44,18 @@ const Annanprashan = () => {
   }, []);
   return (
     <Layout
-      title="AstroSwarg - Annanprashan Muhurat 2024"
+      title="AstroSwarg - Annanprashan Muhurat 2025"
       description=""
       keywords=""
     >
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
-          <h1 className="heading">Annanprashan Muhurat 2024</h1>
+          <h1 className="heading">Annanprashan Muhurat 2025</h1>
           <p>
             Are you ready for a heartwarming journey of tradition and blessings
-            in 2024? Well, get ready to mark your calendars because Annanprashan
-            Muhurat 2024 is just around the corner! This auspicious event, also
+            in 2025? Well, get ready to mark your calendars because Annanprashan
+            Muhurat 2025 is just around the corner! This auspicious event, also
             known as the First Rice Feeding Ceremony or Annaprashan Sanskar,
             holds a special place in the hearts of many families. It s a
             beautiful occasion where your little one takes their first step into
@@ -63,17 +63,17 @@ const Annanprashan = () => {
             your loved ones.
           </p>
           <p>
-            In 2024, Annaprashan Muhurat promises to add an extra sprinkle of
+            In 2025, Annaprashan Muhurat promises to add an extra sprinkle of
             joy to this milestone. It s all about choosing the perfect date and
             time, aligning with the stars and cosmic energies to ensure a
             harmonious beginning for your precious child. So, if youre curious
-            to know when this celestial window of opportunity will open in 2024,
+            to know when this celestial window of opportunity will open in 2025,
             stay with us as we unveil the most auspicious Annaprashan Muhurat
             dates for the year
           </p>
           <p>
             Get ready for an unforgettable and spiritually enriching experience
-            as we guide you through the best Annaprashan Muhurat 2024 has to
+            as we guide you through the best Annaprashan Muhurat 2025 has to
             offer. Its time to embrace tradition, create cherished memories, and
             watch your little one take their first delightful bites of solid
             food. Lets make this moment not just special but truly divine!
@@ -135,7 +135,7 @@ const Annanprashan = () => {
             choose to celebrate the occasion with additional festivities, such
             as a family meal or a gathering of friends and relatives.
           </p>
-          <h2 className="font-bold">Annaprashan Shubh Muhurat in 2024</h2>
+          <h2 className="font-bold">Annaprashan Shubh Muhurat in 2025</h2>
           <p>
             The Annaprasana Muhurat, often referred to as the rice feeding
             ritual, is typically conducted when the baby is between five and
@@ -145,7 +145,7 @@ const Annanprashan = () => {
             to postpone the ceremony to a later date when they are ready to
             partake in this important milestone.
           </p>
-          <h3>Shubh Muhurat for Annaprashan Sanskar in January 2024</h3>
+          <h3>Shubh Muhurat for Annaprashan Sanskar in January 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -156,29 +156,29 @@ const Annanprashan = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>January 3, 2024 Wednesday</td>
+                  <td>January 3, 2025 Wednesday</td>
                   <td>Morning: 07:45 AM - 10:17 AM</td>
                 </tr>
                 <tr>
-                  <td>January 12, 2024 Friday</td>
+                  <td>January 12, 2025 Friday</td>
                   <td>Evening: 06:20 PM - Night: 10:57 PM</td>
                 </tr>
                 <tr>
-                  <td>January 15, 2024 Monday</td>
+                  <td>January 15, 2025 Monday</td>
                   <td>Morning: 07:46 AM - 09:30 AM</td>
                 </tr>
                 <tr>
-                  <td>January 17, 2024 Wednesday</td>
+                  <td>January 17, 2025 Wednesday</td>
                   <td>Morning: 07:46 AM - Afternoon: 12:15 PM</td>
                 </tr>
                 <tr>
-                  <td>January 25, 2024 Thursday</td>
+                  <td>January 25, 2025 Thursday</td>
                   <td>Afternoon: 01:19 PM - Evening: 07:49 PM</td>
                 </tr>
               </tbody>
             </table>
           </table>
-          <h3>Shubh Muhurat for Annaprashan in February 2024</h3>
+          <h3>Shubh Muhurat for Annaprashan in February 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -189,33 +189,33 @@ const Annanprashan = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>February 2, 2024 Friday</td>
+                  <td>February 2, 2025 Friday</td>
                   <td>Morning: 07:40 AM - 09:47 AM</td>
                 </tr>
                 <tr>
-                  <td>February 8, 2024 Thursday</td>
+                  <td>February 8, 2025 Thursday</td>
                   <td>Morning: 07:56 AM - Afternoon: 12:24 PM</td>
                 </tr>
                 <tr>
-                  <td>February 12, 2024 Monday</td>
+                  <td>February 12, 2025 Monday</td>
                   <td>Evening: 04:18 PM - Evening: 06:38 PM</td>
                 </tr>
                 <tr>
-                  <td>February 14, 2024 Wednesday</td>
+                  <td>February 14, 2025 Wednesday</td>
                   <td>Morning: 07:32 AM - 10:25 AM</td>
                 </tr>
                 <tr>
-                  <td>February 19, 2024 Monday</td>
+                  <td>February 19, 2025 Monday</td>
                   <td>Morning: 07:28 AM - 08:40 AM</td>
                 </tr>
                 <tr>
-                  <td>February 21, 2024 Wednesday</td>
+                  <td>February 21, 2025 Wednesday</td>
                   <td>Afternoon: 01:28 PM - Evening: 06:03 PM</td>
                 </tr>
               </tbody>
             </table>
           </table>
-          <h3>Shubh Muhurat for Annaprashan in March 2024</h3>
+          <h3>Shubh Muhurat for Annaprashan in March 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -226,21 +226,21 @@ const Annanprashan = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>March 8, 2024 Friday</td>
+                  <td>March 8, 2025 Friday</td>
                   <td>Morning: 07:29 AM - Afternoon: 12:25 PM</td>
                 </tr>
                 <tr>
-                  <td>March 11, 2024 Monday</td>
+                  <td>March 11, 2025 Monday</td>
                   <td>Afternoon: 12:13 PM - Evening: 04:48 PM</td>
                 </tr>
                 <tr>
-                  <td>March 27, 2024 Wednesday</td>
+                  <td>March 27, 2025 Wednesday</td>
                   <td>Morning: 07:40 AM - Afternoon: 01:25 PM</td>
                 </tr>
               </tbody>
             </table>
           </table>
-          <h3>Shubh Muhurat for Annaprashan in April 2024</h3>
+          <h3>Shubh Muhurat for Annaprashan in April 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -251,17 +251,17 @@ const Annanprashan = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>April 15, 2024 Monday</td>
+                  <td>April 15, 2025 Monday</td>
                   <td>Morning: 06:26 AM to 12:10 PM</td>
                 </tr>
                 <tr>
-                  <td>April 26, 2024 Friday</td>
+                  <td>April 26, 2025 Friday</td>
                   <td>Morning: 07:17 AM to 01:47 PM</td>
                 </tr>
               </tbody>
             </table>
           </table>
-          <h3>Shubh Muhurat for Annaprashan in May 2024</h3>
+          <h3>Shubh Muhurat for Annaprashan in May 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -272,37 +272,37 @@ const Annanprashan = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>May 3, 2024 Friday</td>
+                  <td>May 3, 2025 Friday</td>
                   <td>Morning: 06:49 AM to 11:00 AM</td>
                 </tr>
                 <tr>
-                  <td>May 6, 2024 Monday</td>
+                  <td>May 6, 2025 Monday</td>
                   <td>Morning: 06:38 AM to 01:08 PM</td>
                 </tr>
                 <tr>
-                  <td>May 9, 2024 Thursday</td>
+                  <td>May 9, 2025 Thursday</td>
                   <td>Afternoon: 12:56 PM to Evening: 05:30 PM</td>
                 </tr>
                 <tr>
-                  <td>May 20, 2024 Monday</td>
+                  <td>May 20, 2025 Monday</td>
                   <td>Night: 09:25 PM to 11:29 PM</td>
                 </tr>
                 <tr>
-                  <td>May 23, 2024 Thursday</td>
+                  <td>May 23, 2025 Thursday</td>
                   <td>Afternoon: 02:19 PM to Night: 09:13 PM</td>
                 </tr>
                 <tr>
-                  <td>May 27, 2024 Monday</td>
+                  <td>May 27, 2025 Monday</td>
                   <td>Evening: 06:39 PM to Night: 11:01 PM</td>
                 </tr>
                 <tr>
-                  <td>May 30, 2024 Thursday</td>
+                  <td>May 30, 2025 Thursday</td>
                   <td>Morning: 59 AM to 09:13 AM</td>
                 </tr>
               </tbody>
             </table>
           </table>
-          <h3>Shubh Muhurat for Annaprashan in June 2024</h3>
+          <h3>Shubh Muhurat for Annaprashan in June 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -313,29 +313,29 @@ const Annanprashan = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>June 10, 2024 Monday</td>
+                  <td>June 10, 2025 Monday</td>
                   <td>5:44 PM to 8:02 PM</td>
                 </tr>
                 <tr>
-                  <td>June 19, 2024 Wednesday</td>
+                  <td>June 19, 2025 Wednesday</td>
                   <td>9:31 PM to 11:13 PM</td>
                 </tr>
                 <tr>
-                  <td>June 20, 2024 Thursday</td>
+                  <td>June 20, 2025 Thursday</td>
                   <td>5:55 AM to 10:11 AM</td>
                 </tr>
                 <tr>
-                  <td>June 24, 2024 Monday</td>
+                  <td>June 24, 2025 Monday</td>
                   <td>7:35 AM to 2:29 PM</td>
                 </tr>
                 <tr>
-                  <td>June 26, 2024 Wednesday</td>
+                  <td>June 26, 2025 Wednesday</td>
                   <td>9:48 AM to 4:41 PM</td>
                 </tr>
               </tbody>
             </table>
           </table>
-          <h3>Shubh Muhurat for Annaprashan in July 2024</h3>
+          <h3>Shubh Muhurat for Annaprashan in July 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -346,25 +346,25 @@ const Annanprashan = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>Friday, July 12, 2024</td>
+                  <td>Friday, July 12, 2025</td>
                   <td>3:38 PM to 9:43 PM</td>
                 </tr>
                 <tr>
-                  <td>Monday, July 15, 2024</td>
+                  <td>Monday, July 15, 2025</td>
                   <td>9:31 PM to 10:58 PM</td>
                 </tr>
                 <tr>
-                  <td>Monday, July 22, 2024</td>
+                  <td>Monday, July 22, 2025</td>
                   <td>2:58 PM to 9:03 PM</td>
                 </tr>
                 <tr>
-                  <td>Thursday, July 25, 2024</td>
+                  <td>Thursday, July 25, 2025</td>
                   <td>7:09 PM to 10:19 PM</td>
                 </tr>
               </tbody>
             </table>
           </table>
-          <h3>Shubh Muhurat for Annaprashan in August 2024</h3>
+          <h3>Shubh Muhurat for Annaprashan in August 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -375,41 +375,41 @@ const Annanprashan = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>August 2, 2024, Friday</td>
+                  <td>August 2, 2025, Friday</td>
                   <td>From 11:56 AM to 2:15 PM</td>
                 </tr>
                 <tr>
-                  <td>August 7, 2024, Wednesday</td>
+                  <td>August 7, 2025, Wednesday</td>
                   <td>From 9:28 PM to 10:36 PM</td>
                 </tr>
                 <tr>
-                  <td>August 9, 2024, Friday</td>
+                  <td>August 9, 2025, Friday</td>
                   <td>From 6:55 AM to 11:28 AM</td>
                 </tr>
                 <tr>
-                  <td>August 12, 2024, Monday</td>
+                  <td>August 12, 2025, Monday</td>
                   <td>From 6:43 AM to 9:00 AM</td>
                 </tr>
                 <tr>
-                  <td>August 14, 2024, Wednesday</td>
+                  <td>August 14, 2025, Wednesday</td>
                   <td>From 11:09 AM to 1:28 PM</td>
                 </tr>
                 <tr>
-                  <td>August 19, 2024, Monday</td>
+                  <td>August 19, 2025, Monday</td>
                   <td>From 3:27 PM to 7:13 PM</td>
                 </tr>
                 <tr>
-                  <td>August 23, 2024, Friday</td>
+                  <td>August 23, 2025, Friday</td>
                   <td>From 12:53 PM to 3:11 PM</td>
                 </tr>
                 <tr>
-                  <td>August 28, 2024, Wednesday</td>
+                  <td>August 28, 2025, Wednesday</td>
                   <td>From 6:28 AM to 12:33 PM</td>
                 </tr>
               </tbody>
             </table>
           </table>
-          <h3>Shubh Muhurat for Annaprashan in September 2024</h3>
+          <h3>Shubh Muhurat for Annaprashan in September 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -420,25 +420,25 @@ const Annanprashan = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>September 4, 2024, Wednesday</td>
+                  <td>September 4, 2025, Wednesday</td>
                   <td>From 12:05 PM to 6:10 PM</td>
                 </tr>
                 <tr>
-                  <td>September 5, 2024, Thursday</td>
+                  <td>September 5, 2025, Thursday</td>
                   <td>From 7:26 AM to 9:42 AM</td>
                 </tr>
                 <tr>
-                  <td>September 6, 2024, Friday</td>
+                  <td>September 6, 2025, Friday</td>
                   <td>From 7:22 AM to 9:38 AM</td>
                 </tr>
                 <tr>
-                  <td>September 16, 2024, Monday</td>
+                  <td>September 16, 2025, Monday</td>
                   <td>From 6:42 AM to 11:18 AM</td>
                 </tr>
               </tbody>
             </table>
           </table>
-          <h3>Shubh Muhurat for Annaprashan in October 2024</h3>
+          <h3>Shubh Muhurat for Annaprashan in October 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -449,33 +449,33 @@ const Annanprashan = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>October 4, 2024, Friday</td>
+                  <td>October 4, 2025, Friday</td>
                   <td>From 6:47 AM to 10:08 AM</td>
                 </tr>
                 <tr>
-                  <td>October 7, 2024, Monday</td>
+                  <td>October 7, 2025, Monday</td>
                   <td>From 2:18 PM to 6:53 PM</td>
                 </tr>
                 <tr>
-                  <td>October 17, 2024, Thursday</td>
+                  <td>October 17, 2025, Thursday</td>
                   <td>From 7:18 AM to 11:35 AM</td>
                 </tr>
                 <tr>
-                  <td>October 21, 2024, Monday</td>
+                  <td>October 21, 2025, Monday</td>
                   <td>From 9:01 PM to 3:05 PM</td>
                 </tr>
                 <tr>
-                  <td>October 23, 2024, Wednesday</td>
+                  <td>October 23, 2025, Wednesday</td>
                   <td>From 2:58 PM to 4:25 PM</td>
                 </tr>
                 <tr>
-                  <td>October 30, 2024, Wednesday</td>
+                  <td>October 30, 2025, Wednesday</td>
                   <td>From 8:25 AM to 2:30 PM</td>
                 </tr>
               </tbody>
             </table>
           </table>
-          <h3>Shubh Muhurat for Annaprashan in November 2024</h3>
+          <h3>Shubh Muhurat for Annaprashan in November 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -486,45 +486,45 @@ const Annanprashan = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>November 4, 2024, Monday</td>
+                  <td>November 4, 2025, Monday</td>
                   <td>From 7:07 AM to 10:24 AM</td>
                 </tr>
                 <tr>
-                  <td>November 8, 2024, Friday</td>
+                  <td>November 8, 2025, Friday</td>
                   <td>From 7:50 AM to 1:55 PM</td>
                 </tr>
                 <tr>
-                  <td>November 11, 2024, Monday</td>
+                  <td>November 11, 2025, Monday</td>
                   <td>From 9:57 AM to 12:xx PM</td>
                 </tr>
                 <tr>
-                  <td>November 13, 2024, Wednesday</td>
+                  <td>November 13, 2025, Wednesday</td>
                   <td>From 1:35 PM to 4:27 PM</td>
                 </tr>
                 <tr>
-                  <td>November 14, 2024, Thursday</td>
+                  <td>November 14, 2025, Thursday</td>
                   <td>From 7:26 AM to 11:49 AM</td>
                 </tr>
                 <tr>
-                  <td>November 20, 2024, Wednesday</td>
+                  <td>November 20, 2025, Wednesday</td>
                   <td>From 11:25 AM to 4:00 PM</td>
                 </tr>
                 <tr>
-                  <td>November 25, 2024, Monday</td>
+                  <td>November 25, 2025, Monday</td>
                   <td>From 7:23 AM to 12:48 PM</td>
                 </tr>
                 <tr>
-                  <td>November 28, 2024, Thursday</td>
+                  <td>November 28, 2025, Thursday</td>
                   <td>From 8:50 AM to 2:04 PM</td>
                 </tr>
                 <tr>
-                  <td>November 29, 2024, Friday</td>
+                  <td>November 29, 2025, Friday</td>
                   <td>From 8:46 AM to 10:50 AM</td>
                 </tr>
               </tbody>
             </table>
           </table>
-          <h3>Shubh Muhurat for Annaprashan in December 2024</h3>
+          <h3>Shubh Muhurat for Annaprashan in December 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -535,36 +535,36 @@ const Annanprashan = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>December 5, 2024, Thursday</td>
+                  <td>December 5, 2025, Thursday</td>
                   <td>From 1:36 PM to 6:32 PM</td>
                 </tr>
                 <tr>
-                  <td>December 6, 2024, Friday</td>
+                  <td>December 6, 2025, Friday</td>
                   <td>From 7:32 AM to 12:05 PM</td>
                 </tr>
                 <tr>
-                  <td>December 25, 2024, Wednesday</td>
+                  <td>December 25, 2025, Wednesday</td>
                   <td>From 7:43 AM to 10:50 AM</td>
                 </tr>
               </tbody>
             </table>
           </table>
           <h2>
-            Important observance to follow at Annaprashan Sanskar in 2024 :
+            Important observance to follow at Annaprashan Sanskar in 2025 :
           </h2>
           <p>
-            The Annaprashan Sanskar in 2024, also known as the Rice Feeding
+            The Annaprashan Sanskar in 2025, also known as the Rice Feeding
             Ceremony, is a significant and joyous occasion in Hindu culture as
             it marks a babys transition from a diet of solely milk to solid
             food. While the core rituals remain consistent, here are some
             important observances and guidelines to follow during the
-            Annaprashan Sanskar in 2024:
+            Annaprashan Sanskar in 2025:
           </p>
           <UnorderedList>
             <ListItem>
               <strong>Selecting an Auspicious Date - </strong>
               The first step in the ceremony is to choose an auspicious date and
-              time, commonly guided by astrological considerations. In 2024,
+              time, commonly guided by astrological considerations. In 2025,
               consult with a knowledgeable astrologer or use astrological
               calendars to determine the most favorable Muhurat (timing) for
               your child's Annaprashan.
@@ -628,7 +628,7 @@ const Annanprashan = () => {
 
           <h2>Food to be considered at the ceremony :</h2>
           <p>
-            During the Annaprashan Sanskar ceremony in 2024, its customary to
+            During the Annaprashan Sanskar ceremony in 2025, its customary to
             offer the baby a variety of vegetarian foods symbolizing blessings,
             health, and prosperity. Key dishes to consider include:
           </p>
@@ -671,9 +671,9 @@ const Annanprashan = () => {
             </ListItem>
           </UnorderedList>
 
-          <h2>Precautions before performing Annaprashan Sanskar 2024</h2>
+          <h2>Precautions before performing Annaprashan Sanskar 2025</h2>
           <p>
-            Performing the Annaprashan Sanskar in 2024 is a significant event in
+            Performing the Annaprashan Sanskar in 2025 is a significant event in
             a child's life, and it's essential to take precautions to ensure a
             smooth and meaningful ceremony. Here are some precautions to
             consider before the Annaprashan Sanskar:

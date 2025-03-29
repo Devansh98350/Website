@@ -49,21 +49,21 @@ const RohiniVrat = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Rohini Vrat 2024" description="" keywords="">
+    <Layout title="AstroSwarg - Rohini Vrat 2025" description="" keywords="">
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
           <h1 className="heading">
-            Rohini Vrat in 2024: Date, Puja Muhurat & Rituals
+            Rohini Vrat in 2025: Date, Puja Muhurat & Rituals
           </h1>
           <p>
             Rohini Vrat, a sacred and auspicious observance in the Hindu
-            calendar, holds great significance for devotees in the year 2024.
+            calendar, holds great significance for devotees in the year 2025.
             This special religious occasion revolves around the worship of
             Goddess Rohini, a manifestation of Goddess Lakshmi, the deity of
-            wealth and prosperity. Rohini Vrat 2024 shall be celebrated on
+            wealth and prosperity. Rohini Vrat 2025 shall be celebrated on
             specific days when the Rohini Nakshatra, a prominent star cluster in
-            the lunar calendar, aligns with the moon. In 2024, this celestial
+            the lunar calendar, aligns with the moon. In 2025, this celestial
             event will be eagerly awaited by devout Hindus as it offers an
             opportunity for spiritual devotion and seeking blessings for
             financial well-being and overall prosperity.
@@ -85,16 +85,16 @@ const RohiniVrat = () => {
             gratitude for the abundance they have received in their lives.
             Additionally, it reinforces the significance of celestial movements
             in Hinduism and how they influence auspicious times for various
-            religious activities. In 2024, Rohini Vrat will continue to be a
+            religious activities. In 2025, Rohini Vrat will continue to be a
             cherished occasion, where devotees come together to celebrate their
             faith, seek the blessings of Goddess Rohini, and reaffirm their
             commitment to both spiritual and material well-being.
           </p>
           <p>
             To know about your year ahead, Read{" "}
-            <div className="inline-text">Horoscope 2024</div>
+            <div className="inline-text">Horoscope 2025</div>
           </p>
-          <h3>Significance of Rohini Vrat 2024</h3>
+          <h3>Significance of Rohini Vrat 2025</h3>
           <p>
             Rohini Vrat is a significant observance in Hinduism, primarily
             dedicated to the worship of Goddess Rohini, a form of Goddess
@@ -126,7 +126,7 @@ const RohiniVrat = () => {
               Hinduism.
             </ListItem>
             <ListItem>
-              <strong>Cultural and Social Bonding:</strong> Rohini Vrat 2024
+              <strong>Cultural and Social Bonding:</strong> Rohini Vrat 2025
               often involves community participation, with families and friends
               coming together to observe the fast and perform rituals. This
               fosters a sense of unity and cultural bonding among devotees, as
@@ -142,23 +142,23 @@ const RohiniVrat = () => {
               continued prosperity.
             </ListItem>
           </UnorderedList>
-          <h3>Rohini Vrat 2024: Date & Day</h3>
+          <h3>Rohini Vrat 2025: Date & Day</h3>
           <UnorderedList>
-            <ListItem>January 21, 2024, Sunday</ListItem>
-            <ListItem>February 18, 2024, Sunday</ListItem>
-            <ListItem>March 16, 2024, Saturday</ListItem>
-            <ListItem>April 12, 2024, Friday</ListItem>
-            <ListItem>May 10, 2024, Friday</ListItem>
-            <ListItem>June 6, 2024, Thursday</ListItem>
-            <ListItem>July 3, 2024, Wednesday</ListItem>
-            <ListItem>July 31, 2024, Wednesday</ListItem>
-            <ListItem>August 27, 2024, Tuesday</ListItem>
-            <ListItem>September 23, 2024, Monday</ListItem>
-            <ListItem>October 21, 2024, Monday</ListItem>
-            <ListItem>November 17, 2024, Sunday</ListItem>
-            <ListItem>December 14, 2024, Saturday</ListItem>
+            <ListItem>January 21, 2025, Sunday</ListItem>
+            <ListItem>February 18, 2025, Sunday</ListItem>
+            <ListItem>March 16, 2025, Saturday</ListItem>
+            <ListItem>April 12, 2025, Friday</ListItem>
+            <ListItem>May 10, 2025, Friday</ListItem>
+            <ListItem>June 6, 2025, Thursday</ListItem>
+            <ListItem>July 3, 2025, Wednesday</ListItem>
+            <ListItem>July 31, 2025, Wednesday</ListItem>
+            <ListItem>August 27, 2025, Tuesday</ListItem>
+            <ListItem>September 23, 2025, Monday</ListItem>
+            <ListItem>October 21, 2025, Monday</ListItem>
+            <ListItem>November 17, 2025, Sunday</ListItem>
+            <ListItem>December 14, 2025, Saturday</ListItem>
           </UnorderedList>
-          <h3>What to do on Rohini Vrat 2024?</h3>
+          <h3>What to do on Rohini Vrat 2025?</h3>
           <p>
             Rohini Vrat is a significant religious observance in Hinduism
             dedicated to the worship of Goddess Rohini, a manifestation of
@@ -294,7 +294,7 @@ const RohiniVrat = () => {
             heart to seek the blessings of Goddess Rohini for prosperity and
             well-being.
           </p>
-          <h3>Benefits of keeping Rohini Vrat 2024</h3>
+          <h3>Benefits of keeping Rohini Vrat 2025</h3>
           <p>
             Keeping Rohini Vrat is believed to bring several benefits, both
             material and spiritual, to devotees. The significance of this
@@ -436,9 +436,9 @@ const RohiniVrat = () => {
               observance of the Vrat.
             </ListItem>
           </UnorderedList>
-          <h3>Pooja to perform on Rohini Vrat 2024</h3>
+          <h3>Pooja to perform on Rohini Vrat 2025</h3>
           <p>
-            On Rohini Vrat in 2024 or any other year, devotees perform various
+            On Rohini Vrat in 2025 or any other year, devotees perform various
             pooja (ritual worship) to seek the blessings of Goddess Rohini and
             enhance their spiritual and material well-being.
           </p>
@@ -516,7 +516,7 @@ const RohiniVrat = () => {
             seeking the blessings of Goddess Rohini for prosperity and
             well-being.
           </p>
-          <h3>Benefits of performing Pooja on Rohini Vrat 2024</h3>
+          <h3>Benefits of performing Pooja on Rohini Vrat 2025</h3>
           <p>
             Performing pooja (ritual worship) on Rohini Vrat is believed to
             bestow several benefits upon devotees, as it is considered an
@@ -526,7 +526,7 @@ const RohiniVrat = () => {
           <UnorderedList>
             <ListItem>
               <strong>Wealth and Prosperity:</strong> One of the primary
-              benefits of performing pooja on 2024 Rohini Vrat is the potential
+              benefits of performing pooja on 2025 Rohini Vrat is the potential
               for attracting wealth and prosperity. Devotees believe that
               Goddess Rohini's blessings can lead to financial success,
               increased income, and overall financial stability.
@@ -539,7 +539,7 @@ const RohiniVrat = () => {
             </ListItem>
             <ListItem>
               <strong>Financial Stability:</strong> Many people perform pooja on
-              Rohini Vrat 2024 to overcome financial challenges and achieve
+              Rohini Vrat 2025 to overcome financial challenges and achieve
               stability in their lives. The goddess's blessings help individuals
               manage debts and expenses more effectively.
             </ListItem>
@@ -577,7 +577,7 @@ const RohiniVrat = () => {
               individuals mitigate obstacles and challenges in their lives.
             </ListItem>
             <ListItem>
-              <strong>Karmic Balance:</strong> Pooja in 2024 Rohini Vrat shall
+              <strong>Karmic Balance:</strong> Pooja in 2025 Rohini Vrat shall
               help balance karmic energies and align one's destiny in a more
               favourable direction. It is seen as a way to address past karmic
               debts and create a more positive future.

@@ -103,35 +103,35 @@ const AriesFYQ = () => {
     {
       id: 2,
       title:
-        "Q-2:- What can Arians expect in terms of love and relationships in 2024?",
+        "Q-2:- What can Arians expect in terms of love and relationships in 2025?",
       content: `Astrological insights may provide guidance on relationship dynamics, potential challenges, and opportunities for personal growth. Arians may find focusing on communication, patience, and mutual understanding important in their love lives.`,
     },
     {
       id: 3,
-      title: "Q-3:- How will Arians' career prospects look in 2024?",
+      title: "Q-3:- How will Arians' career prospects look in 2025?",
       content: `Career horoscopes can offer insights into potential career changes, job opportunities, and areas for professional development. Arians' ambitious and action-oriented nature may be beneficial in navigating work-related challenges.`,
     },
     {
       id: 4,
       title:
-        "Q-4:- What health considerations should Arians be aware of in 2024?",
+        "Q-4:- What health considerations should Arians be aware of in 2025?",
       content: `Astrology may suggest areas of focus for health and well-being. Arians may benefit from paying attention to stress management, incorporating regular physical activity, and addressing any impulsive tendencies that may impact their health.`,
     },
     {
       id: 5,
       title:
-        "Q-5:- Are there any significant astrological events for Arians in 2024?",
+        "Q-5:- Are there any significant astrological events for Arians in 2025?",
       content: `Arians may want to stay informed about celestial events and planetary movements that could impact their lives. Checking for notable transits or alignments specific to Aries can provide additional insights.`,
     },
     {
       id: 6,
-      title: "Q-6:- Should Arians be cautious about anything specific in 2024?",
+      title: "Q-6:- Should Arians be cautious about anything specific in 2025?",
       content: `Astrology may highlight potential challenges or areas that require careful consideration. Arians may find it beneficial to balance their desire for action with strategic planning, avoiding burnout and impulsiveness.`,
     },
     {
       id: 7,
       title:
-        "Q-7:- Can astrology predict financial success for Arians in 2024?",
+        "Q-7:- Can astrology predict financial success for Arians in 2025?",
       content: `Astrology can offer insights into potential financial trends, but individual financial success depends on various factors. Arians may find it helpful to focus on financial planning, budgeting, and seizing opportunities wisely.`,
     },
   ];

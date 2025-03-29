@@ -55,20 +55,20 @@ const Scorpio = () => {
   }, []);
   return (
     <Layout
-      title="AstroSwarg - Scorpio Horoscope 2024"
+      title="AstroSwarg - Scorpio Horoscope 2025"
       description=""
       keywords=""
     >
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
-          <h1 className="heading">Scorpio Horoscope 2024</h1>
+          <h1 className="heading">Scorpio Horoscope 2025</h1>
           <p>
             Brace yourselves for a cosmic journey like no other as we dive deep
-            into the enigmatic waters of the Scorpio Horoscope 2024. The stars
+            into the enigmatic waters of the Scorpio Horoscope 2025. The stars
             have a gripping tale to tell, and your cosmic compass is about to be
             set on a course filled with intrigue, transformation, and untold
-            secrets. In the Scorpio Horoscope 2024, prepare to don your
+            secrets. In the Scorpio Horoscope 2025, prepare to don your
             astrological detective hat and uncover the hidden mysteries of your
             destiny. Whether you're a passionate Scorpio seeking the stars'
             guidance for the year ahead or just a curious soul drawn to the
@@ -81,7 +81,7 @@ const Scorpio = () => {
           </p>
           <p>
             But hold onto your scorpion tails, because as we traverse the realms
-            of the Scorpio Horoscope 2024, we'll unravel the secrets of your
+            of the Scorpio Horoscope 2025, we'll unravel the secrets of your
             love life, career ambitions, and the spiritual odyssey that awaits.
             Whether you're seeking profound change or simply craving some cosmic
             insight, this horoscope is your passport to the depths of Scorpio's
@@ -89,12 +89,12 @@ const Scorpio = () => {
             on this captivating voyage together. Buckle up and prepare to
             explore the labyrinth of your emotions, the intensity of your
             passions, and the radiant transformations that await you in the
-            Scorpio Horoscope 2024. The cosmos has its secrets, and it's time to
+            Scorpio Horoscope 2025. The cosmos has its secrets, and it's time to
             uncover them, one constellation at a time.
           </p>
-          <h3>Scorpio Love Horoscope 2024</h3>
+          <h3>Scorpio Love Horoscope 2025</h3>
           <p>
-            In the realm of love, Scorpio, 2024 is poised to be an electrifying
+            In the realm of love, Scorpio, 2025 is poised to be an electrifying
             chapter in your romantic journey. With Pluto's transformative energy
             and Mars' passionate drive at your side, you're a force to be
             reckoned with in matters of the heart. If you're already coupled up,
@@ -104,7 +104,7 @@ const Scorpio = () => {
             intimacy. For single Scorpios, the cosmic stage is set for magnetic
             encounters. Your aura exudes an irresistible allure that draws
             potential partners like moths to a flame. Whether you're seeking a
-            soulmate or a passionate fling, 2024 offers a smorgasbord of
+            soulmate or a passionate fling, 2025 offers a smorgasbord of
             romantic opportunities.
           </p>
           <p>
@@ -130,9 +130,9 @@ const Scorpio = () => {
             your allies in finding a partner who aligns with your desires and
             values.
           </p>
-          <h3>Scorpio Finance Horoscope 2024</h3>
+          <h3>Scorpio Finance Horoscope 2025</h3>
           <p>
-            In the realm of finance, Scorpio, 2024 is your year to shine like a
+            In the realm of finance, Scorpio, 2025 is your year to shine like a
             financial star. With Pluto's transformative energy and your natural
             determination at the helm, you're poised to make significant strides
             in your monetary pursuits. If you've been contemplating strategic
@@ -141,7 +141,7 @@ const Scorpio = () => {
             for spotting hidden opportunities and making smart investments.
             Whether it's real estate, stocks, or entrepreneurship, your
             financial acumen will lead to prosperous outcomes. Additionally,
-            collaborations and joint ventures are favorably aspected in 2024.
+            collaborations and joint ventures are favorably aspected in 2025.
             Team up with like-minded individuals to expand your financial
             portfolio. Shared endeavors can yield lucrative results, and your
             persuasive skills will come in handy when negotiating terms.
@@ -162,15 +162,15 @@ const Scorpio = () => {
             Transparency and trust are key to maintaining healthy relationships,
             both personally and financially.
           </p>
-          <h3>Scorpio Career Horoscope 2024</h3>
+          <h3>Scorpio Career Horoscope 2025</h3>
           <p>
-            In the world of careers, Scorpio, 2024 is a year of uncharted
+            In the world of careers, Scorpio, 2025 is a year of uncharted
             possibilities and boundless ambition. With Pluto's transformative
             force by your side, you're ready to evolve, adapt, and rise like a
             phoenix from the ashes of past professional challenges. Expect
             breakthroughs, promotions, or the launching of your dream projects.
             Your determination and intensity are your secret career weapons this
-            year. Scorpios are known for their unwavering focus, and in 2024,
+            year. Scorpios are known for their unwavering focus, and in 2025,
             you'll harness this energy to achieve your professional goals.
             Whether you're seeking a career change, climbing the corporate
             ladder, or pursuing entrepreneurial ventures, your tenacity will
@@ -196,9 +196,9 @@ const Scorpio = () => {
             colleagues or superiors. Transparency and honesty are essential for
             maintaining trust and integrity in your career.
           </p>
-          <h3>Scorpio Family Horoscope 2024</h3>
+          <h3>Scorpio Family Horoscope 2025</h3>
           <p>
-            In the realm of family, Scorpio, 2024 promises a tapestry of
+            In the realm of family, Scorpio, 2025 promises a tapestry of
             emotional depth, intense love, and transformative connections. With
             Pluto's regenerative power as your cosmic ally, you're ready to lead
             your family toward profound transformations. Family gatherings will
@@ -233,9 +233,9 @@ const Scorpio = () => {
             are the keys to maintaining trust and fostering healthy family
             relationships.
           </p>
-          <h3>Scorpio Health Horoscope 2024</h3>
+          <h3>Scorpio Health Horoscope 2025</h3>
           <p>
-            In the realm of health, Scorpio, 2024 is your cosmic invitation to
+            In the realm of health, Scorpio, 2025 is your cosmic invitation to
             rise like a phoenix and embrace vitality on a profound level. With
             Pluto's regenerative force and your innate resilience, you have the
             power to transform your well-being. This year, focus on holistic
@@ -243,7 +243,7 @@ const Scorpio = () => {
             Your tenacity and determination will be your allies on your health
             journey. Whether you're pursuing a new fitness regimen, making
             dietary changes, or prioritizing mental health practices, your
-            unwavering commitment will lead to transformative results. 2024
+            unwavering commitment will lead to transformative results. 2025
             encourages you to explore alternative healing modalities and
             holistic practices. From acupuncture to yoga to energy healing,
             embrace these avenues for improving your well-being. You'll find
@@ -267,16 +267,16 @@ const Scorpio = () => {
             medical advice and instructions clearly, and don't hesitate to seek
             clarification.
           </p>
-          <h3>Scorpio Marriage Horoscope 2024</h3>
+          <h3>Scorpio Marriage Horoscope 2025</h3>
           <p>
-            In the world of love and marriage, Scorpio, 2024 is a year brimming
+            In the world of love and marriage, Scorpio, 2025 is a year brimming
             with intensity, deep connections, and transformative unions. With
             Pluto's regenerative energy and your unwavering determination,
             you're poised to create a marriage that's as powerful as it is
             profound. If you're already committed, expect your relationship to
             deepen on levels you've never imagined. Your passion and loyalty are
             your secret weapons this year. Scorpios are known for their
-            unwavering devotion, and in 2024, your commitment to your partner
+            unwavering devotion, and in 2025, your commitment to your partner
             will shine brighter than ever. Whether you're newlyweds or
             celebrating years of togetherness, your love will be tested and
             strengthened.
@@ -305,7 +305,7 @@ const Scorpio = () => {
             can erode trust within the marriage. Openness and honesty are key to
             a healthy and thriving partnership.
           </p>
-          <h3>Astrological Remedies For Scorpio in 2024</h3>
+          <h3>Astrological Remedies For Scorpio in 2025</h3>
           <UnorderedList>
             <ListItem>
               Chant the ‘Om Shreem Hreem Kleem Lakshmi Narayanay Namah’ Mantra.

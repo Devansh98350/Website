@@ -103,36 +103,36 @@ const PiscesFYQ = () => {
     {
       id: 2,
       title:
-        "Q-2:- What can Pisceans expect in terms of love and relationships in 2024?",
+        "Q-2:- What can Pisceans expect in terms of love and relationships in 2025?",
       content: `Astrological insights may provide guidance on relationship dynamics, potential challenges, and opportunities for emotional growth. Pisceans may find focusing on communication, setting boundaries, and nurturing their emotional well-being important in their love lives.`,
     },
     {
       id: 3,
-      title: "Q-3:- How will Pisceans' career prospects look in 2024?",
+      title: "Q-3:- How will Pisceans' career prospects look in 2025?",
       content: `Career horoscopes can offer insights into potential career changes, job opportunities, and areas for professional development. Pisceans' imaginative and adaptable nature may be beneficial in navigating work-related challenges.`,
     },
     {
       id: 4,
       title:
-        "Q-4:- What health considerations should Pisceans be aware of in 2024?",
+        "Q-4:- What health considerations should Pisceans be aware of in 2025?",
       content: `Astrology may suggest areas of focus for health and well-being. Pisceans may benefit from paying attention to stress management, maintaining healthy routines, and addressing any emotional or mental health concerns.`,
     },
     {
       id: 5,
       title:
-        "Q-5:- Are there any significant astrological events for Pisceans in 2024?",
+        "Q-5:- Are there any significant astrological events for Pisceans in 2025?",
       content: `Pisceans may want to stay informed about celestial events and planetary movements that could impact their lives. Checking for notable transits or alignments specific to Pisces can provide additional insights.`,
     },
     {
       id: 6,
       title:
-        "Q-6:- Should Pisceans be cautious about anything specific in 2024?",
+        "Q-6:- Should Pisceans be cautious about anything specific in 2025?",
       content: `Astrology may highlight potential challenges or areas that require careful consideration. Pisceans may find it beneficial to be mindful of their boundaries, avoiding overcommitment, and staying grounded amidst their imaginative pursuits.`,
     },
     {
       id: 7,
       title:
-        "Q-7:- Can astrology predict financial success for Pisceans in 2024?",
+        "Q-7:- Can astrology predict financial success for Pisceans in 2025?",
       content: `Astrology can offer insights into potential financial trends, but individual financial success depends on various factors. Pisceans may find it helpful to focus on financial planning, budgeting, and aligning their creative endeavors with practical goals.`,
     },
   ];

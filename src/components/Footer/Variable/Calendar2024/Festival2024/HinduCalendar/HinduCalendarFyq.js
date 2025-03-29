@@ -98,8 +98,8 @@ const HinduCalendarFYQ = () => {
     {
       id: 1,
       title:
-        "Q-1:- What are the significant festivals in the Hindu Calendar 2024?",
-      content: `The Hindu Calendar 2024 is brimming with festivals such as Diwali, Holi, Navratri, and more. Explore the calendar to discover the diverse celebrations.`,
+        "Q-1:- What are the significant festivals in the Hindu Calendar 2025?",
+      content: `The Hindu Calendar 2025 is brimming with festivals such as Diwali, Holi, Navratri, and more. Explore the calendar to discover the diverse celebrations.`,
     },
     {
       id: 2,
@@ -115,7 +115,7 @@ const HinduCalendarFYQ = () => {
     {
       id: 4,
       title:
-        "Q-4:-  Is the Hindu Calendar 2024 regularly updated with accurate information?",
+        "Q-4:-  Is the Hindu Calendar 2025 regularly updated with accurate information?",
       content: `Absolutely. We ensure the calendar is regularly updated to maintain accuracy, reflecting any changes in festival dates or important events.`,
     },
     {
@@ -132,7 +132,7 @@ const HinduCalendarFYQ = () => {
     {
       id: 7,
       title:
-        "Q-7:-  How can I receive notifications for important dates in the Hindu Calendar 2024?",
+        "Q-7:-  How can I receive notifications for important dates in the Hindu Calendar 2025?",
       content: `You can enable notifications on your device's calendar app for timely reminders of significant dates, ensuring you don't miss any important celebrations.`,
     },
   ];

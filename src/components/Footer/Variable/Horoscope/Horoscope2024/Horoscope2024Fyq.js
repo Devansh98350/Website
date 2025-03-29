@@ -93,7 +93,7 @@ const AccordionButton = styled.button`
   }
 `;
 
-const Horoscope2024FYQ = () => {
+const Horoscope2025FYQ = () => {
   const questions = [
     {
       id: 1,
@@ -103,13 +103,13 @@ const Horoscope2024FYQ = () => {
     },
     {
       id: 2,
-      title: "Q-2:- Is horoscope 2024 based on the Moon sign or Sun sign?",
-      content: `Your horoscope 2024 is based on the Moon Sign as Moon sign readings are more accurate as the Moon changes its position from one sign to another more quickly. `,
+      title: "Q-2:- Is horoscope 2025 based on the Moon sign or Sun sign?",
+      content: `Your horoscope 2025 is based on the Moon Sign as Moon sign readings are more accurate as the Moon changes its position from one sign to another more quickly. `,
     },
     {
       id: 3,
-      title: "Q-3:- Which is the luckiest zodiac sign of 2024?",
-      content: `As per the horoscope 2024 trends, the luckiest zodiac sign in 2024 would be Sagittarius, Leo, and Libra. These zodiac signs can hope for a glorious 2024 in many aspects of life, especially love and career. `,
+      title: "Q-3:- Which is the luckiest zodiac sign of 2025?",
+      content: `As per the horoscope 2025 trends, the luckiest zodiac sign in 2025 would be Sagittarius, Leo, and Libra. These zodiac signs can hope for a glorious 2025 in many aspects of life, especially love and career. `,
     },
     {
       id: 4,
@@ -119,8 +119,8 @@ const Horoscope2024FYQ = () => {
     },
     {
       id: 5,
-      title: "Q-5:- Can I rely on horoscope 2024? Are horoscopes true?",
-      content: `The 2024 horoscope at AstroSwarg is prepared by expert astrologers. Astrologers keep a track of planetary transits and associated astrological events to present accurate horoscopes to the native. `,
+      title: "Q-5:- Can I rely on horoscope 2025? Are horoscopes true?",
+      content: `The 2025 horoscope at AstroSwarg is prepared by expert astrologers. Astrologers keep a track of planetary transits and associated astrological events to present accurate horoscopes to the native. `,
     },
     {
       id: 6,
@@ -174,4 +174,4 @@ const Horoscope2024FYQ = () => {
   );
 };
 
-export default Horoscope2024FYQ;
+export default Horoscope2025FYQ;

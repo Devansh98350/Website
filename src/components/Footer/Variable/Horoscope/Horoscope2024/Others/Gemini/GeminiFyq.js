@@ -97,28 +97,28 @@ const GeminiFYQ = () => {
   const questions = [
     {
       id: 1,
-      title: "Q-1:- Will Gemini find love in 2024?",
-      content: `The Gemini horoscope 2024 hints at a dynamic love life with the influence of Mercury. The first half of the year is particularly favorable for romantic endeavors, encouraging Gemini individuals to explore new connections.`,
+      title: "Q-1:- Will Gemini find love in 2025?",
+      content: `The Gemini horoscope 2025 hints at a dynamic love life with the influence of Mercury. The first half of the year is particularly favorable for romantic endeavors, encouraging Gemini individuals to explore new connections.`,
     },
     {
       id: 2,
-      title: "Q-2:- Will Gemini go abroad in 2024?",
-      content: `Gemini's foreign travel prospects in 2024 vary. While the initial months may not be highly conducive to international experiences, the latter part of the year holds potential opportunities for exciting journeys abroad.`,
+      title: "Q-2:- Will Gemini go abroad in 2025?",
+      content: `Gemini's foreign travel prospects in 2025 vary. While the initial months may not be highly conducive to international experiences, the latter part of the year holds potential opportunities for exciting journeys abroad.`,
     },
     {
       id: 3,
-      title: "Q-3:- Will Gemini get married in 2024?",
-      content: `With a strong Mercury influence, the second half of 2024 brings favorable conditions for marriage. It is advisable for Gemini individuals to consider this period for tying the knot, as the first half may not be as auspicious.`,
+      title: "Q-3:- Will Gemini get married in 2025?",
+      content: `With a strong Mercury influence, the second half of 2025 brings favorable conditions for marriage. It is advisable for Gemini individuals to consider this period for tying the knot, as the first half may not be as auspicious.`,
     },
     {
       id: 4,
-      title: "Q-4:- Will Gemini get a job in 2024?",
-      content: `The year 2024 holds promise for Gemini individuals planning to start a business. Positive movements, especially post-May 2024, will contribute to career development, presenting opportunities for job seekers and entrepreneurs alike.`,
+      title: "Q-4:- Will Gemini get a job in 2025?",
+      content: `The year 2025 holds promise for Gemini individuals planning to start a business. Positive movements, especially post-May 2025, will contribute to career development, presenting opportunities for job seekers and entrepreneurs alike.`,
     },
     {
       id: 5,
-      title: "Q-5:- What is the lucky gemstone for Gemini in 2024?",
-      content: `The fortunate gemstone for Gemini in 2024 is Agate. This gem is believed to bring balance and enhance communication, aligning positively with the cosmic energies shaping the Gemini journey throughout the year.`,
+      title: "Q-5:- What is the lucky gemstone for Gemini in 2025?",
+      content: `The fortunate gemstone for Gemini in 2025 is Agate. This gem is believed to bring balance and enhance communication, aligning positively with the cosmic energies shaping the Gemini journey throughout the year.`,
     },
   ];
   const Question = ({ question }) => {

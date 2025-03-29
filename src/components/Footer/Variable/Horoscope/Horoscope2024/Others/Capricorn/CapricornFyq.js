@@ -103,36 +103,36 @@ const CapricornFYQ = () => {
     {
       id: 2,
       title:
-        "Q-2:- What can Capricorns expect in terms of love and relationships in 2024?",
+        "Q-2:- What can Capricorns expect in terms of love and relationships in 2025?",
       content: `Astrological insights may provide guidance on relationship dynamics, potential challenges, and opportunities for growth. Capricorns may find focusing on communication, patience, and shared goals important in their love lives.`,
     },
     {
       id: 3,
-      title: "Q-3:- How will Capricorns' career prospects look in 2024?",
+      title: "Q-3:- How will Capricorns' career prospects look in 2025?",
       content: `Career horoscopes can offer insights into potential career changes, job opportunities, and areas for professional development. Capricorns' disciplined and strategic nature may be beneficial in navigating work-related challenges.`,
     },
     {
       id: 4,
       title:
-        "Q-4:- What health considerations should Capricorns be aware of in 2024?",
+        "Q-4:- What health considerations should Capricorns be aware of in 2025?",
       content: `Astrology may suggest areas of focus for health and well-being. Capricorns may benefit from paying attention to stress management, maintaining a healthy work-life balance, and addressing any chronic health issues.`,
     },
     {
       id: 5,
       title:
-        "Q-5:- Are there any significant astrological events for Capricorns in 2024?",
+        "Q-5:- Are there any significant astrological events for Capricorns in 2025?",
       content: `Capricorns may want to stay informed about celestial events and planetary movements that could impact their lives. Checking for notable transits or alignments specific to Capricorn can provide additional insights.`,
     },
     {
       id: 6,
       title:
-        "Q-6:- Should Capricorns be cautious about anything specific in 2024?",
+        "Q-6:- Should Capricorns be cautious about anything specific in 2025?",
       content: `Astrology may highlight potential challenges or areas that require careful consideration. Capricorns may find it beneficial to be mindful of burnout, balancing personal and professional life, and avoiding unnecessary risks.`,
     },
     {
       id: 7,
       title:
-        "Q-7:- Can astrology predict financial success for Capricorns in 2024?",
+        "Q-7:- Can astrology predict financial success for Capricorns in 2025?",
       content: `Astrology can offer insights into potential financial trends, but individual financial success depends on various factors. Capricorns may find it helpful to focus on financial planning, budgeting, and seizing opportunities wisely.`,
     },
   ];

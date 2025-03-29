@@ -56,20 +56,20 @@ const Capricorn = () => {
   }, []);
   return (
     <Layout
-      title="AstroSwarg - Capricorn Horoscope 2024"
+      title="AstroSwarg - Capricorn Horoscope 2025"
       description=""
       keywords=""
     >
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
-          <h1 className="heading">Capricorn Horoscope 2024</h1>
+          <h1 className="heading">Capricorn Horoscope 2025</h1>
           <p>
             Are you ready to uncover the cosmic roadmap for your journey in the
-            year ahead with the Capricorn Horoscope 2024? It's time to fasten
+            year ahead with the Capricorn Horoscope 2025? It's time to fasten
             your seatbelts, as we navigate the celestial currents and unveil
             what the universe has in store for you in this exciting chapter of
-            your life. In 2024, the cosmic stage is set, and the spotlight is on
+            your life. In 2025, the cosmic stage is set, and the spotlight is on
             you, dear Capricorn. You, with your unwavering determination and
             steadfast ambition, are about to embark on a year filled with
             opportunities, challenges, and moments of personal transformation.
@@ -80,18 +80,18 @@ const Capricorn = () => {
             The universe has woven a tapestry of experiences, and it's time for
             you to step onto its intricate threads and create your own
             masterpiece. So, what can you expect from the Capricorn Horoscope
-            2024? We'll dive deep into the key themes, opportunities, and
+            2025? We'll dive deep into the key themes, opportunities, and
             challenges that lie ahead, offering you insights and guidance to
             make the most of this cosmic adventure. From matters of the heart to
             career aspirations and personal growth, we've got your back. So,
             tighten your shoelaces, Capricorn, and let's embark on a journey to
-            discover what 2024 holds for you!
+            discover what 2025 holds for you!
           </p>
-          <h3>Capricorn Love Horoscope 2024</h3>
+          <h3>Capricorn Love Horoscope 2025</h3>
           <p>
             This year, your love life is like a well-crafted novel, filled with
             captivating chapters of passion, growth, and a few intriguing plot
-            twists. Let's dive into the heartwarming part first. In 2024, your
+            twists. Let's dive into the heartwarming part first. In 2025, your
             love life is poised for a transformation that rivals the most epic
             love stories. Your practicality and commitment are your superpowers,
             and they will shine brightly in your romantic endeavors. Whether
@@ -110,7 +110,7 @@ const Capricorn = () => {
             leading to misunderstandings or conflicts. It's essential to find a
             harmonious equilibrium, where both you and your partner's needs are
             met. Effective communication will be your guiding star in matters of
-            the heart in 2024. Your practicality and straightforwardness can
+            the heart in 2025. Your practicality and straightforwardness can
             help you navigate any romantic misunderstandings or disagreements.
             Encourage open and honest conversations with your partner, and be
             receptive to their feelings and desires.
@@ -122,11 +122,11 @@ const Capricorn = () => {
             together. These experiences will strengthen your bond and keep the
             romance alive.
           </p>
-          <h3>Capricorn Finance Horoscope 2024</h3>
+          <h3>Capricorn Finance Horoscope 2025</h3>
           <p>
             This year, your financial journey is like a well-orchestrated
             symphony, with crescendos of success and a few challenging notes
-            along the way. Let's kick things off with the good news. In 2024,
+            along the way. Let's kick things off with the good news. In 2025,
             your financial prospects are set to soar to new heights, rivaling
             the peaks of the tallest mountains. Your practicality, discipline,
             and commitment to your financial goals are your secret weapons.
@@ -145,7 +145,7 @@ const Capricorn = () => {
           </p>
           <p>
             Your practical nature makes you a natural at financial planning and
-            investing. In 2024, consider diversifying your investments and
+            investing. In 2025, consider diversifying your investments and
             exploring new avenues for financial growth. While taking calculated
             risks can yield rewards, ensure you conduct thorough research and
             seek professional advice when necessary. Effective budgeting will be
@@ -153,13 +153,13 @@ const Capricorn = () => {
             tracks your spending. Your discipline will help you stick to your
             budget and make smart financial choices.
           </p>
-          <h3>Capricorn Career Horoscope 2024</h3>
+          <h3>Capricorn Career Horoscope 2025</h3>
           <p>
             It's time to decode the celestial blueprints of your professional
-            journey with the Capricorn Career Horoscope 2024. This year, your
+            journey with the Capricorn Career Horoscope 2025. This year, your
             career path resembles a meticulously crafted masterpiece, with
             strokes of success and a few intricate challenges to navigate. Let's
-            start with the promising news. In 2024, your professional prospects
+            start with the promising news. In 2025, your professional prospects
             are nothing short of stellar, akin to the gleaming peaks of your
             ambitious dreams. Your unwavering determination, commitment to
             excellence, and methodical approach to your career are your secret
@@ -176,7 +176,7 @@ const Capricorn = () => {
             when you feel overwhelmed by responsibility or face career setbacks.
             It's vital to find harmony, where you can excel in your career while
             also savoring the pleasures of life. Effective communication will be
-            your guiding star in the realm of your career in 2024. Your
+            your guiding star in the realm of your career in 2025. Your
             practicality and clarity of thought can help you navigate workplace
             challenges and conflicts. Be open to constructive feedback and
             collaborate effectively with your colleagues and superiors.
@@ -194,14 +194,14 @@ const Capricorn = () => {
             landscape is ever-evolving, and adaptability is key. Embrace change
             and be open to exploring new avenues and technologies in your field.
           </p>
-          <h3>Capricorn Family Horoscope 2024</h3>
+          <h3>Capricorn Family Horoscope 2025</h3>
           <p>
             Get ready to embark on a celestial journey through the dynamics of
-            your familial bonds with the Capricorn Family Horoscope 2024. This
+            your familial bonds with the Capricorn Family Horoscope 2025. This
             year, your family life is like a beautifully crafted tapestry,
             interwoven with moments of unity, growth, and a few intriguing
             threads of challenges. Let's begin with the heartwarming news. In
-            2024, your familial bonds will shine as brightly as the guiding
+            2025, your familial bonds will shine as brightly as the guiding
             stars in the night sky. Your practicality, responsibility, and
             commitment to your loved ones are your superpowers. Expect memorable
             family gatherings, heartfelt conversations, and moments of shared
@@ -219,7 +219,7 @@ const Capricorn = () => {
             There might be moments when you feel torn between your career
             aspirations and your family's needs. It's essential to seek
             equilibrium, where both aspects of your life can flourish. Effective
-            communication will be your guiding star in familial matters in 2024.
+            communication will be your guiding star in familial matters in 2025.
             Your practicality and clarity of thought can help you navigate
             family conflicts or misunderstandings. Encourage open and honest
             conversations with family members, and be receptive to their
@@ -233,13 +233,13 @@ const Capricorn = () => {
             will strengthen your familial bonds and create a nurturing and
             loving environment.
           </p>
-          <h3>Capricorn Health Horoscope 2024</h3>
+          <h3>Capricorn Health Horoscope 2025</h3>
           <p>
             It's time to decode the cosmic prescription for your well-being with
-            the Capricorn Health Horoscope 2024. This year, your health journey
+            the Capricorn Health Horoscope 2025. This year, your health journey
             is like a carefully composed symphony, filled with notes of
             vitality, harmony, and a few challenging measures to navigate. Let's
-            commence with the uplifting news. In 2024, your physical and mental
+            commence with the uplifting news. In 2025, your physical and mental
             well-being are poised to shine as brightly as the stars above. Your
             disciplined and practical approach to life is your strength in
             maintaining a healthy lifestyle. Expect bursts of energy, moments of
@@ -258,7 +258,7 @@ const Capricorn = () => {
             dedication. It's vital to seek equilibrium, where you can achieve
             your goals while nurturing your physical and mental health.
             Incorporating physical activity into your daily routine will be your
-            ally in 2024. Your disciplined approach can help you stick to a
+            ally in 2025. Your disciplined approach can help you stick to a
             regular exercise regimen. Consider pursuing a fitness routine that
             aligns with your practical nature and supports your physical
             well-being.
@@ -269,13 +269,13 @@ const Capricorn = () => {
             impact your health. Focus on balanced and nutritious meals that
             provide you with the energy you need to excel in your endeavors.
           </p>
-          <h3>Capricorn Marriage Horoscope 2024</h3>
+          <h3>Capricorn Marriage Horoscope 2025</h3>
           <p>
             It's time to unveil the cosmic roadmap for your journey through love
-            and partnership with the Capricorn Marriage Horoscope 2024. This
+            and partnership with the Capricorn Marriage Horoscope 2025. This
             year, your marital path is like a well-orchestrated symphony, filled
             with harmonious notes of connection, growth, and a few challenging
-            chords to navigate. Let's start with the heartwarming news. In 2024,
+            chords to navigate. Let's start with the heartwarming news. In 2025,
             your marital bonds are set to shine as brightly as the stars in the
             night sky. Your practicality, commitment, and sense of
             responsibility are your secret weapons in nurturing your
@@ -294,7 +294,7 @@ const Capricorn = () => {
             responsibility or experience misunderstandings with your spouse.
             It's essential to find harmony, where both your career and your
             marriage thrive. Effective communication will be your guiding star
-            in marital matters in 2024. Your practicality and clarity of thought
+            in marital matters in 2025. Your practicality and clarity of thought
             can help you navigate any relationship conflicts or
             misunderstandings. Encourage open and honest conversations with your
             spouse, and be receptive to their thoughts and feelings.
@@ -307,7 +307,7 @@ const Capricorn = () => {
             together. These experiences will strengthen your bond and keep the
             flame of romance alive.
           </p>
-          <h3>Astrological Remedies For Capricorn in 2024</h3>
+          <h3>Astrological Remedies For Capricorn in 2025</h3>
           <UnorderedList>
             <ListItem>
               Chanting the Saturn mantra can help you align with its positive

@@ -103,35 +103,35 @@ const LibraFYQ = () => {
     {
       id: 2,
       title:
-        "Q-2:- What can Libras expect in terms of love and relationships in 2024?",
+        "Q-2:- What can Libras expect in terms of love and relationships in 2025?",
       content: `Astrological insights may offer guidance on relationship dynamics, potential romantic developments, and opportunities for growth. Libras may find focusing on communication and emotional connection important in their love lives.`,
     },
     {
       id: 3,
-      title: "Q-3:- How will Libras' career prospects look in 2024?",
+      title: "Q-3:- How will Libras' career prospects look in 2025?",
       content: `Career horoscopes can provide insights into potential career changes, job opportunities, and areas for professional development. Libras' diplomatic and cooperative nature may prove advantageous in navigating work-related challenges.`,
     },
     {
       id: 4,
       title:
-        "Q-4:- What health considerations should Libras be aware of in 2024?",
+        "Q-4:- What health considerations should Libras be aware of in 2025?",
       content: `Astrology may suggest areas of focus for health and well-being. Libras may benefit from paying attention to stress management, maintaining balance, and incorporating self-care routines into their lives.`,
     },
     {
       id: 5,
       title:
-        "Q-5:- Are there any significant astrological events for Libras in 2024?",
+        "Q-5:- Are there any significant astrological events for Libras in 2025?",
       content: `Libras may want to stay informed about celestial events and planetary movements that could impact their lives. Checking for notable transits or alignments specific to Libra can provide additional insights.`,
     },
     {
       id: 6,
-      title: "Q-6:- Should Libras be cautious about anything specific in 2024?",
+      title: "Q-6:- Should Libras be cautious about anything specific in 2025?",
       content: `Astrology may highlight potential challenges or areas that require careful consideration. Libras may find it beneficial to be mindful of decision-making, interpersonal relationships, and maintaining balance throughout the year.`,
     },
     {
       id: 7,
       title:
-        "Q-7:- Can astrology predict financial success for Libras in 2024?",
+        "Q-7:- Can astrology predict financial success for Libras in 2025?",
       content: `Astrology can offer insights into potential financial trends, but individual financial success depends on various factors. Libras may find it helpful to focus on financial planning, budgeting, and seizing opportunities wisely.`,
     },
   ];

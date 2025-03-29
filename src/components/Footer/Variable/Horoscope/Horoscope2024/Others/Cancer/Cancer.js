@@ -56,20 +56,20 @@ const Cancer = () => {
   }, []);
   return (
     <Layout
-      title="AstroSwarg - Cancer Horoscope 2024"
+      title="AstroSwarg - Cancer Horoscope 2025"
       description=""
       keywords=""
     >
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
-          <h1 className="heading">Cancer Horoscope 2024</h1>
+          <h1 className="heading">Cancer Horoscope 2025</h1>
           <p>
             Hello, nurturing souls born under the sign of Cancer! Get ready to
-            don your cosmic armor because the Cancer Horoscope 2024 is about to
+            don your cosmic armor because the Cancer Horoscope 2025 is about to
             unveil a year of emotions, dreams, and celestial surprises tailored
             just for you. If you've ever wondered what the universe has in store
-            for your zodiac sign, the Horoscope for Cancer 2024 promises to be
+            for your zodiac sign, the Horoscope for Cancer 2025 promises to be
             your personal roadmap to the stars. Imagine a year where your
             intuition is your guiding star, leading you through the cosmic seas
             of love, career, and personal growth. The Cancer horoscope is a
@@ -78,27 +78,27 @@ const Cancer = () => {
             the very first page.
           </p>
           <p>
-            In 2024, your nurturing nature shines brighter than ever, but it's
+            In 2025, your nurturing nature shines brighter than ever, but it's
             not just about caring for others; it's about nurturing your own
             dreams, too. Whether it's matters of the heart, professional
             aspirations, or your spiritual journey, this year's cosmic lineup
             has it all. So, dear Cancer, get ready to embark on a celestial
             odyssey, where each month reveals a new chapter of your story. From
             profound moments of love to career leaps that make your heart race,
-            the Cancer Horoscope 2024 guarantees a year that will have you
+            the Cancer Horoscope 2025 guarantees a year that will have you
             feeling like the ruler of your own cosmic kingdom. Embrace the
             journey, for this year is all about turning your dreams into reality
             and letting your emotions be your guide!
           </p>
-          <h3>Cancer Love Horoscope 2024</h3>
+          <h3>Cancer Love Horoscope 2025</h3>
           <p>
             If you've got your heart on your sleeve and stars in your eyes, it's
             time to dive into the emotional whirlwind of the Cancer Love
-            Horoscope 2024. This year, your romantic journey is set to be a
+            Horoscope 2025. This year, your romantic journey is set to be a
             cosmic cocktail of passion, growth, and a dash of cosmic twists that
             will have you navigating the seas of love with fervor. Let's start
             with the celestial love notes in your favor. The Love Horoscope for
-            Cancer 2024 promises a year of heartwarming connections and
+            Cancer 2025 promises a year of heartwarming connections and
             deepening emotional bonds. Your nurturing nature is your secret
             weapon when it comes to love, and you'll find yourself drawn to
             partners who appreciate your caring and empathetic qualities.
@@ -112,7 +112,7 @@ const Cancer = () => {
             communicate openly with your partner. Vulnerability can lead to
             beautiful moments of emotional connection, but it can also be a bit
             scary. Embrace it with courage, and you'll find that love deepens in
-            the process. In 2024, some Cancerians might face challenges related
+            the process. In 2025, some Cancerians might face challenges related
             to commitment and partnership. Perhaps you're at a crossroads where
             you're reevaluating your current relationship or contemplating
             taking it to the next level. This introspection is entirely natural,
@@ -126,16 +126,16 @@ const Cancer = () => {
             the horizon. Keep an open heart and an open mind, for love might
             find you when you least expect it.
           </p>
-          <h3>Cancer Finance Horoscope 2024</h3>
+          <h3>Cancer Finance Horoscope 2025</h3>
           <p>
             If you're eager to unlock the cosmic vault and discover what the
             universe has in store for your wealth and prosperity, look no
-            further than the Cancer Finance Horoscope 2024. This year, your
+            further than the Cancer Finance Horoscope 2025. This year, your
             financial journey is a thrilling mix of opportunities, wise
             investments, and a touch of cosmic caution that will have you
             navigating the money maze with confidence. Let's dive right into the
             celestial treasures awaiting you. The Finance Horoscope for Cancer
-            2024 promises a year of financial growth and strategic money moves.
+            2025 promises a year of financial growth and strategic money moves.
             Your natural intuition and knack for planning will be your secret
             weapons in the world of wealth. This is the time to make shrewd
             investments, save wisely, and let your financial acumen shine.
@@ -165,19 +165,19 @@ const Cancer = () => {
             While these decisions are crucial, they might also bring moments of
             doubt or stress. Trust your instincts and consider seeking advice
             from a financial advisor to make informed choices. On a positive
-            note, 2024 holds the potential for unexpected financial windfalls or
+            note, 2025 holds the potential for unexpected financial windfalls or
             opportunities. Stay open to new possibilities and keep an eye out
             for promising ventures.
           </p>
-          <h3>Cancer Career Horoscope 2024</h3>
+          <h3>Cancer Career Horoscope 2025</h3>
           <p>
             If you're eager to embark on a cosmic career journey, look no
-            further than the Cancer Career Horoscope 2024. This year, your
+            further than the Cancer Career Horoscope 2025. This year, your
             professional path is like an intricate puzzle waiting to be solved—a
             mix of challenges, opportunities, and cosmic insights that will have
             you navigating your career trajectory with determination. Let's
             start by unveiling the celestial gems in your career cosmos. The
-            Career Horoscope for Cancer 2024 promises a year of growth,
+            Career Horoscope for Cancer 2025 promises a year of growth,
             professional recognition, and the chance to shine in your chosen
             field. Your nurturing nature and strong work ethic are your secret
             weapons, helping you build strong relationships with colleagues and
@@ -198,7 +198,7 @@ const Cancer = () => {
           </p>
           <p>
             On the brighter side, collaborations and networking are vital
-            aspects of your career in 2024. Your intuitive nature will help you
+            aspects of your career in 2025. Your intuitive nature will help you
             connect with the right people and open doors to exciting
             opportunities. However, be cautious not to overextend yourself in
             too many commitments. Choose your alliances wisely, and ensure that
@@ -208,13 +208,13 @@ const Cancer = () => {
             horizons. While such decisions can be challenging, they also bring
             opportunities for personal and professional growth.
           </p>
-          <h3>Cancer Family Horoscope 2024</h3>
+          <h3>Cancer Family Horoscope 2025</h3>
           <p>
             This year, your familial journey is a tapestry woven with threads of
             love, growth, and a few cosmic curveballs that will have you
             navigating the seas of kinship with your heart leading the way.
             Let's unveil the stars' secrets for your familial life. The Family
-            Horoscope for Cancer 2024 promises a year of heartwarming
+            Horoscope for Cancer 2025 promises a year of heartwarming
             connections and deepening bonds with your loved ones. Your nurturing
             nature is your superpower in family matters, helping you create a
             harmonious and loving environment at home. Whether you're spending
@@ -228,7 +228,7 @@ const Cancer = () => {
             feel emotionally exposed, perhaps through disagreements or
             misunderstandings. The key here is to communicate openly, expressing
             your feelings and thoughts honestly, to resolve any familial
-            conflicts. In 2024, the cosmos might encourage you to take on more
+            conflicts. In 2025, the cosmos might encourage you to take on more
             responsibilities within your family. While this can be fulfilling,
             it might also be demanding and leave you feeling stretched thin.
             Balancing your personal needs with familial commitments will be
@@ -241,15 +241,15 @@ const Cancer = () => {
             aspirations. This year may bring joyous news or the opportunity to
             grow your family in a way that warms your heart.
           </p>
-          <h3>Cancer Health Horoscope 2024</h3>
+          <h3>Cancer Health Horoscope 2025</h3>
           <p>
             If you're eager to unveil the cosmic prescription for your
-            well-being, the Cancer Health Horoscope 2024 is your celestial guide
+            well-being, the Cancer Health Horoscope 2025 is your celestial guide
             to a year filled with vitality, growth, and the occasional cosmic
-            curveball. Your health journey in 2024 is akin to a dance with the
+            curveball. Your health journey in 2025 is akin to a dance with the
             stars—moments of grace, moments of challenge, but always a beautiful
             journey. Let's dive into the celestial prescriptions awaiting you.
-            The Health Horoscope for Cancer 2024 promises a year of heightened
+            The Health Horoscope for Cancer 2025 promises a year of heightened
             awareness of your physical and mental well-being. Your nurturing
             nature extends to self-care, making it a year to focus on your
             health, fitness, and overall vitality. Embrace new wellness
@@ -263,7 +263,7 @@ const Cancer = () => {
             admirable, moments of stress and emotional overwhelm might test your
             well-being. Remember to seek balance in all aspects of your life,
             managing stress through mindfulness, meditation, or other relaxation
-            techniques. In 2024, some Cancerians might find themselves grappling
+            techniques. In 2025, some Cancerians might find themselves grappling
             with dietary choices or fluctuations in weight. While it's natural
             to have periods of indulgence and restraint, be mindful of
             maintaining a balanced approach to nutrition. Consult with a
@@ -277,15 +277,15 @@ const Cancer = () => {
             holistic wellness practices. These changes have the potential to
             rejuvenate your physical and mental well-being.
           </p>
-          <h3>Cancer Marriage Horoscope 2024</h3>
+          <h3>Cancer Marriage Horoscope 2025</h3>
           <p>
             If you're ready to embark on a cosmic journey through the realm of
-            marriage and partnerships, the Cancer Marriage Horoscope 2024 is
+            marriage and partnerships, the Cancer Marriage Horoscope 2025 is
             your compass to navigate the seas of love and commitment. This year,
             your marital voyage is a celestial blend of romance, growth, and a
             few cosmic storms that will test the strength of your bond. Let's
             start with the enchanting love story written in the stars. The
-            Marriage Horoscope for Cancer 2024 promises a year of deepened
+            Marriage Horoscope for Cancer 2025 promises a year of deepened
             connections and heartfelt moments with your partner. Your nurturing
             nature and loyalty are your secret weapons, strengthening the
             emotional bonds you share. Whether you're celebrating years of
@@ -297,7 +297,7 @@ const Cancer = () => {
             eclipses. Moments of emotional vulnerability might arise, leading to
             disagreements or misunderstandings. The key here is open
             communication and empathy. Use these moments to strengthen your
-            connection and build a deeper understanding of each other. In 2024,
+            connection and build a deeper understanding of each other. In 2025,
             some Cancerians may face challenges related to commitment and
             partnership. Perhaps you're at a crossroads, reevaluating your
             current relationship or contemplating taking it to the next level.
@@ -309,7 +309,7 @@ const Cancer = () => {
             open heart and an open mind, for love might find you when you least
             expect it.
           </p>
-          <h3>Astrological Remedies For Cancer in 2024</h3>
+          <h3>Astrological Remedies For Cancer in 2025</h3>
           <UnorderedList>
             <ListItem>
               Chanting the 'Om Chandraya Namaha' mantra can help balance the

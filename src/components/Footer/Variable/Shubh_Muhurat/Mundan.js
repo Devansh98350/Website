@@ -42,11 +42,11 @@ const Mundan = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Mundan Muhurat 2024" description="" keywords="">
+    <Layout title="AstroSwarg - Mundan Muhurat 2025" description="" keywords="">
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
-          <h1 className="heading">Mundan Muhurat 2024</h1>
+          <h1 className="heading">Mundan Muhurat 2025</h1>
           <p>
             Mundan Muhurat, also known as Mundan Sanskar or Chudakarana, is a
             sacred Hindu ceremony performed on a specific date and time,
@@ -69,7 +69,7 @@ const Mundan = () => {
             curious sceptic, the mystique of Mundan Muhurat is sure to leave you
             intrigued and enlightened.
           </p>
-          <h2>Importance of Mundan Sanskar in 2024</h2>
+          <h2>Importance of Mundan Sanskar in 2025</h2>
           <p>
             Mundan Sanskar, also known as the first haircut ceremony, is a
             cherished ritual in Hindu culture, and its significance transcends
@@ -88,9 +88,9 @@ const Mundan = () => {
           </p>
           <p>
             Also Read{" "}
-            <span className="text-red-500 italic">Solar Eclipse 2024</span>
+            <span className="text-red-500 italic">Solar Eclipse 2025</span>
           </p>
-          <h2>Significance of Shubh Muhurat for Mundan in 2024</h2>
+          <h2>Significance of Shubh Muhurat for Mundan in 2025</h2>
           <p>
             In Hindu tradition, a child's Mundan ceremony, also known as
             'Chudakarana' or 'Tonsure ',holds immense significance. It's the
@@ -102,17 +102,17 @@ const Mundan = () => {
             to the child.
           </p>
           <p>
-            In 2024, ensuring a Shubh Muhurat for Mundan is a way to harmonise
+            In 2025, ensuring a Shubh Muhurat for Mundan is a way to harmonise
             the child's spiritual journey with the celestial forces, fostering a
             sense of well-being and prosperity. It's a beautiful tradition that
             celebrates a child's growth and purity while seeking cosmic
             blessings for a bright future.
           </p>
-          <h2 className="font-bold">Mundan Sanskar In 2024 Muhurat</h2>
+          <h2 className="font-bold">Mundan Sanskar In 2025 Muhurat</h2>
           <p>
             Mundan Sanskar, a sacred Hindu ritual, celebrates a child's first
             haircut. It signifies the shedding of impurities from birth and
-            promotes spiritual growth. In 2024, choosing the right Muhurat
+            promotes spiritual growth. In 2025, choosing the right Muhurat
             (auspicious time) for this ceremony is essential, as it's believed
             to enhance the positive energy surrounding the child.
           </p>
@@ -124,9 +124,9 @@ const Mundan = () => {
             blessings. Find out muhurat times according to months in given
             tables.
           </p>
-          <h3>Mundan Muhurat in January 2024</h3>
-          <p>There are no Muhurat in January 2024 for the Mundan Ceremony.</p>
-          <h3>Mundan Muhurat in February 2024</h3>
+          <h3>Mundan Muhurat in January 2025</h3>
+          <p>There are no Muhurat in January 2025 for the Mundan Ceremony.</p>
+          <h3>Mundan Muhurat in February 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -165,7 +165,7 @@ const Mundan = () => {
               </tbody>
             </table>
           </table>
-          <h3>Mundan Muhurat in March 2024</h3>
+          <h3>Mundan Muhurat in March 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -199,7 +199,7 @@ const Mundan = () => {
               </tbody>
             </table>
           </table>
-          <h3>Mundan Muhurat in April 2024</h3>
+          <h3>Mundan Muhurat in April 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -228,7 +228,7 @@ const Mundan = () => {
               </tbody>
             </table>
           </table>
-          <h3>Mundan Muhurat in May 2024</h3>
+          <h3>Mundan Muhurat in May 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -273,7 +273,7 @@ const Mundan = () => {
               </tbody>
             </table>
           </table>
-          <h3>Mundan Muhurat in June 2024</h3>
+          <h3>Mundan Muhurat in June 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -308,7 +308,7 @@ const Mundan = () => {
               </tbody>
             </table>
           </table>
-          <h3>Mundan Muhurat in July 2024</h3>
+          <h3>Mundan Muhurat in July 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -342,17 +342,17 @@ const Mundan = () => {
               </tbody>
             </table>
           </table>
-          <h3>Mundan Muhurat in August 2024</h3>
-          <p>There are no Muhurat in August 2024 for the Mundan Ceremony</p>
-          <h3>Mundan Muhurat in September 2024</h3>
-          <p>There are no Muhurat in September 2024 for the Mundan Ceremony</p>
-          <h3>Mundan Muhurat in October 2024</h3>
-          <p>There are no Muhurat in October 2024 for the Mundan Ceremony</p>
-          <h3>Mundan Muhurat in November 2024</h3>
-          <p>There are no Muhurat In November 2024 for the Mundan Ceremony</p>
-          <h3>Mundan Muhurat in December 2024</h3>
-          <p>There are no Muhurats In December 2024 for the Mundan Ceremony</p>
-          <h2>Auspicious timings of Mundan Muhurat 2024</h2>
+          <h3>Mundan Muhurat in August 2025</h3>
+          <p>There are no Muhurat in August 2025 for the Mundan Ceremony</p>
+          <h3>Mundan Muhurat in September 2025</h3>
+          <p>There are no Muhurat in September 2025 for the Mundan Ceremony</p>
+          <h3>Mundan Muhurat in October 2025</h3>
+          <p>There are no Muhurat in October 2025 for the Mundan Ceremony</p>
+          <h3>Mundan Muhurat in November 2025</h3>
+          <p>There are no Muhurat In November 2025 for the Mundan Ceremony</p>
+          <h3>Mundan Muhurat in December 2025</h3>
+          <p>There are no Muhurats In December 2025 for the Mundan Ceremony</p>
+          <h2>Auspicious timings of Mundan Muhurat 2025</h2>
           <p>
             Mundan Sanskar, a sacred Hindu ritual, involves the first head
             shaving of a child, symbolising purity and new beginnings. Choosing
@@ -383,7 +383,7 @@ const Mundan = () => {
               ensure a harmonious and prosperous life ahead.
             </ListItem>
           </UnorderedList>
-          <h2>Benefits of Mundan ceremony in 2024</h2>
+          <h2>Benefits of Mundan ceremony in 2025</h2>
           <p>
             A Mundan ceremony, also known as a head shaving ceremony, holds
             immense significance in various cultures, especially in Hinduism.
@@ -419,11 +419,11 @@ const Mundan = () => {
             <span className="text-red-500 italic">Talk To Astrologer</span>
           </p>
           <h2 className="font-bold">
-            Do & Don’ts to remember in Mundan ceremony 2024
+            Do & Don’ts to remember in Mundan ceremony 2025
           </h2>
           <p>
             A Mundan ceremony, also known as Chudakarana, is a significant rite
-            of passage in Hindu culture. In 2024, as you prepare for this
+            of passage in Hindu culture. In 2025, as you prepare for this
             auspicious event, here are some essential do's and don'ts to ensure
             a memorable and harmonious celebration.
           </p>
@@ -486,7 +486,7 @@ const Mundan = () => {
             </ListItem>
           </UnorderedList>
           <p>
-            To Know More About Shubh Muhurat for Mundan in 2024,{" "}
+            To Know More About Shubh Muhurat for Mundan in 2025,{" "}
             <span className="text-red-500 italic">Chat With Astrologer</span>
           </p>
         </div>

@@ -55,15 +55,15 @@ const Venus = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Venus Transits 2024" description="" keywords="">
+    <Layout title="AstroSwarg - Venus Transits 2025" description="" keywords="">
       <Breadcrumbs />
       <StyledContainer>
         <div className="body">
           <h1 className="heading">
-            Venus Transit 2024 Date, Time, Predictions & Remedies
+            Venus Transit 2025 Date, Time, Predictions & Remedies
           </h1>
           <p>
-            The Venus Transit in 2024 is a celestial event that holds great
+            The Venus Transit in 2025 is a celestial event that holds great
             significance in the realm of astrology. In the fascinating world of
             astrology, planetary transits play a pivotal role in influencing our
             lives and the energies that surround us. Venus, the radiant planet
@@ -75,7 +75,7 @@ const Venus = () => {
             <br />
             Planetary transits occur when a planet's orbit aligns in such a way
             that it passes between the Earth and the Sun. In the case of Venus
-            Transit in 2024, Venus will align with the Sun, creating a powerful
+            Transit in 2025, Venus will align with the Sun, creating a powerful
             celestial union that astrologers believe can have a profound impact
             on our lives. Astrology suggests that the position of Venus during
             this transit can influence matters of the heart, personal
@@ -90,11 +90,11 @@ const Venus = () => {
             seek beauty and balance in our lives, making it an ideal time for
             self-care, nurturing existing relationships, and embarking on new
             romantic journeys. However, like all astrological events, the impact
-            of the Venus Transit in 2024 will vary from person to person,
+            of the Venus Transit in 2025 will vary from person to person,
             depending on their birth chart and the specific alignment.
           </p>
-          <h3>Venus transit 2024 date and time</h3>
-          The Venus Transit in 2024 is a celestial event of great astrological
+          <h3>Venus transit 2025 date and time</h3>
+          The Venus Transit in 2025 is a celestial event of great astrological
           significance, set to captivate our skies. This unique phenomenon
           occurs when the planet Venus, associated with love and harmony, aligns
           perfectly with the Sun.
@@ -111,85 +111,85 @@ const Venus = () => {
             </thead>
             <tbody>
               <tr>
-                <td>18th Jan, 2024</td>
+                <td>18th Jan, 2025</td>
                 <td>Scorpio</td>
                 <td>Sagittarius</td>
                 <td>08:56 PM</td>
               </tr>
               <tr>
-                <td>12th Feb, 2024</td>
+                <td>12th Feb, 2025</td>
                 <td>Sagittarius</td>
                 <td>Capricorn</td>
                 <td>04:52 AM</td>
               </tr>
               <tr>
-                <td>7th Mar, 2024</td>
+                <td>7th Mar, 2025</td>
                 <td>Aquarius</td>
                 <td>Pisces</td>
                 <td>04:46 PM</td>
               </tr>
               <tr>
-                <td>24th Apr, 2024 </td>
+                <td>24th Apr, 2025 </td>
                 <td>Pisces</td>
                 <td>Aries</td>
                 <td>11:58 PM</td>
               </tr>
               <tr>
-                <td>19th May, 2024</td>
+                <td>19th May, 2025</td>
                 <td>Aries</td>
                 <td>Taurus</td>
                 <td>08:43 AM</td>
               </tr>
               <tr>
-                <td>12th Jun, 2024 </td>
+                <td>12th Jun, 2025 </td>
                 <td>Taurus</td>
                 <td>Gemini</td>
                 <td>06:29 PM</td>
               </tr>
               <tr>
-                <td>7th Jul, 2024</td>
+                <td>7th Jul, 2025</td>
                 <td>Gemini</td>
                 <td>Cancer</td>
                 <td>04:31 AM</td>
               </tr>
               <tr>
-                <td>31st Jul, 2024</td>
+                <td>31st Jul, 2025</td>
                 <td>Cancer</td>
                 <td>Leo</td>
                 <td>02:33 PM</td>
               </tr>
               <tr>
-                <td>25th Aug, 2024</td>
+                <td>25th Aug, 2025</td>
                 <td>Leo</td>
                 <td>Virgo </td>
                 <td>01:16 AM</td>
               </tr>
               <tr>
-                <td>18th Sep, 2024</td>
+                <td>18th Sep, 2025</td>
                 <td>Virgo</td>
                 <td>Libra</td>
                 <td>01:57 PM</td>
               </tr>
               <tr>
-                <td>13th Oct, 2024</td>
+                <td>13th Oct, 2025</td>
                 <td>Libra </td>
                 <td>Scorpio</td>
                 <td>06:00 AM</td>
               </tr>
               <tr>
-                <td>7th Nov, 2024</td>
+                <td>7th Nov, 2025</td>
                 <td>Scorpio</td>
                 <td>Sagittarius</td>
                 <td>03:31 AM</td>
               </tr>
               <tr>
-                <td>2nd Dec, 2024</td>
+                <td>2nd Dec, 2025</td>
                 <td>Sagittarius</td>
                 <td>Capricorn</td>
                 <td>11:57 AM</td>
               </tr>
               <tr>
-                <td>28th Dec, 2024</td>
+                <td>28th Dec, 2025</td>
                 <td>Capricorn</td>
                 <td>Aquarius</td>
                 <td>11:40 PM</td>
@@ -203,9 +203,9 @@ const Venus = () => {
           and the specific planetary alignments at the time of the transit. It's
           a celestial spectacle with the power to impact us all in distinct
           ways.
-          <h3>Venus Transit 2024 in 1st house</h3>
+          <h3>Venus Transit 2025 in 1st house</h3>
           <p>
-            The Venus Transit in 2024 occurring in the 1st house of an
+            The Venus Transit in 2025 occurring in the 1st house of an
             individual's birth chart is a celestial event with profound
             astrological implications. The 1st house, often referred to as the
             "house of self," represents one's identity, appearance, and personal
@@ -237,9 +237,9 @@ const Venus = () => {
           <ul>
             <li> Chant the Gayatri mantra daily for spiritual strength.</li>
           </ul>
-          <h3>Venus Transit 2024 in 2nd house</h3>
+          <h3>Venus Transit 2025 in 2nd house</h3>
           <p>
-            The Venus Transit in 2024 gracing the 2nd house of an individual's
+            The Venus Transit in 2025 gracing the 2nd house of an individual's
             birth chart brings a special focus on matters related to finances,
             values, and self-worth. This celestial event has the potential to
             impact one's material possessions and sense of security.
@@ -263,9 +263,9 @@ const Venus = () => {
           <ul>
             <li> Offer water to the rising sun for blessings.</li>
           </ul>
-          <h3>Venus Transit 2024 in 3rd house</h3>
+          <h3>Venus Transit 2025 in 3rd house</h3>
           <p>
-            When Venus transits the 3rd house during 2024, it emphasizes
+            When Venus transits the 3rd house during 2025, it emphasizes
             communication, learning, and relationships with siblings and
             neighbours. This celestial event can have a significant impact on
             the way individuals express themselves and connect with those in
@@ -281,7 +281,7 @@ const Venus = () => {
             subjects.
             <br />
             <br />
-            The Venus Transit in 2024 can also bring romantic energy into the
+            The Venus Transit in 2025 can also bring romantic energy into the
             3rd house, possibly leading to romantic connections within one's
             local community or through communication channels.
           </p>
@@ -289,9 +289,9 @@ const Venus = () => {
           <ul>
             <li> Keep a Tulsi plant at home for positive energy.</li>
           </ul>
-          <h3>Venus transit 2024 in 4th house</h3>
+          <h3>Venus transit 2025 in 4th house</h3>
           <p>
-            In 2024, when Venus transits the 4th house, it casts its celestial
+            In 2025, when Venus transits the 4th house, it casts its celestial
             influence on matters related to home, family, and emotional
             security. This transit can deeply impact an individual's personal
             life and sense of belonging.
@@ -315,12 +315,12 @@ const Venus = () => {
             <li> Light a ghee lamp for prosperity and wisdom.</li>
           </ul>
           <p>
-            To know how your year 2024 will be,
+            To know how your year 2025 will be,
             <div className="inline-red-text"> Talk to Astrologer</div>
           </p>
-          <h3>Venus transit 2024 in 5th house</h3>
+          <h3>Venus transit 2025 in 5th house</h3>
           <p>
-            The Venus Transit in 2024 gracing the 5th house of an individual's
+            The Venus Transit in 2025 gracing the 5th house of an individual's
             birth chart ignites creativity, romance, and self-expression. This
             celestial event can have a profound impact on one's love life,
             hobbies, and artistic pursuits. In the 5th house, Venus can
@@ -340,9 +340,9 @@ const Venus = () => {
           <ul>
             <li> Wear gemstones for planetary harmony</li>
           </ul>
-          <h3>Venus transit 2024 in 6th house</h3>
+          <h3>Venus transit 2025 in 6th house</h3>
           <p>
-            The Venus Transit in 2024 occurring in the 6th house of an
+            The Venus Transit in 2025 occurring in the 6th house of an
             individual's birth chart is poised to influence matters related to
             health, work, and daily routines. This celestial event can have a
             significant impact on how one approaches their everyday life.
@@ -372,9 +372,9 @@ const Venus = () => {
           <ul>
             <li> Donate food to the needy for good karma</li>
           </ul>
-          <h3>Venus transit 2024 in 7th house</h3>
+          <h3>Venus transit 2025 in 7th house</h3>
           <p>
-            When Venus graces the 7th house during 2024, it shines its celestial
+            When Venus graces the 7th house during 2025, it shines its celestial
             light on partnerships, relationships, and one-onone interactions.
             This transit can profoundly impact an individual's love life and the
             way they relate to others. In the 7th house, Venus may bring harmony
@@ -398,9 +398,9 @@ const Venus = () => {
           <ul>
             <li> Perform Rudra Abhishek for Lord Shiva's blessings.</li>
           </ul>
-          <h3>Venus transit 2024 in 8th house</h3>
+          <h3>Venus transit 2025 in 8th house</h3>
           <p>
-            In 2024, when Venus transits the 8th house, it delves into the
+            In 2025, when Venus transits the 8th house, it delves into the
             realms of transformation, shared resources, and deep emotions. This
             celestial event can profoundly impact an individual's approach to
             intimacy, joint finances, and hidden aspects of life. The 8th house
@@ -427,9 +427,9 @@ const Venus = () => {
           <ul>
             <li> Recite Hanuman Chalisa for protection and courage.</li>
           </ul>
-          <h3>Venus transit 2024 in 9th house</h3>
+          <h3>Venus transit 2025 in 9th house</h3>
           <p>
-            When Venus transits the 9th house in 2024, it illuminates matters
+            When Venus transits the 9th house in 2025, it illuminates matters
             related to travel, higher learning, and personal beliefs. This
             celestial event can profoundly impact an individual's quest for
             knowledge, spiritual exploration, and worldview.
@@ -448,9 +448,9 @@ const Venus = () => {
           <ul>
             <li> Offer milk to the serpent deity, Nag Devta</li>
           </ul>
-          <h3>Venus transit 2024 in 10th house</h3>
+          <h3>Venus transit 2025 in 10th house</h3>
           <p>
-            The Venus Transit in 2024 gracing the 10th house of an individual's
+            The Venus Transit in 2025 gracing the 10th house of an individual's
             birth chart holds significant astrological implications for career,
             reputation, and public life. This celestial event can influence
             one's professional life and public image.
@@ -469,9 +469,9 @@ const Venus = () => {
           <ul>
             <li> Fast on Ekadashi for spiritual purification.</li>
           </ul>
-          <h3>Venus transit 2024 in 11th house</h3>
+          <h3>Venus transit 2025 in 11th house</h3>
           <p>
-            When Venus transits the 11th house in 2024, it directs its celestial
+            When Venus transits the 11th house in 2025, it directs its celestial
             influence towards friendships, social connections, and aspirations.
             This transit can have a significant impact on an individual's social
             life and goals. In the 11th house, Venus encourages the formation of
@@ -490,9 +490,9 @@ const Venus = () => {
           <ul>
             <li> Worship Lord Ganesha before starting any endeavour.</li>
           </ul>
-          <h3>Venus transit 2024 in 12th house</h3>
+          <h3>Venus transit 2025 in 12th house</h3>
           <p>
-            In 2024, when Venus transits the 12th house, it turns its celestial
+            In 2025, when Venus transits the 12th house, it turns its celestial
             gaze inward, delving into the realms of spirituality, introspection,
             and hidden aspects of the self. This transit can have a profound
             impact on an individual's inner world and subconscious. The 12th

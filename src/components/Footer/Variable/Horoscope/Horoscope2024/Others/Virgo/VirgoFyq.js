@@ -103,35 +103,35 @@ const VirgoFYQ = () => {
     {
       id: 2,
       title:
-        "Q-2:- What can Virgos expect in terms of love and relationships in 2024?",
+        "Q-2:- What can Virgos expect in terms of love and relationships in 2025?",
       content: `Astrological insights may provide guidance on relationship dynamics, potential challenges, and opportunities for growth. Virgos may find comfort in focusing on open communication and mutual understanding in their love lives.`,
     },
     {
       id: 3,
-      title: "Q-3:- How will Virgos' career prospects look in 2024?",
+      title: "Q-3:- How will Virgos' career prospects look in 2025?",
       content: `Career horoscopes can offer insights into potential career developments, job opportunities, and areas for professional growth. Virgos' diligent and analytical nature may be an asset in navigating work-related challenges.`,
     },
     {
       id: 4,
       title:
-        "Q-4:- What health considerations should Virgos be aware of in 2024?",
+        "Q-4:- What health considerations should Virgos be aware of in 2025?",
       content: `Astrology may suggest areas of focus for health and well-being. Virgos may benefit from paying attention to stress management, maintaining a balanced lifestyle, and seeking preventive healthcare measures.`,
     },
     {
       id: 5,
       title:
-        "Q-5:- Are there any significant astrological events for Virgos in 2024?",
+        "Q-5:- Are there any significant astrological events for Virgos in 2025?",
       content: `Virgos may want to stay informed about celestial events and planetary movements that could impact their lives. Checking for notable transits or alignments specific to Virgo can provide additional insights.`,
     },
     {
       id: 6,
-      title: "Q-6:- Should Virgos be cautious about anything specific in 2024?",
+      title: "Q-6:- Should Virgos be cautious about anything specific in 2025?",
       content: `Astrology may highlight potential challenges or areas that require careful consideration. Virgos may find it helpful to be mindful of communication, decision-making, and personal relationships throughout the year.`,
     },
     {
       id: 7,
       title:
-        "Q-7:- Can astrology predict financial success for Virgos in 2024?",
+        "Q-7:- Can astrology predict financial success for Virgos in 2025?",
       content: `Astrology can offer insights into potential financial trends, but individual financial success depends on various factors. Virgos may find it beneficial to focus on budgeting, financial planning, and seizing opportunities wisely.`,
     },
   ];

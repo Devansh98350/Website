@@ -62,7 +62,7 @@ const Mercury = () => {
   }, []);
   return (
     <Layout
-      title="AstroSwarg - Mercury Transits 2024"
+      title="AstroSwarg - Mercury Transits 2025"
       description=""
       keywords=""
     >
@@ -70,7 +70,7 @@ const Mercury = () => {
       <Container>
         <div className="body">
           <h1 className="heading">
-            Mercury Transit 2024 Date, Time, Predictions & Remedies
+            Mercury Transit 2025 Date, Time, Predictions & Remedies
           </h1>
           <p>
             In astrology, Mercury is representative of an individual's
@@ -83,7 +83,7 @@ const Mercury = () => {
           </p>
           <p>
             This article will delve into comprehensive prognostications
-            regarding the potential impact of the 2024 Mercury Transit on
+            regarding the potential impact of the 2025 Mercury Transit on
             various facets of your life, including business, career, education,
             love, and family dynamics. These forecasts will be based on the
             positioning of Mercury in relation to the natal Moon's house.
@@ -98,7 +98,7 @@ const Mercury = () => {
             third, fifth, seventh, ninth, or twelfth house, its influence may
             result in mixed or unfavourable effects on the individual.
           </p>
-          <h3>Mercury transit 2024 date & time</h3>
+          <h3>Mercury transit 2025 date & time</h3>
           <table border="1" className="table-size">
             <thead>
               <tr>
@@ -110,108 +110,108 @@ const Mercury = () => {
             </thead>
             <tbody>
               <tr>
-                <td>7th Jan, 2024</td>
+                <td>7th Jan, 2025</td>
                 <td>Scorpio</td>
                 <td>Sagittarius</td>
                 <td>09:16 pm</td>
               </tr>
               <tr>
-                <td>1st Feb, 2024</td>
+                <td>1st Feb, 2025</td>
                 <td>Sagittarius</td>
                 <td>Capricorn</td>
                 <td>02:23 pm</td>
               </tr>
               <tr>
-                <td>20th Feb, 2024</td>
+                <td>20th Feb, 2025</td>
                 <td>Capricorn </td>
                 <td>Aquarius</td>
                 <td>06:01 am</td>
               </tr>
               <tr>
-                <td>7th Mar, 2024</td>
+                <td>7th Mar, 2025</td>
                 <td>Aquarius</td>
                 <td>Pisces</td>
                 <td>09:35 am</td>
               </tr>
               <tr>
-                <td>26th Mar, 2024</td>
+                <td>26th Mar, 2025</td>
                 <td>Pisces</td>
                 <td>Aries</td>
                 <td>02:57 am</td>
               </tr>
               <tr>
-                <td>9th Apr, 2024</td>
+                <td>9th Apr, 2025</td>
                 <td>Aries</td>
                 <td>Pisces</td>
                 <td>09:41 pm</td>
               </tr>
               <tr>
-                <td>10th May, 2024</td>
+                <td>10th May, 2025</td>
                 <td>Pisces</td>
                 <td>Aries</td>
                 <td>06:52 pm</td>
               </tr>
               <tr>
-                <td>31st May, 2024</td>
+                <td>31st May, 2025</td>
                 <td>Aries</td>
                 <td>Taurus</td>
                 <td>12:15 pm</td>
               </tr>
               <tr>
-                <td>14th June, 2024</td>
+                <td>14th June, 2025</td>
                 <td>Taurus</td>
                 <td>Gemini</td>
                 <td>11:05 pm</td>
               </tr>
               <tr>
-                <td>29th June, 2024</td>
+                <td>29th June, 2025</td>
                 <td>Gemin</td>
                 <td>Cancer</td>
                 <td>12:24 pm</td>
               </tr>
               <tr>
-                <td>19th July, 2024</td>
+                <td>19th July, 2025</td>
                 <td>Cancer</td>
                 <td>Leo</td>
                 <td>08:39 pm</td>
               </tr>
               <tr>
-                <td>22nd Aug, 2024</td>
+                <td>22nd Aug, 2025</td>
                 <td>Leo</td>
                 <td>Cancer</td>
                 <td>06:37 am</td>
               </tr>
               <tr>
-                <td>4th Sep, 2024</td>
+                <td>4th Sep, 2025</td>
                 <td>Cancer</td>
                 <td>Leo</td>
                 <td>11:41 am</td>
               </tr>
               <tr>
-                <td>23rd Sep, 2024</td>
+                <td>23rd Sep, 2025</td>
                 <td>Leo</td>
                 <td>Virgo</td>
                 <td>10:10 am</td>
               </tr>
               <tr>
-                <td>10th Oct, 2024</td>
+                <td>10th Oct, 2025</td>
                 <td>Virgo</td>
                 <td>Libra</td>
                 <td>11:19 am</td>
               </tr>
               <tr>
-                <td>29th Oct, 2024</td>
+                <td>29th Oct, 2025</td>
                 <td>Libra</td>
                 <td>Scorpio</td>
                 <td>10:38 pm</td>
               </tr>
             </tbody>
           </table>
-          Let us now read in detail the effects of Mercury transit in 2024 on
+          Let us now read in detail the effects of Mercury transit in 2025 on
           all 12 houses.
-          <h3>Mercury transit 2024 in 1st house</h3>
+          <h3>Mercury transit 2025 in 1st house</h3>
           <p>
-            The Mercury Transit of 2024 gracing an individual's 1st house
+            The Mercury Transit of 2025 gracing an individual's 1st house
             heralds a period of profound positive transformation and personal
             growth. When Mercury aligns with the 1st house, it blesses the
             native with heightened communication abilities, mental clarity, and
@@ -238,7 +238,7 @@ const Mercury = () => {
             optimising your communication abilities.
           </p>
           <p>
-            In essence, the Mercury Transit of 2024 in the 1st house is a
+            In essence, the Mercury Transit of 2025 in the 1st house is a
             transformative journey toward self-improvement and empowered
             expression. With the simple yet potent remedy of affirmations, you
             can make the most of this celestial alignment, fostering personal
@@ -256,9 +256,9 @@ const Mercury = () => {
             To get a detailed Kundli analysis,
             <div className="inline-red-text"> Chat with Astrologer</div>
           </h4>
-          <h3>Mercury transit 2024 in 2nd house</h3>
+          <h3>Mercury transit 2025 in 2nd house</h3>
           <p>
-            The Mercury Transit of 2024 gracing an individual's 2nd house brings
+            The Mercury Transit of 2025 gracing an individual's 2nd house brings
             a wave of positive financial and communicative energy into their
             life. When Mercury aligns with the 2nd house, it amplifies one's
             ability to communicate effectively about money matters, leading to
@@ -278,7 +278,7 @@ const Mercury = () => {
             financial opportunities and success your way during this transit.
           </p>
           <p>
-            In essence, the Mercury Transit of 2024 in the 2nd house is a golden
+            In essence, the Mercury Transit of 2025 in the 2nd house is a golden
             opportunity to enhance your financial wellbeing and communication
             skills regarding money. Embrace this celestial alignment as a time
             to thrive financially and to foster positive financial
@@ -295,9 +295,9 @@ const Mercury = () => {
               abundance effortlessly
             </li>
           </ul>
-          <h3>Mercury transit 2024 in 3rd house</h3>
+          <h3>Mercury transit 2025 in 3rd house</h3>
           <p>
-            The Mercury Transit of 2024, gracing the 3rd house in an
+            The Mercury Transit of 2025, gracing the 3rd house in an
             individual's natal chart, ushers in a period of remarkable
             intellectual expansion and enhanced communication abilities. This
             celestial alignment blesses you with a sharp mind, a hunger for
@@ -332,9 +332,9 @@ const Mercury = () => {
               communication skills
             </li>
           </ul>
-          <h3>Mercury transit 2024 in 4th house</h3>
+          <h3>Mercury transit 2025 in 4th house</h3>
           <p>
-            The Mercury Transit of 2024 gracing an individual's 4th house ushers
+            The Mercury Transit of 2025 gracing an individual's 4th house ushers
             in a period of profound positive transformation within the realm of
             home and family life. This celestial alignment brings with it a
             harmonious and communicative atmosphere that nurtures deep emotional
@@ -352,7 +352,7 @@ const Mercury = () => {
             atmosphere.
           </p>
           <p>
-            In essence, the Mercury Transit of 2024 in the 4th house offers a
+            In essence, the Mercury Transit of 2025 in the 4th house offers a
             unique opportunity to cultivate harmonious family relationships,
             resolve past issues, and create a loving and communicative home
             environment. Embrace this celestial influence as a time of unity and
@@ -367,9 +367,9 @@ const Mercury = () => {
               strengthen emotional bonds.
             </li>
           </ul>
-          <h3>Mercury transit 2024 in 5th house</h3>
+          <h3>Mercury transit 2025 in 5th house</h3>
           <p>
-            The Mercury Transit of 2024 gracing an individual's 5th house
+            The Mercury Transit of 2025 gracing an individual's 5th house
             promises a period of heightened creativity, intellectual
             inspiration, and joyful self-expression. When Mercury aligns with
             the 5th house, it infuses your life with an abundance of positive
@@ -386,7 +386,7 @@ const Mercury = () => {
             their peak, making you a charismatic and captivating communicator.
           </p>
           <p>
-            In essence, the Mercury Transit of 2024 through the 5th house is a
+            In essence, the Mercury Transit of 2025 through the 5th house is a
             golden opportunity to tap into your creative genius, enjoy playful
             romance, and communicate your passions with charisma and enthusiasm.
             Embrace this celestial influence as a time to shine creatively and
@@ -405,12 +405,12 @@ const Mercury = () => {
             </li>
           </ul>
           <h4>
-            To know how your year 2024 will be,
+            To know how your year 2025 will be,
             <div className="inline-red-text"> Talk to Astrologer</div>
           </h4>
-          <h3>Mercury transit 2024 in 6th house</h3>
+          <h3>Mercury transit 2025 in 6th house</h3>
           <p>
-            The Mercury Transit of 2024, making its presence felt in an
+            The Mercury Transit of 2025, making its presence felt in an
             individual's 6th house, heralds a period of significant positive
             transformation in matters of health, work, and daily routines. When
             Mercury aligns with the 6th house, it bestows a remarkable boost in
@@ -453,9 +453,9 @@ const Mercury = () => {
             </li>
             <br />
           </ul>
-          <h3>Mercury transit 2024 in 7th house</h3>
+          <h3>Mercury transit 2025 in 7th house</h3>
           <p>
-            The Mercury Transit of 2024, gracing an individual's 7th house,
+            The Mercury Transit of 2025, gracing an individual's 7th house,
             brings forth a wave of positive transformation in the realm of
             relationships and partnerships. When Mercury aligns with the 7th
             house, it bestows a unique blend of intellectual acumen, effective
@@ -491,15 +491,15 @@ const Mercury = () => {
           <ul>
             <li>
               To maximise the positive influence of Mercury's transit through
-              the 7th house in 2024, practice daily active listening and
+              the 7th house in 2025, practice daily active listening and
               empathetic communication in your relationships to foster
               understanding and strengthen bonds.
             </li>
             <br />
           </ul>
-          <h3>Mercury transit 2024 in 8th house</h3>
+          <h3>Mercury transit 2025 in 8th house</h3>
           <p>
-            The Mercury Transit of 2024, illuminating an individual's 8th house,
+            The Mercury Transit of 2025, illuminating an individual's 8th house,
             ushers in a transformative and positive period of deep insights,
             heightened intuition, and financial growth. When Mercury aligns with
             the 8th house, it invites you to dive into the depths of your
@@ -544,9 +544,9 @@ const Mercury = () => {
               transformative period.
             </li>
           </ul>
-          <h3>Mercury transit 2024 in 9th house</h3>
+          <h3>Mercury transit 2025 in 9th house</h3>
           <p>
-            The Mercury Transit of 2024, gracing an individual's 9th house,
+            The Mercury Transit of 2025, gracing an individual's 9th house,
             heralds a period of expansive growth, intellectual exploration, and
             profound positive experiences in the realm of higher learning,
             travel, and spirituality. When Mercury aligns with the 9th house, it
@@ -583,9 +583,9 @@ const Mercury = () => {
               into your routine
             </li>
           </ul>
-          <h3>Mercury transit 2024 in 10th house</h3>
+          <h3>Mercury transit 2025 in 10th house</h3>
           <p>
-            The Mercury Transit of 2024, illuminating an individual's 10th
+            The Mercury Transit of 2025, illuminating an individual's 10th
             house, ushers in a period of remarkable professional growth,
             enhanced communication skills, and the potential for public
             recognition and success. When Mercury aligns with the 10th house, it
@@ -623,12 +623,12 @@ const Mercury = () => {
             </li>
           </ul>
           <h4>
-            To Read About Your Horoscope 2024 In Detail,
+            To Read About Your Horoscope 2025 In Detail,
             <div className="inline-red-text"> Click Here</div>
           </h4>
-          <h3>Mercury transit 2024 in 11th house</h3>
+          <h3>Mercury transit 2025 in 11th house</h3>
           <p>
-            The Mercury Transit of 2024, gracing an individual's 11th house,
+            The Mercury Transit of 2025, gracing an individual's 11th house,
             brings forth a period of heightened social connectivity,
             intellectual camaraderie, and the potential for expanding your
             network and achieving your dreams. When Mercury aligns with the 11th
@@ -672,9 +672,9 @@ const Mercury = () => {
             <br />
             <li>Donate Mercury-related items for their auspicious effect.</li>
           </ul>
-          <h3>Mercury transit 2024 in 12th house</h3>
+          <h3>Mercury transit 2025 in 12th house</h3>
           <p>
-            The Mercury Transit of 2024, gracing an individual's 12th house,
+            The Mercury Transit of 2025, gracing an individual's 12th house,
             heralds a period of profound inner reflection, heightened intuition,
             and spiritual enlightenment. When Mercury aligns with the 12th
             house, it invites you to explore the hidden realms of your
@@ -713,7 +713,7 @@ const Mercury = () => {
             <li> Worship planet Mercury.</li>
           </ul>
           <h4>
-            To know the effects of Mercury transit 2024 in your horoscope,
+            To know the effects of Mercury transit 2025 in your horoscope,
             <div className="inline-red-text"> Talk to astrologer</div>
           </h4>
         </div>

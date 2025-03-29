@@ -43,14 +43,14 @@ const Griha_Pravesh = () => {
   }, []);
   return (
     <Layout
-      title="AstroSwarg - Griha Pravesh Muhurat 2024"
+      title="AstroSwarg - Griha Pravesh Muhurat 2025"
       description=""
       keywords=""
     >
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
-          <h1 className="heading">Griha Pravesh Muhurat 2024</h1>
+          <h1 className="heading">Griha Pravesh Muhurat 2025</h1>
           <p>
             "Griha Pravesh Muhurat," also known as housewarming, is an
             auspicious and culturally significant event in Hindu astrology and
@@ -123,12 +123,12 @@ const Griha_Pravesh = () => {
             </ListItem>
           </UnorderedList>
           <p>
-            Know all about the Festivals in 2024 as per the{" "}
+            Know all about the Festivals in 2025 as per the{" "}
             <span className="text-red-500 italic">Hindu calendar</span>
           </p>
-          <h2>When should you perform Griha Pravesh in 2024?</h2>
+          <h2>When should you perform Griha Pravesh in 2025?</h2>
           <p>
-            Performing Griha Pravesh in 2024 should be done after considering
+            Performing Griha Pravesh in 2025 should be done after considering
             several factors, such as the auspicious astrological timings, the
             specific date and time, and the family's astrological charts.
             Astrology plays a significant role in determining the most
@@ -140,7 +140,7 @@ const Griha_Pravesh = () => {
             guidance can enhance its significance and ensure a prosperous
             beginning for your family.
           </p>
-          <h3>Griha Pravesh Muhurats in January 2024</h3>
+          <h3>Griha Pravesh Muhurats in January 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -152,14 +152,14 @@ const Griha_Pravesh = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>Jan 3, 2024</td>
+                  <td>Jan 3, 2025</td>
                   <td>7:14 AM To 2:46 PM</td>
                   <td>Uttara Phalguni</td>
                 </tr>
               </tbody>
             </table>
           </table>
-          <h3>Griha Pravesh Muhurats in February 2024</h3>
+          <h3>Griha Pravesh Muhurats in February 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -171,39 +171,39 @@ const Griha_Pravesh = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>Feb 12, 2024</td>
+                  <td>Feb 12, 2025</td>
                   <td>2:56 PM TO 5:44 PM</td>
                   <td>Uttara Bhadrapada</td>
                 </tr>
                 <tr>
-                  <td>Feb 14, 2024</td>
+                  <td>Feb 14, 2025</td>
                   <td>7:01 AM TO 10:43 AM</td>
                   <td>Revati</td>
                 </tr>
                 <tr>
-                  <td>Feb 19, 2024</td>
+                  <td>Feb 19, 2025</td>
                   <td>6:57 AM TO 10:33 AM</td>
                   <td>Mrigashirsha</td>
                 </tr>
                 <tr>
-                  <td>Feb 26, 2024</td>
+                  <td>Feb 26, 2025</td>
                   <td>6:50 AM TO 4:30 AM</td>
                   <td>Uttara Phalguni</td>
                 </tr>
                 <tr>
-                  <td>Feb 28, 2024</td>
+                  <td>Feb 28, 2025</td>
                   <td>4:18 AM TO 6:47 AM</td>
                   <td>Chitra</td>
                 </tr>
                 <tr>
-                  <td>Feb 29, 2024</td>
+                  <td>Feb 29, 2025</td>
                   <td>6:47 AM TO 10:22 AM</td>
                   <td>Chitra</td>
                 </tr>
               </tbody>
             </table>
           </table>
-          <h3>Griha Pravesh Muhurats in March 2024</h3>
+          <h3>Griha Pravesh Muhurats in March 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -215,49 +215,49 @@ const Griha_Pravesh = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>March 2, 2024</td>
+                  <td>March 2, 2025</td>
                   <td>2:42 PM TO 6:44 AM</td>
                   <td>Anuradha</td>
                 </tr>
                 <tr>
-                  <td>March 6, 2024</td>
+                  <td>March 6, 2025</td>
                   <td>2:52 PM TO 4:13 AM</td>
                   <td>Uttara Ashadha</td>
                 </tr>
                 <tr>
-                  <td>March 11, 2024</td>
+                  <td>March 11, 2025</td>
                   <td>10:44 AM TO 6:34 AM</td>
                   <td>Uttara Bhadrapada, Revati</td>
                 </tr>
                 <tr>
-                  <td>March 15, 2024</td>
+                  <td>March 15, 2025</td>
                   <td>10:09 PM TO 6:39 AM</td>
                   <td>Rohini</td>
                 </tr>
                 <tr>
-                  <td>March 16, 2024</td>
+                  <td>March 16, 2025</td>
                   <td>6:29 AM TO 9:38 PM</td>
                   <td>Rohini, Mrigashirsha</td>
                 </tr>
                 <tr>
-                  <td>March 27, 2024</td>
+                  <td>March 27, 2025</td>
                   <td>6:17 AM TO 4:16 PM</td>
                   <td>Chitra</td>
                 </tr>
                 <tr>
-                  <td>March 29, 2024</td>
+                  <td>March 29, 2025</td>
                   <td>8:36 PM TO 6:13 AM</td>
                   <td>Anuradha</td>
                 </tr>
                 <tr>
-                  <td>March 30, 2024</td>
+                  <td>March 30, 2025</td>
                   <td>6:13 AM TO 9:13 AM</td>
                   <td>Anuradha</td>
                 </tr>
               </tbody>
             </table>
           </table>
-          <h3>Griha Pravesh Muhurats in April 2024</h3>
+          <h3>Griha Pravesh Muhurats in April 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -270,26 +270,26 @@ const Griha_Pravesh = () => {
               <tbody>
                 {" "}
                 <tr>
-                  <td>April 3, 2024</td>
+                  <td>April 3, 2025</td>
                   <td>6:29 PM TO 9:47 PM</td>
                   <td>Uttara Ashadha</td>
                 </tr>
               </tbody>
             </table>
           </table>
-          <h3>Griha Pravesh Muhurats in May 2024</h3>
-          <p>There’s no Shubh Muhurat in May 2024.</p>
-          <h3>Griha Pravesh Muhurats in June 2024</h3>
-          <p>There’s no Shubh Muhurat in June 2024.</p>
-          <h3>Griha Pravesh Muhurats in July 2024</h3>
-          <p>There’s no Shubh Muhurat in July 2024.</p>
-          <h3>Griha Pravesh Muhurats in August 2024</h3>
-          <p>There’s no Shubh Muhurat in August 2024.</p>
-          <h3>Griha Pravesh Muhurats in September 2024</h3>
-          <p>There’s no Shubh Muhurat in September 2024.</p>
-          <h3>Griha Pravesh Muhurats in October 2024</h3>
-          <p>There’s no Shubh Muhurat in October2024.</p>
-          <h3>Griha Pravesh Muhurats in November 2024</h3>
+          <h3>Griha Pravesh Muhurats in May 2025</h3>
+          <p>There’s no Shubh Muhurat in May 2025.</p>
+          <h3>Griha Pravesh Muhurats in June 2025</h3>
+          <p>There’s no Shubh Muhurat in June 2025.</p>
+          <h3>Griha Pravesh Muhurats in July 2025</h3>
+          <p>There’s no Shubh Muhurat in July 2025.</p>
+          <h3>Griha Pravesh Muhurats in August 2025</h3>
+          <p>There’s no Shubh Muhurat in August 2025.</p>
+          <h3>Griha Pravesh Muhurats in September 2025</h3>
+          <p>There’s no Shubh Muhurat in September 2025.</p>
+          <h3>Griha Pravesh Muhurats in October 2025</h3>
+          <p>There’s no Shubh Muhurat in October2025.</p>
+          <h3>Griha Pravesh Muhurats in November 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -301,49 +301,49 @@ const Griha_Pravesh = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>November 2, 2024</td>
+                  <td>November 2, 2025</td>
                   <td>5:58 AM TO 6:35 AM</td>
                   <td>Anuradha, Vishakha</td>
                 </tr>
                 <tr>
-                  <td>November 4, 2024</td>
+                  <td>November 4, 2025</td>
                   <td>6:35 AM TO 8:04 AM</td>
                   <td>Anuradha</td>
                 </tr>
                 <tr>
-                  <td>November 7, 2024</td>
+                  <td>November 7, 2025</td>
                   <td>12:34 AM TO 6:38 AM</td>
                   <td>Uttara Ashadha</td>
                 </tr>
                 <tr>
-                  <td>November 8, 2024</td>
+                  <td>November 8, 2025</td>
                   <td>6:38 AM TO 12:03 PM</td>
                   <td>Uttara Ashadha</td>
                 </tr>
                 <tr>
-                  <td>November 13, 2024</td>
+                  <td>November 13, 2025</td>
                   <td>1:01 PM TO 3:11 AM</td>
                   <td>Revati</td>
                 </tr>
                 <tr>
-                  <td>November 16, 2024</td>
+                  <td>November 16, 2025</td>
                   <td>7:28 PM TO 6:45 AM</td>
                   <td>Rohini</td>
                 </tr>
                 <tr>
-                  <td>November 18, 2024</td>
+                  <td>November 18, 2025</td>
                   <td>6:46 AM TO 3:49 PM</td>
                   <td>Mrigashirsha</td>
                 </tr>
                 <tr>
-                  <td>November 25, 2024</td>
+                  <td>November 25, 2025</td>
                   <td>6:52 AM TO 1:24 AM</td>
                   <td>Uttara Phalguni</td>
                 </tr>
               </tbody>
             </table>
           </table>
-          <h3>Griha Pravesh Muhurats in December 2024</h3>
+          <h3>Griha Pravesh Muhurats in December 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -355,22 +355,22 @@ const Griha_Pravesh = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>December 5, 2024</td>
+                  <td>December 5, 2025</td>
                   <td>12:40 PM TO 5:26 PM</td>
                   <td>Panchami</td>
                 </tr>
                 <tr>
-                  <td>December 11, 2024</td>
+                  <td>December 11, 2025</td>
                   <td>7:04 AM TO 11:48 AM</td>
                   <td>Revati</td>
                 </tr>
                 <tr>
-                  <td>December 21, 2024</td>
+                  <td>December 21, 2025</td>
                   <td>6:14 AM TO 7:10 AM</td>
                   <td>Uttara Phalguni, Poorva Phalguni</td>
                 </tr>
                 <tr>
-                  <td>December 25, 2024</td>
+                  <td>December 25, 2025</td>
                   <td>7:12 AM TO 3:22 PM</td>
                   <td>Chitra</td>
                 </tr>
@@ -405,10 +405,10 @@ const Griha_Pravesh = () => {
             </ListItem>
           </UnorderedList>
           <h2 className="font-bold">
-            Most Auspicious Timings in 2024 Griha Pravesh Muhurat
+            Most Auspicious Timings in 2025 Griha Pravesh Muhurat
           </h2>
           <p>
-            In 2024, finding the perfect Griha Pravesh Muhurat is crucial for a
+            In 2025, finding the perfect Griha Pravesh Muhurat is crucial for a
             harmonious home entry. Astrology offers valuable insights into
             auspicious moments to ensure a prosperous beginning. These
             auspicious timings are determined by aligning celestial energies,
@@ -424,19 +424,19 @@ const Griha_Pravesh = () => {
             in your life.
           </p>
           <p>
-            While specific dates for 2024 cannot be mentioned, its essential to
+            While specific dates for 2025 cannot be mentioned, its essential to
             consult a knowledgeable astrologer who can provide you with a
             personalised Griha Pravesh Muhurat based on your birth charts and
             other astrological considerations. This ensures that the energies
             are uniquely suited to your familys well-being and prosperity.
           </p>
           <h2 className="font-bold">
-            Inauspicious timings for Griha Pravesh in 2024
+            Inauspicious timings for Griha Pravesh in 2025
           </h2>
           <p>
             In astrology, choosing an auspicious time for Griha Pravesh, or
             housewarming, is crucial for ensuring positive energy and harmony in
-            your new home. In 2024, it's essential to avoid inauspicious
+            your new home. In 2025, it's essential to avoid inauspicious
             timings. These times are typically influenced by unfavourable
             planetary positions and can lead to challenges or obstacles in your
             new journey.
@@ -456,7 +456,7 @@ const Griha_Pravesh = () => {
             enhancing the overall well-being of your household, promoting
             positivity, and ensuring a prosperous future.
           </p>
-          <h2>Griha Pravesh 2024: Essential points to remember</h2>
+          <h2>Griha Pravesh 2025: Essential points to remember</h2>
           <p>
             Griha Pravesh is a significant Hindu ritual that marks the entry of
             a family into their new home. To ensure a harmonious beginning, here
@@ -494,9 +494,9 @@ const Griha_Pravesh = () => {
               for immediate comfort.
             </ListItem>
           </UnorderedList>
-          <h2>Benefits of performing Griha Pravesh in 2024</h2>
+          <h2>Benefits of performing Griha Pravesh in 2025</h2>
           <p>
-            Performing the Griha Pravesh ceremony in 2024 holds numerous
+            Performing the Griha Pravesh ceremony in 2025 holds numerous
             benefits for homeowners. This traditional Hindu ritual brings
             positivity, harmony, and prosperity to a new home. It marks the
             beginning of a new chapter in life, fostering a sense of belonging
@@ -537,7 +537,7 @@ const Griha_Pravesh = () => {
             </ListItem>
           </UnorderedList>
           <p>
-            To Know More About Shubh Muhurat for Marriage in 2024,{" "}
+            To Know More About Shubh Muhurat for Marriage in 2025,{" "}
             <span className="text-red-500 italic">Chat With Astrologer</span>
           </p>
         </div>

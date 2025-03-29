@@ -56,20 +56,20 @@ const Libra = () => {
   }, []);
   return (
     <Layout
-      title="AstroSwarg - Libra Horoscope 2024"
+      title="AstroSwarg - Libra Horoscope 2025"
       description=""
       keywords=""
     >
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
-          <h1 className="heading">Libra Horoscope 2024</h1>
+          <h1 className="heading">Libra Horoscope 2025</h1>
           <p>
             It's that time of the year when the stars align just for you, and
             we're here to spill the celestial tea on what the Libra Horoscope
-            2024 has in store. So, Libras, get ready to navigate the galaxy of
+            2025 has in store. So, Libras, get ready to navigate the galaxy of
             your life because this year promises to be a wild cosmic ride! As we
-            dive into the mystical depths of the Libra Horoscope 2024, picture
+            dive into the mystical depths of the Libra Horoscope 2025, picture
             yourself as the charming diplomat of the zodiac, finding that
             delicate balance between harmony and justice. With your ruler,
             Venus, taking center stage, love and beauty are destined to be your
@@ -84,19 +84,19 @@ const Libra = () => {
             relationships? Stay tuned as we decode it all for you! So, whether
             you're a Libra looking for your daily dose of cosmic insight or just
             a curious soul seeking to unravel the mysteries of the universe, the
-            Libra Horoscope 2024 is your go-to guide. Get comfy, grab your
+            Libra Horoscope 2025 is your go-to guide. Get comfy, grab your
             favorite celestial snack, and let's embark on this astrological
             journey together, unlocking the secrets of your future, one
             constellation at a time.
           </p>
-          <h3>Libra Love Horoscope 2024</h3>
+          <h3>Libra Love Horoscope 2025</h3>
           <p>
             Love is in the cosmic air, dear Libras, and it's time to take a deep
-            dive into your romantic future with the Libra Love Horoscope 2024.
+            dive into your romantic future with the Libra Love Horoscope 2025.
             Get ready for a rollercoaster of emotions, because this year, the
             stars are serving up a celestial buffet of love experiences that'll
             have your heart doing the tango! In the realm of love, Libras,
-            you're looking like a magnet for romance in 2024. Venus, your ruling
+            you're looking like a magnet for romance in 2025. Venus, your ruling
             planet, is going all out to bless you with her enchanting charm.
             Expect a surge of passion and connection in your current
             relationship, or if you're single, get ready to mingle because your
@@ -127,10 +127,10 @@ const Libra = () => {
             balance, even if it means a few tough conversations about
             priorities.
           </p>
-          <h3>Libra Finance Horoscope 2024</h3>
+          <h3>Libra Finance Horoscope 2025</h3>
           <p>
             It's time to peek into your financial crystal ball and get the
-            lowdown on what the Libra Finance Horoscope 2024 has in store for
+            lowdown on what the Libra Finance Horoscope 2025 has in store for
             you. Buckle up, because your money matters are about to take center
             stage in the cosmic theater! In the realm of finances, Libra, this
             year is all about smart moves and strategic choices. With the mighty
@@ -143,7 +143,7 @@ const Libra = () => {
             Moreover, your natural charm and negotiation skills will come in
             handy in money matters. You'll dazzle in negotiations, ensuring that
             deals go your way. If you've been eyeing that dream property or
-            planning a significant purchase, 2024 could be the year to make it
+            planning a significant purchase, 2025 could be the year to make it
             happen. Your financial decisions will be driven by balance and
             fairness, which are your cosmic strengths. This trait will help you
             build a stable and prosperous future. Creating a budget and sticking
@@ -167,12 +167,12 @@ const Libra = () => {
             to be overly generous, but make sure you're not sacrificing your own
             financial stability in the process.
           </p>
-          <h3>Libra Career Horoscope 2024</h3>
+          <h3>Libra Career Horoscope 2025</h3>
           <p>
             It's time to step into the cosmic boardroom and explore what the
-            Libra Career Horoscope 2024 has in store for you. Get ready for a
+            Libra Career Horoscope 2025 has in store for you. Get ready for a
             year filled with professional twists and turns as you navigate the
-            celestial corporate ladder. In the realm of your career, Libra, 2024
+            celestial corporate ladder. In the realm of your career, Libra, 2025
             is like a cosmic promotion waiting to happen. With Jupiter's
             expansive influence, you'll be itching to broaden your horizons and
             seize opportunities that align with your professional dreams.
@@ -213,10 +213,10 @@ const Libra = () => {
             essential to set boundaries and prioritize tasks effectively to
             avoid burnout.
           </p>
-          <h3>Libra Family Horoscope 2024</h3>
+          <h3>Libra Family Horoscope 2025</h3>
           <p>
             Get ready to gather 'round the cosmic hearth because the Libra
-            Family Horoscope 2024 is here to reveal the celestial dynamics
+            Family Horoscope 2025 is here to reveal the celestial dynamics
             that'll shape your family life in the upcoming year. Brace
             yourselves for a blend of heartwarming moments and cosmic
             curveballs! In the realm of family, Libra, the stars are aligning to
@@ -252,13 +252,13 @@ const Libra = () => {
             patience in your exchanges. Avoid jumping to conclusions and be
             willing to listen and compromise when necessary.
           </p>
-          <h3>Libra Health Horoscope 2024</h3>
+          <h3>Libra Health Horoscope 2025</h3>
           <p>
             It's time to tune in to your body's cosmic rhythm and explore what
-            the Libra Health Horoscope 2024 has in store for you. This year,
+            the Libra Health Horoscope 2025 has in store for you. This year,
             your well-being is under the celestial spotlight, promising a
             dynamic blend of highs and lows on the health front. In the realm of
-            health, Libra, 2024 brings opportunities for revitalization and
+            health, Libra, 2025 brings opportunities for revitalization and
             self-care. With Jupiter's benevolent influence, you'll be drawn to
             healthy lifestyle changes and wellness practices that boost your
             vitality. Whether it's adopting a new exercise regimen, embracing
@@ -295,11 +295,11 @@ const Libra = () => {
             ailments. Stay vigilant about preventive measures and consult a
             healthcare professional if symptoms persist.
           </p>
-          <h3>Libra Marriage Horoscope 2024</h3>
+          <h3>Libra Marriage Horoscope 2025</h3>
           <p>
             This year, the universe unfolds a captivating tapestry of love,
             commitment, and cosmic connections, promising a dynamic journey for
-            your heart. In the realm of love and marriage, Libra, 2024 is like a
+            your heart. In the realm of love and marriage, Libra, 2025 is like a
             cosmic wedding invitation sent by the stars themselves. With
             Jupiter's expansive influence, you'll find your heart soaring to new
             heights of commitment and connection. For those already in committed
@@ -334,7 +334,7 @@ const Libra = () => {
             equilibrium between personal growth and shared experiences will be
             key to marital harmony.
           </p>
-          <h3>Astrological Remedies For Libra in 2024</h3>
+          <h3>Astrological Remedies For Libra in 2025</h3>
           <UnorderedList>
             <ListItem>
               Wearing a diamond or white sapphire in a ring or pendant can help

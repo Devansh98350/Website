@@ -50,14 +50,14 @@ const Shubh_Muhrat = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <Layout title="AstroSwarg - Shubh Muhurat 2024" description="" keywords="">
+    <Layout title="AstroSwarg - Shubh Muhurat 2025" description="" keywords="">
       <Breadcrumbs />
       <StyledDiv>
         <div className="body">
-          <h1 className="heading">Shubh Muhurat 2024</h1>
+          <h1 className="heading">Shubh Muhurat 2025</h1>
           <p>
             Get ready to mark your calendars and set your alarms because Shubh
-            Muhurat 2024 is just around the corner, and it promises to be an
+            Muhurat 2025 is just around the corner, and it promises to be an
             event like no other! If you're wondering what exactly Shubh Muhurat
             is, well, you're in for a treat. Shubh Muhurat is all about
             auspicious moments— those perfect windows of time when the cosmic
@@ -65,94 +65,94 @@ const Shubh_Muhrat = () => {
             life events. It's like the universe itself giving you a thumbs-up!
           </p>
           <p>
-            Now, let's talk about 2024, shall we? This year, Shubh Muhurat is
+            Now, let's talk about 2025, shall we? This year, Shubh Muhurat is
             expected to be more dazzling, more profound, and more spectacular
             than ever before. Whether you're planning a wedding, embarking on a
             new business venture, or taking that once-in-a-lifetime trip, Shubh
-            Muhurat 2024 is your golden ticket to ensure success, happiness, and
+            Muhurat 2025 is your golden ticket to ensure success, happiness, and
             prosperity. It's like having a secret weapon for navigating life's
             most important decisions.
           </p>
           <p>
             A year filled with opportunities, love stories that begin under the
             most favourable stars, and businesses that flourish like never
-            before. Shubh Muhurat 2024 is your passport to making dreams come
+            before. Shubh Muhurat 2025 is your passport to making dreams come
             true.
           </p>
           <p>
             So, get ready to embrace the positivity and magic that Shubh Muhurat
-            2024 is set to bring into your life. Stay tuned for a year filled
+            2025 is set to bring into your life. Stay tuned for a year filled
             with celestial wisdom, expert insights, and practical tips to make
             the most of these auspicious moments. This is your chance to turn
-            every moment into a masterpiece, and Shubh Muhurat 2024 is your
+            every moment into a masterpiece, and Shubh Muhurat 2025 is your
             guiding star. Let the countdown begin!
           </p>
           <p>
-            From this article, we will know in detail about Vivah Muhurat 2024,
-            Naamkaran Muhurta 2024, Mundan Muhurat 2024, Shubh Muhurta to buy a
-            car and bike in 2024, and an auspicious time to buy gold in 2024
+            From this article, we will know in detail about Vivah Muhurat 2025,
+            Naamkaran Muhurta 2025, Mundan Muhurat 2025, Shubh Muhurta to buy a
+            car and bike in 2025, and an auspicious time to buy gold in 2025
             etc.
           </p>
-          <h3>Annanprashan Muhurat 2024</h3>
+          <h3>Annanprashan Muhurat 2025</h3>
           <p>
-            <Link to="/shubh-muhurat-2024/annanprashan-muhurat-2024">
+            <Link to="/shubh-muhurat-2025/annanprashan-muhurat-2025">
               Click here
             </Link>{" "}
-            to get details about all Annanprashan Muhurat 2024
+            to get details about all Annanprashan Muhurat 2025
           </p>
-          <h3>Namkaran Muhurat 2024</h3>
+          <h3>Namkaran Muhurat 2025</h3>
           <p>
-            <Link to="/shubh-muhurat-2024/namkaran-muhurat-2024">
+            <Link to="/shubh-muhurat-2025/namkaran-muhurat-2025">
               Click here
             </Link>{" "}
-            to get details about all Namkaran Muhurat 2024
+            to get details about all Namkaran Muhurat 2025
           </p>
-          <h3>Mundan Muhurat 2024</h3>
+          <h3>Mundan Muhurat 2025</h3>
           <p>
-            <Link to="/shubh-muhurat-2024/mundan-muhurat-2024">Click here</Link>{" "}
-            to get details about all Mundan Muhurat 2024
+            <Link to="/shubh-muhurat-2025/mundan-muhurat-2025">Click here</Link>{" "}
+            to get details about all Mundan Muhurat 2025
           </p>
-          <h3>Car/Bike Muhurat 2024</h3>
+          <h3>Car/Bike Muhurat 2025</h3>
           <p>
-            <Link to="/shubh-muhurat-2024/car-bike-muhurat-2024">
+            <Link to="/shubh-muhurat-2025/car-bike-muhurat-2025">
               Click here
             </Link>{" "}
-            to get details about all Car/Bike Muhurat 2024
+            to get details about all Car/Bike Muhurat 2025
           </p>
-          <h3>Marriage Muhurat 2024</h3>
+          <h3>Marriage Muhurat 2025</h3>
           <p>
-            <Link to="/shubh-muhurat-2024/marriage-muhurat-2024">
+            <Link to="/shubh-muhurat-2025/marriage-muhurat-2025">
               Click here
             </Link>{" "}
-            to get details about all Marriage Muhurat 2024
+            to get details about all Marriage Muhurat 2025
           </p>
-          <h3>Gold Buying Muhurat 2024</h3>
+          <h3>Gold Buying Muhurat 2025</h3>
           <p>
-            <Link to="/shubh-muhurat-2024/gold-buying-muhurat-2024">
+            <Link to="/shubh-muhurat-2025/gold-buying-muhurat-2025">
               Click here
             </Link>{" "}
-            to get details about all Gold Buying Muhurat 2024
+            to get details about all Gold Buying Muhurat 2025
           </p>
-          <h3>Bhoomi Pujan Muhurat 2024</h3>
+          <h3>Bhoomi Pujan Muhurat 2025</h3>
           <p>
-            <Link to="/shubh-muhurat-2024/bhoomi-pujan-muhurat-2024">
+            <Link to="/shubh-muhurat-2025/bhoomi-pujan-muhurat-2025">
               Click here
             </Link>{" "}
-            to get details about all Bhoomi Pujan Muhurat 2024
+            to get details about all Bhoomi Pujan Muhurat 2025
           </p>
-          <h3>Griha Pravesh Muhurat 2024</h3>
+          <h3>Griha Pravesh Muhurat 2025</h3>
           <p>
-            <Link to="/shubh-muhurat-2024/griha-pravesh-muhurat-2024">
+            <Link to="/shubh-muhurat-2025/griha-pravesh-muhurat-2025">
               Click here
             </Link>{" "}
-            to get details about all griha Pravesh Muhurat 2024
+            to get details about all griha Pravesh Muhurat 2025
           </p>
-          <h3>Griha Pravesh Muhurat 2024</h3>
+          <h3>Griha Pravesh Muhurat 2025</h3>
           <p>
-            <Link to="/shubh-muhurat-2024/griha-pravesh-muhurat-2024">
+            <Link to="/shubh-muhurat-2025/griha-pravesh-muhurat-2025">
               Click here
             </Link>{" "}
-            to get details about all griha Pravesh Muhurat 2024
+            to get details about all griha Pravesh Muhurat 2025
           </p>
           <h2>What is Shubh Muhurat in Hindu Panchang?</h2>
           <p>
@@ -339,9 +339,9 @@ const Shubh_Muhrat = () => {
             For a detailed Kundli analysis,{" "}
             <span className="text-red-500 italic">Talk to Astrologer</span>
           </p>
-          <h2>Shubh Muhurat 2024: Insights You Can't Miss</h2>
+          <h2>Shubh Muhurat 2025: Insights You Can't Miss</h2>
           <p>
-            Certainly, here is information about Shubh Muhurat 2024 with details
+            Certainly, here is information about Shubh Muhurat 2025 with details
             including Panchang Tithi, Name of pakshas, Day or var, Nakshatra, 27
             Nakshatras, Nakshatra's Ruling Lord, Yoga, Yoga's name as per
             astrology, Shubh yoga in astrology, Ashubha yoga in astrology,
@@ -406,14 +406,14 @@ const Shubh_Muhrat = () => {
           </UnorderedList>
           <p>
             To know how your future ahead will be, Read{" "}
-            <span className="text-red-500 italic">Horoscope 2024</span>
+            <span className="text-red-500 italic">Horoscope 2025</span>
           </p>
-          <h2>What all you can do on Shubh Muhurat 2024?</h2>
+          <h2>What all you can do on Shubh Muhurat 2025?</h2>
           <p>
-            Shubh Muhurat 2024 is a time when the cosmic energies align
+            Shubh Muhurat 2025 is a time when the cosmic energies align
             favourably, making it an ideal period for various important
             activities. Here are essential things to do during Shubh Muhurat
-            2024:
+            2025:
           </p>
           <UnorderedList>
             <ListItem>
