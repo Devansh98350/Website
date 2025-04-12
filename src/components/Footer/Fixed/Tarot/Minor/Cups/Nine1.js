@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import Layout from "../../../../../Layout/Layout.js";
-import Breadcrumbs from "../../../../Breadcrumb.js";
+import Breadcrumbs from "../../../../../Breadcrumb.js";
 import styled from "styled-components";
 
 const Container = styled.div`
