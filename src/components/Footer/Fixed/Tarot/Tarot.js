@@ -1,8 +1,102 @@
 import React, { useEffect } from "react";
+import { Link } from "react-router-dom";
 import Layout from "../../../Layout/Layout.js";
 import styled from "styled-components";
 import TarotFYQ from "./TarotFyq.js";
 import Breadcrumbs from "../../../Breadcrumb.js";
+
+const majorArcana = [
+  { name: "The Fool", path: "/tarot/the-fool" },
+  { name: "The Magician", path: "/tarot/the-magician" },
+  { name: "The High Priestess", path: "/tarot/the-high-priestess" },
+  { name: "The Empress", path: "/tarot/the-empress" },
+  { name: "The Emperor", path: "/tarot/the-emperor" },
+  { name: "The Hierophant", path: "/tarot/the-hierophant" },
+  { name: "The Lovers", path: "/tarot/the-lovers" },
+  { name: "The Chariot", path: "/tarot/the-chariot" },
+  { name: "Strength", path: "/tarot/strength" },
+  { name: "The Hermit", path: "/tarot/the-hermit" },
+  { name: "Wheel of Fortune", path: "/tarot/wheel-of-fortune" },
+  { name: "Justice", path: "/tarot/justice" },
+  { name: "The Hanged Man", path: "/tarot/the-hanged-man" },
+  { name: "Death", path: "/tarot/death" },
+  { name: "Temperance", path: "/tarot/temperance" },
+  { name: "The Devil", path: "/tarot/the-devil" },
+  { name: "The Tower", path: "/tarot/the-tower" },
+  { name: "The Star", path: "/tarot/the-star" },
+  { name: "The Moon", path: "/tarot/the-moon" },
+  { name: "The Sun", path: "/tarot/the-sun" },
+  { name: "Judgement", path: "/tarot/judgement" },
+  { name: "The World", path: "/tarot/the-world" },
+];
+
+const suitOfWands = [
+  { name: "Ace of Wands", path: "/tarot/ace-of-wands" },
+  { name: "Two of Wands", path: "/tarot/two-of-wands" },
+  { name: "Three of Wands", path: "/tarot/three-of-wands" },
+  { name: "Four of Wands", path: "/tarot/four-of-wands" },
+  { name: "Five of Wands", path: "/tarot/five-of-wands" },
+  { name: "Six of Wands", path: "/tarot/six-of-wands" },
+  { name: "Seven of Wands", path: "/tarot/seven-of-wands" },
+  { name: "Eight of Wands", path: "/tarot/eight-of-wands" },
+  { name: "Nine of Wands", path: "/tarot/nine-of-wands" },
+  { name: "Ten of Wands", path: "/tarot/ten-of-wands" },
+  { name: "Page of Wands", path: "/tarot/page-of-wands" },
+  { name: "Knight of Wands", path: "/tarot/knight-of-wands" },
+  { name: "Queen of Wands", path: "/tarot/queen-of-wands" },
+  { name: "King of Wands", path: "/tarot/king-of-wands" },
+];
+
+const suitOfCups = [
+  { name: "Ace of Cups", path: "/tarot/ace-of-cups" },
+  { name: "Two of Cups", path: "/tarot/two-of-cups" },
+  { name: "Three of Cups", path: "/tarot/three-of-cups" },
+  { name: "Four of Cups", path: "/tarot/four-of-cups" },
+  { name: "Five of Cups", path: "/tarot/five-of-cups" },
+  { name: "Six of Cups", path: "/tarot/six-of-cups" },
+  { name: "Seven of Cups", path: "/tarot/seven-of-cups" },
+  { name: "Eight of Cups", path: "/tarot/eight-of-cups" },
+  { name: "Nine of Cups", path: "/tarot/nine-of-cups" },
+  { name: "Ten of Cups", path: "/tarot/ten-of-cups" },
+  { name: "Page of Cups", path: "/tarot/page-of-cups" },
+  { name: "Knight of Cups", path: "/tarot/knight-of-cups" },
+  { name: "Queen of Cups", path: "/tarot/queen-of-cups" },
+  { name: "King of Cups", path: "/tarot/king-of-cups" },
+];
+
+const suitOfSwords = [
+  { name: "Ace of Swords", path: "/tarot/ace-of-swords" },
+  { name: "Two of Swords", path: "/tarot/two-of-swords" },
+  { name: "Three of Swords", path: "/tarot/three-of-swords" },
+  { name: "Four of Swords", path: "/tarot/four-of-swords" },
+  { name: "Five of Swords", path: "/tarot/five-of-swords" },
+  { name: "Six of Swords", path: "/tarot/six-of-swords" },
+  { name: "Seven of Swords", path: "/tarot/seven-of-swords" },
+  { name: "Eight of Swords", path: "/tarot/eight-of-swords" },
+  { name: "Nine of Swords", path: "/tarot/nine-of-swords" },
+  { name: "Ten of Swords", path: "/tarot/ten-of-swords" },
+  { name: "Page of Swords", path: "/tarot/page-of-swords" },
+  { name: "Knight of Swords", path: "/tarot/knight-of-swords" },
+  { name: "Queen of Swords", path: "/tarot/queen-of-swords" },
+  { name: "King of Swords", path: "/tarot/king-of-swords" },
+];
+
+const suitOfPentacles = [
+  { name: "Ace of Pentacles", path: "/tarot/ace-of-pentacles" },
+  { name: "Two of Pentacles", path: "/tarot/two-of-pentacles" },
+  { name: "Three of Pentacles", path: "/tarot/three-of-pentacles" },
+  { name: "Four of Pentacles", path: "/tarot/four-of-pentacles" },
+  { name: "Five of Pentacles", path: "/tarot/five-of-pentacles" },
+  { name: "Six of Pentacles", path: "/tarot/six-of-pentacles" },
+  { name: "Seven of Pentacles", path: "/tarot/seven-of-pentacles" },
+  { name: "Eight of Pentacles", path: "/tarot/eight-of-pentacles" },
+  { name: "Nine of Pentacles", path: "/tarot/nine-of-pentacles" },
+  { name: "Ten of Pentacles", path: "/tarot/ten-of-pentacles" },
+  { name: "Page of Pentacles", path: "/tarot/page-of-pentacles" },
+  { name: "Knight of Pentacles", path: "/tarot/knight-of-pentacles" },
+  { name: "Queen of Pentacles", path: "/tarot/queen-of-pentacles" },
+  { name: "King of Pentacles", path: "/tarot/king-of-pentacles" },
+];
 
 const StyledDiv = styled.div`
   .body {
@@ -30,6 +124,52 @@ const StyledDiv = styled.div`
   th {
     background-color: #f2f2f2;
     font-weight: bold;
+  }
+
+  /*To be modified*/
+
+  .tarot-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 30px;
+  }
+
+  .tarot-card {
+    flex: 0 0 calc(20% - 12px);
+    background-color: #f0e6ff; /* Light purple background */
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    color: #333;
+  }
+
+  .tarot-card:hover {
+    background-color: #e0d0ff; /* Darker purple on hover */
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Responsive styles */
+  @media (max-width: 992px) {
+    .tarot-card {
+      flex: 0 0 calc(25% - 12px);
+    }
+  }
+
+  @media (max-width: 768px) {
+    .tarot-card {
+      flex: 0 0 calc(33.33% - 12px);
+    }
+  }
+
+  @media (max-width: 576px) {
+    .tarot-card {
+      flex: 0 0 calc(50% - 12px);
+    }
   }
 `;
 
@@ -193,6 +333,13 @@ const Tarot = () => {
             the humans towards individuation and enlightenment and the World.
           </p>
           <p>The Major Arcana Cards and their meaning:</p>
+          <div className="tarot-grid">
+            {majorArcana.map((card, index) => (
+              <Link key={index} to={card.path} className="tarot-card">
+                {card.name}
+              </Link>
+            ))}
+          </div>
           <h3>The Minor Arcana tarot cards</h3>
           <p>
             A majority of the Arcana tarot cards fall in the category of the
@@ -229,6 +376,13 @@ const Tarot = () => {
             who can burn everything with ferocity.
           </p>
           <h4>The Suit of Wands and their meaning:</h4>
+          <div className="tarot-grid">
+            {suitOfWands.map((card, index) => (
+              <Link key={index} to={card.path} className="tarot-card">
+                {card.name}
+              </Link>
+            ))}
+          </div>
           <h4>2. The Suit of Cups</h4>
           <p>
             In tarot cards reading, this suit of Minor Arcana represents the
@@ -249,6 +403,13 @@ const Tarot = () => {
             talents.
           </p>
           <h4>The Suit of Cups and their meaning:</h4>
+          <div className="tarot-grid">
+            {suitOfCups.map((card, index) => (
+              <Link key={index} to={card.path} className="tarot-card">
+                {card.name}
+              </Link>
+            ))}
+          </div>
           <h4>3. The Suit of Swords</h4>
           <p>
             This deck of tarot cards in tarot astrology illustrates the Air
@@ -272,6 +433,13 @@ const Tarot = () => {
             over.
           </p>
           <h4>The Suit of Swords and their meaning:</h4>
+          <div className="tarot-grid">
+            {suitOfSwords.map((card, index) => (
+              <Link key={index} to={card.path} className="tarot-card">
+                {card.name}
+              </Link>
+            ))}
+          </div>
           <h4>4. The Suit of Pentacles</h4>
           <p>
             For the Suit of Pentacles, it is said that it governs the
@@ -295,7 +463,13 @@ const Tarot = () => {
             inactiveness with no sense of management or practicality.
           </p>
           <h4>The Suit of Pentacles and their meaning:</h4>
-
+          <div className="tarot-grid">
+            {suitOfPentacles.map((card, index) => (
+              <Link key={index} to={card.path} className="tarot-card">
+                {card.name}
+              </Link>
+            ))}
+          </div>
           <TarotFYQ />
         </div>
       </StyledDiv>
