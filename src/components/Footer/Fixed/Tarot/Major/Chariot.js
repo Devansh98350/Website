@@ -51,7 +51,6 @@ const Container = styled.div`
     font-weight: bold;
   }
 `;
-
 const Chariot = () => {
   useEffect(() => {
     window.scrollTo(0, 0);
