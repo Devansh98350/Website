@@ -121,128 +121,156 @@ const Nakshatras = () => {
               <tbody>
                 <tr>
                   <td>
-                    {/*<StyledLink to="/nakshatras-constellations/ashwini">*/}
-                    <Link to="">Ashwini Nakshatra</Link>
+                    <Link to="/nakshatras-constellations/ashwini">
+                      Ashwini Nakshatra
+                    </Link>
                   </td>
                   <td>
-                    {/* <Link to="/nakshatras-constellations/bharani/">*/}
-                    <Link to="">Bharani Nakshatra</Link>
+                    <Link to="/nakshatras-constellations/bharani">
+                      Bharani Nakshatra
+                    </Link>
                   </td>
                   <td>
-                    {/*<Link to="/nakshatras-constellations/krittika">*/}
-                    <Link to="">Krittika Nakshatra</Link>
+                    <Link to="/nakshatras-constellations/krittika">
+                      Krittika Nakshatra
+                    </Link>
                   </td>
                   <td>
-                    {/* <Link to="/nakshatras-constellations/rohini">*/}
-                    <Link to="">Rohini Nakshatra</Link>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    {/*  <Link to="/nakshatras-constellations/mrigashira">*/}
-                    <Link to="">Mrigashira Nakshatra</Link>
-                  </td>
-                  <td>
-                    {/*  <Link to="/nakshatras-constellations/ardra">*/}
-                    <Link to="">Ardra Nakshatra</Link>
-                  </td>
-                  <td>
-                    {/*  <Link to="/nakshatras-constellations/Punarvasu">*/}
-                    <Link to="">Punarvasu Nakshatra</Link>
-                  </td>
-                  <td>
-                    {/*   <Link to="/nakshatras-constellations/pushya">*/}
-                    <Link to="">Pushya Nakshatra</Link>
+                    <Link to="/nakshatras-constellations/rohini">
+                      Rohini Nakshatra
+                    </Link>
                   </td>
                 </tr>
                 <tr>
                   <td>
-                    {/*  <Link to="/nakshatras-constellations/ashlesha">*/}
-                    <Link to="">Ashlesha Nakshatra</Link>
+                    <Link to="/nakshatras-constellations/mrigashira">
+                      Mrigashira Nakshatra
+                    </Link>
                   </td>
                   <td>
-                    {/*    <Link to="/nakshatras-constellations/magha">*/}
-                    <Link to="">Magha Nakshatra</Link>
+                    <Link to="/nakshatras-constellations/ardra">
+                      Ardra Nakshatra
+                    </Link>
                   </td>
                   <td>
-                    {/* <Link to="/nakshatras-constellations/purvaphalguni">*/}
-                    <Link to="">PurvaPhalguni Nakshatra</Link>
+                    <Link to="/nakshatras-constellations/Punarvasu">
+                      Punarvasu Nakshatra
+                    </Link>
                   </td>
                   <td>
-                    {/* <Link to="nakshatras-constellations/uttaraphalguni">*/}
-                    <Link to="">UttaraPhalguni Nakshatra</Link>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    {/*   <Link to="/nakshatras-constellations/hasta">*/}
-                    <Link to="">Hasta Nakshatra</Link>
-                  </td>
-                  <td>
-                    {/*  <Link to="/nakshatras-constellations/chitra">*/}
-                    <Link to="">Chitra Nakshatra</Link>
-                  </td>
-                  <td>
-                    {/*  <Link to="/nakshatras-constellations/swati">*/}
-                    <Link to="">Swati Nakshatra</Link>
-                  </td>
-                  <td>
-                    {/* <Link to="/nakshatras-constellations/vishakha">*/}
-                    <Link to="">Vishakha Nakshatra</Link>
+                    <Link to="/nakshatras-constellations/pushya">
+                      Pushya Nakshatra
+                    </Link>
                   </td>
                 </tr>
                 <tr>
                   <td>
-                    {/*   <Link to="/nakshatras-constellations/anuradha">*/}
-                    <Link to="">Anuradha Nakshatra</Link>
+                    <Link to="/nakshatras-constellations/ashlesha">
+                      Ashlesha Nakshatra
+                    </Link>
                   </td>
                   <td>
-                    {/*  <Link to="/nakshatras-constellations/jyestha">*/}
-                    <Link to="">Jyestha Nakshatra</Link>
+                    <Link to="/nakshatras-constellations/magha">
+                      Magha Nakshatra
+                    </Link>
                   </td>
                   <td>
-                    {/* <Link to="/nakshatras-constellations/moola">*/}
-                    <Link to="">Moola/Mula Nakshatra</Link>
+                    <Link to="/nakshatras-constellations/purvaphalguni">
+                      PurvaPhalguni Nakshatra
+                    </Link>
                   </td>
                   <td>
-                    {/*  <Link to="/nakshatras-constellations/poorvashada">*/}
-                    <Link to="">Poorvashada Nakshatra</Link>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    {/*   <Link to="/nakshatras-constellations/uttarashada">*/}
-                    <Link to="">Uttarashada Nakshatra</Link>
-                  </td>
-                  <td>
-                    {/* <Link to="/nakshatras-constellations/abhijit">*/}
-                    <Link to="">Abhijit Nakshatra</Link>
-                  </td>
-                  <td>
-                    {/*    <Link to="/nakshatras-constellations/dhanishta">*/}
-                    <Link to="">Dhanishta Nakshatra</Link>
-                  </td>
-                  <td>
-                    {/* <Link to="/nakshatras-constellations/shatabhisha">*/}
-                    <Link to="">Shatabhisha Nakshatra</Link>
+                    <Link to="nakshatras-constellations/uttaraphalguni">
+                      UttaraPhalguni Nakshatra
+                    </Link>
                   </td>
                 </tr>
                 <tr>
                   <td>
-                    {/*  <Link to="/nakshatras-constellations/purvabhadrapada">*/}
-                    <Link to="">Purva Bhadrapada Nakshatra</Link>
+                    <Link to="/nakshatras-constellations/hasta">
+                      Hasta Nakshatra
+                    </Link>
                   </td>
                   <td>
-                    {/* <Link to="/nakshatras-constellations/uttarabhadrapada">*/}
-                    <Link to="">Uttara Bhadrapada Nakshatra</Link>
+                    <Link to="/nakshatras-constellations/chitra">
+                      Chitra Nakshatra
+                    </Link>
                   </td>
                   <td>
-                    {/* <Link to="/nakshatras-constellations/revati">*/}
-                    <Link to="">Revati Nakshatra</Link>
+                    <Link to="/nakshatras-constellations/swati">
+                      Swati Nakshatra
+                    </Link>
                   </td>
                   <td>
-                    {/*<Link to="/nakshatras-constellations/shravana">*/}
-                    <Link to="">Shravana Nakshatra</Link>
+                    <Link to="/nakshatras-constellations/vishakha">
+                      Vishakha Nakshatra
+                    </Link>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <Link to="/nakshatras-constellations/anuradha">
+                      Anuradha Nakshatra
+                    </Link>
+                  </td>
+                  <td>
+                    <Link to="/nakshatras-constellations/jyestha">
+                      Jyestha Nakshatra
+                    </Link>
+                  </td>
+                  <td>
+                    <Link to="/nakshatras-constellations/moola">
+                      Moola/Mula Nakshatra
+                    </Link>
+                  </td>
+                  <td>
+                    <Link to="/nakshatras-constellations/poorvashada">
+                      Poorvashada Nakshatra
+                    </Link>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <Link to="/nakshatras-constellations/uttarashada">
+                      Uttarashada Nakshatra
+                    </Link>
+                  </td>
+                  <td>
+                    <Link to="/nakshatras-constellations/abhijit">
+                      Abhijit Nakshatra
+                    </Link>
+                  </td>
+                  <td>
+                    <Link to="/nakshatras-constellations/dhanishta">
+                      Dhanishta Nakshatra
+                    </Link>
+                  </td>
+                  <td>
+                    <Link to="/nakshatras-constellations/shatabhisha">
+                      Shatabhisha Nakshatra
+                    </Link>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <Link to="/nakshatras-constellations/purvabhadrapada">
+                      Purva Bhadrapada Nakshatra
+                    </Link>
+                  </td>
+                  <td>
+                    <Link to="/nakshatras-constellations/uttarabhadrapada">
+                      Uttara Bhadrapada Nakshatra
+                    </Link>
+                  </td>
+                  <td>
+                    <Link to="/nakshatras-constellations/revati">
+                      Revati Nakshatra
+                    </Link>
+                  </td>
+                  <td>
+                    <Link to="/nakshatras-constellations/shravana">
+                      Shravana Nakshatra
+                    </Link>
                   </td>
                 </tr>
               </tbody>
