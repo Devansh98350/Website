@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+import { Link } from "react-router-dom";
 import Layout from "../../../Layout/Layout.js";
 import styled from "styled-components";
 import VastuFYQ from "./VastuFyq.js";
@@ -38,6 +39,51 @@ const StyledDiv = styled.div`
   .inline-text:hover {
     font-weight: bold;
   }
+  /*To be modified*/
+
+  .tarot-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 30px;
+  }
+
+  .tarot-card {
+    flex: 0 0 calc(20% - 12px);
+    background-color: #f0e6ff; /* Light purple background */
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    color: #333;
+  }
+
+  .tarot-card:hover {
+    background-color: #e0d0ff; /* Darker purple on hover */
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Responsive styles */
+  @media (max-width: 992px) {
+    .tarot-card {
+      flex: 0 0 calc(25% - 12px);
+    }
+  }
+
+  @media (max-width: 768px) {
+    .tarot-card {
+      flex: 0 0 calc(33.33% - 12px);
+    }
+  }
+
+  @media (max-width: 576px) {
+    .tarot-card {
+      flex: 0 0 calc(50% - 12px);
+    }
+  }
 `;
 const UnorderedList = styled.ul`
   //   list-style-type: none;
@@ -45,6 +91,55 @@ const UnorderedList = styled.ul`
 const ListItem = styled.li`
   margin-bottom: 10px;
 `;
+
+const vastuTipsAndRemedies = [
+  { name: "Vastu For Home", path: "/vastu-shastra/vastu-for-home" },
+  {
+    name: "Vastu For Commercial Properties",
+    path: "/vastu-shastra/vastu-for-commercial-properties",
+  },
+  {
+    name: "Vastu For Career Success",
+    path: "/vastu-shastra/vastu-for-career-success",
+  },
+  { name: "Vastu For Health", path: "/vastu-shastra/vastu-for-health" },
+  { name: "Vastu For Wealth", path: "/vastu-shastra/vastu-for-wealth" },
+  {
+    name: "Vastu For Love & Married Life",
+    // path: "/vastu-shastra/vastu-for-love",
+    path: "",
+  },
+  {
+    name: "Vastu For Plants",
+    path: "",
+    // path: "/vastu-shastra/vastu-for-plants"
+  },
+  {
+    name: "Vastu For Positive Energy",
+    path: "/vastu-shastra/vastu-for-positive-energy",
+  },
+  {
+    name: "Vastu for Love and Relationships",
+    path: "/vastu-shastra/vastu-for-love-and-relationships",
+  },
+];
+
+const exploreMore = [
+  {
+    name: "Vastu tips for daily life",
+    // path: "/vastu-shastra/vastu-tips-for-daily-life",
+    path: "",
+  },
+  {
+    name: "Vastu tips for placing mirrors",
+    path: "/vastu-shastra/vastu-tips-for-placing-mirrors",
+  },
+  {
+    name: "Sleeping direction Vastu Shastra",
+    path: "/vastu-shastra/sleeping-direction-vastu-shastra",
+  },
+  { name: "Vastu Products", path: "/vastu-shastra/vastu-products" },
+];
 
 const Vastu = () => {
   useEffect(() => {
@@ -346,6 +441,22 @@ const Vastu = () => {
             peace, and abundance. Thus, their prime goal is to have a place that
             helps them grow in life.
           </p>
+          <h3>Vastu Tips and Remedies</h3>
+          <div className="tarot-grid">
+            {vastuTipsAndRemedies.map((card, index) => (
+              <Link key={index} to={card.path} className="tarot-card">
+                {card.name}
+              </Link>
+            ))}
+          </div>
+          <h3>Explore More:</h3>
+          <div className="tarot-grid">
+            {exploreMore.map((card, index) => (
+              <Link key={index} to={card.path} className="tarot-card">
+                {card.name}
+              </Link>
+            ))}
+          </div>
           <VastuFYQ />
         </div>
       </StyledDiv>
