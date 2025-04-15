@@ -273,6 +273,71 @@ const Numerology = () => {
             about the person. Read the numerology numbers. Read about the
             numerology numbers below:
           </p>
+          <UnorderedList>
+            <ListItem>
+              <div className="inline-text">
+                <Link to="/numerology-introduction/numerology-number-1">
+                  Number 1 in Numerology
+                </Link>
+              </div>
+            </ListItem>
+            <ListItem>
+              <div className="inline-text">
+                <Link to="/numerology-introduction/numerology-number-2">
+                  Number 2 in Numerology
+                </Link>
+              </div>
+            </ListItem>
+            <ListItem>
+              <div className="inline-text">
+                <Link to="/numerology-introduction/numerology-number-3">
+                  Number 3 in Numerology
+                </Link>
+              </div>
+            </ListItem>
+            <ListItem>
+              <div className="inline-text">
+                <Link to="/numerology-introduction/numerology-number-4">
+                  Number 4 in Numerology
+                </Link>
+              </div>
+            </ListItem>
+            <ListItem>
+              <div className="inline-text">
+                <Link to="/numerology-introduction/numerology-number-5">
+                  Number 5 in Numerology
+                </Link>
+              </div>
+            </ListItem>
+            <ListItem>
+              <div className="inline-text">
+                <Link to="/numerology-introduction/numerology-number-6">
+                  Number 6 in Numerology
+                </Link>
+              </div>
+            </ListItem>
+            <ListItem>
+              <div className="inline-text">
+                <Link to="/numerology-introduction/numerology-number-7">
+                  Number 7 in Numerology
+                </Link>
+              </div>
+            </ListItem>
+            <ListItem>
+              <div className="inline-text">
+                <Link to="/numerology-introduction/numerology-number-8">
+                  Number 8 in Numerology
+                </Link>
+              </div>
+            </ListItem>
+            <ListItem>
+              <div className="inline-text">
+                <Link to="/numerology-introduction/numerology-number-9">
+                  Number 9 in Numerology
+                </Link>
+              </div>
+            </ListItem>
+          </UnorderedList>
           <h3>Other Types of Numerology Numbers</h3>
           <p>
             Other than the numbers in numerology, there are some other types of
