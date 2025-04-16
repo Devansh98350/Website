@@ -233,6 +233,67 @@ import Queen3 from "./components/Footer/Fixed/Tarot/Minor/Pentacles/Queen3.js";
 import King3 from "./components/Footer/Fixed/Tarot/Minor/Pentacles/King3.js";
 /*Zodiac Signs*/
 import Zodiac from "./components/Footer/Variable/Zodiac_Signs/Zodiac.js";
+import ACharacheristics from "./components/Footer/Variable/Zodiac_Signs/Components/Aries/Characteristics.js";
+import APersonality from "./components/Footer/Variable/Zodiac_Signs/Components/Aries/CPersonality.js";
+import AMan from "./components/Footer/Variable/Zodiac_Signs/Components/Aries/Man.js";
+import AWoman from "./components/Footer/Variable/Zodiac_Signs/Components/Aries/Woman.js";
+import ALove from "./components/Footer/Variable/Zodiac_Signs/Components/Aries/Love.js";
+import AqCharacheristics from "./components/Footer/Variable/Zodiac_Signs/Components/Aquarius/Characteristics.js";
+import AqPersonality from "./components/Footer/Variable/Zodiac_Signs/Components/Aquarius/CPersonality.js";
+import AqMan from "./components/Footer/Variable/Zodiac_Signs/Components/Aquarius/Man.js";
+import AqWoman from "./components/Footer/Variable/Zodiac_Signs/Components/Aquarius/Woman.js";
+import AqLove from "./components/Footer/Variable/Zodiac_Signs/Components/Aquarius/Love.js";
+import CCharacheristics from "./components/Footer/Variable/Zodiac_Signs/Components/Cancer/Characteristics.js";
+import CPersonality from "./components/Footer/Variable/Zodiac_Signs/Components/Cancer/CPersonality.js";
+import CMan from "./components/Footer/Variable/Zodiac_Signs/Components/Cancer/Man.js";
+import CWoman from "./components/Footer/Variable/Zodiac_Signs/Components/Cancer/Woman.js";
+import CLove from "./components/Footer/Variable/Zodiac_Signs/Components/Cancer/Love.js";
+import CpCharacheristics from "./components/Footer/Variable/Zodiac_Signs/Components/Capricorn/Characteristics.js";
+import CpPersonality from "./components/Footer/Variable/Zodiac_Signs/Components/Capricorn/CPersonality.js";
+import CpMan from "./components/Footer/Variable/Zodiac_Signs/Components/Capricorn/Man.js";
+import CpWoman from "./components/Footer/Variable/Zodiac_Signs/Components/Capricorn/Woman.js";
+import CpLove from "./components/Footer/Variable/Zodiac_Signs/Components/Capricorn/Love.js";
+import GCharacheristics from "./components/Footer/Variable/Zodiac_Signs/Components/Gemini/Characteristics.js";
+import GPersonality from "./components/Footer/Variable/Zodiac_Signs/Components/Gemini/CPersonality.js";
+import GMan from "./components/Footer/Variable/Zodiac_Signs/Components/Gemini/Man.js";
+import GWoman from "./components/Footer/Variable/Zodiac_Signs/Components/Gemini/Woman.js";
+import GLove from "./components/Footer/Variable/Zodiac_Signs/Components/Gemini/Love.js";
+import LCharacheristics from "./components/Footer/Variable/Zodiac_Signs/Components/Leo/Characteristics.js";
+import LPersonality from "./components/Footer/Variable/Zodiac_Signs/Components/Leo/CPersonality.js";
+import LMan from "./components/Footer/Variable/Zodiac_Signs/Components/Leo/Man.js";
+import LWoman from "./components/Footer/Variable/Zodiac_Signs/Components/Leo/Woman.js";
+import LLove from "./components/Footer/Variable/Zodiac_Signs/Components/Leo/Love.js";
+import LiCharacheristics from "./components/Footer/Variable/Zodiac_Signs/Components/Libra/Characteristics.js";
+import LiPersonality from "./components/Footer/Variable/Zodiac_Signs/Components/Libra/CPersonality.js";
+import LiMan from "./components/Footer/Variable/Zodiac_Signs/Components/Libra/Man.js";
+import LiWoman from "./components/Footer/Variable/Zodiac_Signs/Components/Libra/Woman.js";
+import LiLove from "./components/Footer/Variable/Zodiac_Signs/Components/Libra/Love.js";
+import PCharacheristics from "./components/Footer/Variable/Zodiac_Signs/Components/Pisces/Characteristics.js";
+import PPersonality from "./components/Footer/Variable/Zodiac_Signs/Components/Pisces/CPersonality.js";
+import PMan from "./components/Footer/Variable/Zodiac_Signs/Components/Pisces/Man.js";
+import PWoman from "./components/Footer/Variable/Zodiac_Signs/Components/Pisces/Woman.js";
+import PLove from "./components/Footer/Variable/Zodiac_Signs/Components/Pisces/Love.js";
+import SCharacheristics from "./components/Footer/Variable/Zodiac_Signs/Components/Sagattarius/Characteristics.js";
+import SPersonality from "./components/Footer/Variable/Zodiac_Signs/Components/Sagattarius/CPersonality.js";
+import SMan from "./components/Footer/Variable/Zodiac_Signs/Components/Sagattarius/Man.js";
+import SWoman from "./components/Footer/Variable/Zodiac_Signs/Components/Sagattarius/Woman.js";
+import SLove from "./components/Footer/Variable/Zodiac_Signs/Components/Sagattarius/Love.js";
+import ScCharacheristics from "./components/Footer/Variable/Zodiac_Signs/Components/Scorpio/Characteristics.js";
+import ScPersonality from "./components/Footer/Variable/Zodiac_Signs/Components/Scorpio/CPersonality.js";
+import ScMan from "./components/Footer/Variable/Zodiac_Signs/Components/Scorpio/Man.js";
+import ScWoman from "./components/Footer/Variable/Zodiac_Signs/Components/Scorpio/Woman.js";
+import ScLove from "./components/Footer/Variable/Zodiac_Signs/Components/Scorpio/Love.js";
+import TCharacheristics from "./components/Footer/Variable/Zodiac_Signs/Components/Taurus/Characteristics.js";
+import TPersonality from "./components/Footer/Variable/Zodiac_Signs/Components/Taurus/CPersonality.js";
+import TMan from "./components/Footer/Variable/Zodiac_Signs/Components/Taurus/Man.js";
+import TWoman from "./components/Footer/Variable/Zodiac_Signs/Components/Taurus/Woman.js";
+import TLove from "./components/Footer/Variable/Zodiac_Signs/Components/Taurus/Love.js";
+import VCharacheristics from "./components/Footer/Variable/Zodiac_Signs/Components/Virgo/Characteristics.js";
+import VPersonality from "./components/Footer/Variable/Zodiac_Signs/Components/Virgo/CPersonality.js";
+import VMan from "./components/Footer/Variable/Zodiac_Signs/Components/Virgo/Man.js";
+import VWoman from "./components/Footer/Variable/Zodiac_Signs/Components/Virgo/Woman.js";
+import VLove from "./components/Footer/Variable/Zodiac_Signs/Components/Virgo/Love.js";
+
 /*Vastu Shastra*/
 import Vastu from "./components/Footer/Fixed/Vastu_Shastra/Vastu.js";
 import Home1 from "./components/Footer/Fixed/Vastu_Shastra/Home1.js";
@@ -623,6 +684,216 @@ function App() {
         <Route path="/moon-transit-2025" element={<Moon />} />
         {/*Zodiac Signs*/}
         <Route path="/zodiac-signs" element={<Zodiac />} />
+        <Route
+          path="/zodiac-signs/aries-characteristics"
+          element={<ACharacheristics />}
+        />
+        <Route
+          path="/zodiac-signs/aries-personality-traits"
+          element={<APersonality />}
+        />
+        <Route
+          path="/zodiac-signs/aries-man-characteristics"
+          element={<AMan />}
+        />
+        <Route
+          path="/zodiac-signs/aries-woman-characteristics"
+          element={<AWoman />}
+        />
+        <Route path="/zodiac-signs/aries-love-traits" element={<ALove />} />
+        <Route
+          path="/zodiac-signs/aquarius-characteristics"
+          element={<AqCharacheristics />}
+        />
+        <Route
+          path="/zodiac-signs/aquarius-personality-traits"
+          element={<AqPersonality />}
+        />
+        <Route
+          path="/zodiac-signs/aquarius-man-characteristics"
+          element={<AqMan />}
+        />
+        <Route
+          path="/zodiac-signs/aquarius-woman-characteristics"
+          element={<AqWoman />}
+        />
+        <Route path="/zodiac-signs/aquarius-love-traits" element={<AqLove />} />
+        <Route
+          path="/zodiac-signs/cancer-characteristics"
+          element={<CCharacheristics />}
+        />
+        <Route
+          path="/zodiac-signs/cancer-personality-traits"
+          element={<CPersonality />}
+        />
+        <Route
+          path="/zodiac-signs/cancer-man-characteristics"
+          element={<CMan />}
+        />
+        <Route
+          path="/zodiac-signs/cancer-woman-characteristics"
+          element={<CWoman />}
+        />
+        <Route path="/zodiac-signs/cancer-love-traits" element={<CLove />} />
+        <Route
+          path="/zodiac-signs/capricorn-characteristics"
+          element={<CpCharacheristics />}
+        />
+        <Route
+          path="/zodiac-signs/capricorn-personality-traits"
+          element={<CpPersonality />}
+        />
+        <Route
+          path="/zodiac-signs/capricorn-man-characteristics"
+          element={<CpMan />}
+        />
+        <Route
+          path="/zodiac-signs/capricorn-woman-characteristics"
+          element={<CpWoman />}
+        />
+        <Route
+          path="/zodiac-signs/capricorn-love-traits"
+          element={<CpLove />}
+        />
+        <Route
+          path="/zodiac-signs/gemini-characteristics"
+          element={<GCharacheristics />}
+        />
+        <Route
+          path="/zodiac-signs/gemini-personality-traits"
+          element={<GPersonality />}
+        />
+        <Route
+          path="/zodiac-signs/gemini-man-characteristics"
+          element={<GMan />}
+        />
+        <Route
+          path="/zodiac-signs/gemini-woman-characteristics"
+          element={<GWoman />}
+        />
+        <Route path="/zodiac-signs/gemini-love-traits" element={<GLove />} />
+        <Route
+          path="/zodiac-signs/leo-characteristics"
+          element={<LCharacheristics />}
+        />
+        <Route
+          path="/zodiac-signs/leo-personality-traits"
+          element={<LPersonality />}
+        />
+        <Route
+          path="/zodiac-signs/leo-man-characteristics"
+          element={<LMan />}
+        />
+        <Route
+          path="/zodiac-signs/leo-woman-characteristics"
+          element={<LWoman />}
+        />
+        <Route path="/zodiac-signs/leo-love-traits" element={<LLove />} />
+        <Route
+          path="/zodiac-signs/libra-characteristics"
+          element={<LiCharacheristics />}
+        />
+        <Route
+          path="/zodiac-signs/libra-personality-traits"
+          element={<LiPersonality />}
+        />
+        <Route
+          path="/zodiac-signs/libra-man-characteristics"
+          element={<LiMan />}
+        />
+        <Route
+          path="/zodiac-signs/libra-woman-characteristics"
+          element={<LiWoman />}
+        />
+        <Route path="/zodiac-signs/libra-love-traits" element={<LiLove />} />
+        <Route
+          path="/zodiac-signs/pisces-characteristics"
+          element={<PCharacheristics />}
+        />
+        <Route
+          path="/zodiac-signs/pisces-personality-traits"
+          element={<PPersonality />}
+        />
+        <Route
+          path="/zodiac-signs/pisces-man-characteristics"
+          element={<PMan />}
+        />
+        <Route
+          path="/zodiac-signs/pisces-woman-characteristics"
+          element={<PWoman />}
+        />
+        <Route path="/zodiac-signs/pisces-love-traits" element={<PLove />} />
+        <Route
+          path="/zodiac-signs/sagattarius-characteristics"
+          element={<SCharacheristics />}
+        />
+        <Route
+          path="/zodiac-signs/sagattarius-personality-traits"
+          element={<SPersonality />}
+        />
+        <Route
+          path="/zodiac-signs/sagattarius-man-characteristics"
+          element={<SMan />}
+        />
+        <Route
+          path="/zodiac-signs/sagattarius-woman-characteristics"
+          element={<SWoman />}
+        />
+        <Route
+          path="/zodiac-signs/sagattarius-love-traits"
+          element={<SLove />}
+        />
+        <Route
+          path="/zodiac-signs/scorpio-characteristics"
+          element={<ScCharacheristics />}
+        />
+        <Route
+          path="/zodiac-signs/scorpio-personality-traits"
+          element={<ScPersonality />}
+        />
+        <Route
+          path="/zodiac-signs/scorpio-man-characteristics"
+          element={<ScMan />}
+        />
+        <Route
+          path="/zodiac-signs/scorpio-woman-characteristics"
+          element={<ScWoman />}
+        />
+        <Route path="/zodiac-signs/scorpio-love-traits" element={<ScLove />} />
+        <Route
+          path="/zodiac-signs/taurus-characteristics"
+          element={<TCharacheristics />}
+        />
+        <Route
+          path="/zodiac-signs/taurus-personality-traits"
+          element={<TPersonality />}
+        />
+        <Route
+          path="/zodiac-signs/taurus-man-characteristics"
+          element={<TMan />}
+        />
+        <Route
+          path="/zodiac-signs/taurus-woman-characteristics"
+          element={<TWoman />}
+        />
+        <Route path="/zodiac-signs/taurus-love-traits" element={<TLove />} />
+        <Route
+          path="/zodiac-signs/virgo-characteristics"
+          element={<VCharacheristics />}
+        />
+        <Route
+          path="/zodiac-signs/virgo-personality-traits"
+          element={<VPersonality />}
+        />
+        <Route
+          path="/zodiac-signs/virgo-man-characteristics"
+          element={<VMan />}
+        />
+        <Route
+          path="/zodiac-signs/virgo-woman-characteristics"
+          element={<VWoman />}
+        />
+        <Route path="/zodiac-signs/virgo-love-traits" element={<VLove />} />
         {/*Footer-Others*/}
         <Route path="/astrology-yoga" element={<Yoga />} />
         <Route path="/kaal-sarp-dosh-12-types" element={<Kaalsharp />} />
