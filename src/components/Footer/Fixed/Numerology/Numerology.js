@@ -343,7 +343,75 @@ const Numerology = () => {
             Other than the numbers in numerology, there are some other types of
             numbers that help predict the future. See the mentioned as follows:
           </p>
+          <UnorderedList>
+            <ListItem>
+              <div className="inline-text">
+                <Link to="/numerology-introduction/life-path">
+                  Life Path Numbers
+                </Link>
+              </div>
+            </ListItem>
+            <ListItem>
+              <div className="inline-text">
+                <Link to="/numerology-introduction/master-numbers">
+                  Master Numbers
+                </Link>
+              </div>
+            </ListItem>
+            <ListItem>
+              <div className="inline-text">
+                <Link to="/numerology-introduction/sun-numbers-numerology">
+                  Sun Numbers
+                </Link>
+              </div>
+            </ListItem>
+            <ListItem>
+              <div className="inline-text">
+                <Link to="/numerology-introduction/karmic-debt">
+                  Karmic Debt Numbers
+                </Link>
+              </div>
+            </ListItem>
+          </UnorderedList>
+
           <h3>Explore More</h3>
+          <UnorderedList>
+            <ListItem>
+              <div className="inline-text">
+                <Link to="/numerology-introduction/name-numerology">
+                  Name Numerology
+                </Link>
+              </div>
+            </ListItem>
+            <ListItem>
+              <div className="inline-text">
+                <Link to="/numerology-introduction/marriage-and-numerology">
+                  Marriage And Numerology
+                </Link>
+              </div>
+            </ListItem>
+            <ListItem>
+              <div className="inline-text">
+                <Link to="/numerology-introduction/finance-and-numerology">
+                  Finance And Numerology
+                </Link>
+              </div>
+            </ListItem>
+            <ListItem>
+              <div className="inline-text">
+                <Link to="/numerology-introduction/career-and-numerology">
+                  Career And Numerology
+                </Link>
+              </div>
+            </ListItem>
+            <ListItem>
+              <div className="inline-text">
+                <Link to="/numerology-introduction/food-and-numerology">
+                  Food And Numerology
+                </Link>
+              </div>
+            </ListItem>
+          </UnorderedList>
           <NumerologyFYQ />
         </div>
       </Container>
