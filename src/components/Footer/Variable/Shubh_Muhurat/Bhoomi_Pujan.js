@@ -159,13 +159,8 @@ const Bhoomi_Pujan = () => {
               <tbody>
                 <tr>
                   <td>January</td>
-                  <td>25 January 2025</td>
-                  <td>Thursday</td>
-                </tr>
-                <tr>
-                  <td>January</td>
-                  <td>26 January 2025</td>
-                  <td>Friday</td>
+                  <td>12 January 2025</td>
+                  <td>Sunday</td>
                 </tr>
               </tbody>
             </table>
@@ -183,28 +178,8 @@ const Bhoomi_Pujan = () => {
               <tbody>
                 <tr>
                   <td>February</td>
-                  <td>1 February 2025</td>
-                  <td>Thursday</td>
-                </tr>
-                <tr>
-                  <td>February</td>
-                  <td>14 February 2025</td>
-                  <td>Wednesday</td>
-                </tr>
-                <tr>
-                  <td>February</td>
-                  <td>15 February 2025</td>
-                  <td>Thursday</td>
-                </tr>
-                <tr>
-                  <td>February</td>
-                  <td>19 February 2025</td>
-                  <td>Thursday</td>
-                </tr>
-                <tr>
-                  <td>February</td>
                   <td>22 February 2025</td>
-                  <td>Monday</td>
+                  <td>Saturday</td>
                 </tr>
               </tbody>
             </table>
@@ -228,18 +203,31 @@ const Bhoomi_Pujan = () => {
               <tbody>
                 <tr>
                   <td>April</td>
-                  <td>24 April 2025</td>
-                  <td>Wednesday</td>
+                  <td>10 April 2025</td>
+                  <td>Friday</td>
                 </tr>
               </tbody>
             </table>
           </table>
           <h3>Bhoomi pujan auspicious time in May 2025 </h3>
-          <p>
-            There is no auspicious time in May 2025. However, you can consult an
-            astrologer as there may be some auspicious times as per your
-            horoscope.
-          </p>
+          <table>
+            <table border="1" style={{ width: "100%", height: "auto" }}>
+              <thead>
+                <tr>
+                  <th>Month</th>
+                  <th>Date</th>
+                  <th>Day</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>May</td>
+                  <td>25 May 2025</td>
+                  <td>Monday</td>
+                </tr>
+              </tbody>
+            </table>
+          </table>
           <h3>Bhoomi pujan auspicious time in June 2025 </h3>
           <p>
             There is no auspicious time in June 2025. However, you can consult
@@ -247,24 +235,11 @@ const Bhoomi_Pujan = () => {
             horoscope.
           </p>
           <h3>Bhoomi pujan auspicious time in July 2025 </h3>
-          <table>
-            <table border="1" style={{ width: "100%", height: "auto" }}>
-              <thead>
-                <tr>
-                  <th>Month</th>
-                  <th>Date</th>
-                  <th>Day</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>July</td>
-                  <td>17 July 2025</td>
-                  <td>Wednesday</td>
-                </tr>
-              </tbody>
-            </table>
-          </table>
+          <p>
+            There is no auspicious time in July 2025. However, you can consult
+            an astrologer as there may be some auspicious times as per your
+            horoscope.
+          </p>
           <h3>Bhoomi pujan auspicious time in August 2025 </h3>
           <p>
             There is no auspicious time in August 2025. However, you can consult
@@ -272,24 +247,11 @@ const Bhoomi_Pujan = () => {
             horoscope.
           </p>
           <h3>Bhoomi pujan auspicious time in September 2025 </h3>
-          <table>
-            <table border="1" style={{ width: "100%", height: "auto" }}>
-              <thead>
-                <tr>
-                  <th>Month</th>
-                  <th>Date</th>
-                  <th>Day</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>September</td>
-                  <td>14 September 2025</td>
-                  <td>Saturday</td>
-                </tr>
-              </tbody>
-            </table>
-          </table>
+          <p>
+            There is no auspicious time in September 2025. However, you can
+            consult an astrologer as there may be some auspicious times as per
+            your horoscope.
+          </p>
           <h3>Bhoomi pujan auspicious time in October 2025 </h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
@@ -303,223 +265,385 @@ const Bhoomi_Pujan = () => {
               <tbody>
                 <tr>
                   <td>October</td>
-                  <td>14 October 2025</td>
-                  <td>Monday</td>
+                  <td>3 October 2025</td>
+                  <td>Saturday</td>
                 </tr>
               </tbody>
             </table>
           </table>
           <h3>Bhoomi pujan auspicious time in November 2025 </h3>
-          <p>
-            There is no auspicious time for Bhoomi Pujan in November 2025.
-            However, you can consult an astrologer as there may be some
-            auspicious times as per your horoscope.
-          </p>
+          <table>
+            <table border="1" style={{ width: "100%", height: "auto" }}>
+              <thead>
+                <tr>
+                  <th>Month</th>
+                  <th>Date</th>
+                  <th>Day</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>November</td>
+                  <td>21 November 2025</td>
+                  <td>Friday</td>
+                </tr>
+              </tbody>
+            </table>
+          </table>
           <h3>Bhoomi pujan auspicious time in December 2025 </h3>
           <p>
             There is no auspicious time for Bhoomi Pujan in December 2025.
             However, you can consult an astrologer as there may be some
             auspicious times as per your horoscope.
           </p>
-          <h3>
-            Bhoomi Pujan Muhurta 2025: Auspicious date for house construction
-            and Bhoomi Pujan Muhurat
-          </h3>
+          <h3>Auspicious Lagna for Bhoomi Pujan Muhurat 2025</h3>
           <p>
-            Bhoomi Pujan Muhurta in 2025 offers an auspicious window of
-            opportunity for those embarking on house construction projects. The
-            choice of an auspicious date is deeply rooted in Vedic astrology and
-            is believed to ensure harmony, prosperity, and protection for the
-            new dwelling. Here are six months in 2025, each offering an
-            auspicious Bhoomi Pujan Muhurat:
+            In Vedic astrology, the Lagna or Ascendant at the time of the
+            ceremony plays an important role in determining the outcome of the
+            construction work. The most favorable Lagnas for Bhoomi Pujan are:
           </p>
           <UnorderedList>
             <ListItem>
-              <strong>January 2025: </strong>
-              Begin the year on a positive note by performing Bhoomi Pujan in
-              January. The favourable celestial alignments promise a solid
-              foundation for your home.
+              <strong>Vrishabha (Taurus):</strong> Known for stability and
+              material success.
             </ListItem>
             <ListItem>
-              <strong>April 2025: </strong>
-              Spring brings a sense of renewal, making it an ideal time for
-              Bhoomi Pujan. This month's Muhurta can symbolise a fresh start for
-              your family.
+              <strong>Simha (Leo):</strong> Represents strength, leadership, and
+              success.
             </ListItem>
             <ListItem>
-              <strong>July 2025: </strong>
-              Amidst the monsoon rains, July offers a unique charm for house
-              construction. The rains are seen as a blessing, nurturing the
-              earth and your new home.
+              <strong>Tula (Libra):</strong> Brings harmony, peace, and
+              prosperity.
             </ListItem>
             <ListItem>
-              <strong>September 2025: </strong>
-              With the end of the rainy season, September's Muhurta is a symbol
-              of new beginnings and the promise of a bright future in your new
-              abode.
-            </ListItem>
-            <ListItem>
-              <strong>October 2025: </strong>
-              The festive spirit of October makes it a popular choice.
-              Performing Bhoomi Pujan during this month can infuse your home
-              with positive energy and joy.
-            </ListItem>
-            <ListItem>
-              <strong>December 2025: </strong>
-              Close the year with a sense of accomplishment by laying the
-              foundation for your dream home in December. The peaceful winter
-              setting ensures a serene start to your construction journey.
+              <strong>Meena (Pisces):</strong> Signifies spiritual blessings and
+              fulfillment.
             </ListItem>
           </UnorderedList>
           <p>
-            Want to know more about the auspicious dates,{" "}
-            <span className="text-red-500 italic">
-              chat with our astrologer
-            </span>
-          </p>
-          <h2>
-            Bhoomi pooja dates in 2025: Auspicious constellation/Nakshatra for
-            Griha Arambha
-          </h2>
-          <p>
-            According to our Vastu astrologers, in the year 2025, the most
-            auspicious nakshatras for performing Bhumi Puja (groundbreaking
-            ceremony) are Shatabhisha, Dhanishta, Uttarashada, Uttarabhadrapada,
-            Rohini, Revati, Chitra, Uttara Phalguni, Mrigashira, Anuradha,
-            Swati, Hasta, and Pushya. Commencing construction on your home
-            during these nakshatras is considered favorable.
-          </p>
-          <p>
-            Apart from the above-mentioned nakshatras, it is advisable to avoid
-            all other nakshatras when considering the foundation stone laying
-            ceremony.
-          </p>
-          <h2>Auspicious Lagna for Bhumi pujan Muhurat 2025</h2>
-          <p>
-            Choosing an auspicious Lagna (ascendant) for Bhumi Pujan Muhurat in
-            2025 is of paramount importance. The Lagna, or the rising sign at
-            the time of the ceremony, sets the tone for the event. Ideally, a
-            Lagna associated with stability, growth, and prosperity is
-            preferred. In 2025, particularly favourable Lagnas could include
-            Taurus (Vrishabha), Virgo (Kanya), or Capricorn (Makar). These Earth
-            signs symbolise grounding energy, making them suitable for the
-            foundation-laying ceremony. However, it's essential to consult a
-            knowledgeable astrologer for precise calculations, as factors like
-            planetary positions and individual horoscopes play a vital role in
-            selecting the most auspicious Lagna for Bhumi Pujan Muhurat.
+            When Bhoomi Pujan is done during these Lagnas, the building process
+            is believed to progress smoothly, bringing long-term success.
           </p>
 
-          <h2>Days to avoid Bhumi pujan Muhurat</h2>
+          <h3>Days to Avoid Bhoomi Pujan Muhurat 2025</h3>
           <p>
-            In Hindu tradition, Bhumi Pujan, the ceremonial worship of the
-            Earth, is a significant ritual for initiating construction projects
-            or starting new ventures on auspicious days. However, there are days
-            when Bhumi Pujan Muhurats should be avoided to ensure success and
-            harmony. These inauspicious dates, known as "Rikta Tithis" in the
-            Hindu calendar, include the 4th, 9th, and 14th days of both the
-            waxing and waning lunar phases. Additionally, Tuesdays and Saturdays
-            are generally considered unfavourable for Bhumi Pujan due to their
-            association with Mars and Saturn, which can bring obstacles and
-            delays. Choosing an auspicious Muhurat ensures that the Earth's
-            blessings are received without hindrance, promoting prosperity and
-            harmony in the project.
+            While certain days are ideal for Bhoomi Pujan, some must be avoided.
+            It is important not to perform this ceremony during:
+          </p>
+          <UnorderedList>
+            <ListItem>
+              <strong>Rahu Kalam:</strong> This period is inauspicious for any
+              new ventures, including construction.
+            </ListItem>
+            <ListItem>
+              <strong>Amavasya (New Moon):</strong> The energy during Amavasya
+              is considered weak, and starting new projects is discouraged.
+            </ListItem>
+            <ListItem>
+              <strong>Eclipses:</strong> (Solar and Lunar Eclipses): During
+              these times, auspicious activities should be avoided as they are
+              believed to cause negative effects.
+            </ListItem>
+            <ListItem>
+              <strong>Chaturthi (Fourth Day):</strong> In some traditions,
+              starting construction on this day is considered inauspicious.
+            </ListItem>
+          </UnorderedList>
+
+          <h3>Impact of Moon Nakshatras on Bhoomi Pujan Muhurat</h3>
+          <p>
+            The Moon's position in the Nakshatra (constellation) plays a vital
+            role in determining the auspiciousness of Bhoomi Pujan. The
+            following Nakshatras are considered ideal for starting construction:
+          </p>
+          <UnorderedList>
+            <ListItem>
+              <strong>Rohini:</strong> Signifies fertility and material success.
+            </ListItem>
+            <ListItem>
+              <strong>Pushya:</strong> Represents nourishment, prosperity, and
+              growth.
+            </ListItem>
+            <ListItem>
+              <strong>Uttara Phalguni:</strong> Brings stability, good fortune,
+              and long-term success.
+            </ListItem>
+            <ListItem>
+              <strong>Shravana:</strong> Ideal for foundation ceremonies,
+              offering good vibrations.
+            </ListItem>
+            <ListItem>
+              <strong>Swati:</strong> Promotes peace, prosperity, and progress.
+            </ListItem>
+          </UnorderedList>
+          <p>Avoid the following Nakshatras for Bhoomi Pujan:</p>
+          <UnorderedList>
+            <ListItem>
+              <strong>Ashlesha:</strong> Known for obstacles and challenges.
+            </ListItem>
+            <ListItem>
+              <strong>Moola:</strong> Associated with destruction and is not
+              considered favorable.
+            </ListItem>
+            <ListItem>
+              <strong>Bharani:</strong> Linked with aggression, so it’s better
+              to avoid it for construction activities.
+            </ListItem>
+          </UnorderedList>
+
+          <h3>
+            What Area Should Be Used for Bhoomi Puja at the Construction Site as
+            Per Vastu?
+          </h3>
+          <p>
+            According to Vastu Shastra, the sacred area for Bhoomi Pujan should
+            be carefully chosen. The northeast corner of the construction site
+            is considered the most auspicious for the puja. This corner is
+            believed to be blessed by Lord Shiva and the divine energies of
+            water, which ensures a strong and harmonious foundation.
+          </p>
+          <p>Here are some additional Vastu guidelines for Bhoomi Pujan:</p>
+          <UnorderedList>
+            <ListItem>
+              <strong>Location:</strong> The ceremony should be held in the
+              northeastern part of the land, where positive energy flows
+              abundantly.
+            </ListItem>
+            <ListItem>
+              <strong>Cleanliness:</strong> Ensure that the site is clean and
+              free of any debris before performing the puja.
+            </ListItem>
+            <ListItem>
+              <strong>Fire Ritual:</strong> A small fire (homa) is often lit
+              during Bhoomi Pujan as fire is considered a purifying element in
+              Vastu.
+            </ListItem>
+            <ListItem>
+              <strong>Direction of Facing:</strong> The priest performing the
+              puja should ideally face the east or northeast direction during
+              the ceremony, as these are considered most favorable.
+            </ListItem>
+            <ListItem>
+              <strong>Materials:</strong> Use earth (soil), water, leaves, and
+              flowers as offerings, symbolizing harmony between the five
+              elements of nature.
+            </ListItem>
+          </UnorderedList>
+
+          <h3>
+            Bhoomi Pujan Vidhi 2025: How to Perform the Bhoomi Pujan Ritual
+          </h3>
+          <p>
+            The Bhoomi Pujan ritual is a sacred act in Hinduism that marks the
+            beginning of construction, be it for a home, temple, or any other
+            structure. In 2025, the importance of this ceremony will continue to
+            uphold its connection between the earth and the divine energies.
           </p>
 
-          <h2>Tithis circumvented for the bhumi puja</h2>
+          <p>
+            <strong>Site Preparation:</strong>
+          </p>
+          <UnorderedList>
+            <ListItem>
+              Choose an auspicious day based on your horoscope and Nakshatra
+              (star) placement for the Bhoomi Pujan. It is important that the
+              site is clean, cleared of debris, and ideally aligned according to
+              Vastu Shastra.
+            </ListItem>
+            <ListItem>
+              Mark the central location for the puja, ideally in the Northeast
+              (Ishaan Kon) of the construction site. This direction is known to
+              bring positive energy and prosperity.
+            </ListItem>
+          </UnorderedList>
 
           <p>
-            In the realm of Hindu rituals and ceremonies, the selection of an
-            auspicious Tithi, or lunar day, holds paramount importance. When it
-            comes to Bhumi Puja, the consecration of land before construction,
-            the choice of Tithi becomes especially significant. Traditionally,
-            practitioners aim for Tithis that align harmoniously with
-            astrological and lunar calendars. This meticulous planning ensures
-            that the Bhumi Puja is performed on a day believed to bring
-            prosperity and divine blessings to the land and future construction.
-            As such, Tithis are not merely dates on a calendar, but celestial
-            guides that circumvent any potential obstacles, making the Bhumi
-            Puja a sacred and propitious occasion.
+            <strong>Setting the Pujan Area:</strong>
           </p>
+          <UnorderedList>
+            <ListItem>
+              Place a Kalash (holy pot) in the center of the site, filled with
+              water, mango leaves, and a coconut on top. The Kalash represents
+              the divine presence, and the coconut signifies the Earth’s
+              fertility.
+            </ListItem>
+            <ListItem>
+              Place rice and grains in a bowl and offer it to Bhoomi Devi (the
+              Earth Goddess).
+            </ListItem>
+          </UnorderedList>
 
-          <h2>Impact of Moon Nakshatras</h2>
           <p>
-            The Moon Nakshatras, also known as lunar mansions, play a
-            significant role in Vedic astrology and influence various aspects of
-            a person's life. These 27 lunar constellations, each with its unique
-            characteristics, have a profound impact on a person's emotions,
-            personality, and destiny. They determine one's emotional response to
-            situations, shaping their behaviour and decision-making. For
-            example, the Nakshatra under which the Moon is placed at birth can
-            influence an individual's temperament, relationships, and career
-            choices. Astrologers analyse the Moon Nakshatras to provide insights
-            into a person's inner world and life path, helping individuals
-            navigate their journey with self-awareness and guidance.
+            <strong>Invocation of Deities:</strong>
           </p>
-          <h2>
-            What area should be used for Bhoomi Puja at the construction site?
-          </h2>
+          <UnorderedList>
+            <ListItem>
+              Lord Ganesha should be the first deity invoked to remove all
+              obstacles (Vighnaharta).
+            </ListItem>
+            <ListItem>
+              Offer prayers to Bhoomi Devi (Earth Goddess) by chanting the
+              Bhoomi Gayatri Mantra to seek blessings for prosperity, good
+              health, and a harmonious construction.
+              <br />
+              <strong>Mantra:</strong> "Om Bhumi Devi Namah"
+            </ListItem>
+          </UnorderedList>
+
           <p>
-            Bhoomi Puja, a sacred ritual in Hindu culture, marks the
-            commencement of construction projects by seeking blessings from
-            Mother Earth (Bhoomi Devi). It should ideally be performed at the
-            exact location where the construction is planned. This spot, often
-            the foundation site, is chosen to invoke the Earth's blessings and
-            ensure a harmonious and successful building process. The ceremony
-            typically involves prayers, offerings, and rituals to express
-            gratitude for the land's support and seek its protection. By
-            performing Bhoomi Puja at the construction site, it signifies
-            respect for the environment and a desire for a prosperous, safe, and
-            spiritually aligned project.
+            <strong>Prayers to Nine Planets (Navagrahas):</strong>
           </p>
-          <h2>
-            Bhoomi Pujan Vidhi 2025: How should the Bhoomi Pujan ritual be
-            performed?
-          </h2>
+          <UnorderedList>
+            <ListItem>
+              The planets are believed to influence the success and stability of
+              any construction. Worship the Navagrahas (nine planets) during the
+              Bhoomi Pujan, as their positive alignment ensures peace and
+              success during the building process.
+            </ListItem>
+            <ListItem>
+              This is typically done with Navagraha Stotra recitation and
+              offering grains, flowers, and water.
+            </ListItem>
+          </UnorderedList>
+
           <p>
-            Bhoomi Pujan, a sacred Hindu ritual, signifies the inauguration of a
-            new construction project or the commencement of building on a piece
-            of land. In 2025, as in previous years, the ritual should be
-            performed with utmost reverence and adherence to tradition. The
-            ceremony typically begins with the selection of an auspicious date
-            and time by consulting a priest or astrologer. On the chosen day,
-            the area is cleansed, and a square pit is dug at the site. An idol
-            or image of Lord Ganesha, the remover of obstacles, is installed,
-            and prayers are offered to seek his blessings. Vedic hymns are
-            chanted, followed by the symbolic placing of grains, coins, and
-            other offerings into the pit. Finally, the soil is blessed and used
-            to lay the foundation. Bhoomi Pujan embodies the belief in seeking
-            divine blessings for the success and prosperity of the construction
-            project.
+            <strong>Lighting the Sacred Fire (Havan):</strong>
           </p>
-          <h2>Things to be Buy for Bhoomi Puja Ceremony</h2>
+          <UnorderedList>
+            <ListItem>
+              Perform the Havan with sacred fire, offering ghee, sesame seeds
+              (til), barley, and sugar into the fire while chanting Vedic
+              mantras.
+            </ListItem>
+            <ListItem>
+              This act is believed to purify the surrounding environment and
+              invoke the blessings of Agni Dev (the Fire God) and other deities.
+            </ListItem>
+          </UnorderedList>
+
           <p>
-            For a Bhoomi Puja ceremony, several essential items are required to
-            ensure a sacred and auspicious start to construction or land-related
-            endeavours. These include a sacred idol or image of Lord Ganesha,
-            the remover of obstacles, along with incense sticks, camphor, and
-            oil lamps for rituals. Offerings like flowers, coconuts, fruits, and
-            sweets symbolise purity and abundance. Additionally, items like
-            turmeric, vermillion, rice, and sacred thread are used for rituals.
-            A pot filled with water and a coconut placed atop signify
-            prosperity. The ceremony also necessitates a fire pit, bricks, and
-            sand for constructing a holy platform. These items collectively
-            create a spiritually charged atmosphere for the Bhoomi Puja,
-            invoking blessings for a successful and harmonious project.
+            <strong>Final Prayers and Blessings:</strong>
           </p>
-          <h2>Who should do Bhumi Puja?</h2>
+          <UnorderedList>
+            <ListItem>
+              After the fire ritual, make a final offering of prasad (holy food)
+              and sacred water to the Earth and the deities.
+            </ListItem>
+            <ListItem>
+              Walk around the Kalash and take the blessed water to sprinkle
+              around the construction area.
+            </ListItem>
+          </UnorderedList>
+
           <p>
-            Bhumi Puja, a Hindu ritual performed before starting any
-            construction project, should ideally be conducted by a qualified
-            priest or a religious authority. This ceremony symbolises seeking
-            the blessings of Mother Earth (Bhumi Devi) and ensuring a harmonious
-            relationship with the land and its spirits. The priest, well-versed
-            in Vedic rituals and traditions, conducts the puja by reciting
-            sacred mantras and offering prayers to invoke divine favour and
-            protection. It's essential that those involved in the construction,
-            whether homeowners or builders, actively participate in the ceremony
-            to show their respect for nature and their commitment to a
-            successful and auspicious project.
+            <strong>Fencing the Area:</strong>
           </p>
+          <UnorderedList>
+            <ListItem>
+              It is customary to place a few bricks or stones around the area
+              that marks the beginning of construction. This symbolizes the
+              building foundation and asks for divine protection throughout the
+              construction phase.
+            </ListItem>
+          </UnorderedList>
+
+          <h3>Things to Buy for Bhoomi Pujan Ceremony in 2025</h3>
+          <p>
+            For a successful Bhoomi Pujan, several items are necessary to
+            complete the ritual, which are believed to attract positive energy
+            and divine blessings. Here's a list of the things to buy:
+          </p>
+          <UnorderedList>
+            <ListItem>
+              <strong>Kalash (Sacred Pot):</strong> Represents divinity and the
+              earth's energy.
+            </ListItem>
+            <ListItem>
+              <strong>Coconut:</strong> Symbolizes the Earth and its fertility.
+            </ListItem>
+            <ListItem>
+              <strong>Rice & Grains:</strong> Offered to Bhoomi Devi and the
+              deities.
+            </ListItem>
+            <ListItem>
+              <strong>Flowers & Fruits:</strong> To offer during prayers,
+              representing purity and devotion.
+            </ListItem>
+            <ListItem>
+              <strong>Ghee & Sesame Seeds (Til):</strong> For the havan/fire
+              ritual, used to purify the environment.
+            </ListItem>
+            <ListItem>
+              <strong>Gold or Silver Coins:</strong> Symbolize prosperity and
+              abundance.
+            </ListItem>
+            <ListItem>
+              <strong>Turmeric & Vermilion (Kumkum):</strong> For applying to
+              the site for purification.
+            </ListItem>
+            <ListItem>
+              <strong>Incense Sticks:</strong> To purify the air and invite
+              positive vibrations.
+            </ListItem>
+            <ListItem>
+              <strong>Holy Water or Ganga Jal:</strong> For sprinkling on the
+              land.
+            </ListItem>
+            <ListItem>
+              <strong>Bricks or Stones:</strong> Used to demarcate the site as a
+              sign of beginning construction.
+            </ListItem>
+            <ListItem>
+              <strong>Copper or Silver Utensils:</strong> For offerings to
+              deities during prayers.
+            </ListItem>
+            <ListItem>
+              <strong>Navagraha Idols or Pictures:</strong> For worshipping the
+              nine planets.
+            </ListItem>
+            <ListItem>
+              <strong>Holy Thread (Rakhi or Mauli):</strong> To tie around the
+              Kalash, symbolizing protection.
+            </ListItem>
+          </UnorderedList>
+
+          <h3>Who Should Perform the Bhoomi Pujan?</h3>
+          <UnorderedList>
+            <ListItem>
+              <strong>Head of the Family:</strong> The person responsible for
+              the construction, such as the head of the family or the one
+              investing in the property, should ideally lead the Bhoomi Pujan.
+              They should recite the prayers and mantras, invoking divine
+              blessings for the success and well-being of the family and
+              construction project.
+            </ListItem>
+            <ListItem>
+              <strong>Priest (Pandit):</strong> A knowledgeable Pandit or
+              Brahmin who is well-versed in Vedic rituals and mantras is
+              essential to guide the ceremony. They perform the ritual with
+              precision and ensure that the right procedures are followed.
+            </ListItem>
+            <ListItem>
+              <strong>Vastu Shastra Expert:</strong> Sometimes, an expert in
+              Vastu Shastra is invited to ensure that the construction site is
+              in proper alignment with Vastu principles. They may also give
+              guidance on the correct directions and placement of objects in the
+              home.
+            </ListItem>
+            <ListItem>
+              <strong>Elders of the Family:</strong> In many families, the
+              elders (especially the father, grandfather, or any spiritual
+              guide) are invited to offer their blessings during the Bhoomi
+              Pujan. Their presence adds a sense of spiritual strength to the
+              ceremony.
+            </ListItem>
+            <ListItem>
+              <strong>Women of the House:</strong> It is customary in some
+              households for the women of the house, particularly the mother or
+              wife, to offer prayers and light the lamp (diya) during the
+              ritual, invoking peace and harmony in the house.
+            </ListItem>
+          </UnorderedList>
         </div>
       </StyledDiv>
     </Layout>

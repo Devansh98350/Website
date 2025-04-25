@@ -173,204 +173,108 @@ const Gold_Buying = () => {
             most propitious days to buy gold in the year 2025:
           </p>
           <UnorderedList>
-            <ListItem>Pushya Nakshatra 2025</ListItem>
-            <ListItem>Makar Sankranti - 15 January 2025</ListItem>
-            <ListItem>Ugadi or Gudi Padwa - 09 April 2025</ListItem>
-            <ListItem>Akshaya Tritiya - 10 May 2025</ListItem>
-            <ListItem>Navratri - October 03 to October 12, 2025</ListItem>
-            <ListItem>Dussehra - October 12, 2025</ListItem>
             <ListItem>
-              Dhanteras / Diwali - 29 October & 01 November 2025
+              <strong>Pushya Nakshatra:</strong> This is considered one of the
+              most auspicious times for buying gold, as Pushya is ruled by
+              Jupiter and is believed to bring wealth and prosperity. In 2025,
+              Pushya Nakshatra will occur on January 22 and August 10.
             </ListItem>
-            <ListItem>Bali Pratipada - 02 November 2025</ListItem>
+            <ListItem>
+              <strong>Makar Sankranti - 14 January 2025:</strong> Celebrated as
+              a harvest festival, Makar Sankranti marks a time of new beginnings
+              and is considered a favorable day to make important purchases,
+              including gold.
+            </ListItem>
+            <ListItem>
+              <strong>Ugadi / Gudi Padwa - 30 March 2025:</strong> This is the
+              Hindu New Year and is marked as an ideal day for purchasing new
+              items, especially gold, to invite good fortune and success in the
+              year ahead.
+            </ListItem>
+            <ListItem>
+              <strong>Akshaya Tritiya - 30 April 2025:</strong> Known as one of
+              the most powerful days for buying gold, Akshaya Tritiya is
+              believed to bring infinite prosperity. It is highly auspicious for
+              making long-lasting investments, particularly in precious metals.
+            </ListItem>
+            <ListItem>
+              <strong>Navratri - 30 Mar, 2025 to 7 Apr, 2025:</strong> During
+              this 9-day festival celebrating the Goddess Durga, it is believed
+              that buying gold during the period of Navratri ensures a year of
+              wealth, strength, and success.
+            </ListItem>
+            <ListItem>
+              <strong>Dussehra - October 2, 2025:</strong> The day after the
+              conclusion of Navratri, Dussehra signifies the victory of good
+              over evil and is considered a propitious time to buy gold to mark
+              new beginnings.
+            </ListItem>
+            <ListItem>
+              <strong>
+                Dhanteras / Diwali - 17 October & 20 October 2025:
+              </strong>{" "}
+              Dhanteras, the first day of Diwali, is a day for honoring wealth
+              and prosperity. Buying gold on Dhanteras ensures divine blessings
+              for abundance in the coming year. Diwali, itself, is also a prime
+              time to buy gold as it ushers in good fortune.
+            </ListItem>
           </UnorderedList>
-          <h2>Pushya Nakshatra 2025</h2>
+
+          <h2>Key Gold Buying Muhurats for 2025:</h2>
           <p>
-            Pushya Nakshatra, also known as Pooyam, Pushyami, or Poosam, holds a
-            significant place in Vedic astrology as one of the celestial
-            constellations. According to astrological wisdom, there exists a
-            specific and unchanging window of time during the day when Pushya
-            Nakshatra is considered exceptionally auspicious for financial
-            transactions. Consequently, many individuals choose to invest in
-            gold during this propitious interval to fulfill their various needs.
-            Given that Pushya Nakshatra occurs multiple times throughout the
-            year, it becomes essential to carefully select the most favorable
-            moments for buying gold in 2025.
+            Akshaya Tritiya is considered an auspicious day in Hindu culture,
+            symbolizing wealth, prosperity, and good fortune. It is believed
+            that buying gold on this day brings lasting benefits and attracts
+            wealth. The word "Akshaya" means "never diminishing," signifying
+            that any investments made on this day, especially gold, will
+            continue to grow and never lose value. Therefore, many people choose
+            to buy gold on Akshaya Tritiya to ensure lasting prosperity and
+            financial growth.
           </p>
-
-          <h3>Date of celebrating Pushya Nakshatra in the year 2025</h3>
-          <table>
-            <table
-              border="1"
-              style={{
-                width: "100%",
-                height: "auto",
-              }}
-            >
-              <thead>
-                <tr>
-                  <th>Date</th>
-                  <th>Start Time</th>
-                  <th>End Time</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>Friday, 26 January</td>
-                  <td>08:17:31</td>
-                  <td>10:29:33</td>
-                </tr>
-                <tr>
-                  <td>Thursday, 22 February</td>
-                  <td>14:18:35</td>
-                  <td>16:44:13</td>
-                </tr>
-                <tr>
-                  <td>Wednesday, 20 March</td>
-                  <td>20:10:58</td>
-                  <td>22:39:07</td>
-                </tr>
-                <tr>
-                  <td>Tuesday, 16 April</td>
-                  <td>03:06:17</td>
-                  <td>05:16:33</td>
-                </tr>
-                <tr>
-                  <td>Tuesday, 14 May</td>
-                  <td>11:24:25</td>
-                  <td>13:05:42</td>
-                </tr>
-                <tr>
-                  <td>Monday, 10 June</td>
-                  <td>20:21:21</td>
-                  <td>21:40:32</td>
-                </tr>
-                <tr>
-                  <td>Monday, 08 July</td>
-                  <td>04:48:44</td>
-                  <td>06:03:36</td>
-                </tr>
-                <tr>
-                  <td>Sunday, 04 August</td>
-                  <td>11:59:50</td>
-                  <td>13:27:09</td>
-                </tr>
-                <tr>
-                  <td>Saturday, 31 August</td>
-                  <td>17:56:33</td>
-                  <td>19:40:35</td>
-                </tr>
-                <tr>
-                  <td>Friday, 27 September</td>
-                  <td>23:34:50</td>
-                  <td>01:21:31</td>
-                </tr>
-                <tr>
-                  <td>Friday, 25 October</td>
-                  <td>06:16:28</td>
-                  <td>07:40:55</td>
-                </tr>
-                <tr>
-                  <td>Thursday, 21 November</td>
-                  <td>14:50:47</td>
-                  <td>15:36:12</td>
-                </tr>
-                <tr>
-                  <td>Wednesday, 18 December</td>
-                  <td>00:44:44</td>
-                  <td>02:59:05</td>
-                </tr>
-              </tbody>
-            </table>
-          </table>
-
-          <h2>Makar Sankranti 2025</h2>
+          <UnorderedList>
+            <ListItem>
+              <strong>April 29 (Tuesday):</strong> 05:31 PM to 05:41 AM (April
+              30) – This muhurat is believed to align with favorable planetary
+              influences, making it an auspicious time for significant financial
+              decisions like buying gold.
+            </ListItem>
+            <ListItem>
+              <strong>April 30 (Wednesday):</strong> 05:41 AM to 02:12 PM –
+              Buying gold during this period is said to attract prosperity and
+              strengthen personal alignment with the Sun’s positive energy.
+            </ListItem>
+            <ListItem>
+              <strong>October 14, 2025 (Tuesday) – Pushya Yoga:</strong> 11:54
+              AM to 06:22 AM (October 15) – Pushya Nakshatra is one of the most
+              auspicious times in Vedic astrology, especially for buying gold,
+              as it enhances spiritual and material growth.
+            </ListItem>
+            <ListItem>
+              <strong>October 15, 2025 (Wednesday) – Pushya Yoga:</strong> 06:22
+              AM to 12:00 PM – This sacred alignment is believed to amplify
+              wealth and purity, ideal for purchasing gold and other valuable
+              assets.
+            </ListItem>
+            <ListItem>
+              <strong>October 18, 2025 (Saturday) – Dhanteras:</strong> 12:18 PM
+              to 06:24 AM (October 19) – Dhanteras is traditionally celebrated
+              for wealth and prosperity. Buying gold during this time is highly
+              symbolic and culturally significant.
+            </ListItem>
+            <ListItem>
+              <strong>October 19, 2025 (Sunday) – Dhanteras:</strong> 06:24 AM
+              to 01:51 PM – Continuing the celebration of Dhanteras, this period
+              is spiritually charged for attracting abundance and avoiding
+              negative influences.
+            </ListItem>
+          </UnorderedList>
           <p>
-            Makar Sankranti marks the inaugural festival on the Hindu calendar,
-            and its significance cannot be overstated. As a harvest festival, it
-            ushers in the commencement of the harvest season, making it one of
-            the most auspicious times to acquire gold in 2025. In the year 2025,
-            Makar Sankranti will be celebrated on January 15th.
+            These timings are considered highly auspicious for making gold
+            purchases, associated with wealth and prosperity.
           </p>
           <p>
             Also Read{" "}
             <span className="text-red-500 italic">Horoscope 2025</span>
-          </p>
-          <h2 className="font-bold">Ugadi and Gudi Padwa 2025</h2>
-
-          <p>
-            In the Hindu calendar, both Ugadi and Gudi Padwa represent the onset
-            of the new year, albeit they go by different names in various Indian
-            states. While Andhra Pradesh, Karnataka, and Telangana observe
-            Ugadi, Maharashtra celebrates it as Gudi Padwa. The common thread
-            among these celebrations is the belief in gold as a symbol of luck
-            and prosperity, symbolizing fresh beginnings. On 09 April 2025, both
-            Ugadi and Gudi Padwa will be celebrated.
-          </p>
-          <h2 className="font-bold">Akshaya Tritiya 2025</h2>
-
-          <p>
-            Among the auspicious days to purchase gold, Akshaya Tritiya in 2025
-            stands out as the most significant. Astrologers often guide
-            individuals to acquire gold on this day, considering it an opportune
-            moment for success and fortune. Akshaya Tritiya, also known as Akti
-            or Akha Teej, is a Hindu and Jain spring festival celebrated on 10
-            May, 2025.
-          </p>
-          <h2 className="font-bold">Navratri 2025</h2>
-
-          <p>
-            The Navratri festival, celebrated globally, entails the worship of
-            Goddess Durga in her nine divine forms over nine days and nights.
-            Elaborate pandals or shamianas are erected to house the goddess
-            idol, adorned with exquisite clothing and jewellery. The auspicious
-            nine days of Navratri inspire many to consider gold purchases, often
-            offering it to the Mother Goddess. The upcoming Navratri celebration
-            in 2025 will span from October 03 to October 12, 2025
-          </p>
-          <h2 className="font-bold">Dussehra 2025</h2>
-
-          <p>
-            The culmination of Navratri, known as Dussehra, signifies the
-            triumph of good over evil, as Goddess Durga vanquished the demon
-            Mahishasura. It is regarded as an exceptionally auspicious time to
-            invest in gold. In 2025, Dussehra will be observed on October 12.
-          </p>
-          <h2 className="font-bold">Diwali/Dhanteras 2025</h2>
-
-          <p>
-            Dhanteras is yet another auspicious day in Hindu tradition for
-            acquiring gold. During Dhanteras and Diwali, gold experiences high
-            demand, with coins and gold jewelry being popular choices among
-            buyers. This celebration symbolizes the worship of Goddess Lakshmi,
-            the deity of wealth and prosperity. Dhanteras typically falls on the
-            day preceding Diwali and is an integral part of the festive season.
-          </p>
-          <h2 className="font-bold">
-            Auspicious time to buy Gold on Dhanteras 2025
-          </h2>
-
-          <p>
-            In astrology, Dhanteras holds immense significance as an auspicious
-            time to buy gold. Falling on the thirteenth lunar day of the Krishna
-            Paksha in the Hindu month of Kartika, it aligns with celestial
-            energies conducive to wealth and prosperity. Astrologers believe
-            that purchasing gold on Dhanteras attracts favorable planetary
-            influences, ensuring financial stability and growth. The tradition
-            also symbolises the veneration of Goddess Lakshmi, the goddess of
-            wealth, making it an opportune moment to seek her blessings for
-            abundance and good fortune. Auspicious timings to Buy Gold on
-            Dhanteras - 06:32 AM to 01:15 PM. Therefore, as per astrology,
-            Dhanteras remains a highly propitious occasion to invest in gold and
-            secure a prosperous future.
-          </p>
-          <h2 className="font-bold">Bali Pratipada 2025</h2>
-
-          <p>
-            Bali Pratipada marks the third day of Diwali celebrations. In Hindu
-            tradition, this day signifies the culmination of an auspicious
-            period, making it the last chance for gold purchases. In the year
-            2025, Bali Pratipada will be observed on 02 November.
           </p>
         </div>
       </StyledDiv>

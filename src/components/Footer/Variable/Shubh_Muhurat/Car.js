@@ -93,44 +93,36 @@ const Car = () => {
             </thead>
             <tbody>
               <tr>
-                <td>January 3, 2025</td>
-                <td>21:18 to January 7, 2025 09:53</td>
+                <td>January 2, 2025</td>
+                <td>07:14 AM to January 3, 2025 01:08 AM</td>
               </tr>
               <tr>
-                <td>January 4, 2025</td>
-                <td>09:53 to January 4, 2025 23:34</td>
+                <td>January 6, 2025</td>
+                <td>07:06 PM to January 7, 2025 07:15 AM</td>
               </tr>
               <tr>
-                <td>January 7, 2025</td>
-                <td>23:38 to January 8, 2025 02:16</td>
+                <td>January 13, 2025</td>
+                <td>10:38 AM to January 14, 2025 07:15 AM</td>
               </tr>
               <tr>
-                <td>January 17, 2025</td>
-                <td>23:36 to January 18, 2025 05:03</td>
+                <td>January 19, 2025</td>
+                <td>05:30 PM to January 20, 2025 07:14 AM</td>
               </tr>
               <tr>
-                <td>January 21, 2025</td>
-                <td>09:38 to January 21, 2025 20:56</td>
+                <td>January 20, 2025</td>
+                <td>07:14 AM to 09:58 AM</td>
               </tr>
               <tr>
                 <td>January 22, 2025</td>
-                <td>21:21 to January 23, 2025 06:38</td>
+                <td>07:14 AM to 03:18 PM</td>
               </tr>
               <tr>
                 <td>January 24, 2025</td>
-                <td>23:19 to January 25, 2025 09:32</td>
-              </tr>
-              <tr>
-                <td>January 25, 2025</td>
-                <td>09:32 to January 26, 2025 09:31</td>
-              </tr>
-              <tr>
-                <td>January 26, 2025</td>
-                <td>07:12 to January 26, 2025 10:28</td>
+                <td>07:13 AM to January 25, 2025 07:07 AM</td>
               </tr>
               <tr>
                 <td>January 31, 2025</td>
-                <td>07:10 to February 1, 2025 07:10 (overnight)</td>
+                <td>01:59 PM to February 1, 2025 04:14 AM</td>
               </tr>
             </tbody>
           </table>
@@ -144,24 +136,40 @@ const Car = () => {
             </thead>
             <tbody>
               <tr>
-                <td>February 1, 2025</td>
-                <td>07:10 to February 2, 2025 02:03</td>
+                <td>February 3, 2025</td>
+                <td>07:08 AM to 11:16 PM</td>
               </tr>
               <tr>
-                <td>February 2, 2025</td>
-                <td>04:02 to February 3, 2025 05:57</td>
+                <td>February 7, 2025</td>
+                <td>07:06 AM to February 8, 2025 07:05 AM</td>
               </tr>
               <tr>
-                <td>February 4, 2025</td>
-                <td>05:49 to February 5, 2025 07:07</td>
+                <td>February 9, 2025</td>
+                <td>07:25 PM to February 10, 2025 07:03 AM</td>
               </tr>
               <tr>
-                <td>February 5, 2025</td>
-                <td>07:07 to February 5, 2025 07:54</td>
+                <td>February 10, 2025</td>
+                <td>07:03 AM to 06:57 PM</td>
               </tr>
               <tr>
-                <td>February 14, 2025</td>
-                <td>07:01 to February 14, 2025 10:43</td>
+                <td>February 17, 2025</td>
+                <td>06:58 AM to February 18, 2025 06:57 AM</td>
+              </tr>
+              <tr>
+                <td>February 19, 2025</td>
+                <td>06:56 AM to 07:32 AM</td>
+              </tr>
+              <tr>
+                <td>February 20, 2025</td>
+                <td>01:30 PM to February 21, 2025 06:54 AM</td>
+              </tr>
+              <tr>
+                <td>February 21, 2025</td>
+                <td>06:54 AM to 11:57 AM</td>
+              </tr>
+              <tr>
+                <td>February 26, 2025</td>
+                <td>06:49 AM to 11:08 AM</td>
               </tr>
             </tbody>
           </table>
@@ -175,16 +183,44 @@ const Car = () => {
             </thead>
             <tbody>
               <tr>
-                <td>March 1, 2025</td>
-                <td>06:46 to March 1, 2025 12:48</td>
+                <td>March 2, 2025</td>
+                <td>08:59 AM to 09:01 PM</td>
               </tr>
               <tr>
-                <td>March 15, 2025</td>
-                <td>04:08 to March 15, 2025 10:09</td>
+                <td>March 6, 2025</td>
+                <td>10:50 AM to March 7, 2025 06:40 AM</td>
               </tr>
               <tr>
-                <td>March 29, 2025</td>
-                <td>08:36 to March 30, 2025 06:13 (overnight)</td>
+                <td>March 7, 2025</td>
+                <td>06:40 AM to 09:18 AM</td>
+              </tr>
+              <tr>
+                <td>March 9, 2025</td>
+                <td>06:38 AM to March 10, 2025 06:36 AM</td>
+              </tr>
+              <tr>
+                <td>March 10, 2025</td>
+                <td>06:36 AM to 07:44 AM</td>
+              </tr>
+              <tr>
+                <td>March 16, 2025</td>
+                <td>04:58 PM to March 17, 2025 06:28 AM</td>
+              </tr>
+              <tr>
+                <td>March 17, 2025</td>
+                <td>06:28 AM to 07:33 PM</td>
+              </tr>
+              <tr>
+                <td>March 19, 2025</td>
+                <td>08:50 PM to March 20, 2025 06:25 AM</td>
+              </tr>
+              <tr>
+                <td>March 20, 2025</td>
+                <td>06:25 AM to 11:31 PM</td>
+              </tr>
+              <tr>
+                <td>March 27, 2025</td>
+                <td>06:17 AM to 11:03 PM</td>
               </tr>
             </tbody>
           </table>
@@ -198,12 +234,48 @@ const Car = () => {
             </thead>
             <tbody>
               <tr>
-                <td>April 12, 2025</td>
-                <td>01:11 to April 13, 2025 05:58</td>
+                <td>April 2, 2025</td>
+                <td>08:49 AM to April 3, 2025 06:09 AM</td>
               </tr>
               <tr>
-                <td>April 26, 2025</td>
-                <td>07:45 to April 27, 2025 03:40</td>
+                <td>April 3, 2025</td>
+                <td>06:09 AM to 09:41 PM</td>
+              </tr>
+              <tr>
+                <td>April 6, 2025</td>
+                <td>07:22 PM to April 7, 2025 06:04 AM</td>
+              </tr>
+              <tr>
+                <td>April 7, 2025</td>
+                <td>06:04 AM to 06:25 AM</td>
+              </tr>
+              <tr>
+                <td>April 13, 2025</td>
+                <td>05:58 AM to April 14, 2025 05:57 AM</td>
+              </tr>
+              <tr>
+                <td>April 14, 2025</td>
+                <td>05:57 AM to 08:25 AM</td>
+              </tr>
+              <tr>
+                <td>April 16, 2025</td>
+                <td>05:55 AM to 01:16 PM</td>
+              </tr>
+              <tr>
+                <td>April 21, 2025</td>
+                <td>12:37 PM to 06:58 PM</td>
+              </tr>
+              <tr>
+                <td>April 23, 2025</td>
+                <td>05:48 AM to April 24, 2025 05:47 AM</td>
+              </tr>
+              <tr>
+                <td>April 24, 2025</td>
+                <td>05:47 AM to 10:49 AM</td>
+              </tr>
+              <tr>
+                <td>April 30, 2025</td>
+                <td>05:41 AM to 02:12 PM</td>
               </tr>
             </tbody>
           </table>
@@ -217,12 +289,44 @@ const Car = () => {
             </thead>
             <tbody>
               <tr>
-                <td>May 23, 2025</td>
-                <td>09:15 to May 24, 2025 05:26</td>
+                <td>May 1, 2025</td>
+                <td>11:23 AM to 02:43 PM</td>
               </tr>
               <tr>
-                <td>May 31, 2025</td>
-                <td>05:24 to May 31, 2025 06:14</td>
+                <td>May 8, 2025</td>
+                <td>05:34 AM to 11:44 PM</td>
+              </tr>
+              <tr>
+                <td>May 9, 2025</td>
+                <td>12:26 AM to 04:59 AM</td>
+              </tr>
+              <tr>
+                <td>May 11, 2025</td>
+                <td>06:08 AM to May 12, 2025 06:08 AM</td>
+              </tr>
+              <tr>
+                <td>May 12, 2025</td>
+                <td>06:08 AM to 03:09 PM</td>
+              </tr>
+              <tr>
+                <td>May 13, 2025</td>
+                <td>10:17 PM to May 14, 2025 06:07 AM</td>
+              </tr>
+              <tr>
+                <td>May 14, 2025</td>
+                <td>06:07 AM to 08:50 AM</td>
+              </tr>
+              <tr>
+                <td>May 21, 2025</td>
+                <td>06:02 AM to May 22, 2025 06:01 AM</td>
+              </tr>
+              <tr>
+                <td>May 22, 2025</td>
+                <td>06:01 AM to 01:11 PM</td>
+              </tr>
+              <tr>
+                <td>May 28, 2025</td>
+                <td>05:57 AM to 01:42 PM</td>
               </tr>
             </tbody>
           </table>
@@ -236,16 +340,28 @@ const Car = () => {
             </thead>
             <tbody>
               <tr>
+                <td>June 4, 2025</td>
+                <td>05:53 AM to 09:16 AM</td>
+              </tr>
+              <tr>
+                <td>June 8, 2025</td>
+                <td>09:23 PM to June 9, 2025 05:51 AM</td>
+              </tr>
+              <tr>
                 <td>June 9, 2025</td>
-                <td>05:23 to June 9, 2025 03:44</td>
+                <td>05:51 AM to 08:13 PM</td>
               </tr>
               <tr>
-                <td>June 19, 2025</td>
-                <td>05:23 to June 20, 2025 05:24</td>
+                <td>June 17, 2025</td>
+                <td>06:01 AM to June 18, 2025 06:01 AM</td>
               </tr>
               <tr>
-                <td>June 27, 2025</td>
-                <td>05:26 to June 27, 2025 11:36</td>
+                <td>June 18, 2025</td>
+                <td>06:01 AM to 12:11 PM</td>
+              </tr>
+              <tr>
+                <td>June 24, 2025</td>
+                <td>05:58 AM to 01:42 PM</td>
               </tr>
             </tbody>
           </table>
@@ -259,12 +375,32 @@ const Car = () => {
             </thead>
             <tbody>
               <tr>
-                <td>July 3, 2025</td>
-                <td>07:10 to July 4, 2025 05:28</td>
+                <td>July 1, 2025</td>
+                <td>05:58 AM to 07:51 PM</td>
               </tr>
               <tr>
-                <td>July 26, 2025</td>
-                <td>02:30 to July 26, 2025 11:30</td>
+                <td>July 6, 2025</td>
+                <td>07:18 AM to July 7, 2025 05:58 AM</td>
+              </tr>
+              <tr>
+                <td>July 7, 2025</td>
+                <td>05:58 AM to 02:14 PM</td>
+              </tr>
+              <tr>
+                <td>July 14, 2025</td>
+                <td>05:59 AM to July 15, 2025 05:59 AM</td>
+              </tr>
+              <tr>
+                <td>July 15, 2025</td>
+                <td>05:59 AM to 02:18 PM</td>
+              </tr>
+              <tr>
+                <td>July 21, 2025</td>
+                <td>05:59 AM to 09:06 PM</td>
+              </tr>
+              <tr>
+                <td>July 28, 2025</td>
+                <td>05:59 AM to 06:39 PM</td>
               </tr>
             </tbody>
           </table>
@@ -278,12 +414,32 @@ const Car = () => {
             </thead>
             <tbody>
               <tr>
-                <td>August 9, 2025</td>
-                <td>05:47 to August 10, 2025 05:48</td>
+                <td>August 3, 2025</td>
+                <td>07:47 PM to August 4, 2025 05:59 AM</td>
               </tr>
               <tr>
-                <td>August 29, 2025</td>
-                <td>04:39 to August 30, 2025 01:37</td>
+                <td>August 4, 2025</td>
+                <td>05:59 AM to 03:01 PM</td>
+              </tr>
+              <tr>
+                <td>August 10, 2025</td>
+                <td>06:00 AM to August 11, 2025 05:59 AM</td>
+              </tr>
+              <tr>
+                <td>August 11, 2025</td>
+                <td>05:59 AM to 01:29 PM</td>
+              </tr>
+              <tr>
+                <td>August 17, 2025</td>
+                <td>05:59 AM to 02:57 PM</td>
+              </tr>
+              <tr>
+                <td>August 24, 2025</td>
+                <td>06:00 AM to 06:00 PM</td>
+              </tr>
+              <tr>
+                <td>August 30, 2025</td>
+                <td>06:00 AM to 01:10 PM</td>
               </tr>
             </tbody>
           </table>
@@ -298,7 +454,27 @@ const Car = () => {
             <tbody>
               <tr>
                 <td>September 6, 2025</td>
-                <td>06:02 to September 6, 2025 03:01</td>
+                <td>06:01 AM to 11:58 PM</td>
+              </tr>
+              <tr>
+                <td>September 7, 2025</td>
+                <td>12:50 AM to 02:37 PM</td>
+              </tr>
+              <tr>
+                <td>September 13, 2025</td>
+                <td>06:01 AM to September 14, 2025 06:01 AM</td>
+              </tr>
+              <tr>
+                <td>September 14, 2025</td>
+                <td>06:01 AM to 12:21 PM</td>
+              </tr>
+              <tr>
+                <td>September 21, 2025</td>
+                <td>06:01 AM to 02:20 PM</td>
+              </tr>
+              <tr>
+                <td>September 27, 2025</td>
+                <td>06:01 AM to 01:04 PM</td>
               </tr>
             </tbody>
           </table>
@@ -312,8 +488,24 @@ const Car = () => {
             </thead>
             <tbody>
               <tr>
-                <td>October 24, 2025</td>
-                <td>06:28 to October 25, 2025 01:58</td>
+                <td>October 4, 2025</td>
+                <td>06:01 AM to 03:16 PM</td>
+              </tr>
+              <tr>
+                <td>October 11, 2025</td>
+                <td>06:02 AM to October 12, 2025 06:02 AM</td>
+              </tr>
+              <tr>
+                <td>October 12, 2025</td>
+                <td>06:02 AM to 01:01 PM</td>
+              </tr>
+              <tr>
+                <td>October 18, 2025</td>
+                <td>06:03 AM to 02:59 PM</td>
+              </tr>
+              <tr>
+                <td>October 25, 2025</td>
+                <td>06:03 AM to 01:14 PM</td>
               </tr>
             </tbody>
           </table>
@@ -327,8 +519,28 @@ const Car = () => {
             </thead>
             <tbody>
               <tr>
-                <td>November 20, 2025</td>
-                <td>06:48 to November 21, 2025 06:49</td>
+                <td>November 1, 2025</td>
+                <td>06:04 AM to 01:36 PM</td>
+              </tr>
+              <tr>
+                <td>November 8, 2025</td>
+                <td>06:05 AM to November 9, 2025 06:05 AM</td>
+              </tr>
+              <tr>
+                <td>November 9, 2025</td>
+                <td>06:05 AM to 11:57 AM</td>
+              </tr>
+              <tr>
+                <td>November 15, 2025</td>
+                <td>06:06 AM to 03:02 PM</td>
+              </tr>
+              <tr>
+                <td>November 22, 2025</td>
+                <td>06:07 AM to 02:34 PM</td>
+              </tr>
+              <tr>
+                <td>November 28, 2025</td>
+                <td>06:08 AM to 11:37 PM</td>
               </tr>
             </tbody>
           </table>
@@ -342,12 +554,24 @@ const Car = () => {
             </thead>
             <tbody>
               <tr>
-                <td>December 18, 2025</td>
-                <td>07:08 to December 18, 2025 10:06</td>
+                <td>December 6, 2025</td>
+                <td>06:10 AM to December 7, 2025 06:10 AM</td>
               </tr>
               <tr>
-                <td>December 25, 2025</td>
-                <td>07:12 to December 26, 2025 07:12</td>
+                <td>December 7, 2025</td>
+                <td>06:10 AM to 01:12 PM</td>
+              </tr>
+              <tr>
+                <td>December 13, 2025</td>
+                <td>06:11 AM to 02:50 PM</td>
+              </tr>
+              <tr>
+                <td>December 20, 2025</td>
+                <td>06:13 AM to 02:01 PM</td>
+              </tr>
+              <tr>
+                <td>December 27, 2025</td>
+                <td>06:14 AM to 01:27 PM</td>
               </tr>
             </tbody>
           </table>

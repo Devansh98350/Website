@@ -146,37 +146,35 @@ const Annanprashan = () => {
             partake in this important milestone.
           </p>
           <h3>Shubh Muhurat for Annaprashan Sanskar in January 2025</h3>
-          <table>
-            <table border="1" style={{ width: "100%", height: "auto" }}>
-              <thead>
-                <tr>
-                  <th>Date</th>
-                  <th>Muhurat Timing</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>January 3, 2025 Wednesday</td>
-                  <td>Morning: 07:45 AM - 10:17 AM</td>
-                </tr>
-                <tr>
-                  <td>January 12, 2025 Friday</td>
-                  <td>Evening: 06:20 PM - Night: 10:57 PM</td>
-                </tr>
-                <tr>
-                  <td>January 15, 2025 Monday</td>
-                  <td>Morning: 07:46 AM - 09:30 AM</td>
-                </tr>
-                <tr>
-                  <td>January 17, 2025 Wednesday</td>
-                  <td>Morning: 07:46 AM - Afternoon: 12:15 PM</td>
-                </tr>
-                <tr>
-                  <td>January 25, 2025 Thursday</td>
-                  <td>Afternoon: 01:19 PM - Evening: 07:49 PM</td>
-                </tr>
-              </tbody>
-            </table>
+          <table border="1" style={{ width: "100%", height: "auto" }}>
+            <thead>
+              <tr>
+                <th>Date</th>
+                <th>Muhurat Timing</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>January 1, 2025, Wednesday</td>
+                <td>7:14 AM to 8:10 AM</td>
+              </tr>
+              <tr>
+                <td>January 2, 2025, Thursday</td>
+                <td>7:14 AM to 8:06 AM</td>
+              </tr>
+              <tr>
+                <td>January 8, 2025, Wednesday</td>
+                <td>3:48 PM to 4:29 PM</td>
+              </tr>
+              <tr>
+                <td>January 15, 2025, Wednesday</td>
+                <td>7:15 AM to 10:24 AM</td>
+              </tr>
+              <tr>
+                <td>January 31, 2025, Friday</td>
+                <td>7:10 AM to 7:54 AM</td>
+              </tr>
+            </tbody>
           </table>
           <h3>Shubh Muhurat for Annaprashan in February 2025</h3>
           <table>
@@ -189,28 +187,16 @@ const Annanprashan = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>February 2, 2025 Friday</td>
-                  <td>Morning: 07:40 AM - 09:47 AM</td>
+                  <td>February 7, 2025, Friday</td>
+                  <td>7:06 AM to 8:54 AM</td>
                 </tr>
                 <tr>
-                  <td>February 8, 2025 Thursday</td>
-                  <td>Morning: 07:56 AM - Afternoon: 12:24 PM</td>
+                  <td>February 10, 2025, Monday</td>
+                  <td>7:33 AM to 8:42 AM</td>
                 </tr>
                 <tr>
-                  <td>February 12, 2025 Monday</td>
-                  <td>Evening: 04:18 PM - Evening: 06:38 PM</td>
-                </tr>
-                <tr>
-                  <td>February 14, 2025 Wednesday</td>
-                  <td>Morning: 07:32 AM - 10:25 AM</td>
-                </tr>
-                <tr>
-                  <td>February 19, 2025 Monday</td>
-                  <td>Morning: 07:28 AM - 08:40 AM</td>
-                </tr>
-                <tr>
-                  <td>February 21, 2025 Wednesday</td>
-                  <td>Afternoon: 01:28 PM - Evening: 06:03 PM</td>
+                  <td>February 17, 2025, Monday</td>
+                  <td>3:25 PM to 4:42 PM</td>
                 </tr>
               </tbody>
             </table>
@@ -226,16 +212,12 @@ const Annanprashan = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>March 8, 2025 Friday</td>
-                  <td>Morning: 07:29 AM - Afternoon: 12:25 PM</td>
+                  <td>March 6, 2025, Thursday</td>
+                  <td>6:41 AM to 7:08 AM</td>
                 </tr>
                 <tr>
-                  <td>March 11, 2025 Monday</td>
-                  <td>Afternoon: 12:13 PM - Evening: 04:48 PM</td>
-                </tr>
-                <tr>
-                  <td>March 27, 2025 Wednesday</td>
-                  <td>Morning: 07:40 AM - Afternoon: 01:25 PM</td>
+                  <td>March 24, 2025, Monday</td>
+                  <td>1:57 PM to 3:28 PM</td>
                 </tr>
               </tbody>
             </table>
@@ -251,12 +233,12 @@ const Annanprashan = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>April 15, 2025 Monday</td>
-                  <td>Morning: 06:26 AM to 12:10 PM</td>
+                  <td>April 2, 2025, Wednesday</td>
+                  <td>12:32 PM to 2:52 PM</td>
                 </tr>
                 <tr>
-                  <td>April 26, 2025 Friday</td>
-                  <td>Morning: 07:17 AM to 01:47 PM</td>
+                  <td>April 10, 2025, Thursday</td>
+                  <td>12:24 PM to 2:21 PM</td>
                 </tr>
               </tbody>
             </table>
@@ -272,32 +254,12 @@ const Annanprashan = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>May 3, 2025 Friday</td>
-                  <td>Morning: 06:49 AM to 11:00 AM</td>
+                  <td>May 14, 2025, Wednesday</td>
+                  <td>5:37 AM to 7:32 AM</td>
                 </tr>
                 <tr>
-                  <td>May 6, 2025 Monday</td>
-                  <td>Morning: 06:38 AM to 01:08 PM</td>
-                </tr>
-                <tr>
-                  <td>May 9, 2025 Thursday</td>
-                  <td>Afternoon: 12:56 PM to Evening: 05:30 PM</td>
-                </tr>
-                <tr>
-                  <td>May 20, 2025 Monday</td>
-                  <td>Night: 09:25 PM to 11:29 PM</td>
-                </tr>
-                <tr>
-                  <td>May 23, 2025 Thursday</td>
-                  <td>Afternoon: 02:19 PM to Night: 09:13 PM</td>
-                </tr>
-                <tr>
-                  <td>May 27, 2025 Monday</td>
-                  <td>Evening: 06:39 PM to Night: 11:01 PM</td>
-                </tr>
-                <tr>
-                  <td>May 30, 2025 Thursday</td>
-                  <td>Morning: 59 AM to 09:13 AM</td>
+                  <td>May 28, 2025, Wednesday</td>
+                  <td>9:20 AM to 11:12 AM</td>
                 </tr>
               </tbody>
             </table>
@@ -313,24 +275,24 @@ const Annanprashan = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>June 10, 2025 Monday</td>
-                  <td>5:44 PM to 8:02 PM</td>
+                  <td>June 5, 2025, Thursday</td>
+                  <td>5:23 AM to 6:06 AM</td>
                 </tr>
                 <tr>
-                  <td>June 19, 2025 Wednesday</td>
-                  <td>9:31 PM to 11:13 PM</td>
+                  <td>June 16, 2025, Monday</td>
+                  <td>2:31 PM to 3:07 PM</td>
                 </tr>
                 <tr>
-                  <td>June 20, 2025 Thursday</td>
-                  <td>5:55 AM to 10:11 AM</td>
+                  <td>June 20, 2025, Friday</td>
+                  <td>2:15 PM to 4:35 PM</td>
                 </tr>
                 <tr>
-                  <td>June 24, 2025 Monday</td>
-                  <td>7:35 AM to 2:29 PM</td>
+                  <td>June 23, 2025, Monday</td>
+                  <td>6:42 PM to 7:22 PM</td>
                 </tr>
                 <tr>
-                  <td>June 26, 2025 Wednesday</td>
-                  <td>9:48 AM to 4:41 PM</td>
+                  <td>June 26, 2025, Thursday</td>
+                  <td>6:30 PM to 7:23 PM</td>
                 </tr>
               </tbody>
             </table>
@@ -346,20 +308,20 @@ const Annanprashan = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>Friday, July 12, 2025</td>
-                  <td>3:38 PM to 9:43 PM</td>
+                  <td>July 2, 2025 Wednesday</td>
+                  <td>6:34 AM - 8:55 AM</td>
                 </tr>
                 <tr>
-                  <td>Monday, July 15, 2025</td>
-                  <td>9:31 PM to 10:58 PM</td>
+                  <td>July 4, 2025 Friday</td>
+                  <td>5:58 PM - 7:23 PM</td>
                 </tr>
                 <tr>
-                  <td>Monday, July 22, 2025</td>
-                  <td>2:58 PM to 9:03 PM</td>
+                  <td>July 17, 2025 Thursday</td>
+                  <td>5:46 PM - 7:08 PM</td>
                 </tr>
                 <tr>
-                  <td>Thursday, July 25, 2025</td>
-                  <td>7:09 PM to 10:19 PM</td>
+                  <td>July 31, 2025 Thursday</td>
+                  <td>5:42 AM - 7:16 AM</td>
                 </tr>
               </tbody>
             </table>
@@ -375,36 +337,28 @@ const Annanprashan = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>August 2, 2025, Friday</td>
-                  <td>From 11:56 AM to 2:15 PM</td>
+                  <td>August 4, 2025 Monday</td>
+                  <td>5:44 AM - 9:02 AM</td>
                 </tr>
                 <tr>
-                  <td>August 7, 2025, Wednesday</td>
-                  <td>From 9:28 PM to 10:36 PM</td>
+                  <td>August 11, 2025 Monday</td>
+                  <td>6:17 AM - 8:35 AM</td>
                 </tr>
                 <tr>
-                  <td>August 9, 2025, Friday</td>
-                  <td>From 6:55 AM to 11:28 AM</td>
+                  <td>August 20, 2025 Wednesday</td>
+                  <td>4:58 PM - 6:13 PM</td>
                 </tr>
                 <tr>
-                  <td>August 12, 2025, Monday</td>
-                  <td>From 6:43 AM to 9:00 AM</td>
+                  <td>August 25, 2025 Monday</td>
+                  <td>4:38 PM - 6:20 PM</td>
                 </tr>
                 <tr>
-                  <td>August 14, 2025, Wednesday</td>
-                  <td>From 11:09 AM to 1:28 PM</td>
+                  <td>August 27, 2025 Wednesday</td>
+                  <td>4:44 PM - 6:12 PM</td>
                 </tr>
                 <tr>
-                  <td>August 19, 2025, Monday</td>
-                  <td>From 3:27 PM to 7:13 PM</td>
-                </tr>
-                <tr>
-                  <td>August 23, 2025, Friday</td>
-                  <td>From 12:53 PM to 3:11 PM</td>
-                </tr>
-                <tr>
-                  <td>August 28, 2025, Wednesday</td>
-                  <td>From 6:28 AM to 12:33 PM</td>
+                  <td>August 28, 2025 Thursday</td>
+                  <td>5:57 AM - 7:28 AM</td>
                 </tr>
               </tbody>
             </table>
@@ -420,20 +374,8 @@ const Annanprashan = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>September 4, 2025, Wednesday</td>
-                  <td>From 12:05 PM to 6:10 PM</td>
-                </tr>
-                <tr>
-                  <td>September 5, 2025, Thursday</td>
-                  <td>From 7:26 AM to 9:42 AM</td>
-                </tr>
-                <tr>
-                  <td>September 6, 2025, Friday</td>
-                  <td>From 7:22 AM to 9:38 AM</td>
-                </tr>
-                <tr>
-                  <td>September 16, 2025, Monday</td>
-                  <td>From 6:42 AM to 11:18 AM</td>
+                  <td>September 5, 2025 Friday</td>
+                  <td>6:01 AM - 6:56 AM</td>
                 </tr>
               </tbody>
             </table>
@@ -449,28 +391,16 @@ const Annanprashan = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>October 4, 2025, Friday</td>
-                  <td>From 6:47 AM to 10:08 AM</td>
+                  <td>October 2, 2025 Thursday</td>
+                  <td>7:27 AM - 9:46 AM</td>
                 </tr>
                 <tr>
-                  <td>October 7, 2025, Monday</td>
-                  <td>From 2:18 PM to 6:53 PM</td>
+                  <td>October 8, 2025 Wednesday</td>
+                  <td>7:03 AM - 9:22 AM</td>
                 </tr>
                 <tr>
-                  <td>October 17, 2025, Thursday</td>
-                  <td>From 7:18 AM to 11:35 AM</td>
-                </tr>
-                <tr>
-                  <td>October 21, 2025, Monday</td>
-                  <td>From 9:01 PM to 3:05 PM</td>
-                </tr>
-                <tr>
-                  <td>October 23, 2025, Wednesday</td>
-                  <td>From 2:58 PM to 4:25 PM</td>
-                </tr>
-                <tr>
-                  <td>October 30, 2025, Wednesday</td>
-                  <td>From 8:25 AM to 2:30 PM</td>
+                  <td>October 8, 2025 Wednesday</td>
+                  <td>3:27 PM - 4:55 PM</td>
                 </tr>
               </tbody>
             </table>
@@ -486,40 +416,12 @@ const Annanprashan = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>November 4, 2025, Monday</td>
-                  <td>From 7:07 AM to 10:24 AM</td>
+                  <td>November 3, 2025 Monday</td>
+                  <td>9:59 AM - 12:03 PM</td>
                 </tr>
                 <tr>
-                  <td>November 8, 2025, Friday</td>
-                  <td>From 7:50 AM to 1:55 PM</td>
-                </tr>
-                <tr>
-                  <td>November 11, 2025, Monday</td>
-                  <td>From 9:57 AM to 12:xx PM</td>
-                </tr>
-                <tr>
-                  <td>November 13, 2025, Wednesday</td>
-                  <td>From 1:35 PM to 4:27 PM</td>
-                </tr>
-                <tr>
-                  <td>November 14, 2025, Thursday</td>
-                  <td>From 7:26 AM to 11:49 AM</td>
-                </tr>
-                <tr>
-                  <td>November 20, 2025, Wednesday</td>
-                  <td>From 11:25 AM to 4:00 PM</td>
-                </tr>
-                <tr>
-                  <td>November 25, 2025, Monday</td>
-                  <td>From 7:23 AM to 12:48 PM</td>
-                </tr>
-                <tr>
-                  <td>November 28, 2025, Thursday</td>
-                  <td>From 8:50 AM to 2:04 PM</td>
-                </tr>
-                <tr>
-                  <td>November 29, 2025, Friday</td>
-                  <td>From 8:46 AM to 10:50 AM</td>
+                  <td>November 27, 2025 Thursday</td>
+                  <td>8:24 AM - 10:28 AM</td>
                 </tr>
               </tbody>
             </table>
@@ -535,16 +437,28 @@ const Annanprashan = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>December 5, 2025, Thursday</td>
-                  <td>From 1:36 PM to 6:32 PM</td>
+                  <td>December 8, 2025 Monday</td>
+                  <td>4:03 PM - 5:24 PM</td>
                 </tr>
                 <tr>
-                  <td>December 6, 2025, Friday</td>
-                  <td>From 7:32 AM to 12:05 PM</td>
+                  <td>December 17, 2025 Wednesday</td>
+                  <td>5:11 PM - 5:15 PM</td>
                 </tr>
                 <tr>
-                  <td>December 25, 2025, Wednesday</td>
-                  <td>From 7:43 AM to 10:50 AM</td>
+                  <td>December 22, 2025 Monday</td>
+                  <td>3:00 PM - 4:41 PM</td>
+                </tr>
+                <tr>
+                  <td>December 24, 2025 Wednesday</td>
+                  <td>2:52 PM - 4:02 PM</td>
+                </tr>
+                <tr>
+                  <td>December 25, 2025 Thursday</td>
+                  <td>7:12 AM - 10:21 AM</td>
+                </tr>
+                <tr>
+                  <td>December 29, 2025 Monday</td>
+                  <td>10:12 AM - 11:32 AM</td>
                 </tr>
               </tbody>
             </table>

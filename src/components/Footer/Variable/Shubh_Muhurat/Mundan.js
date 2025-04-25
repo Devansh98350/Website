@@ -125,8 +125,6 @@ const Mundan = () => {
             tables.
           </p>
           <h3>Mundan Muhurat in January 2025</h3>
-          <p>There are no Muhurat in January 2025 for the Mundan Ceremony.</p>
-          <h3>Mundan Muhurat in February 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -134,71 +132,24 @@ const Mundan = () => {
                   <th>Day & Date</th>
                   <th>Time</th>
                   <th>Nakshatra</th>
+                  <th>Tithi</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td>Wednesday, February 14</td>
-                  <td>10:43 AM - 12:10 PM</td>
-                  <td>Ashwini</td>
-                </tr>
-                <tr>
-                  <td>Monday, February 19</td>
-                  <td>06:33 AM - 10:33 AM</td>
-                  <td>Mrigashirsha</td>
-                </tr>
-                <tr>
-                  <td>Wednesday, February 21</td>
-                  <td>11:28 AM - 01:22 PM</td>
-                  <td>Punarvasu</td>
-                </tr>
-                <tr>
-                  <td>Tuesday, February 27</td>
-                  <td>04:30 AM - 06:29 AM</td>
-                  <td>Hasta</td>
-                </tr>
-                <tr>
-                  <td>Thursday, February 29</td>
-                  <td>04:19 AM - 06:22 AM</td>
-                  <td>Chitra</td>
-                </tr>
-              </tbody>
-            </table>
-          </table>
-          <h3>Mundan Muhurat in March 2025</h3>
-          <table>
-            <table border="1" style={{ width: "100%", height: "auto" }}>
-              <thead>
-                <tr>
-                  <th>Day & Date</th>
-                  <th>Time</th>
-                  <th>Nakshatra</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>Friday, March 8</td>
-                  <td>01:20 AM - 09:58 PM</td>
-                  <td>Shravana</td>
-                </tr>
-                <tr>
-                  <td>Monday, March 18</td>
-                  <td>10:49 PM - 06:17 AM</td>
-                  <td>Punarvasu</td>
-                </tr>
-                <tr>
-                  <td>Wednesday, March 20</td>
-                  <td>06:16 AM - 01:19 PM</td>
+                  <td>Wednesday, January 15</td>
+                  <td>10:24 AM - 10:28 AM</td>
                   <td>Pushya</td>
-                </tr>
-                <tr>
-                  <td>Wednesday, March 27</td>
-                  <td>06:11 AM - 06:05 AM</td>
-                  <td>Chitra</td>
+                  <td>Dwitiya</td>
                 </tr>
               </tbody>
             </table>
           </table>
+
+          <h3>Mundan Muhurat in February 2025</h3>
+          <p>There are no Muhurat in February 2025 for the Mundan Ceremony</p>
+          <h3>Mundan Muhurat in March 2025</h3>
+          <p>There are no Muhurat in March 2025 for the Mundan Ceremony</p>
           <h3>Mundan Muhurat in April 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
@@ -207,141 +158,26 @@ const Mundan = () => {
                   <th>Day & Date</th>
                   <th>Time</th>
                   <th>Nakshatra</th>
+                  <th>Tithi</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td>Wednesday, April 3</td>
-                  <td>09:47 PM - 05:26 AM</td>
-                  <td>Shravana</td>
-                </tr>
-                <tr>
-                  <td>Thursday, April 4</td>
-                  <td>04:14 PM - 01:29 PM</td>
-                  <td>Shravana</td>
-                </tr>
-                <tr>
-                  <td>Monday, April 15</td>
-                  <td>05:59 AM - 12:12 PM</td>
-                  <td>Punarvasu</td>
+                  <td>Thursday, April 24</td>
+                  <td>06:55 AM - 08:51 AM</td>
+                  <td>Shatabhisha</td>
+                  <td>Ekadashi</td>
                 </tr>
               </tbody>
             </table>
           </table>
+
           <h3>Mundan Muhurat in May 2025</h3>
-          <table>
-            <table border="1" style={{ width: "100%", height: "auto" }}>
-              <thead>
-                <tr>
-                  <th>Day & Date</th>
-                  <th>Time</th>
-                  <th>Nakshatra</th>
-                </tr>
-              </thead>
-              <tbody>
-                {" "}
-                <tr>
-                  <td>Friday, May 3</td>
-                  <td>01:53 AM - 12:41 PM</td>
-                  <td>Shatabhisha</td>
-                </tr>
-                <tr>
-                  <td>Friday, May 3</td>
-                  <td>11:24 PM - 12:06 AM</td>
-                  <td>Shatabhisha</td>
-                </tr>
-                <tr>
-                  <td>Friday, May 10</td>
-                  <td>10:47 AM - 02:50 AM</td>
-                  <td>Mrigashirsha</td>
-                </tr>
-                <tr>
-                  <td>Tuesday, May 14</td>
-                  <td>02:50 AM - 05:47 AM</td>
-                  <td>Pushya</td>
-                </tr>
-                <tr>
-                  <td>Monday, May 20</td>
-                  <td>03:59 PM - 05:45 AM</td>
-                  <td>Chitra</td>
-                </tr>
-                <tr>
-                  <td>Friday, May 24</td>
-                  <td>07:25 PM - 05:45 AM</td>
-                  <td>Jyeshta</td>
-                </tr>
-              </tbody>
-            </table>
-          </table>
+          <p>There are no Muhurat in May 2025 for the Mundan Ceremony</p>
           <h3>Mundan Muhurat in June 2025</h3>
-          <table>
-            <table border="1" style={{ width: "100%", height: "auto" }}>
-              <thead>
-                <tr>
-                  <th>Day & Date</th>
-                  <th>Time</th>
-                  <th>Nakshatra</th>
-                </tr>
-              </thead>
-              <tbody>
-                {" "}
-                <tr>
-                  <td>Friday, June 7</td>
-                  <td>04:45 PM - 07:43 PM</td>
-                  <td>Mrigashirsha</td>
-                </tr>
-                <tr>
-                  <td>Monday, June 10</td>
-                  <td>04:15 PM - 09:39 PM</td>
-                  <td>Pushya</td>
-                </tr>
-                <tr>
-                  <td>Monday, June 17</td>
-                  <td>05:46 AM - 05:39 PM</td>
-                  <td>Chitra</td>
-                </tr>
-                <tr>
-                  <td>Wednesday, June 26</td>
-                  <td>05:48 AM - 08:55 PM</td>
-                  <td>Dhanishta</td>
-                </tr>
-              </tbody>
-            </table>
-          </table>
+          <p>There are no Muhurat in June 2025 for the Mundan Ceremony</p>
           <h3>Mundan Muhurat in July 2025</h3>
-          <table>
-            <table border="1" style={{ width: "100%", height: "auto" }}>
-              <thead>
-                <tr>
-                  <th>Day & Date</th>
-                  <th>Time</th>
-                  <th>Nakshatra</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>Thursday, Jul 4</td>
-                  <td>04:07 AM - 05:54 AM</td>
-                  <td>Mrigashirsha</td>
-                </tr>
-                <tr>
-                  <td>Monday, Jul 8</td>
-                  <td>05:51 AM - 06:02 AM</td>
-                  <td>Pushya</td>
-                </tr>
-                <tr>
-                  <td>Friday, Jul 12</td>
-                  <td>04:08 PM - 05:53 AM</td>
-                  <td>Hasta</td>
-                </tr>
-                <tr>
-                  <td>Monday, Jul 15</td>
-                  <td>07:19 PM - 12:29 AM</td>
-                  <td>Swati</td>
-                </tr>
-              </tbody>
-            </table>
-          </table>
+          <p>There are no Muhurat in July 2025 for the Mundan Ceremony</p>
           <h3>Mundan Muhurat in August 2025</h3>
           <p>There are no Muhurat in August 2025 for the Mundan Ceremony</p>
           <h3>Mundan Muhurat in September 2025</h3>

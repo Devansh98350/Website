@@ -141,123 +141,196 @@ const Griha_Pravesh = () => {
             beginning for your family.
           </p>
           <h3>Griha Pravesh Muhurats in January 2025</h3>
-          <table>
-            <table border="1" style={{ width: "100%", height: "auto" }}>
-              <thead>
-                <tr>
-                  <th>Date</th>
-                  <th>Time</th>
-                  <th>Nakshatra</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>Jan 3, 2025</td>
-                  <td>7:14 AM To 2:46 PM</td>
-                  <td>Uttara Phalguni</td>
-                </tr>
-              </tbody>
-            </table>
-          </table>
+          <p>There are no auspicious days for Griha Pravesh in January 2025.</p>
           <h3>Griha Pravesh Muhurats in February 2025</h3>
-          <table>
-            <table border="1" style={{ width: "100%", height: "auto" }}>
-              <thead>
-                <tr>
-                  <th>Day & Date</th>
-                  <th>Time</th>
-                  <th>Nakshatra</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>Feb 12, 2025</td>
-                  <td>2:56 PM TO 5:44 PM</td>
-                  <td>Uttara Bhadrapada</td>
-                </tr>
-                <tr>
-                  <td>Feb 14, 2025</td>
-                  <td>7:01 AM TO 10:43 AM</td>
-                  <td>Revati</td>
-                </tr>
-                <tr>
-                  <td>Feb 19, 2025</td>
-                  <td>6:57 AM TO 10:33 AM</td>
-                  <td>Mrigashirsha</td>
-                </tr>
-                <tr>
-                  <td>Feb 26, 2025</td>
-                  <td>6:50 AM TO 4:30 AM</td>
-                  <td>Uttara Phalguni</td>
-                </tr>
-                <tr>
-                  <td>Feb 28, 2025</td>
-                  <td>4:18 AM TO 6:47 AM</td>
-                  <td>Chitra</td>
-                </tr>
-                <tr>
-                  <td>Feb 29, 2025</td>
-                  <td>6:47 AM TO 10:22 AM</td>
-                  <td>Chitra</td>
-                </tr>
-              </tbody>
-            </table>
+          <table border="1" style={{ width: "100%", height: "auto" }}>
+            <thead>
+              <tr>
+                <th>Day & Date</th>
+                <th>Time</th>
+                <th>Nakshatra</th>
+                <th>Tithi</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Feb 6, 2025 (Thursday)</td>
+                <td>10:53 PM to 7:06 AM (Feb 7)</td>
+                <td>Rohini</td>
+                <td>Dashami</td>
+              </tr>
+              <tr>
+                <td>Feb 7, 2025 (Friday)</td>
+                <td>7:06 AM to 7:05 AM (Feb 8)</td>
+                <td>Rohini, Mrigashira</td>
+                <td>Dashami, Ekadashi</td>
+              </tr>
+              <tr>
+                <td>Feb 8, 2025 (Saturday)</td>
+                <td>7:05 AM to 6:07 PM</td>
+                <td>Mrigashira</td>
+                <td>Ekadashi</td>
+              </tr>
+              <tr>
+                <td>Feb 14, 2025 (Friday)</td>
+                <td>11:09 PM to 6:59 AM (Feb 15)</td>
+                <td>Uttara Phalguni</td>
+                <td>Tritiya</td>
+              </tr>
+              <tr>
+                <td>Feb 15, 2025 (Saturday)</td>
+                <td>6:59 AM to 11:52 PM</td>
+                <td>Uttara Phalguni</td>
+                <td>Tritiya</td>
+              </tr>
+              <tr>
+                <td>Feb 17, 2025 (Monday)</td>
+                <td>6:58 AM to 4:53 AM (Feb 18)</td>
+                <td>Chitra</td>
+                <td>Panchami</td>
+              </tr>
+            </tbody>
           </table>
+
           <h3>Griha Pravesh Muhurats in March 2025</h3>
-          <table>
-            <table border="1" style={{ width: "100%", height: "auto" }}>
-              <thead>
-                <tr>
-                  <th>Day & Date</th>
-                  <th>Time</th>
-                  <th>Nakshatra</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>March 2, 2025</td>
-                  <td>2:42 PM TO 6:44 AM</td>
-                  <td>Anuradha</td>
-                </tr>
-                <tr>
-                  <td>March 6, 2025</td>
-                  <td>2:52 PM TO 4:13 AM</td>
-                  <td>Uttara Ashadha</td>
-                </tr>
-                <tr>
-                  <td>March 11, 2025</td>
-                  <td>10:44 AM TO 6:34 AM</td>
-                  <td>Uttara Bhadrapada, Revati</td>
-                </tr>
-                <tr>
-                  <td>March 15, 2025</td>
-                  <td>10:09 PM TO 6:39 AM</td>
-                  <td>Rohini</td>
-                </tr>
-                <tr>
-                  <td>March 16, 2025</td>
-                  <td>6:29 AM TO 9:38 PM</td>
-                  <td>Rohini, Mrigashirsha</td>
-                </tr>
-                <tr>
-                  <td>March 27, 2025</td>
-                  <td>6:17 AM TO 4:16 PM</td>
-                  <td>Chitra</td>
-                </tr>
-                <tr>
-                  <td>March 29, 2025</td>
-                  <td>8:36 PM TO 6:13 AM</td>
-                  <td>Anuradha</td>
-                </tr>
-                <tr>
-                  <td>March 30, 2025</td>
-                  <td>6:13 AM TO 9:13 AM</td>
-                  <td>Anuradha</td>
-                </tr>
-              </tbody>
-            </table>
+          <table border="1" style={{ width: "100%", height: "auto" }}>
+            <thead>
+              <tr>
+                <th>Day & Date</th>
+                <th>Time</th>
+                <th>Nakshatra</th>
+                <th>Tithi</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Mar 1, 2025 (Saturday)</td>
+                <td>11:22 AM to 6:45 AM (Mar 2)</td>
+                <td>Uttarabhadrapada</td>
+                <td>Dvitiya, Tritiya</td>
+              </tr>
+              <tr>
+                <td>Mar 5, 2025 (Wednesday)</td>
+                <td>1:08 AM to 6:41 AM (Mar 6)</td>
+                <td>Rohini</td>
+                <td>Saptami</td>
+              </tr>
+              <tr>
+                <td>Mar 6, 2025 (Thursday)</td>
+                <td>6:41 AM to 10:50 AM</td>
+                <td>Rohini</td>
+                <td>Saptami</td>
+              </tr>
+              <tr>
+                <td>Mar 14, 2025 (Friday)</td>
+                <td>12:23 PM to 6:31 AM (Mar 15)</td>
+                <td>Uttaraphalguni</td>
+                <td>Pratipada</td>
+              </tr>
+              <tr>
+                <td>Mar 15, 2025 (Saturday)</td>
+                <td>6:31 AM to 8:54 AM</td>
+                <td>Uttaraphalguni</td>
+                <td>Pratipada</td>
+              </tr>
+            </tbody>
           </table>
+
           <h3>Griha Pravesh Muhurats in April 2025</h3>
+          <table border="1" style={{ width: "100%", height: "auto" }}>
+            <thead>
+              <tr>
+                <th>Day & Date</th>
+                <th>Time</th>
+                <th>Nakshatra</th>
+                <th>Tithi</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Apr 30, 2025 (Wednesday)</td>
+                <td>5:41 AM to 2:12 PM</td>
+                <td>Rohini</td>
+                <td>Tritiya</td>
+              </tr>
+            </tbody>
+          </table>
+
+          <h3>Griha Pravesh Muhurats in May 2025</h3>
+          <table border="1" style={{ width: "100%", height: "auto" }}>
+            <thead>
+              <tr>
+                <th>Day & Date</th>
+                <th>Time</th>
+                <th>Nakshatra</th>
+                <th>Tithi</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>May 1, 2025 (Thursday)</td>
+                <td>11:23 AM to 2:21 PM</td>
+                <td>Mrigashira</td>
+                <td>Panchami</td>
+              </tr>
+              <tr>
+                <td>May 7, 2025 (Wednesday)</td>
+                <td>6:17 PM to 5:35 AM (May 8)</td>
+                <td>Uttara Phalguni</td>
+                <td>Ekadashi</td>
+              </tr>
+              <tr>
+                <td>May 8, 2025 (Thursday)</td>
+                <td>5:35 AM to 12:29 PM</td>
+                <td>Uttara Phalguni</td>
+                <td>Ekadashi</td>
+              </tr>
+              <tr>
+                <td>May 9, 2025 (Friday)</td>
+                <td>12:09 AM to 5:33 AM (May 10)</td>
+                <td>Chitra</td>
+                <td>Trayodashi</td>
+              </tr>
+              <tr>
+                <td>May 10, 2025 (Saturday)</td>
+                <td>5:33 AM to 5:29 PM</td>
+                <td>Chitra</td>
+                <td>Trayodashi</td>
+              </tr>
+              <tr>
+                <td>May 14, 2025 (Wednesday)</td>
+                <td>5:31 AM to 11:47 AM</td>
+                <td>Anuradha</td>
+                <td>Dwitiya</td>
+              </tr>
+              <tr>
+                <td>May 17, 2025 (Saturday)</td>
+                <td>5:44 PM to 5:29 AM (May 18)</td>
+                <td>Uttarashadha</td>
+                <td>Panchami</td>
+              </tr>
+              <tr>
+                <td>May 22, 2025 (Thursday)</td>
+                <td>5:47 PM to 5:26 AM (May 23)</td>
+                <td>Uttarabhadrapada</td>
+                <td>Dashami, Ekadashi</td>
+              </tr>
+              <tr>
+                <td>May 23, 2025 (Friday)</td>
+                <td>5:26 AM to 10:29 PM</td>
+                <td>Uttarabhadrapada, Revati</td>
+                <td>Ekadashi</td>
+              </tr>
+              <tr>
+                <td>May 28, 2025 (Wednesday)</td>
+                <td>5:25 AM to 12:29 AM (May 29)</td>
+                <td>Mrigashira</td>
+                <td>Dwitiya</td>
+              </tr>
+            </tbody>
+          </table>
+
+          <h3>Griha Pravesh Muhurats in June 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
               <thead>
@@ -265,22 +338,26 @@ const Griha_Pravesh = () => {
                   <th>Day & Date</th>
                   <th>Time</th>
                   <th>Nakshatra</th>
+                  <th>Tithi</th>
                 </tr>
               </thead>
               <tbody>
-                {" "}
                 <tr>
-                  <td>April 3, 2025</td>
-                  <td>6:29 PM TO 9:47 PM</td>
-                  <td>Uttara Ashadha</td>
+                  <td>June 4, 2025 (Wednesday)</td>
+                  <td>11:54 PM to 3:35 AM, June 5</td>
+                  <td>Uttara Phalguni</td>
+                  <td>Dashami</td>
+                </tr>
+                <tr>
+                  <td>June 6, 2025 (Friday)</td>
+                  <td>6:34 AM to 4:47 AM, June 7</td>
+                  <td>Chitra</td>
+                  <td>Ekadashi</td>
                 </tr>
               </tbody>
             </table>
           </table>
-          <h3>Griha Pravesh Muhurats in May 2025</h3>
-          <p>There’s no Shubh Muhurat in May 2025.</p>
-          <h3>Griha Pravesh Muhurats in June 2025</h3>
-          <p>There’s no Shubh Muhurat in June 2025.</p>
+
           <h3>Griha Pravesh Muhurats in July 2025</h3>
           <p>There’s no Shubh Muhurat in July 2025.</p>
           <h3>Griha Pravesh Muhurats in August 2025</h3>
@@ -288,7 +365,39 @@ const Griha_Pravesh = () => {
           <h3>Griha Pravesh Muhurats in September 2025</h3>
           <p>There’s no Shubh Muhurat in September 2025.</p>
           <h3>Griha Pravesh Muhurats in October 2025</h3>
-          <p>There’s no Shubh Muhurat in October2025.</p>
+          <table>
+            <table border="1" style={{ width: "100%", height: "auto" }}>
+              <thead>
+                <tr>
+                  <th>Day & Date</th>
+                  <th>Time</th>
+                  <th>Nakshatra</th>
+                  <th>Tithi</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>October 23, 2025 (Thursday)</td>
+                  <td>4:51 AM to 6:28 AM, October 24</td>
+                  <td>Anuradha</td>
+                  <td>Tritiya</td>
+                </tr>
+                <tr>
+                  <td>October 24, 2025 (Friday)</td>
+                  <td>6:28 AM to 1:19 AM, October 25</td>
+                  <td>Anuradha</td>
+                  <td>Tritiya</td>
+                </tr>
+                <tr>
+                  <td>October 29, 2025 (Wednesday)</td>
+                  <td>6:31 AM to 9:23 AM</td>
+                  <td>Uttarashada</td>
+                  <td>Saptami</td>
+                </tr>
+              </tbody>
+            </table>
+          </table>
+
           <h3>Griha Pravesh Muhurats in November 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
@@ -297,52 +406,62 @@ const Griha_Pravesh = () => {
                   <th>Day & Date</th>
                   <th>Time</th>
                   <th>Nakshatra</th>
+                  <th>Tithi</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td>November 2, 2025</td>
-                  <td>5:58 AM TO 6:35 AM</td>
-                  <td>Anuradha, Vishakha</td>
+                  <td>November 3, 2025 (Monday)</td>
+                  <td>6:34 AM to 2:05 AM, November 4</td>
+                  <td>Uttarabhadrapada, Revati</td>
+                  <td>Trayodashi</td>
                 </tr>
                 <tr>
-                  <td>November 4, 2025</td>
-                  <td>6:35 AM TO 8:04 AM</td>
-                  <td>Anuradha</td>
-                </tr>
-                <tr>
-                  <td>November 7, 2025</td>
-                  <td>12:34 AM TO 6:38 AM</td>
-                  <td>Uttara Ashadha</td>
-                </tr>
-                <tr>
-                  <td>November 8, 2025</td>
-                  <td>6:38 AM TO 12:03 PM</td>
-                  <td>Uttara Ashadha</td>
-                </tr>
-                <tr>
-                  <td>November 13, 2025</td>
-                  <td>1:01 PM TO 3:11 AM</td>
-                  <td>Revati</td>
-                </tr>
-                <tr>
-                  <td>November 16, 2025</td>
-                  <td>7:28 PM TO 6:45 AM</td>
+                  <td>November 6, 2025 (Thursday)</td>
+                  <td>3:28 AM to 6:37 AM, November 7</td>
                   <td>Rohini</td>
+                  <td>Dwitiya</td>
                 </tr>
                 <tr>
-                  <td>November 18, 2025</td>
-                  <td>6:46 AM TO 3:49 PM</td>
-                  <td>Mrigashirsha</td>
+                  <td>November 7, 2025 (Friday)</td>
+                  <td>6:37 AM to 6:38 AM, November 8</td>
+                  <td>Rohini, Mrigashira</td>
+                  <td>Dwitiya, Tritiya</td>
                 </tr>
                 <tr>
-                  <td>November 25, 2025</td>
-                  <td>6:52 AM TO 1:24 AM</td>
-                  <td>Uttara Phalguni</td>
+                  <td>November 8, 2025 (Saturday)</td>
+                  <td>6:38 AM to 7:32 AM</td>
+                  <td>Mrigashira</td>
+                  <td>Tritiya, Chaturthi</td>
+                </tr>
+                <tr>
+                  <td>November 14, 2025 (Friday)</td>
+                  <td>9:20 PM to 6:44 AM, November 15</td>
+                  <td>Uttaraphalguni</td>
+                  <td>Dashami, Ekadashi</td>
+                </tr>
+                <tr>
+                  <td>November 15, 2025 (Saturday)</td>
+                  <td>6:44 AM to 11:34 PM</td>
+                  <td>Uttaraphalguni</td>
+                  <td>Ekadashi</td>
+                </tr>
+                <tr>
+                  <td>November 24, 2025 (Monday)</td>
+                  <td>9:53 PM to 6:52 AM, November 25</td>
+                  <td>Uttarashada</td>
+                  <td>Panchami</td>
+                </tr>
+                <tr>
+                  <td>November 29, 2025 (Saturday)</td>
+                  <td>2:22 AM to 6:56 AM, November 30</td>
+                  <td>Uttarabhadrapada</td>
+                  <td>Dashami</td>
                 </tr>
               </tbody>
             </table>
           </table>
+
           <h3>Griha Pravesh Muhurats in December 2025</h3>
           <table>
             <table border="1" style={{ width: "100%", height: "auto" }}>
@@ -351,32 +470,32 @@ const Griha_Pravesh = () => {
                   <th>Day & Date</th>
                   <th>Time</th>
                   <th>Nakshatra</th>
+                  <th>Tithi</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td>December 5, 2025</td>
-                  <td>12:40 PM TO 5:26 PM</td>
-                  <td>Panchami</td>
-                </tr>
-                <tr>
-                  <td>December 11, 2025</td>
-                  <td>7:04 AM TO 11:48 AM</td>
+                  <td>December 1, 2025 (Monday)</td>
+                  <td>6:56 AM to 7:01 PM</td>
                   <td>Revati</td>
+                  <td>Ekadashi</td>
                 </tr>
                 <tr>
-                  <td>December 21, 2025</td>
-                  <td>6:14 AM TO 7:10 AM</td>
-                  <td>Uttara Phalguni, Poorva Phalguni</td>
+                  <td>December 5, 2025 (Friday)</td>
+                  <td>6:59 AM to 7:00 AM, December 6</td>
+                  <td>Rohini, Mrigashira</td>
+                  <td>Pratipada, Dwitiya</td>
                 </tr>
                 <tr>
-                  <td>December 25, 2025</td>
-                  <td>7:12 AM TO 3:22 PM</td>
-                  <td>Chitra</td>
+                  <td>December 6, 2025 (Saturday)</td>
+                  <td>7:00 AM to 8:48 AM</td>
+                  <td>Mrigashira</td>
+                  <td>Dwitiya</td>
                 </tr>
               </tbody>
             </table>
           </table>
+
           <h2>Types of Griha Pravesh as per Vastu</h2>
           <p>
             Griha Pravesh, a significant ritual in Vastu Shastra, is performed

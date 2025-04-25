@@ -132,58 +132,64 @@ const Marriage = () => {
             </thead>
             <tbody>
               <tr>
-                <td>16 January 2025, Tuesday</td>
-                <td>20:01 to 17 Jan 07:15</td>
-                <td>Uttara-Bhadrapada, Revati</td>
-                <td>Shashthi, Saptami</td>
-              </tr>
-              <tr>
-                <td>17 January 2023, Wednesday</td>
-                <td>07:15 to 21:50</td>
-                <td>Revati</td>
-                <td>Saptami</td>
-              </tr>
-              <tr>
-                <td>20 January 2025, Saturday</td>
-                <td>03:09 to 21 Jan 07:14</td>
-                <td>Rohini</td>
-                <td>Ekadashi</td>
-              </tr>
-              <tr>
-                <td>21 January 2025, Sunday</td>
-                <td>07:14 to 07:23</td>
-                <td>Rohini</td>
-                <td>Ekadashi</td>
-              </tr>
-              <tr>
-                <td>22 January 2025, Monday</td>
-                <td>07:14 to 23 Jan 04:58</td>
-                <td>Mrigashira</td>
-                <td>Dwadashi, Trayodashi</td>
-              </tr>
-              <tr>
-                <td>27 January 2025, Saturday</td>
-                <td>19:44 to 28 Jan 07: 12</td>
+                <td>16 January 2025, Thursday</td>
+                <td>04:06 to 07:15</td>
                 <td>Magha</td>
-                <td>Dwitiya, Purnima</td>
+                <td>Chaturthi</td>
               </tr>
               <tr>
-                <td>28 January 2025, Sunday</td>
-                <td>07:12 to 15:53</td>
+                <td>17 January 2025, Friday</td>
+                <td>07:15 to 12:45</td>
                 <td>Magha</td>
-                <td>Dwitiya, Tritiya</td>
+                <td>Chaturthi</td>
               </tr>
               <tr>
-                <td>30 January 2025, Tuesday</td>
-                <td>10:43 to 31 Jan 07:10</td>
-                <td>Uttara Phalguni, Hasta</td>
-                <td>Tritiya</td>
+                <td>18 January 2025, Saturday</td>
+                <td>14:51 to 19 Jan 01:16</td>
+                <td>Uttara Phalguni</td>
+                <td>Panchami</td>
               </tr>
               <tr>
-                <td>31 January 2025, Wednesday</td>
-                <td>07:10 to 1 Feb 01:08</td>
+                <td>19 January 2025, Sunday</td>
+                <td>01:58 to 20 Jan 07:14</td>
                 <td>Hasta</td>
-                <td>Hasta Panchami</td>
+                <td>Shashthi</td>
+              </tr>
+              <tr>
+                <td>20 January 2025, Monday</td>
+                <td>07:14 to 09:58</td>
+                <td>Hasta</td>
+                <td>Shashthi</td>
+              </tr>
+              <tr>
+                <td>21 January 2025, Tuesday</td>
+                <td>23:36 to 22 Jan 03:50</td>
+                <td>Swati</td>
+                <td>Ashtami</td>
+              </tr>
+              <tr>
+                <td>23 January 2025, Thursday</td>
+                <td>05:08 to 06:36</td>
+                <td>Anuradha</td>
+                <td>Dashami</td>
+              </tr>
+              <tr>
+                <td>24 January 2025, Friday</td>
+                <td>19:25 to 25 Jan 07:07</td>
+                <td>Anuradha</td>
+                <td>Ekadashi</td>
+              </tr>
+              <tr>
+                <td>26 January 2025, Sunday</td>
+                <td>03:34 to 27 Jan 07:12</td>
+                <td>Mula</td>
+                <td>Trayodashi</td>
+              </tr>
+              <tr>
+                <td>27 January 2025, Monday</td>
+                <td>07:12 to 09:02</td>
+                <td>Mula</td>
+                <td>Trayodashi</td>
               </tr>
             </tbody>
           </table>
@@ -199,70 +205,82 @@ const Marriage = () => {
             </thead>
             <tbody>
               <tr>
-                <td>4 February 2025, Sunday</td>
-                <td>07:21 to 05 Feb 05:44</td>
-                <td>Anuradha</td>
+                <td>2 February 2025, Sunday</td>
+                <td>09:14 to 3 Feb 07:08</td>
+                <td>Uttara Bhadrapada, Revati</td>
+                <td>Panchami</td>
+              </tr>
+              <tr>
+                <td>3 February 2025, Monday</td>
+                <td>07:08 to 17:40</td>
+                <td>Revati</td>
+                <td>Shashthi</td>
+              </tr>
+              <tr>
+                <td>6 February 2025, Thursday</td>
+                <td>19:29 to 7 Feb 07:06</td>
+                <td>Rohini</td>
                 <td>Navami, Dashami</td>
               </tr>
               <tr>
-                <td>6 February 2025, Tuesday</td>
-                <td>13:18 to 07 Feb 06:27</td>
-                <td>Mool</td>
-                <td>Ekadashi, Dwadashi</td>
-              </tr>
-              <tr>
-                <td>7 February 2025, Wednesday</td>
-                <td>04:37 to 08 Feb 07:05</td>
-                <td>Uttarashada</td>
-                <td>Trayodashi</td>
-              </tr>
-              <tr>
-                <td>8 February 2025, Thursday</td>
-                <td>07:05 to 11:17</td>
-                <td>Uttarashada</td>
-                <td>Trayodashi</td>
-              </tr>
-              <tr>
-                <td>12 February 2025, Monday</td>
-                <td>14:56 to 13 Feb 07:02</td>
-                <td>Uttara Bhadrapada</td>
-                <td>Tritiya, Chaturthi</td>
-              </tr>
-              <tr>
-                <td>13 February 2025, Tuesday</td>
-                <td>14:41 to 14 Feb 05:11</td>
-                <td>Revati</td>
-                <td>Panchami</td>
-              </tr>
-              <tr>
-                <td>17 February 2025, Saturday</td>
-                <td>08:46 to 13:44</td>
+                <td>7 February 2025, Friday</td>
+                <td>07:06 to 16:17</td>
                 <td>Rohini</td>
+                <td>Dashami</td>
+              </tr>
+              <tr>
+                <td>12 February 2025, Wednesday</td>
+                <td>01:58 to 13 Feb 07:01</td>
+                <td>Magha</td>
+                <td>Pratipada</td>
+              </tr>
+              <tr>
+                <td>13 February 2025, Thursday</td>
+                <td>07:01 to 07:31</td>
+                <td>Magha</td>
+                <td>Pratipada</td>
+              </tr>
+              <tr>
+                <td>14 February 2025, Friday</td>
+                <td>23:09 to 15 Feb 06:59</td>
+                <td>Uttara Phalguni</td>
+                <td>Tritiya</td>
+              </tr>
+              <tr>
+                <td>15 February 2025, Saturday</td>
+                <td>06:59 to 10:48</td>
+                <td>Uttara Phalguni</td>
+                <td>Tritiya</td>
+              </tr>
+              <tr>
+                <td>18 February 2025, Tuesday</td>
+                <td>09:52 to 19 Feb 06:56</td>
+                <td>Swati</td>
+                <td>Shashthi</td>
+              </tr>
+              <tr>
+                <td>19 February 2025, Wednesday</td>
+                <td>06:56 to 07:32</td>
+                <td>Swati</td>
+                <td>Saptami, Shashthi</td>
+              </tr>
+              <tr>
+                <td>21 February 2025, Friday</td>
+                <td>11:59 to 15:54</td>
+                <td>Anuradha</td>
                 <td>Navami</td>
               </tr>
               <tr>
-                <td>24 February 2025, Saturday</td>
-                <td>13:35 to 22 Feb 22:20</td>
-                <td>Magha</td>
-                <td>Purnima, Pratipada</td>
+                <td>23 February 2025, Sunday</td>
+                <td>13:55 to 18:43</td>
+                <td>Mula</td>
+                <td>Ekadashi</td>
               </tr>
               <tr>
-                <td>25 February 2025, Sunday</td>
-                <td>01:24 to 26 Feb 06:50</td>
-                <td>Uttara Phalguni</td>
-                <td>Dwitiya</td>
-              </tr>
-              <tr>
-                <td>26 February 2025, Monday</td>
-                <td>06:50 to 15:27</td>
-                <td>Uttara Phalguni</td>
-                <td>Dwitiya</td>
-              </tr>
-              <tr>
-                <td>29 February 2025, Thursday</td>
-                <td>10:22 to 01 Mar 06:46</td>
-                <td>Swati</td>
-                <td>Panchami</td>
+                <td>25 February 2025, Tuesday</td>
+                <td>08:15 to 18:31</td>
+                <td>Uttara Ashadha</td>
+                <td>Dwadashi, Trayodashi</td>
               </tr>
             </tbody>
           </table>
@@ -278,64 +296,106 @@ const Marriage = () => {
             </thead>
             <tbody>
               <tr>
-                <td>1 March 2025, Friday</td>
-                <td>06:46 to 12:48</td>
-                <td>Swati</td>
+                <td>3 March 2025, Monday</td>
+                <td>16:15 to 4 Mar 06:39</td>
+                <td>Rohini</td>
+                <td>Panchami</td>
+              </tr>
+              <tr>
+                <td>4 March 2025, Tuesday</td>
+                <td>06:39 to 19:35</td>
+                <td>Rohini</td>
                 <td>Shashthi</td>
               </tr>
               <tr>
-                <td>2 March 2025, Saturday</td>
-                <td>20:24 to 03 Mar 06:44</td>
-                <td>Anuradha</td>
+                <td>5 March 2025, Wednesday</td>
+                <td>13:36 to 6 Mar 06:37</td>
+                <td>Punarvasu</td>
                 <td>Saptami</td>
               </tr>
               <tr>
-                <td>3 March 2025, Sunday</td>
-                <td>06:44 to 15:55</td>
-                <td>Anuradha</td>
-                <td>Saptami, Ashtami</td>
+                <td>6 March 2025, Thursday</td>
+                <td>06:37 to 18:03</td>
+                <td>Punarvasu</td>
+                <td>Ashtami</td>
               </tr>
               <tr>
-                <td>4 March 2025, Monday</td>
-                <td>22:16 to 05 Mar 06:42</td>
-                <td>Mool</td>
+                <td>7 March 2025, Friday</td>
+                <td>18:29 to 8 Mar 06:35</td>
+                <td>Pushya</td>
+                <td>Ashtami, Navami</td>
+              </tr>
+              <tr>
+                <td>8 March 2025, Saturday</td>
+                <td>06:35 to 17:30</td>
+                <td>Pushya</td>
                 <td>Navami</td>
               </tr>
               <tr>
-                <td>5 March 2025, Tuesday</td>
-                <td>06:42 to 14:09</td>
-                <td>Mool</td>
-                <td>Navami, Dashami</td>
+                <td>10 March 2025, Monday</td>
+                <td>10:38 to 11 Mar 06:32</td>
+                <td>Uttara Phalguni</td>
+                <td>Ekadashi</td>
               </tr>
               <tr>
-                <td>6 March 2025, Wednesday</td>
-                <td>14:52 to 07 Mar 06:40</td>
-                <td>Uttarashada</td>
-                <td>Ekadashi, Dwadashi</td>
-              </tr>
-              <tr>
-                <td>7 March 2025, Thursday</td>
-                <td>06:40 to 08:24</td>
-                <td>Uttarashada</td>
+                <td>11 March 2025, Tuesday</td>
+                <td>06:32 to 11:15</td>
+                <td>Uttara Phalguni</td>
                 <td>Dwadashi</td>
               </tr>
               <tr>
-                <td>10 March 2025, Sunday</td>
-                <td>01:55 to 11 Mar 06:35</td>
-                <td>Uttarashada</td>
-                <td>Pratipada</td>
+                <td>13 March 2025, Thursday</td>
+                <td>11:20 to 14 Mar 06:28</td>
+                <td>Swati</td>
+                <td>Trayodashi</td>
               </tr>
               <tr>
-                <td>11 March 2025, Monday</td>
-                <td>06:35 to 12 Mar 06:34</td>
-                <td>Uttara Bhadrapada, Revati</td>
-                <td>Pratipada, Dwitiya</td>
+                <td>14 March 2025, Friday</td>
+                <td>06:28 to 15:47</td>
+                <td>Swati</td>
+                <td>Chaturdashi</td>
               </tr>
               <tr>
-                <td>12 March 2025, Tuesday</td>
-                <td>06:34 to 15:08</td>
-                <td>Revati</td>
+                <td>19 March 2025, Wednesday</td>
+                <td>17:50 to 20 Mar 06:17</td>
+                <td>Dhanishta</td>
+                <td>Dwitiya</td>
+              </tr>
+              <tr>
+                <td>20 March 2025, Thursday</td>
+                <td>06:17 to 19:18</td>
+                <td>Dhanishta</td>
                 <td>Tritiya</td>
+              </tr>
+              <tr>
+                <td>23 March 2025, Sunday</td>
+                <td>06:11 to 18:45</td>
+                <td>Ashwini</td>
+                <td>Shashthi</td>
+              </tr>
+              <tr>
+                <td>26 March 2025, Wednesday</td>
+                <td>10:32 to 27 Mar 06:05</td>
+                <td>Mrigashirsha</td>
+                <td>Navami</td>
+              </tr>
+              <tr>
+                <td>27 March 2025, Thursday</td>
+                <td>06:05 to 16:29</td>
+                <td>Ardra</td>
+                <td>Dashami</td>
+              </tr>
+              <tr>
+                <td>28 March 2025, Friday</td>
+                <td>17:18 to 29 Mar 06:03</td>
+                <td>Punarvasu</td>
+                <td>Ekadashi</td>
+              </tr>
+              <tr>
+                <td>29 March 2025, Saturday</td>
+                <td>06:03 to 17:19</td>
+                <td>Punarvasu</td>
+                <td>Dwadashi</td>
               </tr>
             </tbody>
           </table>
@@ -351,38 +411,122 @@ const Marriage = () => {
             </thead>
             <tbody>
               <tr>
-                <td>18 April 2025, Thursday</td>
-                <td>00:44 to 19 Apr 05:51</td>
-                <td>Magha</td>
-                <td>Ekadashi</td>
-              </tr>
-              <tr>
-                <td>19 April 2025, Friday</td>
-                <td>05:51 to 06:46</td>
-                <td>Magha</td>
-                <td>Ekadashi</td>
-              </tr>
-              <tr>
-                <td>20 April 2025, Saturday</td>
-                <td>14:04 to 21 Apr 02:48</td>
+                <td>3 April 2025, Thursday</td>
+                <td>14:41 to 4 Apr 05:52</td>
                 <td>Uttara Phalguni</td>
-                <td>Dwadashi, Trayodashi</td>
+                <td>Pratipada</td>
               </tr>
               <tr>
-                <td>21 April 2025, Sunday</td>
-                <td>03:45 to 22 Apr 05:48</td>
+                <td>4 April 2025, Friday</td>
+                <td>05:52 to 18:38</td>
                 <td>Hasta</td>
-                <td>Chaturdashi</td>
+                <td>Dwitiya</td>
               </tr>
               <tr>
-                <td>22 April 2025, Monday</td>
-                <td>05:48 to 20:00</td>
-                <td>Hasta</td>
-                <td>Chaturdashi</td>
+                <td>7 April 2025, Monday</td>
+                <td>06:43 to 8 Apr 05:47</td>
+                <td>Anuradha</td>
+                <td>Panchami</td>
+              </tr>
+              <tr>
+                <td>8 April 2025, Tuesday</td>
+                <td>05:47 to 19:11</td>
+                <td>Anuradha</td>
+                <td>Shashthi</td>
+              </tr>
+              <tr>
+                <td>9 April 2025, Wednesday</td>
+                <td>19:48 to 10 Apr 05:44</td>
+                <td>Mula</td>
+                <td>Saptami</td>
+              </tr>
+              <tr>
+                <td>10 April 2025, Thursday</td>
+                <td>05:44 to 18:29</td>
+                <td>Mula</td>
+                <td>Ashtami</td>
+              </tr>
+              <tr>
+                <td>11 April 2025, Friday</td>
+                <td>13:29 to 12 Apr 05:41</td>
+                <td>Uttara Ashadha</td>
+                <td>Navami</td>
+              </tr>
+              <tr>
+                <td>12 April 2025, Saturday</td>
+                <td>05:41 to 15:50</td>
+                <td>Uttara Ashadha</td>
+                <td>Dashami</td>
+              </tr>
+              <tr>
+                <td>13 April 2025, Sunday</td>
+                <td>16:56 to 14 Apr 05:38</td>
+                <td>Shravana</td>
+                <td>Ekadashi</td>
+              </tr>
+              <tr>
+                <td>14 April 2025, Monday</td>
+                <td>05:38 to 17:28</td>
+                <td>Dhanishta</td>
+                <td>Dwadashi</td>
+              </tr>
+              <tr>
+                <td>17 April 2025, Thursday</td>
+                <td>11:37 to 18 Apr 05:32</td>
+                <td>Ashwini</td>
+                <td>Pratipada</td>
+              </tr>
+              <tr>
+                <td>18 April 2025, Friday</td>
+                <td>05:32 to 20:08</td>
+                <td>Ashwini</td>
+                <td>Dwitiya</td>
+              </tr>
+              <tr>
+                <td>21 April 2025, Monday</td>
+                <td>08:48 to 22 Apr 05:25</td>
+                <td>Mrigashirsha</td>
+                <td>Panchami</td>
+              </tr>
+              <tr>
+                <td>22 April 2025, Tuesday</td>
+                <td>05:25 to 16:01</td>
+                <td>Mrigashirsha</td>
+                <td>Shashthi</td>
+              </tr>
+              <tr>
+                <td>24 April 2025, Thursday</td>
+                <td>06:45 to 25 Apr 05:21</td>
+                <td>Pushya</td>
+                <td>Ashtami</td>
+              </tr>
+              <tr>
+                <td>25 April 2025, Friday</td>
+                <td>05:21 to 19:08</td>
+                <td>Pushya</td>
+                <td>Navami</td>
+              </tr>
+              <tr>
+                <td>27 April 2025, Sunday</td>
+                <td>09:34 to 28 Apr 05:17</td>
+                <td>Uttara Phalguni</td>
+                <td>Ekadashi</td>
+              </tr>
+              <tr>
+                <td>28 April 2025, Monday</td>
+                <td>05:17 to 10:28</td>
+                <td>Uttara Phalguni</td>
+                <td>Dwadashi</td>
+              </tr>
+              <tr>
+                <td>30 April 2025, Wednesday</td>
+                <td>10:47 to 1 May 05:13</td>
+                <td>Chitra</td>
+                <td>Trayodashi</td>
               </tr>
             </tbody>
           </table>
-          <h2>Marriage Muhurat in July 2025</h2>
+          <h2>Marriage Muhurat in May 2025</h2>
           <table>
             <thead>
               <tr>
@@ -394,40 +538,137 @@ const Marriage = () => {
             </thead>
             <tbody>
               <tr>
-                <td>9 July 2025, Tuesday</td>
-                <td>14:28 to 18:56</td>
+                <td>1 May 2025, Thursday</td>
+                <td>11:23 AM - 02:21 PM</td>
+                <td>Mrigashira</td>
+                <td>Panchami</td>
+              </tr>
+              <tr>
+                <td>5 May 2025, Monday</td>
+                <td>08:29 PM - 6 May 05:36 AM</td>
                 <td>Magha</td>
-                <td>Chaturthi</td>
-              </tr>
-              <tr>
-                <td>11 July 2025, Thursday</td>
-                <td>13:04 to 12 Jul 04:09</td>
-                <td>Uttara Phalguni</td>
-                <td>Shashthi</td>
-              </tr>
-              <tr>
-                <td>12 July 2025, Friday</td>
-                <td>05:15 to 13 Jul 05:32</td>
-                <td>Hasta</td>
-                <td>Saptami</td>
-              </tr>
-              <tr>
-                <td>13 July 2025, Saturday</td>
-                <td>05:32 to 15:05</td>
-                <td>Hasta</td>
-                <td>Saptami</td>
-              </tr>
-              <tr>
-                <td>14 July 2025, Sunday</td>
-                <td>22:06 to 15 Jul 05:33</td>
-                <td>Swati</td>
                 <td>Navami</td>
               </tr>
               <tr>
-                <td>15 July 2025, Monday</td>
-                <td>05:33 to 16 Jul 00:30</td>
-                <td>Swati</td>
+                <td>6 May 2025, Tuesday</td>
+                <td>05:36 AM - 03:52 PM</td>
+                <td>Magha</td>
                 <td>Navami, Dashami</td>
+              </tr>
+              <tr>
+                <td>8 May 2025, Thursday</td>
+                <td>12:29 PM - 9 May 01:57 AM</td>
+                <td>Uttara Phalguni, Hasta</td>
+                <td>Dwadashi</td>
+              </tr>
+              <tr>
+                <td>10 May 2025, Saturday</td>
+                <td>03:15 AM - 11 May 04:01 AM</td>
+                <td>Swati, Chitra</td>
+                <td>Chaturdashi</td>
+              </tr>
+              <tr>
+                <td>14 May 2025, Wednesday</td>
+                <td>06:34 AM - 11:47 AM</td>
+                <td>Anuradha</td>
+                <td>Dvitiya</td>
+              </tr>
+              <tr>
+                <td>15 May 2025, Thursday</td>
+                <td>04:02 AM - 16 May 05:30 AM</td>
+                <td>Mula</td>
+                <td>Chaturthi</td>
+              </tr>
+              <tr>
+                <td>16 May 2025, Friday</td>
+                <td>05:30 AM - 04:07 PM</td>
+                <td>Mula</td>
+                <td>Chaturthi</td>
+              </tr>
+              <tr>
+                <td>17 May 2025, Saturday</td>
+                <td>05:44 PM - 18 May 05:29 AM</td>
+                <td>Uttara Ashadha</td>
+                <td>Panchami</td>
+              </tr>
+              <tr>
+                <td>18 May 2025, Sunday</td>
+                <td>05:29 AM - 06:52 PM</td>
+                <td>Uttara Ashadha</td>
+                <td>Shasthi</td>
+              </tr>
+              <tr>
+                <td>22 May 2025, Thursday</td>
+                <td>01:12 AM - 23 May 05:26 AM</td>
+                <td>Uttara Bhadrapada</td>
+                <td>Ekadashi</td>
+              </tr>
+              <tr>
+                <td>23 May 2025, Friday</td>
+                <td>05:26 AM - 24 May 05:26 AM</td>
+                <td>Uttara Bhadrapada, Revati</td>
+                <td>Ekadashi, Dwadashi</td>
+              </tr>
+              <tr>
+                <td>24 May 2025, Saturday</td>
+                <td>05:26 AM - 08:22 AM</td>
+                <td>Revati</td>
+                <td>Dwadashi</td>
+              </tr>
+              <tr>
+                <td>27 May 2025, Tuesday</td>
+                <td>06:45 PM - 28 May 02:50 AM</td>
+                <td>Rohini</td>
+                <td>Pratipada</td>
+              </tr>
+              <tr>
+                <td>28 May 2025, Wednesday</td>
+                <td>05:25 AM - 07:09 PM</td>
+                <td>Mrigashira</td>
+                <td>Dvitiya</td>
+              </tr>
+            </tbody>
+          </table>
+          <h2>Marriage Muhurat in June 2025</h2>
+          <table>
+            <thead>
+              <tr>
+                <th>Date</th>
+                <th>Muhurat Timing</th>
+                <th>Nakshatra</th>
+                <th>Tithi</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>2 June 2025, Monday</td>
+                <td>08:21 AM - 08:34 PM</td>
+                <td>Magha</td>
+                <td>Saptami</td>
+              </tr>
+              <tr>
+                <td>4 June 2025, Wednesday</td>
+                <td>08:29 AM - 5 June 05:23 AM</td>
+                <td>Uttara Phalguni, Hasta</td>
+                <td>Navami, Dashami</td>
+              </tr>
+              <tr>
+                <td>5 June 2025, Thursday</td>
+                <td>05:23 AM - 09:14 AM</td>
+                <td>Hasta</td>
+                <td>Dashami</td>
+              </tr>
+              <tr>
+                <td>7 June 2025, Saturday</td>
+                <td>09:40 AM - 11:18 AM</td>
+                <td>Swati</td>
+                <td>Dwadashi</td>
+              </tr>
+              <tr>
+                <td>8 June 2025, Sunday</td>
+                <td>12:18 PM - 12:42 PM</td>
+                <td>Vishakha, Swati</td>
+                <td>Trayodashi</td>
               </tr>
             </tbody>
           </table>
@@ -442,71 +683,84 @@ const Marriage = () => {
               </tr>
             </thead>
             <tbody>
+              {" "}
               <tr>
-                <td>12 November 2025, Tuesday</td>
-                <td>16:04 to 19:10</td>
+                <td>2 November 2025, Sunday</td>
+                <td>23:11 to 3 Nov 06:34</td>
                 <td>Uttar Bhadrapada</td>
-                <td>Dwadashi</td>
+                <td>-</td>
               </tr>
               <tr>
-                <td>13 November 2025, Wednesday</td>
-                <td>15:26 to 21:48</td>
-                <td>Revati</td>
-                <td>Trayodashi</td>
+                <td>3 November 2025, Monday</td>
+                <td>06:34 to 19:40</td>
+                <td>Uttar Bhadrapada, Revati</td>
+                <td>-</td>
               </tr>
               <tr>
-                <td>16 November 2025, Saturday</td>
-                <td>23:48 to 17 Nov 06:45</td>
+                <td>6 November 2025, Thursday</td>
+                <td>03:28 to 7 Nov 06:37</td>
                 <td>Rohini</td>
-                <td>Dwitiya</td>
+                <td>-</td>
               </tr>
               <tr>
-                <td>17 November 2025, Sunday</td>
-                <td>06:45 to 18 Nov 06:46</td>
-                <td>Rohini, Mrigashira</td>
-                <td>Dwitiya, Tritiya</td>
-              </tr>
-              <tr>
-                <td>18 November 2025, Monday</td>
-                <td>06:46 to 07:56</td>
+                <td>8 November 2025, Saturday</td>
+                <td>07:32 to 22:02</td>
                 <td>Mrigashira</td>
-                <td>Tritiya</td>
+                <td>-</td>
               </tr>
               <tr>
-                <td>22 November 2025, Friday</td>
-                <td>23:44 to 23 Nov 06:50</td>
+                <td>12 November 2025, Wednesday</td>
+                <td>00:51 to 13 Nov 06:42</td>
                 <td>Magha</td>
-                <td>Ashtami</td>
+                <td>-</td>
               </tr>
               <tr>
-                <td>23 November 2025, Saturday</td>
-                <td>06:50 to 11:42</td>
+                <td>13 November 2025, Thursday</td>
+                <td>06:42 to 19:38</td>
                 <td>Magha</td>
-                <td>Ashtami</td>
+                <td>-</td>
               </tr>
               <tr>
-                <td>25 November 2025, Monday</td>
-                <td>01:01 to 26 Nov 06:53</td>
+                <td>16 November 2025, Sunday</td>
+                <td>06:47 to 17 Nov 02:11</td>
                 <td>Hasta</td>
-                <td>Ekadashi</td>
+                <td>-</td>
               </tr>
               <tr>
-                <td>26 November 2025, Tuesday</td>
-                <td>06:53 to 27 Nov 04:35</td>
-                <td>Hasta</td>
-                <td>Ekadashi</td>
-              </tr>
-              <tr>
-                <td>28 November 2025, Thursday</td>
-                <td>07:36 to 29 Nov 06:55</td>
+                <td>17 November 2025, Monday</td>
+                <td>05:01 to 18 Nov 06:46</td>
                 <td>Swati</td>
-                <td>Trayodashi</td>
+                <td>-</td>
               </tr>
               <tr>
-                <td>29 November 2025, Friday</td>
-                <td>06:55 to 08:39</td>
+                <td>18 November 2025, Tuesday</td>
+                <td>06:46 to 07:12</td>
                 <td>Swati</td>
-                <td>Trayodashi</td>
+                <td>-</td>
+              </tr>
+              <tr>
+                <td>21 November 2025, Friday</td>
+                <td>10:44 to 13:56</td>
+                <td>Anuradha</td>
+                <td>-</td>
+              </tr>
+              <tr>
+                <td>22 November 2025, Saturday</td>
+                <td>23:27 to 23 Nov 06:50</td>
+                <td>Mula</td>
+                <td>-</td>
+              </tr>
+              <tr>
+                <td>23 November 2025, Sunday</td>
+                <td>06:50 to 12:09</td>
+                <td>Mula</td>
+                <td>-</td>
+              </tr>
+              <tr>
+                <td>25 November 2025, Tuesday</td>
+                <td>12:50 to 23:57</td>
+                <td>Uttarashadha</td>
+                <td>-</td>
               </tr>
             </tbody>
           </table>
@@ -521,46 +775,26 @@ const Marriage = () => {
               </tr>
             </thead>
             <tbody>
-              {" "}
               <tr>
-                <td>4 December 2025, Wednesday</td>
-                <td>17:15 to 05 Dec 01:02</td>
-                <td>Uttarashada</td>
-                <td>Chaturthi</td>
+                <td>4 December 2025, Thursday</td>
+                <td>18:40 to 5 Dec 06:59</td>
+                <td>Rohini</td>
+                <td>-</td>
               </tr>
               <tr>
-                <td>5 December 2025, Thursday</td>
-                <td>12:49 to 17:26</td>
-                <td>Uttarashada</td>
-                <td>Panchami</td>
+                <td>5 December 2025, Friday</td>
+                <td>06:59 to 6 Dec 07:00</td>
+                <td>Rohini, Mrigashira</td>
+                <td>-</td>
               </tr>
               <tr>
-                <td>9 December 2025, Monday</td>
-                <td>14:56 to 10 Dec 01:06</td>
-                <td>Uttar Bhadrapada</td>
-                <td>Navami</td>
-              </tr>
-              <tr>
-                <td>10 December 2025, Tuesday</td>
-                <td>22:03 to 11 Dec 06:13</td>
-                <td>Revati</td>
-                <td>Dashami, Ekadashi</td>
-              </tr>
-              <tr>
-                <td>14 December 2025, Saturday</td>
-                <td>07:06 to 16:58</td>
+                <td>6 December 2025, Saturday</td>
+                <td>07:00 to 08:48</td>
                 <td>Mrigashira</td>
-                <td>Purnima</td>
-              </tr>
-              <tr>
-                <td>15 December 2025, Sunday</td>
-                <td>03:42 to 07:06</td>
-                <td>Mrigashira</td>
-                <td>Purnima</td>
+                <td>-</td>
               </tr>
             </tbody>
           </table>
-
           <p>
             If you are worried about your marriage{" "}
             <span className="text-red-500 italic">Talk To Astrologer </span>now
