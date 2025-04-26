@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import Layout from "../Layout/Layout";
 import HomepageFYQ from "./HomepageFyq";
 import styled from "styled-components";
-import PujaServices from "./components/AstroServices";
+import AstroServices from "./components/AstroServices";
 
 const Container = styled.div`
   .body {
@@ -74,7 +74,7 @@ const Homepage = () => {
     <Layout title="AstroSwarg">
       <Container>
         <div className="body">
-          <PujaServices />
+          <AstroServices />
           <h1 className="heading">WHY ASTROLOGY ?</h1>
           <h2 className="heading1">Astrology reveals the will of the God</h2>
           <p>
