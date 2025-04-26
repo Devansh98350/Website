@@ -2,6 +2,7 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import HomePage from "./components/Homepage/Homepage.js";
+import AstroServicesMain from "./components/Homepage/components/AstroServicesMain.js";
 /*Navbar*/
 import Gallery from "./components/Header/Others/About/Gallery.js";
 import Contact from "./components/Header/Others/Contact/Contact.js";
@@ -348,6 +349,7 @@ function App() {
         <Route path="/" element={<HomePage />} />
         {/*Navbar*/}
         <Route path="/about-us" element={<About />} />
+        <Route path="/astro-services" element={<AstroServicesMain />} />
         <Route path="/gallery" element={<Gallery />} />
         <Route path="/join-our-team" element={<Careermain />} />
         <Route path="/contact-us" element={<Contact />} />
