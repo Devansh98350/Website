@@ -1,6 +1,8 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "id": "/",
+  "short_name": "AstroSwarg",
+  "name": "AstroSwarg",
+  "description": "AstroSwarg is a one-stop destination for all Hindu religion related activities, including astrology, Vedic pooja, and various other personalized forecasts.",
   "icons": [
     {
       "src": "favicon.ico",
@@ -18,7 +20,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "./",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
