@@ -629,6 +629,14 @@ const Mantras = () => {
             <ListItem>
               <Link to="/mantras/krishna-mantra">Krishna Mantra</Link>
             </ListItem>
+            <ListItem>
+              <Link to="/mantras/success-mantra">Success Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/devi-chandraghanta-mantra">
+                Devi Chandraghanta Mantra
+              </Link>
+            </ListItem>
           </UnorderedList>
         </div>
       </Container>
