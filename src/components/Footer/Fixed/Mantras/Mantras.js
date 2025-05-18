@@ -535,15 +535,100 @@ const Mantras = () => {
           </p>
           <h4>Explore Navagraha Mantras</h4>
           <UnorderedList>
-            <ListItem>Surya Mantra</ListItem>
-            <ListItem>Chandra Mantra</ListItem>
-            <ListItem>Mangal Mantra</ListItem>
-            <ListItem>Budh Mantra</ListItem>
-            <ListItem>Brihaspati Mantra</ListItem>
-            <ListItem>Shukra Mantra</ListItem>
-            <ListItem>Shani Mantra </ListItem>
-            <ListItem>Rahu Mantra</ListItem>
-            <ListItem>Ketu Mantra</ListItem>
+            <ListItem>
+              <Link to="/mantras/shabar-mantra">Shabar Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/sai-mantra">Sai Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/kali-mantra">Kali Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/batuk-bhairav-mantra">
+                Batuk Bhairav Mantra
+              </Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/kaal-bhairav-mantra">Kaal Bhairav Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/shakti-mantra">Shakti Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/parvati-mantra">Parvati Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/beej-mantra">Beej Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/om-mantra">Om Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/durga-mantra">Durga Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/katyayani-mantra">Katyayani Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/tulsi-mantra">Tulsi Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/maha-mrityunjay-mantra">
+                Maha Mrityunjay Mantra
+              </Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/shiva-mantra">Shiva Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/kuber-mantra">Kuber Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/rudra-mantra">Rudra Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/ram-mantra">Ram Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/santan-gopal-mantra">Santan Gopal Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/gayatri-mantra">Gayatri Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/hanuman-mantra">Hanuman Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/lakshmi-mantra">Lakshmi Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/baglamukhi-mantra">Baglamukhi Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/navagraha-mantra">Navagraha Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/saraswati-mantra">Saraswati Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/vastu-mantra">Vastu Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/pregnancy-mantra">Pregnancy Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/griha-shanti-mantra">Griha Shanti Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/ganesh-mantra">Ganesh Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/rashi-mantra">Rashi Mantra</Link>
+            </ListItem>
+            <ListItem>
+              <Link to="/mantras/krishna-mantra">Krishna Mantra</Link>
+            </ListItem>
           </UnorderedList>
         </div>
       </Container>
