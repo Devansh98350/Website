@@ -51,7 +51,6 @@ const EkadashiVrat = () => {
   return (
     <Layout title="AstroSwarg - Ekadashi Vrat 2025" description="" keywords="">
       <Breadcrumbs />
-      import Breadcrumbs from "../../../Breadcrumb"
       <StyledDiv>
         <div className="body">
           <h1 className="heading">
