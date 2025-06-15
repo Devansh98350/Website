@@ -1,8 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Deity108ButtonGrid from "./components/commonGrid";
 import Layout from "../../../../Layout/Layout";
 import Breadcrumbs from "../../../../Breadcrumb";
+import FAQLayout from "../../../../Common/FaqLayout";
 
 const Container = styled.div`
   .body {
@@ -104,49 +105,49 @@ const UnorderedList = styled.ul`
 const ListItem = styled.li`
   margin-bottom: 10px;
 `;
-
-const faqs = [
+const H08FAQ = [
   {
-    question: "Which goddess has 108 names?",
-    answer:
+    id: 1,
+    title: "Which goddess has 108 names?",
+    content:
       "The Goddesses with 108 names include Goddess Durga, Goddess Lakshmi, Goddess Sita and many more.",
   },
   {
-    question: "Which lord has 108 names?",
-    answer:
+    id: 2,
+    title: "Which lord has 108 names?",
+    content:
       "The Gods and Goddesses that have 108 names include Lord Vishnu, Lord Ganesha, Lord Shiva, Goddess Durga, and many more.",
   },
   {
-    question: "Do all gods have 108 names?",
-    answer:
+    id: 3,
+    title: "Do all gods have 108 names?",
+    content:
       "Not all, but most of the Gods and Goddesses are said to have 108 names. It is believed that chanting these names blesses the individual with the blessings of the deity.",
   },
   {
-    question: "Which Hindu god has more than 108 names?",
-    answer:
+    id: 4,
+    title: "Which Hindu god has more than 108 names?",
+    content:
       "Lord Vishnu is said to have more than a thousand names. If we consider the total, then there are 1008 names of Lord Vishnu.",
   },
   {
-    question: "Why is 108 magical?",
-    answer:
+    id: 5,
+    title: "Why is 108 magical?",
+    content:
       "The number 108 is considered to be a sacred number. It is said to represent the universe and all its aspects. The number holds spiritual, astrological, mathematical, numerological, and meditational value.",
   },
   {
-    question: "What is the meaning of 108 in love?",
-    answer:
+    id: 6,
+    title: "What is the meaning of 108 in love?",
+    content:
       "The number 108 in love represents the coming of new chances and new beginnings in one’s life. This number signifies the coming of something positive and fruitful.",
   },
 ];
 
 const HundredEight = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
   return (
     <Layout title="108 Name of Deities - AstroSwarg" description="" keywords="">
       <Breadcrumbs />
@@ -379,25 +380,9 @@ const HundredEight = () => {
               Buddhist teachings.
             </ListItem>
           </UnorderedList>
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={H08FAQ} />
     </Layout>
   );
 };

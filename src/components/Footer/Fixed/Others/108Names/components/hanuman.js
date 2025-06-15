@@ -1,9 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Deity108ButtonGrid from "./commonGrid";
 import Layout from "../../../../../Layout/Layout";
 import Breadcrumbs from "../../../../../Breadcrumb";
-
+import FAQLayout from "../../../../../Common/FaqLayout";
 const Container = styled.div`
   .body {
     width: 90%;
@@ -104,50 +104,49 @@ const UnorderedList = styled.ul`
 const ListItem = styled.li`
   margin-bottom: 10px;
 `;
-
-const faqs = [
+const Hanuman108FAQ = [
   {
-    question: "What is Hanuman Astottara Sata Namavali?",
-    answer:
+    id: 1,
+    title: "What is Hanuman Astottara Sata Namavali?",
+    content:
       "The 108 names of Lord Hanuman are collectively called the Hanuman Ashtottara Sata Namavali. People believe that chanting these names offers strength, courage, and keeps away evil eyes.",
   },
   {
-    question: "What do the 108 names of hanuman tell?",
-    answer:
+    id: 2,
+    title: "What do the 108 names of hanuman tell?",
+    content:
       "The 108 names of Hanuman Ji are inspired by the powers, qualities and strength he has displayed throughout his life. This helps us understand the divine nature of Lord Hanuman, and learning about them is a way to please all his forms.",
   },
   {
-    question: "How does Hanuman Ash Tottara Shatanamavali help?",
-    answer:
+    id: 3,
+    title: "How does Hanuman Ash Tottara Shatanamavali help?",
+    content:
       "Chanting Hanuman Ash Tottara Shatanamavali helps avoid negative emotions, thoughts and evil spirits. It also helps us gain the courage to face every obstacle with confidence and gives us mental clarity.",
   },
   {
-    question: "How to chant Hanuman Ashtothram?",
-    answer:
+    id: 4,
+    title: "How to chant Hanuman Ashtothram?",
+    content:
       "Create an ideal setup to chant Hanuman Ashtothram, the 108 Hanuman names. Light incense sticks, and place the diya in front of the Hanuman idol and Hanuman yantra in the South direction. Next, get well-seated and start moving a Tulsi or Rudraksha mala as you pronounce each name.",
   },
   {
-    question: "Does chanting Hanuman ji 108 names remove Shani Doshna?",
-    answer:
+    id: 5,
+    title: "Does chanting Hanuman ji 108 names remove Shani Doshna?",
+    content:
       "Yes, chanting Hanuman ji 108 names removes Shani Dosha. Some people have noticed comfort and a decrease in difficulties faced during this period. It is also said that it speeds up the process of cleaning your karma.",
   },
   {
-    question: "On what occasions can we chant Hanuman 108 names?",
-    answer:
+    id: 6,
+    title: "On what occasions can we chant Hanuman 108 names?",
+    content:
       "One should chant Hanuman 108 names every Tuesday and Saturday. At the same time, following this practice during Mangalvar Vrat and Hanuman Jayanti is believed to attract the powerful blessings of Hanuman Ji.",
   },
 ];
 
 const Hanuman108 = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
-
   return (
     <Layout
       title="108 Name of Lord Hanuman - AstroSwarg"
@@ -967,25 +966,9 @@ const Hanuman108 = () => {
             powerful chant of Hanuman Ashtottram this way. It allows you to
             align your mind and body for a proper impact.
           </p>
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={Hanuman108FAQ} />
     </Layout>
   );
 };

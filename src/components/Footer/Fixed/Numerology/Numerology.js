@@ -2,8 +2,8 @@ import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 import Layout from "../../../Layout/Layout.js";
 import styled from "styled-components";
-import NumerologyFYQ from "./NumerologyFyq";
 import Breadcrumbs from "../../../Breadcrumb.js";
+import FAQLayout from "../../../Common/FaqLayout.js";
 
 const Container = styled.div`
   .body {
@@ -59,6 +59,29 @@ const UnorderedList = styled.ul`
 const ListItem = styled.li`
   margin-bottom: 10px;
 `;
+const NumerologyFAQ = [
+  {
+    id: 1,
+    title: "Q-1:- What numbers are considered in numerology?",
+    content: `Numbers 5 and 9 are considered the most influential ones. Number 5 is the most balanced number. As for number 9, it is one of the most impactful numbers. Also, it holds a divine aspect in numerology.`,
+  },
+  {
+    id: 2,
+    title: "Q-2:- Is number 4 unlucky as per numerology?",
+    content: `Total that ends up at number 4 in numerology, primarily focuses on setting goals and focus to achieving them. Also, each number is lucky for some while unlucky for some. In other words, depending on certain factors, the unluckiness and luckiness of the number gets decided. However, in general, number 4 possesses positive vibes and lets the natives become more responsible and disciplined.`,
+  },
+  {
+    id: 3,
+    title:
+      "Q-3:- Why do people consider the number 22 the most powerful number?",
+    content: `Number 22 often illustrates folks who are leaders, visionary builders, and doers. Such people possess the capability to turn their dreams into real accomplishments. Also, it is believed that people with the number 22 are also blessed with intuition and discipline, which help them greatly in their life and their hurdles.`,
+  },
+  {
+    id: 4,
+    title: "Q-4:- Which number is the unluckiest number in numerology?",
+    content: `As per numerology, the number 13 is considered a synonym for back times and bad luck. Doing something that ends on the count of 13 is taken as an inauspicious thing.`,
+  },
+];
 
 const Numerology = () => {
   useEffect(() => {
@@ -412,9 +435,9 @@ const Numerology = () => {
               </div>
             </ListItem>
           </UnorderedList>
-          <NumerologyFYQ />
         </div>
       </Container>
+      <FAQLayout faqData={NumerologyFAQ} />
     </Layout>
   );
 };

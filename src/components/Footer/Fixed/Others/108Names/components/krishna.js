@@ -1,8 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Deity108ButtonGrid from "./commonGrid";
 import Layout from "../../../../../Layout/Layout";
 import Breadcrumbs from "../../../../../Breadcrumb";
+import FAQLayout from "../../../../../Common/FaqLayout";
 
 const Container = styled.div`
   .body {
@@ -104,49 +105,49 @@ const UnorderedList = styled.ul`
 const ListItem = styled.li`
   margin-bottom: 10px;
 `;
-const faqs = [
+const Krishna108FAQ = [
   {
-    question: "What are the 108 names of Krishna?",
-    answer:
+    id: 1,
+    title: "What are the 108 names of Krishna?",
+    content:
       "The 108 names of Krishna are popularly known as Sri Krishna Ashtottara Shatanamavali. People chant it to ask for Lord Krishna’s blessings. Here, it is available as the list of 108 names of Lord Krishna in English and Hindi.",
   },
   {
-    question: "Are the Krishna names powerful?",
-    answer:
+    id: 2,
+    title: "Are the Krishna names powerful?",
+    content:
       "Krishna names are very powerful sacred names. Chanting them offers great personal growth and keeps away health issues or any kind of negative energy. It even helps the ones who have committed sins and wish to clear their karma.",
   },
   {
-    question: "What does the Sri Krishna 108 names teach us?",
-    answer:
+    id: 3,
+    title: "What does the Sri Krishna 108 names teach us?",
+    content:
       "The Krishna 108 names in English and Hindi are based on Sri Krishna's life, and hence, their meanings teach us the way of right living. They inspire us to adopt Krishna Ji’s qualities, such as compassion, kindness, justice, discipline, impartiality, control, etc.",
   },
   {
-    question: "Can Krishna 108 names be a boy name?",
-    answer:
+    id: 4,
+    title: "Can Krishna 108 names be a boy name?",
+    content:
       "Yes, keeping Lord Krishna names for baby boy is auspicious. It is a great way to honour Sri Krishna and inspire your kid to adopt his qualities, attitude and way of living.",
   },
   {
-    question: "How to chant 108 names of Lord Krishna?",
-    answer:
+    id: 5,
+    title: "How to chant 108 names of Lord Krishna?",
+    content:
       "Take a comfortable position at an undisturbed place, free from unnecessary noises. This can be achieved mostly in the early mornings. Light incense sticks, palace god’s murti in the east or west and face it. Now, chant the 108 names with gliding mala.",
   },
   {
-    question: "Which day should not be missed for chanting Krishna names?",
-    answer:
+    id: 6,
+    title: "Which day should not be missed for chanting Krishna names?",
+    content:
       "Wednesday is regarded as an auspicious day to chant Krishna 108 names. So, if you are not able to chant every day, you must make sure to chant Krishna Namavali on this day to please Lord Krishna.",
   },
 ];
 
 const Krishna108 = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
-
   return (
     <Layout
       title="108 Name of Lord Krishna - AstroSwarg"
@@ -970,25 +971,9 @@ const Krishna108 = () => {
             each word you are chanting. It will not only attract god’s blessings
             but also teach you discipline.
           </p>
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={Krishna108FAQ} />
     </Layout>
   );
 };

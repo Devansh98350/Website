@@ -1,8 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Deity108ButtonGrid from "./commonGrid";
 import Layout from "../../../../../Layout/Layout";
 import Breadcrumbs from "../../../../../Breadcrumb";
+import FAQLayout from "../../../../../Common/FaqLayout";
 
 const Container = styled.div`
   .body {
@@ -104,48 +105,49 @@ const UnorderedList = styled.ul`
 const ListItem = styled.li`
   margin-bottom: 10px;
 `;
-const faqs = [
+const Shani108FAQ = [
   {
-    question: "What are the 108 names of Lord Shani?",
-    answer:
+    id: 1,
+    title: "What are the 108 names of Lord Shani?",
+    content:
       "The 108 Lord Shani names collectively form a sacred chant known as Sri Shani Ashtottara Shatanamavali. Learning and chanting these names offers Lord Shani’s blessings. You can find the 108 names of Lord Shani Dev in English and Hindi.",
   },
   {
-    question: "How to satisfy Shani Dev?",
-    answer:
+    id: 2,
+    title: "How to satisfy Shani Dev?",
+    content:
       "The significance of chanting different names of Shani Dev lies in how pleased and satisfied Shani Dev gets by your efforts. If you chant the names with full devotion and understanding, Shani will offer you professional success, personal growth, freedom from evil, etc.",
   },
   {
-    question: "How to chant 108 Shani names?",
-    answer:
+    id: 3,
+    title: "How to chant 108 Shani names?",
+    content:
       "Shani Dev different names must be chanted in a peaceful place. Sit in a relaxed position, place Shani’s idol infront, light incense sticks, and start gliding a japa mala (either Blue Agate or Jyotirvid stone) while pronouncing each Shani name.",
   },
   {
-    question: "Can we chant Shani Ashtottara Shatanamavali at night?",
-    answer:
+    id: 4,
+    title: "Can we chant Shani Ashtottara Shatanamavali at night?",
+    content:
       "Yes, absolutely. Shani Ashtottara Shatanamavali can be effective at night as Lord Shani is said to be more powerful after sunset. That way, Lord Shani will be pleased if you chant Shani names at night.",
   },
   {
-    question: "Can I chant Shani 108 names to avoid Shani Dosha?",
-    answer:
+    id: 5,
+    title: "Can I chant Shani 108 names to avoid Shani Dosha?",
+    content:
       "Chanting 108 Lord Shani names is said to eliminate Shani Dosha. Its regular chanting helps you face challenges with a calm mind. It also removes any kind of delays in career, marriage, debt cleaning or health recovery.",
   },
   {
-    question: "How to choose Shani name for baby boy?",
-    answer:
+    id: 6,
+    title: "How to choose Shani name for baby boy?",
+    content:
       "First of all, you must go through the list of 108 names of Lord Shani Dev in English or Hindi. Next, learn the meaning of each word. Next, select names you find suitable for a baby boy. Share your top picks with elders and also consult an astrologer with your kid’s birth chart.",
   },
 ];
 
 const Shani108 = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
   return (
     <Layout
       title="108 Name of Lord Shani - AstroSwarg"
@@ -964,25 +966,9 @@ const Shani108 = () => {
             each Shani name that you say. This way, you will display honesty and
             impress Lord Shani.
           </p>
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={Shani108FAQ} />
     </Layout>
   );
 };

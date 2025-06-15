@@ -1,8 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Deity108ButtonGrid from "./commonGrid";
 import Layout from "../../../../../Layout/Layout";
 import Breadcrumbs from "../../../../../Breadcrumb";
+import FAQLayout from "../../../../../Common/FaqLayout";
 
 const Container = styled.div`
   .body {
@@ -104,49 +105,49 @@ const UnorderedList = styled.ul`
 const ListItem = styled.li`
   margin-bottom: 10px;
 `;
-const faqs = [
+const Murugan108FAQ = [
   {
-    question: "What is Lord Murugan?",
-    answer:
+    id: 1,
+    title: "What is Lord Murugan?",
+    content:
       "Lord Murugan, also known as Kartikeya, Skanda, or Subramanya Swamy, is a great Hindu deity. He is worshipped as the god of war and victory and is particularly popular in South India. As the son of Lord Shiva and Goddess Parvati, Murugan possesses divine power and wisdom.",
   },
   {
-    question: "Why does Lord Murugan have 108 names?",
-    answer:
+    id: 2,
+    title: "Why does Lord Murugan have 108 names?",
+    content:
       "The 108 names of Lord Murugan, known as the Subramanya Ashtottara Shatanamavali, represent different aspects of Lord Murugan's divine nature. Each name highlights a unique attribute, power, or story associated w ith him. Reciting 108 names is common in Hinduism and is believed to get the deity's blessings.",
   },
   {
-    question: "What are some popular names of Lord Murugan?",
-    answer:
+    id: 3,
+    title: "What are some popular names of Lord Murugan?",
+    content:
       "Some notable names include Shanmukha (six-faced one), Vel Murugan (spear-wielding Murugan), and Kumaresa (Lord of Kumaras). Each name offers insight into Murugan's character, mythology, and spiritual significance, making the Sri Subrahmanya Swamy Ashtothram a way to attract his divine presence.",
   },
   {
-    question: "Why to chant 108 names of Murugan?",
-    answer:
+    id: 4,
+    title: "Why to chant 108 names of Murugan?",
+    content:
       "Chanting 108 names of Murugan is a popular practice in South India, especially in Tamil Nadu. It is believed to please Lord Murugan ( Lord Kartikeya), who brings wealth, prosperity, good health and protection to his devotees. Go through the Murugan 108 names in English today.",
   },
   {
-    question: "How to chant Subramanya Swamy Shatanamavali?",
-    answer:
+    id: 5,
+    title: "How to chant Subramanya Swamy Shatanamavali?",
+    content:
       "Find a peaceful time to chant Murugan names. People usually prefer Brahma Muhurta (1.5 hours before sunrise). One can also chant during sunset or before going to sleep. Place Lord Murugan idol or yantra in the North or East direction. Light diya or incense and start the chant facing it.",
   },
   {
-    question: "How to decide Lord Murugan names for baby boy?",
-    answer:
+    id: 6,
+    title: "How to decide Lord Murugan names for baby boy?",
+    content:
       "First of all, keep the list of 108 lord Muruga names with you. Then select some names based on the meanings like Shanmukh meaning, Subramanya meaning, etc. Look for other names of Lord Muruga and share your top choices with elders and an astrologer.",
   },
 ];
 
 const Murugan108 = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
-
   return (
     <Layout
       title="108 Name of Lord Murugan - AstroSwarg"
@@ -989,25 +990,9 @@ const Murugan108 = () => {
             Minimise distractions by choosing a quiet area. Also, inform others
             of your spiritual practice to ensure undisturbed devotion.
           </p>
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={Murugan108FAQ} />
     </Layout>
   );
 };

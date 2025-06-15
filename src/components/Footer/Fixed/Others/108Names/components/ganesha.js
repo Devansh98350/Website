@@ -1,9 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Deity108ButtonGrid from "./commonGrid";
 import Layout from "../../../../../Layout/Layout";
 import Breadcrumbs from "../../../../../Breadcrumb";
-
+import FAQLayout from "../../../../../Common/FaqLayout";
 const Container = styled.div`
   .body {
     width: 90%;
@@ -104,45 +104,43 @@ const UnorderedList = styled.ul`
 const ListItem = styled.li`
   margin-bottom: 10px;
 `;
-
-const faqs = [
+const Ganesh108FAQ = [
   {
-    question: "How does chanting 108 names of Ganesha help?",
-    answer:
+    id: 1,
+    title: "How does chanting 108 names of Ganesha help?",
+    content:
       "Reciting the Ganpati 108 names is said to gain Ganesha's blessings,removing hurdles and obstacles from one's life path. Many believe that regular chanting brings mental peace, focus, wisdom and success in all goals.",
   },
   {
-    question: "What is the 1st name of Ganesha?",
-    answer:
+    id: 2,
+    title: "What is the 1st name of Ganesha?",
+    content:
       "The 1st sacred name in the Ashtottara Shatanamavali is 'Gajanana', which translates to 'having the face of an elephant.' This celebrates Ganesha's distinctive elephant-headed form, a reminder of his ability to remove even the biggest of obstacles.",
   },
   {
-    question: "What happens when you chant Ganesha Namawali?",
-    answer:
+    id: 3,
+    title: "What happens when you chant Ganesha Namawali?",
+    content:
       "When chanting 108 names of Ganesha with deep focus, it's said one's aura is purified and energised. The vibrations help align the body, mind and spirit. Many find it bringing a deep state of meditation and oneness with the universe.",
   },
   {
-    question: "How to chant Ganesha Ashtottara Shatanamavali?",
-    answer:
+    id: 4,
+    title: "How to chant Ganesha Ashtottara Shatanamavali?",
+    content:
       "Start the Ganesha Ashtothram with the sacred Ganesha mantra 'Om Gajananaya Namaha', followed by reciting each of the 108 names. Use prayer Rudraksha beads to chant at a moderate rhythm to maintain focus.",
   },
   {
-    question: "What is the best time to chant Ganeshna Namavali?",
-    answer:
+    id: 5,
+    title: "What is the best time to chant Ganeshna Namavali?",
+    content:
       "The best time to chant Ganesha Namavali is Brahma Muhurta. It begins 1.5 hours before sunrise and also brings the blessings of Lord Surya. Here, you can read Ganesh 108 names in English and Hindi.",
   },
 ];
 
 const Ganesh108 = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
-
   return (
     <Layout
       title="108 Name of Lord Ganesha - AstroSwarg"
@@ -970,25 +968,9 @@ const Ganesh108 = () => {
             a comfortable cross-legged position on the floor or a cushion. Keep
             your back straight but relaxed.
           </p>
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={Ganesh108FAQ} />
     </Layout>
   );
 };

@@ -1,8 +1,9 @@
-import React, { useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Deity108ButtonGrid from "./commonGrid";
 import Layout from "../../../../../Layout/Layout";
 import Breadcrumbs from "../../../../../Breadcrumb";
+import FAQLayout from "../../../../../Common/FaqLayout";
 
 const Container = styled.div`
   .body {
@@ -104,44 +105,49 @@ const UnorderedList = styled.ul`
 const ListItem = styled.li`
   margin-bottom: 10px;
 `;
-const faqs = [
+const Shiva108FAQ = [
   {
-    question: "What is Devi Ashtottara Shatanamavali?",
-    answer:
+    id: 1,
+    title: "What is Devi Ashtottara Shatanamavali?",
+    content:
       "Devi Ashtottara Shatanamavali is a sacred chant containing 108 names of Goddess Durga. It's like a spiritual playlist that helps you connect with the divine feminine energy. Each name represents a unique aspect of Maa Durga's power and grace.",
   },
   {
-    question: "Why is chanting 108 names of Maa Durga important?",
-    answer:
+    id: 2,
+    title: "Why is chanting 108 names of Maa Durga important?",
+    content:
       "Chanting these names is believed to invoke Durga's blessings and protection. It's like sending your prayers and asking favours to the goddess. Many devotees find that this practice brings inner peace, strength, and spiritual growth.",
   },
   {
-    question: "How to chant 108 names of Durga?",
-    answer:
+    id: 3,
+    title: "How to chant 108 names of Durga?",
+    content:
       "Start by finding a comfortable spot and setting a peaceful mood. You can use a mala (prayer beads), either Rudraksha, Shuddha Sphatika or Kamal bija to keep count. Or simply recite the names from the list. The key is to chant Devi 108 Namavali with focus and devotion.",
   },
   {
-    question: "What is the mythology behind the Devi 108 Namavali?",
-    answer:
+    id: 4,
+    title: "What is the mythology behind the Devi 108 Namavali?",
+    content:
       "According to Hindu mythology, Lord Shiva is the son of Maa Durga. Once, he paid respect and displayed his love towards her mother by reciting the 108 names of Goddess Durga.",
   },
   {
-    question: "Should we chant Devi Ashtottara Shatanamavali during Navaratri?",
-    answer:
+    id: 5,
+    title: "Should we chant Devi Ashtottara Shatanamavali during Navaratri?",
+    content:
       "Absolutely. In fact, chanting Devi 108 Namavali during Navaratri is considered extremely auspicious. It is the best way to honour and pray to the nine forms of Goddess Durga.",
   },
   {
-    question: "Can we chant 108 names of Durga at night?",
-    answer:
+    id: 6,
+    title: "Can we chant 108 names of Durga at night?",
+    content:
       "Yes, you can. But it is advisable to chant 108 names of Maa Durga during Brahma Muhurta. This period occurs 1.5 hours before the sunrise. Chanting during this time is believed to be most effective.",
   },
 ];
 
 const Shiva108 = () => {
-  const [openIndex, setOpenIndex] = useState(null);
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   return (
     <Layout
       title="108 Name of Lord Shiva - AstroSwarg"
@@ -973,25 +979,9 @@ const Shiva108 = () => {
             clearly. Having fresh flowers like marigolds to offer at the end
             adds to the holiness.
           </p>
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={Shiva108FAQ} />
     </Layout>
   );
 };

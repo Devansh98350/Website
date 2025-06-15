@@ -1,8 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Deity108ButtonGrid from "./commonGrid";
 import Layout from "../../../../../Layout/Layout";
 import Breadcrumbs from "../../../../../Breadcrumb";
+import FAQLayout from "../../../../../Common/FaqLayout";
 
 const Container = styled.div`
   .body {
@@ -104,47 +105,49 @@ const UnorderedList = styled.ul`
 const ListItem = styled.li`
   margin-bottom: 10px;
 `;
-const faqs = [
+const Narashima108FAQ = [
   {
-    question: "What is Narasimha Shatanamavali?",
-    answer:
+    id: 1,
+    title: "What is Narasimha Shatanamavali?",
+    content:
       "Narasimha Ashtottara Shatanamavali is a collection of 108 names of Lord Narasimha. These names are very sacred and chanted to please Lord Narasimha.",
   },
   {
-    question: "How does chanting Narasimha 108 names help??",
-    answer:
+    id: 2,
+    title: "How does chanting Narasimha 108 names help??",
+    content:
       "Chanting the 108 names of Narasimha helps in many ways. Devotees have noticed reduced anxiety, stress and an increase in wealth by practising it. It is also said to provide success in achieving all your desires and the influence of all planets.",
   },
   {
-    question: "How to chant 108 Narasimha names?",
-    answer:
+    id: 3,
+    title: "How to chant 108 Narasimha names?",
+    content:
       "Sit in a relaxed position on the floor and place Narasimha’s idol in the East or North direction. Also, light incense sticks or diya in front of the idol. Next, glide one bead with each Narasimha name so that you make sure that you have chanted all 108 names of Narasimha.",
   },
   {
-    question: "Which day to pray Narasimha?",
-    answer:
+    id: 4,
+    title: "Which day to pray Narasimha?",
+    content:
       "The 108 Narasimha names are chanted on the 14th day of Vaishakh month, i.e. Vaishakha Shukla Chaturdashi. Devotees believe praying to him on his birthday, fulfils all your dreams and wishes. However, one can chant his names on other days as well.",
   },
   {
-    question: "Why are Narasimha names so powerful?",
-    answer:
+    id: 5,
+    title: "Why are Narasimha names so powerful?",
+    content:
       "Narasimha names are believed to be powerful, and that is why they are chanted by devotees with full dedication. Lord Narasimha loves his devotees immensely and would go to any extent to fulfil their wishes.",
   },
   {
-    question: "Who is Lord Narasimha?",
-    answer:
+    id: 6,
+    title: "Who is Lord Narasimha?",
+    content:
       "Lord Narasimha is the fourth avatar of Lord Narayana (Vishnu). He is believed to take birth in the form of a part-man, part-lion creature to save his devotee, Prahlada, from the evil plans of his father, Hiranyakashipu.",
   },
 ];
 
 const Narashima108 = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
   return (
     <Layout
       title="108 Name of Lord Narasimha - AstroSwarg"
@@ -964,25 +967,9 @@ const Narashima108 = () => {
             meaning behind each Narasimha name. This will indicate full devotion
             to the god.
           </p>
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={Narashima108FAQ} />
     </Layout>
   );
 };

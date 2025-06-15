@@ -1,8 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Deity108ButtonGrid from "./commonGrid";
 import Layout from "../../../../../Layout/Layout";
 import Breadcrumbs from "../../../../../Breadcrumb";
+import FAQLayout from "../../../../../Common/FaqLayout";
 
 const Container = styled.div`
   .body {
@@ -104,48 +105,49 @@ const UnorderedList = styled.ul`
 const ListItem = styled.li`
   margin-bottom: 10px;
 `;
-const faqs = [
+const Ram108FAQ = [
   {
-    question: "What is Rama Ashtottara Shatanamavali?",
-    answer:
+    id: 1,
+    title: "What is Rama Ashtottara Shatanamavali?",
+    content:
       "Rama Ashtottrara Shatanamavali is a collection of 108 names of Lord Rama. Each name is made more auspicious by giving it a mantra form. This pleases Lord Ram and showers his blessings upon us.",
   },
   {
-    question: "What is the full name of Shree Ram in his namavali?",
-    answer:
+    id: 2,
+    title: "What is the full name of Shree Ram in his namavali?",
+    content:
       "The Lord Shree Ram full name is Ram Chandra, meaning a beautiful moon. It is the most powerful Lord Rama name. You can easily find it in his 108 names collection (namavali). He is given this name because his beauty is considered worth the brightest of thousands of moons.",
   },
   {
-    question: "Does the 108 Ram Name list conatain loard Ram surname?",
-    answer:
+    id: 3,
+    title: "Does the 108 Ram Name list conatain loard Ram surname?",
+    content:
       "You can find several names of Lord Rama in ancient texts, specifically in the sacred collection of his 108 names. However, no name has a surname, as in Hinduism, keeping gods’ surnames has not been a tradition or practice.",
   },
   {
-    question: "How to chant Ram names?",
-    answer:
+    id: 4,
+    title: "How to chant Ram names?",
+    content:
       "Find a calm place in the East. Also, place Lord Ram’s idol or yantra in this direction. Now, sit comfortably with a Tulsi mala and chant each Ram name while gliding one bead at a team.",
   },
   {
-    question: "Which time is suitable for chanting Ram 108 names?",
-    answer:
+    id: 5,
+    title: "Which time is suitable for chanting Ram 108 names?",
+    content:
       "Brahma Muhurta is a suitable time for chanting Ram 108 names. It happens between 3:30 am and 5:30 am. Following this, especially on a Tuesday, pleases Lord Rama as this day belongs to his beloved devotee and friend, Hanuman Ji.",
   },
   {
-    question: "How to choose names of Rama for baby boy?",
-    answer:
+    id: 6,
+    title: "How to choose names of Rama for baby boy?",
+    content:
       "To choose a name from 108 names of Lord Rama for baby boy, one needs to understand the meaning behind each and every Ram name. Next, pick up names suitable for the baby boy, such as Raghava, Ramachandra, etc. Finally, share it with elders and also consult an astrologer.",
   },
 ];
 
 const Ram108 = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
-
   return (
     <Layout
       title="108 Name of Lord Rama - AstroSwarg"
@@ -959,25 +961,9 @@ const Ram108 = () => {
             chanting Ram names. Make sure you understand the meaning of each
             word that you pronounce.
           </p>
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={Ram108FAQ} />
     </Layout>
   );
 };

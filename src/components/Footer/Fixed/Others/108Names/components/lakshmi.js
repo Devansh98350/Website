@@ -1,8 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Deity108ButtonGrid from "./commonGrid";
 import Breadcrumbs from "../../../../../Breadcrumb";
 import Layout from "../../../../../Layout/Layout";
+import FAQLayout from "../../../../../Common/FaqLayout";
 
 const Container = styled.div`
   .body {
@@ -104,51 +105,55 @@ const UnorderedList = styled.ul`
 const ListItem = styled.li`
   margin-bottom: 10px;
 `;
-const faqs = [
+const Lakshmi108FAQ = [
   {
-    question: "What are the 108 names of Lakshmi?",
-    answer:
+    id: 1,
+    title: "What are the 108 names of Lakshmi?",
+    content:
       "The 108 names of Lakshmi are collectively referred to as Sri Lakshmi Ashtottara Shatanamavali. They are sacred names that describe the various aspects and attributes of the Hindu goddess of wealth and prosperity. Each name offers devotees a deeper understanding of her divine nature.",
   },
   {
-    question: "How does chanting the 108 names of Lakshmi help?",
-    answer:
+    id: 2,
+    title: "How does chanting the 108 names of Lakshmi help?",
+    content:
       "Chanting Lakshmi names is believed to get Lakshmi's blessings, attracting abundance, prosperity, and good fortune into your life. It's also a form of meditation that can help calm the mind and increase focus.",
   },
   {
-    question: "How to chant Sri Lakshmi Ashtottara Shatanamavali?",
-    answer:
+    id: 3,
+    title: "How to chant Sri Lakshmi Ashtottara Shatanamavali?",
+    content:
       "To chant, find a quiet space and sit comfortably. Begin with a few deep breaths, then recite each name with reverence and concentration. You can use a mala (prayer beads) of either Lotus seeds or Kamala Gatta to keep count, moving one bead per name.",
   },
   {
-    question: "Should we chant 108 names of Laxmi on an empty stomach?",
-    answer:
+    id: 4,
+    title: "Should we chant 108 names of Laxmi on an empty stomach?",
+    content:
       "While not mandatory, chanting on an empty stomach is often recommended as it is believed to enhance mental clarity and spiritual acceptance. However, the most important factor is your sincerity and devotion, whether your stomach is full or empty.",
   },
   {
-    question: "Can we chant 108 names of Laxmi at night",
-    answer:
+    id: 5,
+    title: "Can we chant 108 names of Laxmi at night",
+    content:
       "Yes, one can. However, it is advised to chant Mahalaxmi 108 names during Brahma Muhurat, i.e. 1.5 hours before sunrise. This is auspicious to get the blessings of Maa Laxmi as well as Lord Surya.",
   },
   {
-    question: "What occasions are auspicious for chanting Mahalaxmi 108 names?",
-    answer:
+    id: 6,
+    title: "What occasions are auspicious for chanting Mahalaxmi 108 names?",
+    content:
       "Diwali and Dhanteras are particularly auspicious for chanting Mahalakshmi's 108 names. These festivals celebrate light, prosperity, and new beginnings, making them ideal times to seek Lakshmi's blessings through chanting.",
   },
 ];
 
 const Lakshmi108 = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
-
   return (
-    <Layout title="108 Name of Goddess Lakshmi - AstroSwarg" description="" keywords="">
+    <Layout
+      title="108 Name of Goddess Lakshmi - AstroSwarg"
+      description=""
+      keywords=""
+    >
       <Breadcrumbs />
       <Container>
         <div className="body">
@@ -962,25 +967,9 @@ const Lakshmi108 = () => {
             concentration throughout the recitation. Let in the vibrations of
             Sri Laxmi Ashtottara Shatanamavali!
           </p>
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={Lakshmi108FAQ} />
     </Layout>
   );
 };
