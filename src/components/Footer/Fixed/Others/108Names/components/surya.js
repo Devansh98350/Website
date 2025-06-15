@@ -1,9 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Deity108ButtonGrid from "./commonGrid";
 import Layout from "../../../../../Layout/Layout";
 import Breadcrumbs from "../../../../../Breadcrumb";
-
+import FAQLayout from "../../../../../Common/FaqLayout";
 const Container = styled.div`
   .body {
     width: 90%;
@@ -104,51 +104,56 @@ const UnorderedList = styled.ul`
 const ListItem = styled.li`
   margin-bottom: 10px;
 `;
-const faqs = [
+const Surya108FAQ = [
   {
-    question: "What is Surya Ashtottara Shatanamavali?",
-    answer:
+    id: 1,
+    title: "What is Surya Ashtottara Shatanamavali?",
+    content:
       "Surya Ashtottara Shatanamavali is the collective name of 108 names of lord Surya. The different names of Sun depict different qualities of this powerful deity who rules the solar system. At the same time, it is also inspired by Surya’s life.",
   },
   {
-    question: "How does chanting Lord Surya 108 names help?",
-    answer:
+    id: 2,
+    title: "How does chanting Lord Surya 108 names help?",
+    content:
       "Chanting 108 names of Sun god is believed to improve physical health, boost mental clarity, and enhance spiritual growth. Many devotees report increased vitality, better digestion, and improved eyesight. Plus, this practice removes negative energies and brings prosperity.",
   },
   {
-    question: "Are there specific times or days for chanting?",
-    answer:
+    id: 3,
+    title: "Are there specific times or days for chanting?",
+    content:
       "While you can chant anytime, sunrise is considered the most auspicious time. Sundays, being associated with Lord Surya, are particularly favourable. Some also recommend chanting during solar eclipses or during Chat Puja for a great impact.",
   },
   {
-    question: "How often should you chant the 108 names of Sun god?",
-    answer:
+    id: 4,
+    title: "How often should you chant the 108 names of Sun god?",
+    content:
       "For best results, it's recommended to chant 108 name of Suryadev daily, preferably during the early morning hours. However, even weekly or monthly recitations can be beneficial.",
   },
   {
-    question:
+    id: 5,
+    title:
       "What materials do you need for the ritual of chanting Lord Surya's name?",
-    answer:
+    content:
       "For a complete chanting ritual of 108 Lord Surya names, you'll need a clean, quiet space, a picture or idol of Lord Surya, incense, flowers, and a mala (Sandalwood or Ruby prayer beads) with 108 beads plus one Guru bead.",
   },
   {
-    question: "Can you use 108 Sun names for baby naming?",
-    answer:
+    id: 6,
+    title: "Can you use 108 Sun names for baby naming?",
+    content:
       "Yes, many parents choose names from the sacred 108 different names of Sun for their children. These names are considered auspicious and are believed to offer the Sun God's blessings upon the child. Popular choices include Aditya, Bhanu, and Ravi.",
   },
 ];
 
 const Surya108 = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
-
   return (
-    <Layout title="108 Name of Lord Surya - AstroSwarg" description="" keywords="">
+    <Layout
+      title="108 Name of Lord Surya - AstroSwarg"
+      description=""
+      keywords=""
+    >
       <Breadcrumbs />
       <Container>
         <div className="body">
@@ -971,25 +976,9 @@ const Surya108 = () => {
             will help maintain a meditative atmosphere throughout your chanting
             session.
           </p>
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={Surya108FAQ} />
     </Layout>
   );
 };

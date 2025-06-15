@@ -1,8 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Deity108ButtonGrid from "./commonGrid";
 import Layout from "../../../../../Layout/Layout";
 import Breadcrumbs from "../../../../../Breadcrumb";
+import FAQLayout from "../../../../../Common/FaqLayout";
 
 const Container = styled.div`
   .body {
@@ -104,49 +105,49 @@ const UnorderedList = styled.ul`
 const ListItem = styled.li`
   margin-bottom: 10px;
 `;
-const faqs = [
+const Vishnu108FAQ = [
   {
-    question: "What are the benefits of chanting Vishnu Shatanamavali?",
-    answer:
+    id: 1,
+    title: "What are the benefits of chanting Vishnu Shatanamavali?",
+    content:
       "Some of the benefits of chanting the Shatanamavali include attaining peace, wellness, and joy in one’s life. It also helps reduce anxiety and stress.",
   },
   {
-    question: "When to chant Vishnu names?",
-    answer:
+    id: 2,
+    title: "When to chant Vishnu names?",
+    content:
       "An individual can chant Lord Vishnu name in the morning, which is also the best time to do so. However, you can also chant the names in the evening or before sleeping.",
   },
   {
-    question: "Which is the best direction to chant Vishnu names?",
-    answer:
+    id: 3,
+    title: "Which is the best direction to chant Vishnu names?",
+    content:
       "According to Vastu Shastra, the ideal direction to chant Lord Vishnu's name is while facing the North or East. These directions are considered to be auspicious for pooja and chanting.",
   },
   {
-    question: "How many names does Lord Vishnu have?",
-    answer:
+    id: 4,
+    title: "How many names does Lord Vishnu have?",
+    content:
       "It is said that Lord Vishnu has over 1000 names. His 1008 names are known as the Vishnu Sahasranamam.",
   },
   {
-    question: "Is it correct to chant Vishnu Sahasranamam at night?",
-    answer:
+    id: 5,
+    title: "Is it correct to chant Vishnu Sahasranamam at night?",
+    content:
       "Yes, chanting the Shatanamavali at night before sleep is also considered beneficial.",
   },
   {
-    question: "Who can chant the Vishnu 108 names?",
-    answer:
+    id: 6,
+    title: "Who can chant the Vishnu 108 names?",
+    content:
       "Anyone can chant the Vishnu Namavali. All you need to chant is a clear and focused mind and complete devotion towards the Lord.",
   },
 ];
 
 const Vishnu108 = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
-
   return (
     <Layout
       title="108 Name of Lord Vishnu - AstroSwarg"
@@ -978,25 +979,9 @@ const Vishnu108 = () => {
             morning, it is advised that the individual follows the same
             procedure in the evening.
           </p>
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={Vishnu108FAQ} />
     </Layout>
   );
 };
