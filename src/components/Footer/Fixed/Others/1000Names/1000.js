@@ -1,8 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Breadcrumbs from "../../../../Breadcrumb";
 import Layout from "../../../../Layout/Layout";
 import Deity1000ButtonGrid from "./components/common1000grid";
+import FAQLayout from "../../../../Common/FaqLayout";
 
 const Container = styled.div`
   .body {
@@ -104,53 +105,56 @@ const UnorderedList = styled.ul`
 const ListItem = styled.li`
   margin-bottom: 10px;
 `;
-const faqs = [
+const T1000FAQ = [
   {
-    question: "Which are the 1000 names of Hindu Gods and Goddesses?",
-    answer:
+    id: 1,
+    title: "Which are the 1000 names of Hindu Gods and Goddesses?",
+    content:
       "In Hindu mythology, the 1000 names of Hindu Gods and Goddesses are known as Saharanama. This list contains all the 1000 names of Hindu deities. Each name in this list has a different meaning and is associated with certain powers or qualities of gods.",
   },
   {
-    question: "Which are there 1000 names in the Sahasranamavali?",
-    answer:
+    id: 2,
+    title: "Which are there 1000 names in the Sahasranamavali?",
+    content:
       "Sahastra namavali, the 1000 names of Hindu Gods and Goddesses, lists many qualities, powers, and stories related to the Hindu deities. All these names help us connect with the god and receive his blessings.",
   },
   {
-    question: "Can anyone chant the Sahasranamam names?",
-    answer:
+    id: 3,
+    title: "Can anyone chant the Sahasranamam names?",
+    content:
       "Yes, anyone can chant the Sahasranamam names. The only important thing is to chant the Sahasranamavali of Hindu deities with pure devotion and true intentions.",
   },
   {
-    question:
-      "How can I chant the 1000 names of gods and goddesses effectively?",
-    answer:
+    id: 4,
+    title: "How can I chant the 1000 names of gods and goddesses effectively?",
+    content:
       "Setting the right intentions while sitting in a peaceful and calm atmosphere is one of the first steps in effectively chanting the Sahasranamavali of Hindi deities. Next, focus on the correct pronunciation of the names and understand their meaning.",
   },
   {
-    question: "What are the benefits of Sahasranamam 1000 names?",
-    answer:
+    id: 5,
+    title: "What are the benefits of Sahasranamam 1000 names?",
+    content:
       "The 1000 names of Hindu gods and goddesses contain special powers and can attract positive energy, peace and inner strength for the individual. Moreover, it helps him to connect with the divine on a deeper spiritual level.",
   },
   {
-    question:
+    id: 6,
+    title:
       "Are the 1000 names of Hindu Gods and Goddesses the same for every diety?",
-    answer:
+    content:
       "No, the 1000 names of Hindu Gods and Goddesses differ for each deity. This is because each name describes the special qualities and powers of the particular god.",
   },
 ];
 
 const Thousand = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
-
   return (
-    <Layout title="1000 Name of Deities - AstroSwarg" description="" keywords="">
+    <Layout
+      title="1000 Name of Deities - AstroSwarg"
+      description=""
+      keywords=""
+    >
       <Breadcrumbs />
       <Container>
         <div className="body">
@@ -265,25 +269,9 @@ const Thousand = () => {
               with full devotion and purity in your heart.
             </ListItem>
           </UnorderedList>
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={T1000FAQ} />
     </Layout>
   );
 };

@@ -1,8 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Deity1000ButtonGrid from "./common1000grid";
 import Breadcrumbs from "../../../../../Breadcrumb";
 import Layout from "../../../../../Layout/Layout";
+import FAQLayout from "../../../../../Common/FaqLayout";
 
 const Container = styled.div`
   .body {
@@ -105,49 +106,49 @@ const Container = styled.div`
 //   margin-bottom: 10px;
 // `;
 
-const faqs = [
+const Ganesh1000FAQ = [
   {
-    question: "What is the name of Ganesha in Kalyug?",
-    answer:
+    id: 1,
+    title: "What is the name of Ganesha in Kalyug?",
+    content:
       "Lord Ganesha is known by various names like Ganapati, Gajanan and more. However, in the Kali Yuga, he is called the Dhumraketu (Dhūmraketu).",
   },
   {
-    question: "What name di Parvati gave toGanesha?",
-    answer:
+    id: 2,
+    title: "What name di Parvati gave toGanesha?",
+    content:
       "Goddess Parvati named him Ganapati and Vinayaka. Ganapati means the conductor of celestial armies, and Vinayaka means the lord of all beings.",
   },
   {
-    question: "What are the benefits of chanting 1000 names of Ganesha?",
-    answer:
+    id: 3,
+    title: "What are the benefits of chanting 1000 names of Ganesha?",
+    content:
       "Chanting 1000 names od Lord Ganesha can help a person gain peace and calm in their lives. It is also associated with removing struggles of the devotee and filling their life with luck, wealth, and fortune.",
   },
   {
-    question: "What are the important 12 names of Ganesh ji?",
-    answer:
+    id: 4,
+    title: "What are the important 12 names of Ganesh ji?",
+    content:
       "The 12 names of Lord Ganesha are Sumukh, Ekdanta, Kapila, Gajakarnaka, Lambodar, Vikata, Vighnaraja, Dhumravarna, Balchandra, Vinayaka, Ganadhipa, and Gajanana.",
   },
   {
-    question: "Which direction is good for chanting 1000 names of Ganesha?",
-    answer:
+    id: 5,
+    title: "Which direction is good for chanting 1000 names of Ganesha?",
+    content:
       "The East direction is considered to be suitable for individuals who want to chant the 1000 names of Lord Ganesha.",
   },
   {
-    question: "What is the best time to chant 1000 names of Ganesha?",
-    answer:
+    id: 6,
+    title: "What is the best time to chant 1000 names of Ganesha?",
+    content:
       "The best time to chant Lord Ganesha 1000 names is during the Brahma muhurta or early morning. However, you can chant the names anytime.",
   },
 ];
 
 const Ganesha1000 = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
-
   return (
     <Layout
       title="1000 Name of Goddess Durga - AstroSwarg"
@@ -6382,25 +6383,9 @@ const Ganesha1000 = () => {
             baby boy or the 1000 names of lord Ganesha for baby girl is said to
             promote overall well-being in a person’s life.
           </p>
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={Ganesh1000FAQ} />
     </Layout>
   );
 };

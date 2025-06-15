@@ -1,8 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Deity1000ButtonGrid from "./common1000grid";
 import Breadcrumbs from "../../../../../Breadcrumb";
 import Layout from "../../../../../Layout/Layout";
+import FAQLayout from "../../../../../Common/FaqLayout";
 
 const Container = styled.div`
   .body {
@@ -105,50 +106,49 @@ const Container = styled.div`
 //   margin-bottom: 10px;
 // `;
 
-const faqs = [
+const Hanuman1000FAQ = [
   {
-    question: "What are the benefits of Hanuman Sahasranamam?",
-    answer:
+    id: 1,
+    title: "What are the benefits of Hanuman Sahasranamam?",
+    content:
       "Chanting the Hanuman Sahasranamam has many benefits, including protection from evil energies, inner peace, strength, and courage. Devotees who chant these names with purity also receive the blessings of Lord Rama.",
   },
   {
-    question: "Who recited Hanuman Sahasranamam?",
-    answer:
+    id: 2,
+    title: "Who recited Hanuman Sahasranamam?",
+    content:
       "Maharishi Valmiki recited Hanuman ji all name for the first time. The collection of 1000 names of Bajrangbali describes his infinite powers and is dedicated to Lord Rama.",
   },
   {
-    question: "How to chant Hanuman Sahasranamavali effectively?",
-    answer:
+    id: 3,
+    title: "How to chant Hanuman Sahasranamavali effectively?",
+    content:
       "Chanting Hanuman Sahasranamavali regularly is the most effective way to get Lord Hanuman’s blessings. Devotees can continuously chant the powerful Hanuman 1000 names for 41 days to eliminate their problems and bring prosperity to life.",
   },
   {
-    question: "When to chant Hanuman ji all name?",
-    answer:
+    id: 4,
+    title: "When to chant Hanuman ji all name?",
+    content:
       "There is no specific time to chant Hanuman Sahasranamavali. However, the devotees can chant all 1000 names of Lord Hanuman during the Brahma Muhurat (3:30-4:30 AM). If not possible, then the sahasranamavali can also be chanted in the evening.",
   },
   {
-    question:
-      "Which is the ideal direction to chant the 1000 Hanuman name list?",
-    answer:
+    id: 5,
+    title: "Which is the ideal direction to chant the 1000 Hanuman name list?",
+    content:
       "The south direction is ideal for chanting the 1000 Hanuman name list. However, devotees can chant the Hanuman Sahasranama in the northeast direction, sitting in the sukhasana position.",
   },
   {
-    question: "Which day is lucky to chant the 1000 names of Lord Hanuman?",
-    answer:
+    id: 6,
+    title: "Which day is lucky to chant the 1000 names of Lord Hanuman?",
+    content:
       "Tuesdays and Saturdays are the lucky days to chant the 1000 names of Lord Hanuman. According to astrological beliefs, worshipping and chanting the Sahasranama these days will give devotees maximum results.",
   },
 ];
 
 const Hanuman1000 = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
-
   return (
     <Layout
       title="1000 Name of Lord Hanuman - AstroSwarg"
@@ -6210,25 +6210,9 @@ const Hanuman1000 = () => {
             same devotion, Lord Hanuman will bless you with prosperity, fortune,
             good luck and courage.
           </p>
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={Hanuman1000FAQ} />
     </Layout>
   );
 };
