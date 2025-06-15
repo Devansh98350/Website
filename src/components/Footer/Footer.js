@@ -223,6 +223,18 @@ const Footer = () => {
               Astrological remedies for promotion
             </Link>
           </p>
+          <p>
+            <Link to="/108-names-of-deities">108 Gods Name</Link>
+          </p>
+          <p>
+            <Link to="/1000-names-of-deities">1000 Gods Name</Link>
+          </p>
+          <p>
+            <Link to="/jyotirilinga">12 Jyotirlinga</Link>
+          </p>
+          <p>
+            <Link to="/panch-kedar">Panch-Kedar</Link>
+          </p>
         </div>
         <div className="footer-column">
           <div className="name">Quick Links</div>

@@ -136,6 +136,53 @@ import Grihasan from "./components/Footer/Fixed/Mantras/OtherMantras/Grihasan.js
 import Ganesh from "./components/Footer/Fixed/Mantras/OtherMantras/Ganesh.js";
 import Rashi from "./components/Footer/Fixed/Mantras/OtherMantras/Rashi.js";
 import Krishna from "./components/Footer/Fixed/Mantras/OtherMantras/Krishna.js";
+/*108-names-of-deities*/
+import HundredEight from "./components/Footer/Fixed/Others/108Names/108.js";
+import Duurga108 from "./components/Footer/Fixed/Others/108Names/components/durga";
+import Ganesha108 from "./components/Footer/Fixed/Others/108Names/components/ganesha";
+import Hanuman108 from "./components/Footer/Fixed/Others/108Names/components/hanuman";
+import Krishna108 from "./components/Footer/Fixed/Others/108Names/components/krishna";
+import Lakshmi108 from "./components/Footer/Fixed/Others/108Names/components/lakshmi";
+import Murugan108 from "./components/Footer/Fixed/Others/108Names/components/murugan";
+import Narashima108 from "./components/Footer/Fixed/Others/108Names/components/narashima";
+import Ram108 from "./components/Footer/Fixed/Others/108Names/components/ram";
+import Shani108 from "./components/Footer/Fixed/Others/108Names/components/shani";
+import Shiva108 from "./components/Footer/Fixed/Others/108Names/components/shiva";
+import Surya108 from "./components/Footer/Fixed/Others/108Names/components/surya";
+import Vishnu108 from "./components/Footer/Fixed/Others/108Names/components/vishnu";
+/*1000-names-of-deities*/
+import Thousand from "./components/Footer/Fixed/Others/1000Names/1000.js";
+import Durga1000 from "./components/Footer/Fixed/Others/1000Names/components/durga";
+import Ganesha1000 from "./components/Footer/Fixed/Others/1000Names/components/ganesha";
+import Hanuman1000 from "./components/Footer/Fixed/Others/1000Names/components/hanuman";
+import Krishna1000 from "./components/Footer/Fixed/Others/1000Names/components/krishna";
+import Lakshmi1000 from "./components/Footer/Fixed/Others/1000Names/components/lakshmi";
+import Radha1000 from "./components/Footer/Fixed/Others/1000Names/components/radha";
+import Ram1000 from "./components/Footer/Fixed/Others/1000Names/components/ram";
+import Shiva1000 from "./components/Footer/Fixed/Others/1000Names/components/shiva.js";
+import Vishnu1000 from "./components/Footer/Fixed/Others/1000Names/components/vishnu.js";
+/*Jyotirilinga*/
+import Jyotirilinga from "./components/Footer/Fixed/Others/Jyotirlinga/jyotirilinga.js";
+import Baidyanath from "./components/Footer/Fixed/Others/Jyotirlinga/components/baidyanath.js";
+import Bhimashankar from "./components/Footer/Fixed/Others/Jyotirlinga/components/bhimashankar.js";
+import Grishneshwar from "./components/Footer/Fixed/Others/Jyotirlinga/components/grishneshwar.js";
+import JyotirilingaMantra from "./components/Footer/Fixed/Others/Jyotirlinga/components/jyotirlingaMantra.js";
+import Kedarnath from "./components/Footer/Fixed/Others/Jyotirlinga/components/kedarnath.js";
+import Mahakaleshwar from "./components/Footer/Fixed/Others/Jyotirlinga/components/mahakaleshwar.js";
+import Malikarjuna from "./components/Footer/Fixed/Others/Jyotirlinga/components/mallikarjuna.js";
+import Nageshwar from "./components/Footer/Fixed/Others/Jyotirlinga/components/nageshwar.js";
+import Omkareshwar from "./components/Footer/Fixed/Others/Jyotirlinga/components/omkareshwar.js";
+import Rameshwaram from "./components/Footer/Fixed/Others/Jyotirlinga/components/rameshwaram.js";
+import Somnath from "./components/Footer/Fixed/Others/Jyotirlinga/components/somnath.js";
+import Triambakeshwar from "./components/Footer/Fixed/Others/Jyotirlinga/components/triambakeshwar.js";
+import Vishwanath from "./components/Footer/Fixed/Others/Jyotirlinga/components/vishwanath.js";
+/*Panch-kedar*/
+import PanchKedar from "./components/Footer/Fixed/Others/PanchKedar/panchKedar.js";
+import Kalpeshwar from "./components/Footer/Fixed/Others/PanchKedar/components/Kalpeshwar.js";
+import Kedarnath1 from "./components/Footer/Fixed/Others/PanchKedar/components/kedarnath.js";
+import Madmaheshwar from "./components/Footer/Fixed/Others/PanchKedar/components/madmaheshwar.js";
+import Rudranath from "./components/Footer/Fixed/Others/PanchKedar/components/rudranath.js";
+import Tungnath from "./components/Footer/Fixed/Others/PanchKedar/components/tungnath.js";
 /*Planetary Transit 2025*/
 import Planet from "./components/Footer/Variable/Planet/Planet.js";
 import Sun from "./components/Footer/Variable/Planet/Sun.js";
@@ -673,6 +720,74 @@ function App() {
         <Route path="/mantras/ganesh-mantra" element={<Ganesh />} />
         <Route path="/mantras/rashi-mantra" element={<Rashi />} />
         <Route path="/mantras/krishna-mantra" element={<Krishna />} />
+        {/*108-names-of-deities*/}
+        <Route path="/108-names-of-deities" element={<HundredEight />} />
+        <Route path="/108-names-of-deities/durga" element={<Duurga108 />} />
+        <Route path="/108-names-of-deities/ganesha" element={<Ganesha108 />} />
+        <Route path="/108-names-of-deities/hanuman" element={<Hanuman108 />} />
+        <Route path="/108-names-of-deities/krishna" element={<Krishna108 />} />
+        <Route path="/108-names-of-deities/lakshmi" element={<Lakshmi108 />} />
+        <Route path="/108-names-of-deities/murugan" element={<Murugan108 />} />
+        <Route
+          path="/108-names-of-deities/narashima"
+          element={<Narashima108 />}
+        />
+        <Route path="/108-names-of-deities/ram" element={<Ram108 />} />
+        <Route path="/108-names-of-deities/shani" element={<Shani108 />} />
+        <Route path="/108-names-of-deities/shiva" element={<Shiva108 />} />
+        <Route path="/108-names-of-deities/surya" element={<Surya108 />} />
+        <Route path="/108-names-of-deities/vishnu" element={<Vishnu108 />} />
+        {/*1000-names-of-deities*/}
+        <Route path="/1000-names-of-deities" element={<Thousand />} />
+        <Route path="/1000-names-of-deities/durga" element={<Durga1000 />} />
+        <Route
+          path="/1000-names-of-deities/ganesha"
+          element={<Ganesha1000 />}
+        />
+        <Route
+          path="/1000-names-of-deities/hanuman"
+          element={<Hanuman1000 />}
+        />
+        <Route
+          path="/1000-names-of-deities/krishna"
+          element={<Krishna1000 />}
+        />
+        <Route
+          path="/1000-names-of-deities/lakshmi"
+          element={<Lakshmi1000 />}
+        />
+        <Route path="/1000-names-of-deities/radha" element={<Radha1000 />} />
+        <Route path="/1000-names-of-deities/ram" element={<Ram1000 />} />
+        <Route path="/1000-names-of-deities/shiva" element={<Shiva1000 />} />
+        <Route path="/1000-names-of-deities/vishnu" element={<Vishnu1000 />} />
+        {/*Jyotirilinga*/}
+        <Route path="/jyotirilinga" element={<Jyotirilinga />} />
+        <Route path="/jyotirilinga/baidyanath" element={<Baidyanath />} />
+        <Route path="/jyotirilinga/bhimashankar" element={<Bhimashankar />} />
+        <Route path="/jyotirilinga/grishneshwar" element={<Grishneshwar />} />
+        <Route
+          path="/jyotirilinga/jyotirlingaMantra"
+          element={<JyotirilingaMantra />}
+        />
+        <Route path="/jyotirilinga/kedarnath" element={<Kedarnath />} />
+        <Route path="/jyotirilinga/mahakaleshwar" element={<Mahakaleshwar />} />
+        <Route path="/jyotirilinga/mallikarjuna" element={<Malikarjuna />} />
+        <Route path="/jyotirilinga/nageshwar" element={<Nageshwar />} />
+        <Route path="/jyotirilinga/omkareshwar" element={<Omkareshwar />} />
+        <Route path="/jyotirilinga/rameshwaram" element={<Rameshwaram />} />
+        <Route path="/jyotirilinga/somnath" element={<Somnath />} />
+        <Route
+          path="/jyotirilinga/triambakeshwar"
+          element={<Triambakeshwar />}
+        />
+        <Route path="/jyotirilinga/vishwanath" element={<Vishwanath />} />
+        {/*Panch Kedar*/}
+        <Route path="/panch-kedar" element={<PanchKedar />} />
+        <Route path="/panch-kedar/kalpeshwar" element={<Kalpeshwar />} />
+        <Route path="/panch-kedar/kedarnath" element={<Kedarnath1 />} />
+        <Route path="/panch-kedar/madmaheshwar" element={<Madmaheshwar />} />
+        <Route path="/panch-kedar/rudranath" element={<Rudranath />} />
+        <Route path="/panch-kedar/tungnath" element={<Tungnath />} />
         {/*Planetary Transit 2025*/}
         <Route path="/planetary-transit-2025" element={<Planet />} />
         <Route path="/sun-transit-2025" element={<Sun />} />
