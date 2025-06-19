@@ -1,8 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Jyotirilinga12ButtonGrid from "./commonJyotirilingaGrid";
 import Layout from "../../../../../Layout/Layout";
 import Breadcrumbs from "../../../../../Breadcrumb";
+import FAQLayout from "../../../../../Common/FaqLayout";
 
 const Container = styled.div`
   .body {
@@ -104,49 +105,49 @@ const UnorderedList = styled.ul`
 const ListItem = styled.li`
   margin-bottom: 10px;
 `;
-const faqs = [
+const RamaeshwaramFAQ = [
   {
-    question: "What is special about Rameshwaram Temple Jyotirlinga?",
-    answer:
+    id: 1,
+    title: "What is special about Rameshwaram Temple Jyotirlinga?",
+    content:
       "The temple is one of the twelve Jyotirlingas and also a Char Dham, making it a vital pilgrimage site for Hindus. It's believed that Lord Rama worshipped Lord Shiva here to absolve sins after defeating Ravana.",
   },
   {
-    question: "What are the main rituals performed at the temple?",
-    answer:
+    id: 2,
+    title: "What are the main rituals performed at the temple?",
+    content:
       "Devotees engage in various rituals, including the Manikanda Abhishekam, Spadigalinga Deepa Aradhana, and Palliyarai Deepa Aradhana, seeking blessings and spiritual purification.",
   },
   {
-    question: "What is 22 Kund in Ramaeshwaram temple?",
-    answer:
+    id: 3,
+    title: "What is 22 Kund in Ramaeshwaram temple?",
+    content:
       "The 22 theerthams (holy wells) are believed to possess unique spiritual benefits as these are water bodies used by Lord Rama before worshipping the Rameshwaram Temple Jyotirlinga. Bathing in these waters is thought to cleanse devotees of sins and purify the soul.",
   },
   {
-    question: "Who built Rameshwaram temple?",
-    answer:
+    id: 4,
+    title: "Who built Rameshwaram temple?",
+    content:
       "The answer to who built Rameshwaram temple has 2 parts - the Jyotirlinga and the temple housing the Jyotirlinga. The main Rameshwaram temple god, the Rameshvar Jyotirlinga, was installed by Lord Rama. Prakrama Bahu started the temple building.",
   },
   {
-    question: "Who was the high priest of Ramaeshwaram in temple?",
-    answer:
+    id: 5,
+    title: "Who was the high priest of Ramaeshwaram in temple?",
+    content:
       "The high priest of Rameshwaram temple was Pakshi Lakshmana Shastry, highly regarded until now. The temple is open daily from 5:00 AM to 1:00 PM and 3:00 PM to 9:00 PM. Visiting it during early mornings or late evenings is advisable for a peaceful experience.",
   },
   {
-    question: "How can I reach the Ramanathaswamy Temple?",
-    answer:
+    id: 6,
+    title: "How can I reach the Ramanathaswamy Temple?",
+    content:
       "The Ramanathaswamy temple is accessible by road and rail. The nearest airport is in Madurai, approximately 170 km away. Regular bus and train services connect Rameswaram to major cities.",
   },
 ];
 
 const Rameshwaram = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
-
   return (
     <Layout
       title="Rameshwaram Jyotirlinga Temple - AstroSwarg"
@@ -325,25 +326,9 @@ const Rameshwaram = () => {
             <b>Read About Other Jyotirlingas</b>
           </p>
           <Jyotirilinga12ButtonGrid />
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={RamaeshwaramFAQ} />
     </Layout>
   );
 };

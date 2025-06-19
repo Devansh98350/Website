@@ -3,6 +3,7 @@ import styled from "styled-components";
 import Jyotirilinga12ButtonGrid from "./commonJyotirilingaGrid";
 import Layout from "../../../../../Layout/Layout";
 import Breadcrumbs from "../../../../../Breadcrumb";
+import FAQLayout from "../../../../../Common/FaqLayout";
 
 const Container = styled.div`
   .body {
@@ -105,50 +106,49 @@ const ListItem = styled.li`
   margin-bottom: 10px;
 `;
 
-const faqs = [
+const MahakaleshwarFAQ = [
   {
-    question: "Where is Mahakal temple?",
-    answer:
+    id: 1,
+    title: "Where is Mahakal temple?",
+    content:
       "The Mahakal temple in Ujjain, Madhya Pradesh, is one of the 12 jyotirlingas where Shiva’s Mahakaal form has been self-manifested. It is the Dakshinmukhi Jyotirlinga because it faces the South direction, which represents death.",
   },
   {
-    question: "Who built Mahakaleshwar temple in Ujjain?",
-    answer:
+    id: 2,
+    title: "Who built Mahakaleshwar temple in Ujjain?",
+    content:
       "According to ancient textbooks, the Shiv temple in Ujjain was built by Prajapita Brahma and Kumarasena, the son of Chandpradyot, the former king of Ujjain. However, it was reconstructed by King Udayaditya and King Naravarman.",
   },
   {
-    question: "What are the benefits of visiting Mahakaleshwar?",
-    answer:
+    id: 3,
+    title: "What are the benefits of visiting Mahakaleshwar?",
+    content:
       "Visiting the Mahakaleshwar Jyotirlinga temple can help devotees find inner peace and clarity. Being one of the 12 jyotirlingas dedicated to Kaalbhairav, it removes the chance of Akaal mrityu, kaal sarp dosh and Graha dosh.",
   },
   {
-    question: "Is Mahakaal Temple Ujjain a Shakti peeth?",
-    answer:
+    id: 4,
+    title: "Is Mahakaal Temple Ujjain a Shakti peeth?",
+    content:
       "Yes, Mahakaleshwar Jyotirlinga is associated with the Harasiddhi Shakti Peeth, where Goddess Sati’s elbow fell. It is the only temple where Jyotirlinga and Shakti Peeth exist together, enhancing the temple’s spiritual power.",
   },
   {
-    question:
-      "What are the Hindu festivals celebrated in Mahakaleshwar temple?",
-    answer:
+    id: 5,
+    title: "What are the Hindu festivals celebrated in Mahakaleshwar temple?",
+    content:
       "In Ujjain Shiv temple, festivals like Mahashivratri, Nag Panchami, and Sawari of Mahakal occur every Monday during Sawan. Moreover, Harihara Milana (union of Shiva and vishnu), Vijaya Dashami and Kartik Purnima are celebrated.",
   },
   {
-    question: "Why is Mahakaleshwar called Mukti Sthal?",
-    answer:
+    id: 6,
+    title: "Why is Mahakaleshwar called Mukti Sthal?",
+    content:
       "Mahakaleshwar Jyotirlinga Temple is one of the seven Moksha or Mukti Sthals, which means the place where moksha (liberation) is attained. Its purpose is to free one from the material world and achieve a divine understanding of one’s dharma and overall life.",
   },
 ];
 
 const Mahakaleshwar = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
-
   return (
     <Layout
       title="Mahakaleshwar Temple Ujjain - AstroSwarg"
@@ -320,25 +320,9 @@ const Mahakaleshwar = () => {
             <b>Read About Other Jyotirlingas</b>
           </p>
           <Jyotirilinga12ButtonGrid />
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={MahakaleshwarFAQ} />
     </Layout>
   );
 };

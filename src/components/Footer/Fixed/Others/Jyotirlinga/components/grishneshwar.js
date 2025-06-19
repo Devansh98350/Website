@@ -1,8 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Jyotirilinga12ButtonGrid from "./commonJyotirilingaGrid";
 import Breadcrumbs from "../../../../../Breadcrumb";
 import Layout from "../../../../../Layout/Layout";
+import FAQLayout from "../../../../../Common/FaqLayout";
 
 const Container = styled.div`
   .body {
@@ -105,49 +106,49 @@ const ListItem = styled.li`
   margin-bottom: 10px;
 `;
 
-const faqs = [
+const GrishaneshwarFAQ = [
   {
-    question: "Which jyotirlinga in Maharashtra is the most famous?",
-    answer:
+    id: 1,
+    title: "Which jyotirlinga in Maharashtra is the most famous?",
+    content:
       "In Maharashtra, there are 3 Jyotirlingas. These include Bhimashanker, Trimbakeshwar, and Grishneshwar Jyotirlingas.",
   },
   {
-    question: "What is the best time to visit Grishneshwar?",
-    answer:
+    id: 2,
+    title: "What is the best time to visit Grishneshwar?",
+    content:
       "The timings to visit the Grishneshwar temple are from 05:30 A.M. till 11:00 P.M. daily.",
   },
   {
-    question: "What are the benefits of visiting the Grishneshwar Jyotrilinga?",
-    answer:
+    id: 3,
+    title: "What are the benefits of visiting the Grishneshwar Jyotrilinga?",
+    content:
       "Visiting the Grishneshwara Jyotirlinga is believed to help a person gain wealth and other pleasures of life.",
   },
   {
-    question: "How old is the Grishneshwar jyotrilinga?",
-    answer:
+    id: 4,
+    title: "How old is the Grishneshwar jyotrilinga?",
+    content:
       "It is believed that the Grishneshwara Jyotirlinga was built before the 13th century and then was further renovated by Rahi Ahilyabai Holkar in the 18th century.",
   },
   {
-    question: "Who can visit the Grishneahwar Jyotrilinga Temple?",
-    answer:
+    id: 5,
+    title: "Who can visit the Grishneahwar Jyotrilinga Temple?",
+    content:
       "Everyone can visit the Grishneshwar Jyotirlinga temple. However, the men can only enter the temple premises with bare chests, and women must carry a dupatta or stole to cover their heads.",
   },
   {
-    question: "What to offer in the Grishneshwar Jyotrilinga?",
-    answer:
+    id: 6,
+    title: "What to offer in the Grishneshwar Jyotrilinga?",
+    content:
       "One can worship the Grishneshwar Shivalinga by offering honey, saffron-infused milk and water to the Shivalinga in the temple.",
   },
 ];
 
 const Baidyanath = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
-
   return (
     <Layout
       title="Grishneshwar Jyotirlinga Temple - AstroSwarg"
@@ -383,25 +384,9 @@ const Baidyanath = () => {
             <b>Read About Other Jyotirlingas</b>
           </p>
           <Jyotirilinga12ButtonGrid />
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={GrishaneshwarFAQ} />
     </Layout>
   );
 };

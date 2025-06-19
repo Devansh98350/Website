@@ -1,8 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Jyotirilinga12ButtonGrid from "./commonJyotirilingaGrid";
 import Layout from "../../../../../Layout/Layout";
 import Breadcrumbs from "../../../../../Breadcrumb";
+import FAQLayout from "../../../../../Common/FaqLayout";
 
 const Container = styled.div`
   .body {
@@ -105,49 +106,49 @@ const ListItem = styled.li`
   margin-bottom: 10px;
 `;
 
-const faqs = [
+const BhimashankarFAQ = [
   {
-    question: "What is special about Bhimashankar temple?",
-    answer:
+    id: 1,
+    title: "What is special about Bhimashankar temple?",
+    content:
       "The temple’s rich history and Nagara-style architecture make Bhimshankar temple special. Additionally, the Shivalinga is called ‘Swyambhu’ and is believed to have emerged on its own.",
   },
   {
-    question: "Which demon was killed by Lord Shiva in Bhimashankarr?",
-    answer:
+    id: 2,
+    title: "Which demon was killed by Lord Shiva in Bhimashankarr?",
+    content:
       "Tripurasura, a mighty demon from the Treta Yuga, was killed by Lord Shiva in Bhimashankar. Following the demon's defeat, the Hindu sages and gods requested Lord Shiva to remain in that very location as a Shiva linga.",
   },
   {
-    question: "What is Shiva called Bhimashankar?",
-    answer:
+    id: 3,
+    title: "What is Shiva called Bhimashankar?",
+    content:
       "The destroyer of evil forces, Lord Shiva, is called Bhimashankar as he destroyed the mighty demon Bhima. Upon the request of Hindu gods and sages, he manifested himself in the form of Shivalinga and resided there by the name of Bhimashankar.",
   },
   {
-    question: "How old is Bhimashankar temple Jyotirlinga?",
-    answer:
+    id: 4,
+    title: "How old is Bhimashankar temple Jyotirlinga?",
+    content:
       "The exact age of the Bhimashankar mandir is still unknown, but several ancient texts hint at the existence of the temple since Treta yuga. Shiva Purana also mentions the manifestation of Lord Shiva to destroy evil Tripurasura.",
   },
   {
-    question: "What are the benefits of visiting Bhimashankar mandir?",
-    answer:
+    id: 5,
+    title: "What are the benefits of visiting Bhimashankar mandir?",
+    content:
       "As per mythological beliefs, the one who visits and offers prayers at the holy Bhimashankar mandir removes his past sins and gets his desires fulfilled and freedom from enemies.",
   },
   {
-    question: "Where is Bhimashankar Mandir located?",
-    answer:
+    id: 6,
+    title: "Where is Bhimashankar Mandir located?",
+    content:
       "The Bhimashankar Temple is located in the Sahyadri hills of Bhorgiri, Pune district, Maharashtra. The temple is one of the five Jyotirlingas of Maharashtra, known as Pancha Jyotirlingas.",
   },
 ];
 
 const Bhimashankar = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
-
   return (
     <Layout
       title="Bhimashankar Jyotirlinga Temple - AstroSwarg"
@@ -303,25 +304,9 @@ const Bhimashankar = () => {
             </ListItem>
           </UnorderedList>
           <Jyotirilinga12ButtonGrid />
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={BhimashankarFAQ} />
     </Layout>
   );
 };

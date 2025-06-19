@@ -1,8 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Jyotirilinga12ButtonGrid from "./commonJyotirilingaGrid";
 import Breadcrumbs from "../../../../../Breadcrumb";
 import Layout from "../../../../../Layout/Layout";
+import FAQLayout from "../../../../../Common/FaqLayout";
 
 const Container = styled.div`
   .body {
@@ -105,49 +106,49 @@ const ListItem = styled.li`
   margin-bottom: 10px;
 `;
 
-const faqs = [
+const KedarnathFAQ = [
   {
-    question: "Where is the Kedarnath Jyotirlinga located?",
-    answer:
+    id: 1,
+    title: "Where is the Kedarnath Jyotirlinga located?",
+    content:
       "The Kedarnath Jyotirlinga is said to be located in the Rudraprayag district of Uttrakhand. The temple is situated in the Gangotri Group of peaks in the western Garhwal Himalayas",
   },
   {
-    question: "Who built kedarnath temple?",
-    answer:
+    id: 2,
+    title: "Who built kedarnath temple?",
+    content:
       "The Kedarnath temple was originally built by the Pandavas after the Kurukshetra war to seek forgiveness. However, later, the temple was restored in the 8th century A.D. by Adi Shankaracharya.",
   },
   {
-    question: "How old is the kedarnath Temple?",
-    answer:
+    id: 3,
+    title: "How old is the kedarnath Temple?",
+    content:
       "The original date of the origin of Kedarnath temple is unknown. However, in the 8th century, Adi Shankaracharya rebuilt and restored the temple, making the current structure almost 1200 years old.",
   },
   {
-    question: "When is the best time to visit kedarnath temple?",
-    answer:
+    id: 4,
+    title: "When is the best time to visit kedarnath temple?",
+    content:
       "The best time to visit the Kedarnath temple is from the month of May until October, when the temple closes.",
   },
   {
-    question: "Kedarnath is associated with which zodiac sign?",
-    answer:
+    id: 5,
+    title: "Kedarnath is associated with which zodiac sign?",
+    content:
       "Kedarnath temple is believed to benefit the people of the Aquarius zodiac sign because of its association with Aquarius rashi.",
   },
   {
-    question: "What is kedarnath associated planet?",
-    answer:
+    id: 6,
+    title: "What is kedarnath associated planet?",
+    content:
       "Planet Rahu is the planet that is associated with the Kedarthan Jyotirlinga Temple. It is believed that visiting Kedarnath can help one get rid of the negative effects of Rahu in one’s life.",
   },
 ];
 
 const Kedarnath = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
-
   return (
     <Layout
       title="Kedarnath Jyotirlinga Temple - AstroSwarg"
@@ -341,25 +342,9 @@ const Kedarnath = () => {
             <b>Read About Other Jyotirlingas</b>
           </p>
           <Jyotirilinga12ButtonGrid />
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={KedarnathFAQ} />
     </Layout>
   );
 };

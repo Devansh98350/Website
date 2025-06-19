@@ -1,8 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Jyotirilinga12ButtonGrid from "./commonJyotirilingaGrid";
 import Layout from "../../../../../Layout/Layout";
 import Breadcrumbs from "../../../../../Breadcrumb";
+import FAQLayout from "../../../../../Common/FaqLayout";
 
 const Container = styled.div`
   .body {
@@ -105,49 +106,49 @@ const ListItem = styled.li`
   margin-bottom: 10px;
 `;
 
-const faqs = [
+const NageshawarFAQ = [
   {
-    question: "What is the manifestation of Lord Shiva in Nageshwar temple?",
-    answer:
+    id: 1,
+    title: "What is the manifestation of Lord Shiva in Nageshwar temple?",
+    content:
       "Lord Shiva and his consort, Goddess Parvati, are said to appear in the form of snakes in the holy Nageshwar temple.",
   },
   {
-    question: "Where is Nageshwar Jyotirlinga?",
-    answer:
+    id: 2,
+    title: "Where is Nageshwar Jyotirlinga?",
+    content:
       "The tenth in the sequence, the holy Nageshawar Jyotirlinga temple, is located in Daarukavanam, Gujarat. It is situated on the Saurashtra coast between the Dwarka city and the Beyt Dwarka island.",
   },
   {
-    question: "What are the benefits of visiting Shri Nageshwar Jyotirlinga?",
-    answer:
+    id: 3,
+    title: "What are the benefits of visiting Shri Nageshwar Jyotirlinga?",
+    content:
       "According to mythological and religious beliefs, devotees who visit the holy shrine and offer prayers to Lord Shiva are free from poison (physical and spiritual). They are under the protection of Lord Shiva, the ultimate protector, and live a peaceful and fear-free life.",
   },
   {
-    question: "Why is Lord Shiva called Nageshwar?",
-    answer:
+    id: 4,
+    title: "Why is Lord Shiva called Nageshwar?",
+    content:
       "Lord Shiva, the destroyer of evil forces, is depicted wearing a snake around his neck. Thus, he is called Nageshwar, the ‘Lord of the Snakes’.",
   },
   {
-    question: "When was Nageshwar Jyotirlinga temple built?",
-    answer:
+    id: 5,
+    title: "When was Nageshwar Jyotirlinga temple built?",
+    content:
       "Mythological beliefs, the Nageshwar Jyotirlinga history dates back to the Mahabharata era. The Pandavas were believed to have built the temple for the first time during their exile period. However, some claims that it was built by Lord Krishna’s grandson.",
   },
   {
-    question: "Is the Nageshwar temple a Jyotirlinga located in the west?",
-    answer:
+    id: 6,
+    title: "Is the Nageshwar temple a Jyotirlinga located in the west?",
+    content:
       "Yes, the Nageshwar Mahadev temple is one of the two Jyotirlingas on the west side. The other is the Somnath temple, which is located in Veraval, Gujarat.",
   },
 ];
 
 const Nageshwar = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
-
   return (
     <Layout
       title="Shri Nageshwar Jyotirlinga Temple - AstroSwarg"
@@ -326,25 +327,9 @@ const Nageshwar = () => {
             <b>Read About Other Jyotirlingas</b>
           </p>
           <Jyotirilinga12ButtonGrid />
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={NageshawarFAQ} />
     </Layout>
   );
 };

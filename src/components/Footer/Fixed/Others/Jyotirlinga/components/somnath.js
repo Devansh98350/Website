@@ -1,8 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Jyotirilinga12ButtonGrid from "./commonJyotirilingaGrid";
 import Layout from "../../../../../Layout/Layout";
 import Breadcrumbs from "../../../../../Breadcrumb";
+import FAQLayout from "../../../../../Common/FaqLayout";
 
 const Container = styled.div`
   .body {
@@ -104,49 +105,49 @@ const UnorderedList = styled.ul`
 const ListItem = styled.li`
   margin-bottom: 10px;
 `;
-const faqs = [
+const SomnathFAQ = [
   {
-    question: "Where is Somnath Temple situated?",
-    answer:
+    id: 1,
+    title: "Where is Somnath Temple situated?",
+    content:
       "The very first Jyotirlinga, Somnath mandir is located in Prabhas Patan, Veraval, Gujarat, on the western coast of India. The temple is situated at the confluence of three rivers: Kapila, Harina, and the mythical Saraswati.",
   },
   {
-    question: "Who built Somnath Temple ?",
-    answer:
+    id: 2,
+    title: "Who built Somnath Temple ?",
+    content:
       "According to mythological beliefs, Lord Somaraj was the first to build the Somnath temple. Later, various dynasties, such as the Yadavas and Chalukyas, built it. Even the government of India, under Sardar Patel, contributed to the reconstruction of the sacred temple.",
   },
   {
-    question: "How many times Somnath temple was destroyed?",
-    answer:
+    id: 3,
+    title: "How many times Somnath temple was destroyed?",
+    content:
       "The holy Somnath temple was destroyed by Muslim invaders Mahmud Ghazni, Alauddin Khilji and Aurangzeb six times. Ghazni’s attack was more destroyable than all the attacks on Somnath temple since he had done that 17 times.",
   },
   {
-    question: "Somnath Temple built by which dynasty?",
-    answer:
+    id: 4,
+    title: "Somnath Temple built by which dynasty?",
+    content:
       "The original temple is believed to have been built by the Yadava dynasty first in 649 CE. After him, Gurjara-Parihara, Chalukyas and Solankis rebuilt the temple in their dynasties.",
   },
   {
-    question: "What are the benefits of visiting Somnath?",
-    answer:
+    id: 5,
+    title: "What are the benefits of visiting Somnath?",
+    content:
       "Devotees believe that visiting and praying at the Somnath Jyotirlinga temple removes their bad karmic deeds and brings inner peace and satisfaction. Those who offer prayers at this temple with full sincerity get Lord Shiva’s blessings.",
   },
   {
-    question: "Why is Lord Shiva called Somnath?",
-    answer:
+    id: 6,
+    title: "Why is Lord Shiva called Somnath?",
+    content:
       "Lord Shiva, the protector of the universe, is called Somnath because he freed the Lord Moon from a curse and restored his glow and radiance. The word ‘Somnath’ translates to the ‘Lord of the Moon’.",
   },
 ];
 
 const Somnath = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
-
   return (
     <Layout
       title="Somnath Jyotirlinga Temple - AstroSwarg"
@@ -313,25 +314,9 @@ const Somnath = () => {
             <b>Read About Other Jyotirlingas</b>
           </p>
           <Jyotirilinga12ButtonGrid />
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={SomnathFAQ} />
     </Layout>
   );
 };

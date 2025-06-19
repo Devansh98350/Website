@@ -1,8 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Jyotirilinga12ButtonGrid from "./commonJyotirilingaGrid";
 import Layout from "../../../../../Layout/Layout";
 import Breadcrumbs from "../../../../../Breadcrumb";
+import FAQLayout from "../../../../../Common/FaqLayout";
 
 const Container = styled.div`
   .body {
@@ -105,50 +106,49 @@ const ListItem = styled.li`
   margin-bottom: 10px;
 `;
 
-const faqs = [
+const MalikarjunaFAQ = [
   {
-    question: "Why is Mallikarjuna Jyotirlinga famous?",
-    answer:
+    id: 1,
+    title: "Why is Mallikarjuna Jyotirlinga famous?",
+    content:
       "The Sri Mallikarjuna Swamy Devasthanam temple is the only one with a Jyotirlinga and Shakti Peetha together. Connected to Patal Ganga (Krishna river), praying here offers immense wealth, fame and peace of mind.",
   },
   {
-    question: "Where is Mallikarjuna Jyotirlinga?",
-    answer:
+    id: 2,
+    title: "Where is Mallikarjuna Jyotirlinga?",
+    content:
       "Mallikaarjuna is a jyotirlinga near Hyderabad, found in the Nallamalla ranges of Andhra Pradesh. It is located precisely in Srisailum of Kurnool district.",
   },
   {
-    question: "How did all Four Yugas see the Mallikarjuna Jyotiriinga?",
-    answer:
+    id: 3,
+    title: "How did all Four Yugas see the Mallikarjuna Jyotiriinga?",
+    content:
       "Lord Narasimha visited the temple in Satayuga. Lord Rama and Goddess Sita saw the temple during their Vanvaas in Treta Yuga. Dwapar Yuga saw Pandavas and Draupadi worshipping there, while Kalyuga (today) continues to see it.",
   },
   {
-    question: "Can we touch Shivling Srisailam?",
-    answer:
+    id: 4,
+    title: "Can we touch Shivling Srisailam?",
+    content:
       "Yes, devotees can touch the Jyotirling at Mallikarjuna Jyotirlinga temple. They can do it during abhishekam (bathing ritual) and Sparsha darshan (touching feet ceremony).",
   },
   {
-    question:
-      "Why is Shri Mallikarjuna temple called the Kailash od the south?",
-    answer:
+    id: 5,
+    title: "Why is Shri Mallikarjuna temple called the Kailash od the south?",
+    content:
       "The Srisailam Temple history of the gods says that it was a second home to Lord Shiva and Devi Parvati as they settled down there to meet their upset son, Kartikeya, who vowed Brahmacharya (stay unmarried). That’s why it is called Kailash of the South.",
   },
   {
-    question: "How do i go to Mallikarjuna Jyotirlinga?",
-    answer:
+    id: 6,
+    title: "How do i go to Mallikarjuna Jyotirlinga?",
+    content:
       "Bus, Rail or Flight services can be taken to reach Mallikaarjuna Jyotirlinga, Andhra Pradesh. However, to reach the small town where it is situated, you may need local transportation.",
   },
 ];
 
 const Malikarjuna = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
-
   return (
     <Layout
       title="Mallikarjuna Jyotirlinga Temple - AstroSwarg"
@@ -329,25 +329,9 @@ const Malikarjuna = () => {
             <b>Read About Other Jyotirlingas</b>
           </p>
           <Jyotirilinga12ButtonGrid />
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={MalikarjunaFAQ} />
     </Layout>
   );
 };

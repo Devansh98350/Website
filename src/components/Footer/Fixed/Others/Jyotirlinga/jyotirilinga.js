@@ -1,8 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Jyotirilinga12ButtonGrid from "./components/commonJyotirilingaGrid";
 import Layout from "../../../../Layout/Layout";
 import Breadcrumbs from "../../../../Breadcrumb";
+import FAQLayout from "../../../../Common/FaqLayout";
 
 const Container = styled.div`
   .body {
@@ -104,48 +105,49 @@ const UnorderedList = styled.ul`
 const ListItem = styled.li`
   margin-bottom: 10px;
 `;
-const faqs = [
+const JyotirilingaFAQ = [
   {
-    question: "What are the 12 Jyotirlingas Shiva?",
-    answer:
+    id: 1,
+    title: "What are the 12 Jyotirlingas Shiva?",
+    content:
       "The 12 Jyotirlingas are Somnath, Mallikarjuna, Mahakaleshwara, Omkareshwara, Kedarnath, Bheemashankar, Kashi Vishwanath, Tryambakeshwar, Vaidyanath, Nageshwar, Rameshwaram, and Ghrishneshwar.",
   },
   {
-    question: "What are the 12 Jyotrilinga name with state order?",
-    answer:
+    id: 2,
+    title: "What are the 12 Jyotrilinga name with state order?",
+    content:
       "The 12 Jyotirlingas order is Somnath in Gujarat, Mallikarjuna in Andhra Pradesh, Mahakaleshwara in Madhya Pradesh, Omkareshwara in Madhya Pradesh, Kedarnath in Uttarakhand, Bheemashankar in Maharastra, Kashi Vishwanath in Uttar Pradesh, Tryambakeshwar in Mahatrastra, Vaidyanath in Jharkhand, Nageshwar in Gujarat, Rameshwaram in Tamil Nadu, and Ghrishneshwar in Maharastra.",
   },
   {
-    question: "What is the last Jyotirlinga?",
-    answer:
+    id: 3,
+    title: "What is the last Jyotirlinga?",
+    content:
       "The last Jyotirlinga is the Ghrishneshwar Jyotirling, situated in Aurangabad, Maharashtra.",
   },
   {
-    question: "How many Jyotirlinga in India?",
-    answer:
+    id: 4,
+    title: "How many Jyotirlinga in India?",
+    content:
       "In India, there are a total of 64 Jyotirlingas; however, 12 of them are believed to have majestic powers.",
   },
   {
-    question: "Which Jyotirlingas are considered diffcult to visit?",
-    answer:
+    id: 5,
+    title: "Which Jyotirlingas are considered diffcult to visit?",
+    content:
       "The Jyotirlingas considered difficult ot visit include Bhimashankar, Trimbakeshwar, Mallikarjuna, and Kedarnath.",
   },
   {
-    question: "Which Jyotirlingas are in a straight line",
-    answer:
+    id: 6,
+    title: "Which Jyotirlingas are in a straight line",
+    content:
       "The Kedarnath, Kaleshwaram, Kalahasti, Akhaseshwar, Chidambaram and Rameswaram Jyotirlinga are in a straight line on the map.",
   },
 ];
 
 const Jyotirilinga = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
   return (
     <Layout
       title="12 Jyotirlinga Temples - AstroSwarg"
@@ -525,25 +527,9 @@ const Jyotirilinga = () => {
               Shiva.
             </ListItem>
           </UnorderedList>
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={JyotirilingaFAQ} />
     </Layout>
   );
 };

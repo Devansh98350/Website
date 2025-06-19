@@ -1,8 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Jyotirilinga12ButtonGrid from "./commonJyotirilingaGrid";
 import Breadcrumbs from "../../../../../Breadcrumb";
 import Layout from "../../../../../Layout/Layout";
+import FAQLayout from "../../../../../Common/FaqLayout";
 
 const Container = styled.div`
   .body {
@@ -105,49 +106,49 @@ const ListItem = styled.li`
   margin-bottom: 10px;
 `;
 
-const faqs = [
+const BaidyanathFAQ = [
   {
-    question: "In Which city is the Baidyanath Jyotrilinga Teemple?",
-    answer:
+    id: 1,
+    title: "In Which city is the Baidyanath Jyotrilinga Teemple?",
+    content:
       "The Baidyanath Temple is in Deoghar, Jharkhand. It is also known as Baidyanath Dham and Babadham.",
   },
   {
-    question: "What is the best time to visit Babadham?",
-    answer:
+    id: 2,
+    title: "What is the best time to visit Babadham?",
+    content:
       "The best time to visit the Jyotirlinga temple in Deoghar is from October to March when temperatures range between 10 and 25 degrees Celsius.",
   },
   {
-    question: "In which Yuga did the Vaiudyananth temple originate?",
-    answer:
+    id: 3,
+    title: "In which Yuga did the Vaiudyananth temple originate?",
+    content:
       "The Jyotirlinga temple in Jharkhand is said to have originated during the Satya Yuga. Lord Shiva is believed to have self-manifested as a Lingam here.",
   },
   {
-    question: "How old is Baba Baidyanath Mandir?",
-    answer:
+    id: 4,
+    title: "How old is Baba Baidyanath Mandir?",
+    content:
       "The Vaidyanath Dham was built in the 8th century. However, the temple's renovation work has expanded over the centuries.",
   },
   {
-    question: "Which well is sacred at Baba Baidyanath Temple?",
-    answer:
+    id: 5,
+    title: "Which well is sacred at Baba Baidyanath Temple?",
+    content:
       "The Chandrakoopa is a famous well located at the temple's courtyard's main entrance. People can use its water to offer it to Lord Shiva.",
   },
   {
-    question: "What is the Shivganaga Pond at Deoghar Jharkhand??",
-    answer:
+    id: 6,
+    title: "What is the Shivganaga Pond at Deoghar Jharkhand??",
+    content:
       "The Shivganga pond is a sacred water source at Vaidyanath Mandir in Jharkhand. Ravana pressed his thumb into the earth to get water as there was no water source in the temple.",
   },
 ];
 
 const Baidyanath = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
-
   return (
     <Layout
       title="Baidyanath Jyotirlinga Temple - AstroSwarg"
@@ -364,25 +365,9 @@ const Baidyanath = () => {
             <b>Read About Other Jyotirlingas</b>
           </p>
           <Jyotirilinga12ButtonGrid />
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={BaidyanathFAQ} />
     </Layout>
   );
 };

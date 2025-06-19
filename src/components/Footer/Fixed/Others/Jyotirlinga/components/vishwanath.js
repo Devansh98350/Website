@@ -1,8 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Jyotirilinga12ButtonGrid from "./commonJyotirilingaGrid";
 import Layout from "../../../../../Layout/Layout";
 import Breadcrumbs from "../../../../../Breadcrumb";
+import FAQLayout from "../../../../../Common/FaqLayout";
 
 const Container = styled.div`
   .body {
@@ -105,49 +106,49 @@ const ListItem = styled.li`
   margin-bottom: 10px;
 `;
 
-const faqs = [
+const VishwanathFAQ = [
   {
-    question: "Why is Kashi Vishwanath Jyotirlinga special?",
-    answer:
+    id: 1,
+    title: "Why is Kashi Vishwanath Jyotirlinga special?",
+    content:
       "Kashi Vishwanath is one of the twelve Jyotirlingas, regarded as Lord Shiva's holiest home. A visit to this temple is believed to grant liberation from the cycle of birth and death. Many people in their old age wish to spend their last few days here.",
   },
   {
-    question: "Where is Kashi Vishwanath Jytotirlinga?",
-    answer:
+    id: 2,
+    title: "Where is Kashi Vishwanath Jytotirlinga?",
+    content:
       "The Shri Kashi Vishwanath temple is located in the holy city of Varanasi, Uttar Pradesh, on the western banks of the Ganges River. It is a temple complex where the Jyotirlinga is seated in the main temple.",
   },
   {
-    question: "What is unique about Kashi Vishwanath Jyotirlinga?",
-    answer:
+    id: 3,
+    title: "What is unique about Kashi Vishwanath Jyotirlinga?",
+    content:
       "The Varanasi Shiva temple Jyotirlinga is said to be a fiery pillar of light that broke the earth’s crust and flared to the heavens, declaring the supremacy of Lord Shiva. This is the only jyotirlinga that is believed to have witnessed the heavens.",
   },
   {
-    question: "Can we touch Shivling in Varanasi?",
-    answer:
+    id: 4,
+    title: "Can we touch Shivling in Varanasi?",
+    content:
       "Due to many incidents of people falling on the Argha–the base where the holy Shivling of Kashi Vishwanath Temple Varanasi is kept, it is only allowed to see the Jyotirlinga from outside. Earlier, a one-hour Sparsh darshan allowed it.",
   },
   {
-    question: "What is the mystery of Kashi Vishwanath temple?",
-    answer:
+    id: 5,
+    title: "What is the mystery of Kashi Vishwanath temple?",
+    content:
       "It has always been a mystery who built Kashi Vishwanath temple and who saw the Jyotirlinga first. But there are mentions of Raja Harishchandra in mythology as having housed the Jyotirlinga in the 11th century.",
   },
   {
-    question: "How do I go to Kashi Vishwanath temple Varanasi?",
-    answer:
+    id: 6,
+    title: "How do I go to Kashi Vishwanath temple Varanasi?",
+    content:
       "The Varanasi Shiva temple with the Jyotirlinga is well connected by road, rail, and air. The nearest airport is Lal Bahadur Shastri International Airport in Varanasi, and the nearest railway station is Varanasi Junction.",
   },
 ];
 
 const Vishwanath = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
-
   return (
     <Layout
       title="Kashi Vishwanath Jyotirlinga Temple - AstroSwarg"
@@ -351,25 +352,9 @@ const Vishwanath = () => {
             <b>Read About Other Jyotirlingas</b>
           </p>
           <Jyotirilinga12ButtonGrid />
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={VishwanathFAQ} />
     </Layout>
   );
 };

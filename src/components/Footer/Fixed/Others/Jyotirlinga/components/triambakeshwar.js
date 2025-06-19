@@ -1,8 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Jyotirilinga12ButtonGrid from "./commonJyotirilingaGrid";
 import Layout from "../../../../../Layout/Layout";
 import Breadcrumbs from "../../../../../Breadcrumb";
+import FAQLayout from "../../../../../Common/FaqLayout";
 
 const Container = styled.div`
   .body {
@@ -105,49 +106,49 @@ const ListItem = styled.li`
   margin-bottom: 10px;
 `;
 
-const faqs = [
+const TriambakeshwarFAQ = [
   {
-    question: "Who built the Trimbakeshwar temple?",
-    answer:
+    id: 1,
+    title: "Who built the Trimbakeshwar temple?",
+    content:
       "Trimbakeshwar Temple built by Peshwa Balaji Baji Rao (Nanasaheb), is a holy pilgrimage site in Nashik, Maharashtra. It is in the Brahmagiri Hills, which are covered with dense forest and the Godavari River.",
   },
   {
-    question: "Where are the benefits of visiting Trimbakeshwar Shiva temple?",
-    answer:
+    id: 2,
+    title: "Where are the benefits of visiting Trimbakeshwar Shiva temple?",
+    content:
       "Visiting trimbakeshwar temple and taking a holy dip in the Godavari river can help cleanse your sins, attain spiritual enlightenment, bring good health, and remove all the evil deeds from the devotees' lives.",
   },
   {
-    question: "Why is Trimbakeshwar Shiviling different?",
-    answer:
+    id: 3,
+    title: "Why is Trimbakeshwar Shiviling different?",
+    content:
       "One thing that makes the Shiva lingam in Trimbakeshar Jyotirlinga different is its three-eyed lingam, which represents Brahma, Vishnu and Mahesh.",
   },
   {
-    question:
-      "What is the source of the origin of the Godavari in Trimbakeshwar?",
-    answer:
+    id: 4,
+    title: "What is the source of the origin of the Godavari in Trimbakeshwar?",
+    content:
       "The Godavari River originates from the Brahmagiri Hills in Trimbakeshwar, where it flows from the Gangadwar cave, which is considered sacred due to its connection to Lord Shiva.",
   },
   {
-    question: "What are the special Poojas in Trimbakeshwar temple?",
-    answer:
+    id: 5,
+    title: "What are the special Poojas in Trimbakeshwar temple?",
+    content:
       "Some religious rituals performed in the Trimbakaeshwar Temple Nashik are Kaalasarp Puja, Narayan Nagabali Puja, Tripindi Shradh Puja, Mahamrityunjay Puja and Rudrabhisheka Puja.",
   },
   {
-    question: "What architectural features make Trimbakeshwar temple unique?",
-    answer:
+    id: 6,
+    title: "What architectural features make Trimbakeshwar temple unique?",
+    content:
       "As per the Trimbakeshwar temple history, this sacred temple is made of basalt black stone, which enhances its beauty and makes it look majestic and durable.",
   },
 ];
 
 const Triambakeshwar = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
   return (
     <Layout
       title="Trimbakeshwar Jyotirlinga Temple - AstroSwarg"
@@ -356,25 +357,9 @@ const Triambakeshwar = () => {
             <b>Read About Other Jyotirlingas</b>
           </p>
           <Jyotirilinga12ButtonGrid />
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={TriambakeshwarFAQ} />
     </Layout>
   );
 };

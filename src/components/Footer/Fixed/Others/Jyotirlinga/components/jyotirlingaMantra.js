@@ -1,8 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Jyotirilinga12ButtonGrid from "./commonJyotirilingaGrid";
 import Breadcrumbs from "../../../../../Breadcrumb";
 import Layout from "../../../../../Layout/Layout";
+import FAQLayout from "../../../../../Common/FaqLayout";
 
 const Container = styled.div`
   .body {
@@ -105,50 +106,50 @@ const ListItem = styled.li`
   margin-bottom: 10px;
 `;
 
-const faqs = [
+const JyotirilingaMantraFAQ = [
   {
-    question: "What is the significance of chanting the 12 jyotrlinga Mantra?",
-    answer:
+    id: 1,
+    title: "What is the significance of chanting the 12 jyotrlinga Mantra?",
+    content:
       "The blessings of the divine lights (Jyoti)-the 12 most sacred Shivlings, are said to fulfil all your desires, bring you immense peace, and liberate your soul. Chanting the 12 Jyotirling mantra helps you achieve that.",
   },
   {
-    question: "What is the best time to chant the 12 Jyotrlinga mantra?",
-    answer:
+    id: 2,
+    title: "What is the best time to chant the 12 Jyotrlinga mantra?",
+    content:
       "The best time to chant the Dwadash Jyotirling Mantra is during Brahma Muhurta (4-6 AM) for maximum spiritual energy. It can also be recited during Pradosh Kaal (evening time dedicated to Lord Shiva) or on Maha Shivaratri and other special occasions.",
   },
   {
-    question: "Can I chant the 12 Jyotrlinga Mantra daily?",
-    answer:
+    id: 3,
+    title: "Can I chant the 12 Jyotrlinga Mantra daily?",
+    content:
       "Yes, chanting the 12 Jyotirling Mantra daily brings positivity, protection, and spiritual upliftment. It removes negative energy and helps in achieving inner peace and divine blessings.",
   },
   {
-    question: "How many times should I chant the 12 Jyotrlinga Mantra?",
-    answer:
+    id: 4,
+    title: "How many times should I chant the 12 Jyotrlinga Mantra?",
+    content:
       "Each Jyotirlinga Mantra has specific chanting counts. However, if chanting the Single Mantra for All 12 Jyotirlingas (Laghu Stotram), it is recommended to chant 108 times in the morning or evening on Tuesdays.",
   },
   {
-    question: "Who can chant the 12 Jyotrlinga Mantra?",
-    answer:
+    id: 5,
+    title: "Who can chant the 12 Jyotrlinga Mantra?",
+    content:
       "Anyone can chant the 12 Jyotirlinga Mantra with faith and sincerity. There are no restrictions, but chanting with purity, devotion, and correct pronunciation is recommended. Now, also read the 12 Jyotirlinga mantra in English.",
   },
   {
-    question:
+    id: 6,
+    title:
       "Can I chant the 12 Jyotrlinga Mantra without visiting a Jyotriling?",
-    answer:
+    content:
       "Yes, you can chant the 12 Jyotirlinga Mantra without visiting a Jyotirlinga. While visiting a Jyotirlinga enhances the spiritual experience, chanting the mantra with devotion, faith, and purity from anywhere—be it home or a nearby temple—grants divine blessings.",
   },
 ];
 
 const JyotirilingaMantra = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
-
   return (
     <Layout
       title="12 Jyotirlinga Mantra - AstroSwarg"
@@ -789,25 +790,9 @@ const JyotirilingaMantra = () => {
             <b>Read About Other Jyotirlingas</b>
           </p>
           <Jyotirilinga12ButtonGrid />
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={JyotirilingaMantraFAQ} />
     </Layout>
   );
 };

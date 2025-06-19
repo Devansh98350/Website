@@ -1,8 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import Jyotirilinga12ButtonGrid from "./commonJyotirilingaGrid";
 import Layout from "../../../../../Layout/Layout";
 import Breadcrumbs from "../../../../../Breadcrumb";
+import FAQLayout from "../../../../../Common/FaqLayout";
 
 const Container = styled.div`
   .body {
@@ -105,49 +106,49 @@ const ListItem = styled.li`
   margin-bottom: 10px;
 `;
 
-const faqs = [
+const OmkareshawarFAQ = [
   {
-    question: "Which Rasi is Omkareshwar Jyotirlinga?",
-    answer:
+    id: 1,
+    title: "Which Rasi is Omkareshwar Jyotirlinga?",
+    content:
       "Zodiac Sign Cancer is related to the Omkreshwar Jyotirlinga and is located on Mandhata Island in the Khandwa District of Madhya Pradesh.",
   },
   {
-    question: "Where is unique about Omkarshwar?",
-    answer:
+    id: 2,
+    title: "Where is unique about Omkarshwar?",
+    content:
       "Omkareshwar Temple is situated on Mandhata island, in the shape of the holy 'Om.' This is also the home of the Shree Omkar Nath Mandir, the fourth among the 12 Jyotirlingas.",
   },
   {
-    question: "What is the best time to visit Omkareshwar?",
-    answer:
+    id: 3,
+    title: "What is the best time to visit Omkareshwar?",
+    content:
       "The best time to visit Omkareshwar Temple Jyotirlinga is from October to February.",
   },
   {
-    question: "Why rebuilt and restored the Omkareshwar Jyotirlinga Temple?",
-    answer:
+    id: 4,
+    title: "Why rebuilt and restored the Omkareshwar Jyotirlinga Temple?",
+    content:
       "Ahilya Bai Holkar rebuilt and restored the temple in the 19th century AD. Mehmud Gazni destroyed it in the 13th Century AD.",
   },
   {
-    question: "When two rivers meet at Omkareshwar?",
-    answer:
+    id: 5,
+    title: "When two rivers meet at Omkareshwar?",
+    content:
       "The Kaveri River meets the river Narmada in Omkareshwar, Madhya Pradesh.",
   },
   {
-    question: "How many steps are there in Omkareshwar Temple?",
-    answer:
+    id: 6,
+    title: "How many steps are there in Omkareshwar Temple?",
+    content:
       "To reach the temple, Devotees have to walk down about 50 steps. People say that without walking through the temple, the Yatra remains incomplete.",
   },
 ];
 
 const Omkareshwar = () => {
-  const [openIndex, setOpenIndex] = useState(null);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
-
   return (
     <Layout
       title="Omkareshwar Jyotirlinga Temple - AstroSwarg"
@@ -373,25 +374,9 @@ const Omkareshwar = () => {
             <b>Read About Other Jyotrilingas</b>
           </p>
           <Jyotirilinga12ButtonGrid />
-          <h2>Frequently Asked Questions</h2>
-          {faqs.map((faq, index) => (
-            <div className="faq-item" key={index}>
-              <div
-                className={`accordion ${openIndex === index ? "open" : ""}`}
-                onClick={() => toggleFAQ(index)}
-              >
-                <span>{faq.question}</span>
-                <span className="accordion-icon">
-                  {openIndex === index ? "-" : "+"}
-                </span>
-              </div>
-              <div className={`panel ${openIndex === index ? "open" : ""}`}>
-                {faq.answer}
-              </div>
-            </div>
-          ))}
         </div>
       </Container>
+      <FAQLayout faqData={OmkareshawarFAQ} />
     </Layout>
   );
 };
